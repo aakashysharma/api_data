@@ -1,0 +1,42 @@
+[
+  {
+    "utdanningsprogram_kode": "BA",
+    "name": "Bygg- og anleggsteknikk"
+  },
+  {
+    "utdanningsprogram_kode": "EL",
+    "name": "Elektro og datateknologi"
+  },
+  {
+    "utdanningsprogram_kode": "FD",
+    "name": "Fris\u00f8r, blomster, interi\u00f8r og eksponeringsdesign"
+  },
+  {
+    "utdanningsprogram_kode": "HS",
+    "name": "Helse- og oppvekstfag"
+  },
+  {
+    "utdanningsprogram_kode": "DT",
+    "name": "H\u00e5ndverk, design og produktutvikling"
+  },
+  {
+    "utdanningsprogram_kode": "IM",
+    "name": "Informasjonsteknologi og medieproduksjon"
+  },
+  {
+    "utdanningsprogram_kode": "NA",
+    "name": "Naturbruk"
+  },
+  {
+    "utdanningsprogram_kode": "RM",
+    "name": "Restaurant- og matfag"
+  },
+  {
+    "utdanningsprogram_kode": "SR",
+    "name": "Salg, service og reiseliv"
+  },
+  {
+    "utdanningsprogram_kode": "TP",
+    "name": "Teknologi- og industrifag"
+  }
+]

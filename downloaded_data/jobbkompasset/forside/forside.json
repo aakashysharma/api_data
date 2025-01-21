@@ -1,0 +1,680 @@
+{
+  "@context": "/contexts/Forside",
+  "@id": "/jobbkompasset/forside",
+  "@type": "hydra:Collection",
+  "hydra:totalItems": 4,
+  "hydra:member": [
+    {
+      "@id": "/forsides/Design,_kultur,_sport_og_reiseliv",
+      "@type": "Forside",
+      "id": "Design,_kultur,_sport_og_reiseliv",
+      "tema": "Design, kultur, sport og reiseliv",
+      "kategori": [
+        {
+          "@type": "ForsideKategori",
+          "@id": "/.well-known/genid/d316e9d601e39a3038f4",
+          "id": "Design,_kunst_og_h\u00e5ndverk",
+          "kategori": "Design, kunst og h\u00e5ndverk",
+          "interesse": [
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/d6f1007494898cdedf37",
+              "id": "H\u00e5ndverk",
+              "interesse": "H\u00e5ndverk"
+            },
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/ae281ed3ad3eb384def1",
+              "id": "Design",
+              "interesse": "Design"
+            },
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/2fcd15b46b39496bc9c6",
+              "id": "Kunst",
+              "interesse": "Kunst"
+            },
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/a0d86acabf116d454a36",
+              "id": "Medier",
+              "interesse": "Medier"
+            }
+          ]
+        },
+        {
+          "@type": "ForsideKategori",
+          "@id": "/.well-known/genid/78879f7b81b9c544b6a5",
+          "id": "Film,_teater_og_musikk",
+          "kategori": "Film, teater og musikk",
+          "interesse": [
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/84fe80196208eb96bcf5",
+              "id": "Kultur",
+              "interesse": "Kultur"
+            },
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/eb6886a0a75afd27b35d",
+              "id": "Musikk",
+              "interesse": "Musikk"
+            },
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/fd6f80dfb6c7873f6158",
+              "id": "Kunst",
+              "interesse": "Kunst"
+            },
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/f9307b705abcb3afe529",
+              "id": "Samfunn",
+              "interesse": "Samfunn"
+            }
+          ]
+        },
+        {
+          "@type": "ForsideKategori",
+          "@id": "/.well-known/genid/cc466b974066c8869853",
+          "id": "Kultur_og_idrett",
+          "kategori": "Kultur og idrett",
+          "interesse": [
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/3b5ad7cf63679f3826ab",
+              "id": "Kultur",
+              "interesse": "Kultur"
+            },
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/e1864e3b9c6789abeb09",
+              "id": "Idrett",
+              "interesse": "Idrett"
+            },
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/3ac94fc1315738e6bac3",
+              "id": "Religion",
+              "interesse": "Religion"
+            },
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/2f0c3bec5a6e99344ec8",
+              "id": "Kommunikasjon",
+              "interesse": "Kommunikasjon"
+            }
+          ]
+        },
+        {
+          "@type": "ForsideKategori",
+          "@id": "/.well-known/genid/0fa571974dbcc06bae55",
+          "id": "Medier,_spr\u00e5k_og_kommunikasjon",
+          "kategori": "Medier, spr\u00e5k og kommunikasjon",
+          "interesse": [
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/b7332c092ccbff0a723b",
+              "id": "Kultur",
+              "interesse": "Kultur"
+            },
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/01e7d325f1116fa8a3eb",
+              "id": "Medier",
+              "interesse": "Medier"
+            },
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/80eb5aadcdcdbcfe23b6",
+              "id": "Spr\u00e5k",
+              "interesse": "Spr\u00e5k"
+            },
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/f86afa1f4faf4a40fda9",
+              "id": "Kommunikasjon",
+              "interesse": "Kommunikasjon"
+            }
+          ]
+        },
+        {
+          "@type": "ForsideKategori",
+          "@id": "/.well-known/genid/f3b6d2cad4deca9e44f3",
+          "id": "Reiseliv_og_utland",
+          "kategori": "Reiseliv og utland",
+          "interesse": [
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/3c87eeb65bbcc5229b13",
+              "id": "Samfunn",
+              "interesse": "Samfunn"
+            },
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/78ced3de01f0bb07c26a",
+              "id": "Reise",
+              "interesse": "Reise"
+            },
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/225b53a701acd441232f",
+              "id": "Kultur",
+              "interesse": "Kultur"
+            },
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/c403697b13fd29c8fa56",
+              "id": "Spr\u00e5k",
+              "interesse": "Spr\u00e5k"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "/forsides/Industri,_elektronikk,_transport_og_sikkerhet",
+      "@type": "Forside",
+      "id": "Industri,_elektronikk,_transport_og_sikkerhet",
+      "tema": "Industri, elektronikk, transport og sikkerhet",
+      "kategori": [
+        {
+          "@type": "ForsideKategori",
+          "@id": "/.well-known/genid/4a14381d02ae772269ec",
+          "id": "Industri,_bygg_og_anlegg",
+          "kategori": "Industri, bygg og anlegg",
+          "interesse": [
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/ae81bc3456ce107c48c0",
+              "id": "Bygg_og_anlegg",
+              "interesse": "Bygg og anlegg"
+            },
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/cb5c520fd7825359a036",
+              "id": "H\u00e5ndverk",
+              "interesse": "H\u00e5ndverk"
+            },
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/1304d0de16ea274ab3e5",
+              "id": "Teknologi",
+              "interesse": "Teknologi"
+            },
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/bbe39e1005463808a9ea",
+              "id": "Elektronikk",
+              "interesse": "Elektronikk"
+            }
+          ]
+        },
+        {
+          "@type": "ForsideKategori",
+          "@id": "/.well-known/genid/c65896ea2b44455f3e2f",
+          "id": "Mekanikk,_teknikk_og_elektronikk",
+          "kategori": "Mekanikk, teknikk og elektronikk",
+          "interesse": [
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/9aac313a69f5b2d5c785",
+              "id": "Mekanikk",
+              "interesse": "Mekanikk"
+            },
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/20bdb4b8ccc4e5b64c45",
+              "id": "Elektronikk",
+              "interesse": "Elektronikk"
+            },
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/00d49128cfc2af899c0d",
+              "id": "Service",
+              "interesse": "Service"
+            },
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/7cf322de84416a748638",
+              "id": "Ingeni\u00f8r",
+              "interesse": "Ingeni\u00f8r"
+            }
+          ]
+        },
+        {
+          "@type": "ForsideKategori",
+          "@id": "/.well-known/genid/9f75dd08105d00e0b453",
+          "id": "Transport_og_sj\u00f8fart",
+          "kategori": "Transport og sj\u00f8fart",
+          "interesse": [
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/07d9a97b931ead79b758",
+              "id": "Marint_og_maritimt",
+              "interesse": "Marint og maritimt"
+            },
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/b142bacd79549029a260",
+              "id": "Transport",
+              "interesse": "Transport"
+            },
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/a0502292a1dcdf38dc55",
+              "id": "Service",
+              "interesse": "Service"
+            },
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/b1bac8bf9d662880dad5",
+              "id": "Mekanikk",
+              "interesse": "Mekanikk"
+            }
+          ]
+        },
+        {
+          "@type": "ForsideKategori",
+          "@id": "/.well-known/genid/207da82eed67d1783397",
+          "id": "Olje,_gass_og_energi",
+          "kategori": "Olje, gass og energi",
+          "interesse": [
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/6a01a5ba3d97e3df56b6",
+              "id": "Olje_og_gass",
+              "interesse": "Olje og gass"
+            },
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/8b7b6a5bfc37f512b1ac",
+              "id": "Teknologi",
+              "interesse": "Teknologi"
+            },
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/99e3e63c55b1e79db1fb",
+              "id": "Service",
+              "interesse": "Service"
+            },
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/445f37cee589c703eda5",
+              "id": "H\u00e5ndverk",
+              "interesse": "H\u00e5ndverk"
+            }
+          ]
+        },
+        {
+          "@type": "ForsideKategori",
+          "@id": "/.well-known/genid/91ca8df25b94e05906b7",
+          "id": "Forsvar_og_sikkerhet",
+          "kategori": "Forsvar og sikkerhet",
+          "interesse": [
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/3204e0a0f0908fbfbbb5",
+              "id": "Transport",
+              "interesse": "Transport"
+            },
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/b3d76b04e233db4b3a30",
+              "id": "Lov_og_orden",
+              "interesse": "Lov og orden"
+            },
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/38c028c35b6dd9da504e",
+              "id": "Sikkerhet",
+              "interesse": "Sikkerhet"
+            },
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/ce1380c4ff435cece017",
+              "id": "Service",
+              "interesse": "Service"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "/forsides/Mennesker,_helse,_mat_og_natur",
+      "@type": "Forside",
+      "id": "Mennesker,_helse,_mat_og_natur",
+      "tema": "Mennesker, helse, mat og natur",
+      "kategori": [
+        {
+          "@type": "ForsideKategori",
+          "@id": "/.well-known/genid/3e0d9f636bd8738434a3",
+          "id": "Mennesker",
+          "kategori": "Mennesker",
+          "interesse": [
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/036f41641fbd24a51ea2",
+              "id": "Helse",
+              "interesse": "Helse"
+            },
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/765daf7671dfd09e9a14",
+              "id": "Undervisning",
+              "interesse": "Undervisning"
+            },
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/c9228ae65ebb22ec5699",
+              "id": "Barn",
+              "interesse": "Barn"
+            },
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/65b044db4c36689e16f1",
+              "id": "Religion",
+              "interesse": "Religion"
+            }
+          ]
+        },
+        {
+          "@type": "ForsideKategori",
+          "@id": "/.well-known/genid/2ddf0baa19c932f4b5c7",
+          "id": "Helse_og_velv\u00e6re",
+          "kategori": "Helse og velv\u00e6re",
+          "interesse": [
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/0ce0863f8c8e59589b79",
+              "id": "Medisin",
+              "interesse": "Medisin"
+            },
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/9656a04a531a48540bdd",
+              "id": "Terapi",
+              "interesse": "Terapi"
+            },
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/9243275073a55c309664",
+              "id": "Pleie",
+              "interesse": "Pleie"
+            },
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/a5fcf5d6321f903fc9ca",
+              "id": "Service",
+              "interesse": "Service"
+            }
+          ]
+        },
+        {
+          "@type": "ForsideKategori",
+          "@id": "/.well-known/genid/72d987b7e6354f6bdf1a",
+          "id": "Natur,_dyr_og_planter",
+          "kategori": "Natur, dyr og planter",
+          "interesse": [
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/3f2a50d29b8af4dd29f5",
+              "id": "Natur",
+              "interesse": "Natur"
+            },
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/48e0befae090375ece0e",
+              "id": "Dyr",
+              "interesse": "Dyr"
+            },
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/7a42c796814ae5a02169",
+              "id": "Forskning",
+              "interesse": "Forskning"
+            },
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/881bef4142eafae02bca",
+              "id": "Landbruk",
+              "interesse": "Landbruk"
+            }
+          ]
+        },
+        {
+          "@type": "ForsideKategori",
+          "@id": "/.well-known/genid/4f0c43104dbd3bd6487c",
+          "id": "Mat_og_ern\u00e6ring",
+          "kategori": "Mat og ern\u00e6ring",
+          "interesse": [
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/59454fb03b75f44964c9",
+              "id": "Mat",
+              "interesse": "Mat"
+            },
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/640d1df9cb112221102f",
+              "id": "Handel",
+              "interesse": "Handel"
+            },
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/b626a5ac585b2e8bdb95",
+              "id": "Service",
+              "interesse": "Service"
+            },
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/c0840cab18cb404a8fd7",
+              "id": "Helse",
+              "interesse": "Helse"
+            }
+          ]
+        },
+        {
+          "@type": "ForsideKategori",
+          "@id": "/.well-known/genid/558566f7bb22a9f79522",
+          "id": "Landbruk,_fiskeri_og_havbruk",
+          "kategori": "Landbruk, fiskeri og havbruk",
+          "interesse": [
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/97ad156ed2fec56bb229",
+              "id": "Landbruk",
+              "interesse": "Landbruk"
+            },
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/3870674d83cf750140d2",
+              "id": "Marint_og_maritimt",
+              "interesse": "Marint og maritimt"
+            },
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/7972a8c9713194a8b58d",
+              "id": "Dyr",
+              "interesse": "Dyr"
+            },
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/c603fbfdb35e21936e9d",
+              "id": "Transport",
+              "interesse": "Transport"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "/forsides/Teknologi,_samfunn,_handel_og_%C3%B8konomi",
+      "@type": "Forside",
+      "id": "Teknologi,_samfunn,_handel_og_\u00f8konomi",
+      "tema": "Teknologi, samfunn, handel og \u00f8konomi",
+      "kategori": [
+        {
+          "@type": "ForsideKategori",
+          "@id": "/.well-known/genid/72d44c6747fc313f28ad",
+          "id": "Handel_og_service",
+          "kategori": "Handel og service",
+          "interesse": [
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/30dae64ebfac557d9e51",
+              "id": "Service",
+              "interesse": "Service"
+            },
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/b43112c34f874ce62582",
+              "id": "Handel",
+              "interesse": "Handel"
+            },
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/cdc679d33932bacb5778",
+              "id": "Finans",
+              "interesse": "Finans"
+            },
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/997663dd5f6bfea5ff27",
+              "id": "Transport",
+              "interesse": "Transport"
+            }
+          ]
+        },
+        {
+          "@type": "ForsideKategori",
+          "@id": "/.well-known/genid/79555c3f019bf65975e3",
+          "id": "Samfunn_og_forvaltning",
+          "kategori": "Samfunn og forvaltning",
+          "interesse": [
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/a2924695e51670ed7f85",
+              "id": "Samfunn",
+              "interesse": "Samfunn"
+            },
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/dc5f8c73299fb799c87b",
+              "id": "Lov_og_orden",
+              "interesse": "Lov og orden"
+            },
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/7aba2d7d27a1d4af83ce",
+              "id": "Religion",
+              "interesse": "Religion"
+            },
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/24e85bfe0efc099ec49d",
+              "id": "Historie",
+              "interesse": "Historie"
+            }
+          ]
+        },
+        {
+          "@type": "ForsideKategori",
+          "@id": "/.well-known/genid/4de11d73e3efc775970c",
+          "id": "\u00d8konomi,_kontor_og_administrasjon",
+          "kategori": "\u00d8konomi, kontor og administrasjon",
+          "interesse": [
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/74fd003965f4467f5d2e",
+              "id": "Service",
+              "interesse": "Service"
+            },
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/14a0cc828bd0ed2137df",
+              "id": "\u00d8konomi",
+              "interesse": "\u00d8konomi"
+            },
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/1c76afac784e3e08bb06",
+              "id": "Finans",
+              "interesse": "Finans"
+            },
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/0f97f422ca30696b7010",
+              "id": "Handel",
+              "interesse": "Handel"
+            }
+          ]
+        },
+        {
+          "@type": "ForsideKategori",
+          "@id": "/.well-known/genid/b9a8913d27cda3107b21",
+          "id": "Forskning_og_teknologi",
+          "kategori": "Forskning og teknologi",
+          "interesse": [
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/0451d2a955fc152efa79",
+              "id": "Forskning",
+              "interesse": "Forskning"
+            },
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/ad6b985dd3b647210307",
+              "id": "Natur",
+              "interesse": "Natur"
+            },
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/7b15b53703a4a47ae19f",
+              "id": "Teknologi",
+              "interesse": "Teknologi"
+            },
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/b017d46d9774fd9df2a7",
+              "id": "Samfunn",
+              "interesse": "Samfunn"
+            }
+          ]
+        },
+        {
+          "@type": "ForsideKategori",
+          "@id": "/.well-known/genid/88f8be6f69865073870d",
+          "id": "Data_og_it",
+          "kategori": "Data og it",
+          "interesse": [
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/7b1ac8e81a4041b39f4a",
+              "id": "Data",
+              "interesse": "Data"
+            },
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/6991d56af025b80ef29e",
+              "id": "Teknologi",
+              "interesse": "Teknologi"
+            },
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/e5541bad338f00e72c0d",
+              "id": "Medier",
+              "interesse": "Medier"
+            },
+            {
+              "@type": "ForsideInteresse",
+              "@id": "/.well-known/genid/5444875928092ee0fb4e",
+              "id": "Service",
+              "interesse": "Service"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "@context": "/contexts/Fylke",
+  "@id": "/utdanningsdata/fylke",
+  "@type": "hydra:Collection",
+  "hydra:totalItems": 16,
+  "hydra:member": [
+    {
+      "@id": "/fylkes/Agder",
+      "@type": "Fylke",
+      "navn": "Agder",
+      "fylkenr": "42",
+      "region": "S\u00f8rlandet"
+    },
+    {
+      "@id": "/fylkes/M%C3%B8re%20og%20Romsdal",
+      "@type": "Fylke",
+      "navn": "M\u00f8re og Romsdal",
+      "fylkenr": "15",
+      "region": "Vestlandet"
+    },
+    {
+      "@id": "/fylkes/Nordland",
+      "@type": "Fylke",
+      "navn": "Nordland",
+      "fylkenr": "18",
+      "region": "Nord-Norge"
+    },
+    {
+      "@id": "/fylkes/Rogaland",
+      "@type": "Fylke",
+      "navn": "Rogaland",
+      "fylkenr": "11",
+      "region": "Vestlandet"
+    },
+    {
+      "@id": "/fylkes/Vestland",
+      "@type": "Fylke",
+      "navn": "Vestland",
+      "fylkenr": "46",
+      "region": "Vestlandet"
+    },
+    {
+      "@id": "/fylkes/Oslo",
+      "@type": "Fylke",
+      "navn": "Oslo",
+      "fylkenr": "3",
+      "region": "\u00d8stlandet"
+    },
+    {
+      "@id": "/fylkes/Innlandet",
+      "@type": "Fylke",
+      "navn": "Innlandet",
+      "fylkenr": "34",
+      "region": "\u00d8stlandet"
+    },
+    {
+      "@id": "/fylkes/Svalbard",
+      "@type": "Fylke",
+      "navn": "Svalbard",
+      "fylkenr": "21",
+      "region": "Nord-Norge"
+    },
+    {
+      "@id": "/fylkes/Tr%C3%B8ndelag",
+      "@type": "Fylke",
+      "navn": "Tr\u00f8ndelag",
+      "fylkenr": "50",
+      "region": "Midt-Norge"
+    },
+    {
+      "@id": "/fylkes/Finnmark",
+      "@type": "Fylke",
+      "navn": "Finnmark",
+      "fylkenr": "56",
+      "region": "Nord-Norge"
+    },
+    {
+      "@id": "/fylkes/Troms",
+      "@type": "Fylke",
+      "navn": "Troms",
+      "fylkenr": "55",
+      "region": "Nord-Norge"
+    },
+    {
+      "@id": "/fylkes/Akershus",
+      "@type": "Fylke",
+      "navn": "Akershus",
+      "fylkenr": "32",
+      "region": "\u00d8stlandet"
+    },
+    {
+      "@id": "/fylkes/Buskerud",
+      "@type": "Fylke",
+      "navn": "Buskerud",
+      "fylkenr": "33",
+      "region": "\u00d8stlandet"
+    },
+    {
+      "@id": "/fylkes/Telemark",
+      "@type": "Fylke",
+      "navn": "Telemark",
+      "fylkenr": "40",
+      "region": "\u00d8stlandet"
+    },
+    {
+      "@id": "/fylkes/Vestfold",
+      "@type": "Fylke",
+      "navn": "Vestfold",
+      "fylkenr": "39",
+      "region": "\u00d8stlandet"
+    },
+    {
+      "@id": "/fylkes/%C3%98stfold",
+      "@type": "Fylke",
+      "navn": "\u00d8stfold",
+      "fylkenr": "31",
+      "region": "\u00d8stlandet"
+    }
+  ],
+  "hydra:search": {
+    "@type": "hydra:IriTemplate",
+    "hydra:template": "/utdanningsdata/fylke{?region,fylkenr,fylkenavn}",
+    "hydra:variableRepresentation": "BasicRepresentation",
+    "hydra:mapping": [
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "region",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "fylkenr",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "fylkenavn",
+        "property": null,
+        "required": false
+      }
+    ]
+  }
+}

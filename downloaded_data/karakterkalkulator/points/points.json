@@ -1,0 +1,22 @@
+{
+  "@context": "/contexts/Points",
+  "@id": "/karakterkalkulator/points",
+  "@type": "hydra:Collection",
+  "hydra:totalItems": 1,
+  "hydra:member": [
+    null
+  ],
+  "hydra:search": {
+    "@type": "hydra:IriTemplate",
+    "hydra:template": "/karakterkalkulator/points{?filename}",
+    "hydra:variableRepresentation": "BasicRepresentation",
+    "hydra:mapping": [
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "filename",
+        "property": null,
+        "required": false
+      }
+    ]
+  }
+}

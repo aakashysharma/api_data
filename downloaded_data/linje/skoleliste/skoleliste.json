@@ -1,0 +1,6062 @@
+[
+  {
+    "fylkenr": "03",
+    "fylkenavn": "Oslo",
+    "visning": true,
+    "skoler": [
+      {
+        "vilbli_org_id": "Vilbli_no_adr_210626",
+        "skolenavn": "Akademiet VGS Oslo",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8083",
+        "skolenavn": "Berg videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8113",
+        "skolenavn": "Bjerke videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_220510",
+        "skolenavn": "Bj\u00f8rnholt videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8105",
+        "skolenavn": "Elvebakken videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8109",
+        "skolenavn": "Etterstad videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8085",
+        "skolenavn": "Fagerborg videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8086",
+        "skolenavn": "Foss videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8088",
+        "skolenavn": "Hartvig Nissens skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_244274",
+        "skolenavn": "Hauk\u00e5sen skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8098",
+        "skolenavn": "Hellerud videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_10090",
+        "skolenavn": "Akademiet VGS Heltberg Ullevaal",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8143",
+        "skolenavn": "Holtet videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8090",
+        "skolenavn": "Kristelig Gymnasium AS",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8091",
+        "skolenavn": "Lambertseter videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8114",
+        "skolenavn": "Manglerud videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8118",
+        "skolenavn": "Natur videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_210633",
+        "skolenavn": "Noroff videreg\u00e5ende skole \u2013 Oslo",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_200356",
+        "skolenavn": "Oslo by Steinerskole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8101",
+        "skolenavn": "Oslo Handelsgymnasium",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8082",
+        "skolenavn": "Oslo katedralskole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_11994",
+        "skolenavn": "OPG Oslo Private Gymnasium",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8095",
+        "skolenavn": "Persbr\u00e5ten videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8136",
+        "skolenavn": "Rudolf Steinerskolen i Oslo",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8107",
+        "skolenavn": "Sofienberg videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_23149",
+        "skolenavn": "Stovner videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8108",
+        "skolenavn": "Otto Treider Private Gymnas",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8099",
+        "skolenavn": "Ullern videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8103",
+        "skolenavn": "Ulsrud videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8128",
+        "skolenavn": "WANG videreg\u00e5ende/WANG Toppidrett",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_279206",
+        "skolenavn": "Fyrstikkalleen skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8139",
+        "skolenavn": "Oslo Sanitetsforenings Utdanningssenter as",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_14295",
+        "skolenavn": "Akademiet vgs Heltberg Bislett",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_323183",
+        "skolenavn": "Kuben videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_287336",
+        "skolenavn": "Nydalen videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_259078",
+        "skolenavn": "Ljabruskolen \u2013 Steinerskole for elever med spesielle behov",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_323193",
+        "skolenavn": "Kongshavn videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_828175",
+        "skolenavn": "Edvard Munch videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_842479",
+        "skolenavn": "Akademiet Norsk Restaurantskole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_859866",
+        "skolenavn": "Valle Hovin videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_985528",
+        "skolenavn": "Vika videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_303758",
+        "skolenavn": "Den tysk-norske skolen i Oslo/Deutsch-Norwegische Schule Oslo",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_333192",
+        "skolenavn": "Hersleb videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_333163",
+        "skolenavn": "Blindern videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      }
+    ],
+    "kommuner": [
+      {
+        "kommunenr": "0301",
+        "kommunenavn": "Oslo",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      }
+    ]
+  },
+  {
+    "fylkenr": "11",
+    "fylkenavn": "Rogaland",
+    "visning": true,
+    "skoler": [
+      {
+        "vilbli_org_id": "Vilbli_no_adr_243793",
+        "skolenavn": "Akademiet VGS Sandnes as",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8436",
+        "skolenavn": "Bergeland videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_78723",
+        "skolenavn": "Bergeland videreg\u00e5ende skole Filial Badehusgata",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8416",
+        "skolenavn": "Bryne vidareg\u00e5ande skule",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8430",
+        "skolenavn": "Dalane videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_10084",
+        "skolenavn": "Forus videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8434",
+        "skolenavn": "Gand videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8463",
+        "skolenavn": "Godalen videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8431",
+        "skolenavn": "Haugaland videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8448",
+        "skolenavn": "Haugesund Toppidrettsgymnas",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8419",
+        "skolenavn": "Hetland videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_230161",
+        "skolenavn": "J\u00e5tt\u00e5 videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8444",
+        "skolenavn": "J\u00e5tt\u00e5 videreg\u00e5ende skole Avdeling Hinna",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8440",
+        "skolenavn": "Karmsund videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8425",
+        "skolenavn": "Kopervik videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8494",
+        "skolenavn": "Lundeneset VGS",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_210635",
+        "skolenavn": "Akademiet VGS Stavanger",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8450",
+        "skolenavn": "Randaberg videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_14491",
+        "skolenavn": "Skoleskipet Gann",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8445",
+        "skolenavn": "Strand vidareg\u00e5ande skole Avdeling Rygjab\u00f8",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8420",
+        "skolenavn": "Sandnes videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8421",
+        "skolenavn": "Sauda vidareg\u00e5ande skule",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8433",
+        "skolenavn": "Sauda vidareg\u00e5ande skule Avdeling Sand",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8418",
+        "skolenavn": "Skeisvang videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8464",
+        "skolenavn": "Sola videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8424",
+        "skolenavn": "St. Olav videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8422",
+        "skolenavn": "St. Svithun videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8414",
+        "skolenavn": "Stavanger katedralskole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8438",
+        "skolenavn": "Stavanger offshore tekniske skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_11992",
+        "skolenavn": "Steinerskolen i Haugesund",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_11993",
+        "skolenavn": "Steinerskolen i Stavanger",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8415",
+        "skolenavn": "Strand videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8429",
+        "skolenavn": "Bryne vidareg\u00e5ande skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8462",
+        "skolenavn": "Tryggheim vidareg\u00e5ande skule",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_6583",
+        "skolenavn": "Tveit vidareg\u00e5ande skule",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8449",
+        "skolenavn": "Uldals videreg\u00e5ende skole as",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8423",
+        "skolenavn": "Vardafjell videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_6585",
+        "skolenavn": "Vinterlandbruksskulen i Ryfylke",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_6584",
+        "skolenavn": "Vinterlandbruksskulen p\u00e5 J\u00e6ren",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_210636",
+        "skolenavn": "Wang Toppidrett Stavanger AS",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_6586",
+        "skolenavn": "\u00d8ksnevad vidareg\u00e5ande skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8510",
+        "skolenavn": "\u00d8len vidareg\u00e5ande skule",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8432",
+        "skolenavn": "\u00c5krehamn vidareg\u00e5ande skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_279081",
+        "skolenavn": "V\u00e5gen videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_828270",
+        "skolenavn": "Sauda videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_828271",
+        "skolenavn": "Bryne videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_828272",
+        "skolenavn": "\u00c5krehamn videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_842428",
+        "skolenavn": "Norheim VGS",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_861815",
+        "skolenavn": "Hauge videreg\u00e5ende skole as",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_878721",
+        "skolenavn": "Tryggheim Forus videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_1000668",
+        "skolenavn": "Sauda vidareg\u00e5ande skule Avdeling Birkeland",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_323444",
+        "skolenavn": "Stavanger katedralskole Bjergsted",
+        "skoleregionnr": null,
+        "visning": true
+      }
+    ],
+    "kommuner": [
+      {
+        "kommunenr": "1101",
+        "kommunenavn": "Eigersund",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1103",
+        "kommunenavn": "Stavanger",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1106",
+        "kommunenavn": "Haugesund",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1108",
+        "kommunenavn": "Sandnes",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1111",
+        "kommunenavn": "Sokndal",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1112",
+        "kommunenavn": "Lund",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1114",
+        "kommunenavn": "Bjerkreim",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1119",
+        "kommunenavn": "H\u00e5",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1120",
+        "kommunenavn": "Klepp",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1121",
+        "kommunenavn": "Time",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1122",
+        "kommunenavn": "Gjesdal",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1124",
+        "kommunenavn": "Sola",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1127",
+        "kommunenavn": "Randaberg",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1130",
+        "kommunenavn": "Strand",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1133",
+        "kommunenavn": "Hjelmeland",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1134",
+        "kommunenavn": "Suldal",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1135",
+        "kommunenavn": "Sauda",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1144",
+        "kommunenavn": "Kvits\u00f8y",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1145",
+        "kommunenavn": "Bokn",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1146",
+        "kommunenavn": "Tysv\u00e6r",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1149",
+        "kommunenavn": "Karm\u00f8y",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1151",
+        "kommunenavn": "Utsira",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1160",
+        "kommunenavn": "Vindafjord",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      }
+    ]
+  },
+  {
+    "fylkenr": "15",
+    "fylkenavn": "M\u00f8re og Romsdal",
+    "visning": true,
+    "skoler": [
+      {
+        "vilbli_org_id": "Vilbli_no_adr_210628",
+        "skolenavn": "Akademiet VGS Molde",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_210627",
+        "skolenavn": "Akademiet VGS \u00c5lesund",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8596",
+        "skolenavn": "Atlanten videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8609",
+        "skolenavn": "Borgund vidareg\u00e5ande skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8595",
+        "skolenavn": "\u00c5lesund videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8641",
+        "skolenavn": "Romsdal videreg\u00e5ende skole avd. Fannefjord",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8607",
+        "skolenavn": "Hustadvika vidareg\u00e5ande skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_6594",
+        "skolenavn": "Gjermundnes vidareg\u00e5ande skule",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8606",
+        "skolenavn": "Haram vidareg\u00e5ande skule",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8618",
+        "skolenavn": "Her\u00f8y vidareg\u00e5ande skule",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8632",
+        "skolenavn": "Her\u00f8y vidareg\u00e5ande skule Avdeling Vanylven",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8617",
+        "skolenavn": "Kristiansund videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8597",
+        "skolenavn": "Molde videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8605",
+        "skolenavn": "Rauma videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8613",
+        "skolenavn": "Romsdal videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8637",
+        "skolenavn": "Spjelkavik videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8603",
+        "skolenavn": "Stranda vidareg\u00e5ande skule",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8602",
+        "skolenavn": "Sunndal vidareg\u00e5ande skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8625",
+        "skolenavn": "Surnadal vidareg\u00e5ande skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8604",
+        "skolenavn": "Sykkylven vidareg\u00e5ande skule",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8598",
+        "skolenavn": "Tingvoll vidareg\u00e5ande skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_243821",
+        "skolenavn": "T\u00f8nderg\u00e5rd skole og ressurssenter",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8601",
+        "skolenavn": "Ulstein vidareg\u00e5ande skule",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8628",
+        "skolenavn": "Vestborg vidareg\u00e5ande skule",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8599",
+        "skolenavn": "Volda vidareg\u00e5ande skule",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8620",
+        "skolenavn": "\u00d8rsta vidareg\u00e5ande skule",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_230394",
+        "skolenavn": "Fagerlia-\u00c5lesund videreg\u00e5ende skole Avdeling \u00c5lesund",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_823055",
+        "skolenavn": "Akademiet Heltberg Toppidrettsgymnas \u00c5lesund",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_823056",
+        "skolenavn": "Akademiet Heltberg Toppidrettsgymnas Molde",
+        "skoleregionnr": null,
+        "visning": true
+      }
+    ],
+    "kommuner": [
+      {
+        "kommunenr": "1505",
+        "kommunenavn": "Kristiansund",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1506",
+        "kommunenavn": "Molde",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1508",
+        "kommunenavn": "\u00c5lesund",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1511",
+        "kommunenavn": "Vanylven",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1514",
+        "kommunenavn": "Sande",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1515",
+        "kommunenavn": "Her\u00f8y",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1516",
+        "kommunenavn": "Ulstein",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1517",
+        "kommunenavn": "Hareid",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1520",
+        "kommunenavn": "\u00d8rsta",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1525",
+        "kommunenavn": "Stranda",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1528",
+        "kommunenavn": "Sykkylven",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1531",
+        "kommunenavn": "Sula",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1532",
+        "kommunenavn": "Giske",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1535",
+        "kommunenavn": "Vestnes",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1539",
+        "kommunenavn": "Rauma",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1547",
+        "kommunenavn": "Aukra",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1554",
+        "kommunenavn": "Aver\u00f8y",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1557",
+        "kommunenavn": "Gjemnes",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1560",
+        "kommunenavn": "Tingvoll",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1563",
+        "kommunenavn": "Sunndal",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1566",
+        "kommunenavn": "Surnadal",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1573",
+        "kommunenavn": "Sm\u00f8la",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1576",
+        "kommunenavn": "Aure",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1577",
+        "kommunenavn": "Volda",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1578",
+        "kommunenavn": "Fjord",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1579",
+        "kommunenavn": "Hustadvika",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1580",
+        "kommunenavn": "Haram",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      }
+    ]
+  },
+  {
+    "fylkenr": "18",
+    "fylkenavn": "Nordland",
+    "visning": true,
+    "skoler": [
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8753",
+        "skolenavn": "And\u00f8y videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8750",
+        "skolenavn": "Aust-Lofoten videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8755",
+        "skolenavn": "Bodin videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8781",
+        "skolenavn": "Bod\u00f8 videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8782",
+        "skolenavn": "Br\u00f8nn\u00f8ysund videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8741",
+        "skolenavn": "Fauske videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8759",
+        "skolenavn": "Hadsel videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8756",
+        "skolenavn": "Knut Hamsun videreg\u00e5ende skole/Knut Hamsun Joarkkask\u00e5vll\u00e5",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8789",
+        "skolenavn": "Knut Hamsun videreg\u00e5ende skole/Knut Hamsun Joarkkask\u00e5vll\u00e5 Avdeling Steigen",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_10087",
+        "skolenavn": "Kristen videreg\u00e5ende skole Nordland",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8799",
+        "skolenavn": "Sortland videreg\u00e5ende skole Filial L\u00f8dingen",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8754",
+        "skolenavn": "Mel\u00f8y videreg\u00e5ende skole Avdeling Glomfjord",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_201492",
+        "skolenavn": "Mel\u00f8y videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8805",
+        "skolenavn": "Mel\u00f8y videreg\u00e5ende skole Avdeling Inndyr",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8743",
+        "skolenavn": "Mel\u00f8y videreg\u00e5ende skole Avdeling \u00d8rnes",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8744",
+        "skolenavn": "Mosj\u00f8en videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_14324",
+        "skolenavn": "Mosj\u00f8en videreg\u00e5ende skole Hattfjelldal",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8767",
+        "skolenavn": "Narvik videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8764",
+        "skolenavn": "Narvik videreg\u00e5ende skole, avdeling Solhaugen",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_14591",
+        "skolenavn": "Polarsirkelen videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8775",
+        "skolenavn": "Saltdal videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_202901",
+        "skolenavn": "Saltdal videreg\u00e5ende skole Beiarn utkantskoleprosjekt (LOSA)",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_244306",
+        "skolenavn": "Saltdal videreg\u00e5ende skole Lovund (LOSA)",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_202902",
+        "skolenavn": "Saltdal videreg\u00e5ende skole Tr\u00e6na utkantskoleprosjekt (LOSA)",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8747",
+        "skolenavn": "Sandnessj\u00f8en videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8748",
+        "skolenavn": "Sortland videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8793",
+        "skolenavn": "Sortland videreg\u00e5ende skole Filial B\u00f8",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8794",
+        "skolenavn": "Sortland videreg\u00e5ende skole Filial \u00d8ksnes",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8742",
+        "skolenavn": "Vest-Lofoten videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_16456",
+        "skolenavn": "Vest-Lofoten videreg\u00e5ende skole/Lofoten fagskole Havbrukssenteret",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_202903",
+        "skolenavn": "Vest-Lofoten videreg\u00e5ende skole V\u00e6r\u00f8y LOSA",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8777",
+        "skolenavn": "Sortland videreg\u00e5ende skole Filial Kleiva",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_872121",
+        "skolenavn": "Norges Toppidrettsgymnas Bod\u00f8",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_879068",
+        "skolenavn": "Campus BL\u00c5 Videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_999844",
+        "skolenavn": "Havbruksakademiet Nord",
+        "skoleregionnr": null,
+        "visning": true
+      }
+    ],
+    "kommuner": [
+      {
+        "kommunenr": "1804",
+        "kommunenavn": "Bod\u00f8",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1806",
+        "kommunenavn": "Narvik",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1811",
+        "kommunenavn": "Bindal",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1812",
+        "kommunenavn": "S\u00f8mna",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1813",
+        "kommunenavn": "Br\u00f8nn\u00f8y",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1815",
+        "kommunenavn": "Vega",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1816",
+        "kommunenavn": "Vevelstad",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1818",
+        "kommunenavn": "Her\u00f8y",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1820",
+        "kommunenavn": "Alstahaug",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1822",
+        "kommunenavn": "Leirfjord",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1824",
+        "kommunenavn": "Vefsn",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1825",
+        "kommunenavn": "Grane",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1826",
+        "kommunenavn": "Hattfjelldal",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1827",
+        "kommunenavn": "D\u00f8nna",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1828",
+        "kommunenavn": "Nesna",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1832",
+        "kommunenavn": "Hemnes",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1833",
+        "kommunenavn": "Rana",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1834",
+        "kommunenavn": "Lur\u00f8y",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1835",
+        "kommunenavn": "Tr\u00e6na",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1836",
+        "kommunenavn": "R\u00f8d\u00f8y",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1837",
+        "kommunenavn": "Mel\u00f8y",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1838",
+        "kommunenavn": "Gildesk\u00e5l",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1839",
+        "kommunenavn": "Beiarn",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1840",
+        "kommunenavn": "Saltdal",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1841",
+        "kommunenavn": "Fauske",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1845",
+        "kommunenavn": "S\u00f8rfold",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1848",
+        "kommunenavn": "Steigen",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1851",
+        "kommunenavn": "L\u00f8dingen",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1853",
+        "kommunenavn": "Evenes",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1856",
+        "kommunenavn": "R\u00f8st",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1857",
+        "kommunenavn": "V\u00e6r\u00f8y",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1859",
+        "kommunenavn": "Flakstad",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1860",
+        "kommunenavn": "Vestv\u00e5g\u00f8y",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1865",
+        "kommunenavn": "V\u00e5gan",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1866",
+        "kommunenavn": "Hadsel",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1867",
+        "kommunenavn": "B\u00f8",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1868",
+        "kommunenavn": "\u00d8ksnes",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1870",
+        "kommunenavn": "Sortland",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1871",
+        "kommunenavn": "And\u00f8y",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1874",
+        "kommunenavn": "Moskenes",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "1875",
+        "kommunenavn": "Hamar\u00f8y",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      }
+    ]
+  },
+  {
+    "fylkenr": "31",
+    "fylkenavn": "\u00d8stfold",
+    "visning": true,
+    "skoler": [
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8001",
+        "skolenavn": "Askim videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8014",
+        "skolenavn": "Borg videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8007",
+        "skolenavn": "Frederik II videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8011",
+        "skolenavn": "Glemmen videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_6393",
+        "skolenavn": "Glemmen videreg\u00e5ende skole Avdeling Lisleby",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8002",
+        "skolenavn": "Gre\u00e5ker videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_201055",
+        "skolenavn": "Halden videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8012",
+        "skolenavn": "Halden videreg\u00e5ende skole Studiested Porsnes",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8016",
+        "skolenavn": "Halden videreg\u00e5ende skole Studiested Risum",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8023",
+        "skolenavn": "Halden videreg\u00e5ende skole Toster\u00f8dberget",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_6559",
+        "skolenavn": "Kalnes videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8005",
+        "skolenavn": "Kirkeparken videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8013",
+        "skolenavn": "Malakoff videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8004",
+        "skolenavn": "Mysen videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_220515",
+        "skolenavn": "Akademiet VGS Fredrikstad",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_14522",
+        "skolenavn": "Plus-skolen as",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_14494",
+        "skolenavn": "Moss videreg\u00e5ende steinerskole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8021",
+        "skolenavn": "Seiersborg videreg\u00e5ende skole Fredrikstad as",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8006",
+        "skolenavn": "St. Olav videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_6560",
+        "skolenavn": "Tomb videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_201290",
+        "skolenavn": "WANG Fredrikstad as",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_14489",
+        "skolenavn": "Stiftelsen \u00d8sterbo videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8020",
+        "skolenavn": "M\u00f8belsnekkerskolen as",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_334537",
+        "skolenavn": "Hans Nielsen Hauge videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_873847",
+        "skolenavn": "Glemmen videreg\u00e5ende skole Avdeling Lillebekk",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_999187",
+        "skolenavn": "Fredsgymnaset Halden",
+        "skoleregionnr": null,
+        "visning": true
+      }
+    ],
+    "kommuner": [
+      {
+        "kommunenr": "3101",
+        "kommunenavn": "Halden",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3103",
+        "kommunenavn": "Moss",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3105",
+        "kommunenavn": "Sarpsborg",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3107",
+        "kommunenavn": "Fredrikstad",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3110",
+        "kommunenavn": "Hvaler",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3112",
+        "kommunenavn": "R\u00e5de",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3114",
+        "kommunenavn": "V\u00e5ler",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3116",
+        "kommunenavn": "Skiptvet",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3118",
+        "kommunenavn": "Indre \u00d8stfold",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3120",
+        "kommunenavn": "Rakkestad",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3122",
+        "kommunenavn": "Marker",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3124",
+        "kommunenavn": "Aremark",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      }
+    ]
+  },
+  {
+    "fylkenr": "32",
+    "fylkenavn": "Akershus",
+    "visning": true,
+    "skoler": [
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8027",
+        "skolenavn": "Asker videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8045",
+        "skolenavn": "Bjertnes videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8044",
+        "skolenavn": "Bj\u00f8rkelangen videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8029",
+        "skolenavn": "Bleiker videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8039",
+        "skolenavn": "Dr\u00f8mtorp videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8030",
+        "skolenavn": "D\u00f8nski videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8051",
+        "skolenavn": "Eidsvoll videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8031",
+        "skolenavn": "Eikeli videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_203173",
+        "skolenavn": "Frogn videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_220475",
+        "skolenavn": "Hadeland videreg\u00e5ende skole Skolested Roa",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8062",
+        "skolenavn": "Holmen skole Videreg\u00e5ende",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_6561",
+        "skolenavn": "Hvam videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8052",
+        "skolenavn": "Jessheim videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8057",
+        "skolenavn": "Kjelle videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8047",
+        "skolenavn": "Lillestr\u00f8m videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8048",
+        "skolenavn": "L\u00f8renskog videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_230264",
+        "skolenavn": "Mailand videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8032",
+        "skolenavn": "Nadderud videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_201421",
+        "skolenavn": "Nannestad videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8054",
+        "skolenavn": "Nes videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8066",
+        "skolenavn": "Nesbru videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8040",
+        "skolenavn": "Nesodden videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8059",
+        "skolenavn": "Norges Byggskole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8037",
+        "skolenavn": "Norges Toppidrettsgymnas B\u00e6rum",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8041",
+        "skolenavn": "Roald Amundsen videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8033",
+        "skolenavn": "Rosenvilde videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8034",
+        "skolenavn": "Rud videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_3448",
+        "skolenavn": "R\u00e6lingen videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8254",
+        "skolenavn": "R\u00f8yken videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_18755",
+        "skolenavn": "R\u00f8yken videreg\u00e5ende Steinerskole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_203172",
+        "skolenavn": "Sandvika videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8049",
+        "skolenavn": "Skedsmo videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8042",
+        "skolenavn": "Ski videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8035",
+        "skolenavn": "Stabekk videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8050",
+        "skolenavn": "Str\u00f8mmen videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_14288",
+        "skolenavn": "S\u00f8rumsand videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8036",
+        "skolenavn": "Valler videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8067",
+        "skolenavn": "Vestby videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8043",
+        "skolenavn": "\u00c5s videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_866877",
+        "skolenavn": "Hoppensprett akademiet VGS Jessheim as",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_864736",
+        "skolenavn": "Akademiet Realfagsgymnas Sandvika",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_986809",
+        "skolenavn": "OKS Videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_872788",
+        "skolenavn": "Feiring videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_992769",
+        "skolenavn": "Seiersborg videreg\u00e5ende skole Follo",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_1004073",
+        "skolenavn": "Akademiet VGS Sandvika",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_1023103",
+        "skolenavn": "WANG Toppidrett Romerike",
+        "skoleregionnr": null,
+        "visning": true
+      }
+    ],
+    "kommuner": [
+      {
+        "kommunenr": "3201",
+        "kommunenavn": "B\u00e6rum",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3203",
+        "kommunenavn": "Asker",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3205",
+        "kommunenavn": "Lillestr\u00f8m",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3207",
+        "kommunenavn": "Nordre Follo",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3209",
+        "kommunenavn": "Ullensaker",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3212",
+        "kommunenavn": "Nesodden",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3214",
+        "kommunenavn": "Frogn",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3216",
+        "kommunenavn": "Vestby",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3218",
+        "kommunenavn": "\u00c5s",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3220",
+        "kommunenavn": "Enebakk",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3222",
+        "kommunenavn": "L\u00f8renskog",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3224",
+        "kommunenavn": "R\u00e6lingen",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3226",
+        "kommunenavn": "Aurskog-H\u00f8land",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3228",
+        "kommunenavn": "Nes",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3230",
+        "kommunenavn": "Gjerdrum",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3232",
+        "kommunenavn": "Nittedal",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3234",
+        "kommunenavn": "Lunner",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3236",
+        "kommunenavn": "Jevnaker",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3238",
+        "kommunenavn": "Nannestad",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3240",
+        "kommunenavn": "Eidsvoll",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3242",
+        "kommunenavn": "Hurdal",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      }
+    ]
+  },
+  {
+    "fylkenr": "33",
+    "fylkenavn": "Buskerud",
+    "visning": true,
+    "skoler": [
+      {
+        "vilbli_org_id": "Vilbli_no_adr_210630",
+        "skolenavn": "Akademiet VGS Drammen",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_19822",
+        "skolenavn": "Briskeby videreg\u00e5ende skole as",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8233",
+        "skolenavn": "Drammen videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8235",
+        "skolenavn": "Eiker videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8234",
+        "skolenavn": "Gol vidareg\u00e5ande skule",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8243",
+        "skolenavn": "H\u00f8nefoss videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_3576",
+        "skolenavn": "H\u00f8nefoss videreg\u00e5ende skole Filial Risesletta",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_220449",
+        "skolenavn": "Kongsberg videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_254355",
+        "skolenavn": "Kongsberg videreg\u00e5ende skole Undervisningssted Fl\u00e5tal\u00f8kka",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_254358",
+        "skolenavn": "Kongsberg videreg\u00e5ende skole Undervisningssted Kongsg\u00e5rdsmoen",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8252",
+        "skolenavn": "Kongsberg videreg\u00e5ende skole Undervisningssted Maren Handler",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8236",
+        "skolenavn": "Kongsberg videreg\u00e5ende skole Undervisningssted Maurits Hansen",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8257",
+        "skolenavn": "Kongsberg videreg\u00e5ende skole Undervisningssted Saggrenda",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8245",
+        "skolenavn": "Kongsberg videreg\u00e5ende skole Undervisningssted Tinius Olsen",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_6572",
+        "skolenavn": "Lier videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_14492",
+        "skolenavn": "Norges Toppidrettsgymnas Geilo",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8255",
+        "skolenavn": "Numedal videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8237",
+        "skolenavn": "Ringerike videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8262",
+        "skolenavn": "Buskerud videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_223891",
+        "skolenavn": "Buskerud videreg\u00e5ende skole Avdeling Buskerud",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_200194",
+        "skolenavn": "Akademiet Ypsilon videreg\u00e5ende skole as",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8238",
+        "skolenavn": "St. Hallvard videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8239",
+        "skolenavn": "Tyrifjord videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8242",
+        "skolenavn": "\u00c5l vidareg\u00e5ande skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8256",
+        "skolenavn": "\u00c5l vidareg\u00e5ande skole Avdeling Lien",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_14270",
+        "skolenavn": "\u00c5ssiden videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_204223",
+        "skolenavn": "Kongsberg videreg\u00e5ende skole Undervisningssted \u00c5slandsgate",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_322764",
+        "skolenavn": "Akademiet VGS Heltberg Drammen",
+        "skoleregionnr": null,
+        "visning": true
+      }
+    ],
+    "kommuner": [
+      {
+        "kommunenr": "3301",
+        "kommunenavn": "Drammen",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3303",
+        "kommunenavn": "Kongsberg",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3305",
+        "kommunenavn": "Ringerike",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3310",
+        "kommunenavn": "Hole",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3312",
+        "kommunenavn": "Lier",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3314",
+        "kommunenavn": "\u00d8vre Eiker",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3316",
+        "kommunenavn": "Modum",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3318",
+        "kommunenavn": "Kr\u00f8dsherad",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3320",
+        "kommunenavn": "Fl\u00e5",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3322",
+        "kommunenavn": "Nesbyen",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3324",
+        "kommunenavn": "Gol",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3326",
+        "kommunenavn": "Hemsedal",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3328",
+        "kommunenavn": "\u00c5l",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3330",
+        "kommunenavn": "Hol",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3332",
+        "kommunenavn": "Sigdal",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3334",
+        "kommunenavn": "Flesberg",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3336",
+        "kommunenavn": "Rollag",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3338",
+        "kommunenavn": "Nore og Uvdal",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      }
+    ]
+  },
+  {
+    "fylkenr": "34",
+    "fylkenavn": "Innlandet",
+    "visning": true,
+    "skoler": [
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8195",
+        "skolenavn": "Dokka videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8155",
+        "skolenavn": "Elverum videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8223",
+        "skolenavn": "Gausdal videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8191",
+        "skolenavn": "Gj\u00f8vik videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8212",
+        "skolenavn": "Hadeland videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8193",
+        "skolenavn": "Hadeland videreg\u00e5ende skole Skolested Brandbu",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8203",
+        "skolenavn": "Hadeland videreg\u00e5ende skole Skolested Gran",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8153",
+        "skolenavn": "Hamar katedralskole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_6562",
+        "skolenavn": "J\u00f8nsberg videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8200",
+        "skolenavn": "Lena-Valle videreg\u00e5ende skole Avdeling Lena",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8194",
+        "skolenavn": "Lillehammer videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8209",
+        "skolenavn": "Lillehammer videreg\u00e5ende skole Avdeling Mesna",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8161",
+        "skolenavn": "Midt-\u00d8sterdal videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8175",
+        "skolenavn": "Storsteigen videreg\u00e5ende skole Avdeling Nordstumoen",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_201493",
+        "skolenavn": "Nord-Gudbrandsdal vidareg\u00e5ande skule",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8201",
+        "skolenavn": "Nord-Gudbrandsdal vidareg\u00e5ande skule avdeling Hjerleid",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8215",
+        "skolenavn": "Nord-Gudbrandsdal vidareg\u00e5ande skule, avdeling Klones",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8199",
+        "skolenavn": "Nord-Gudbrandsdal vidareg\u00e5ande skule avdeling Lom",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8198",
+        "skolenavn": "Nord-Gudbrandsdal vidareg\u00e5ande skule avdeling Otta",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8164",
+        "skolenavn": "Nord-\u00d8sterdal videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_19504",
+        "skolenavn": "Norges Toppidrettsgymnas Kongsvinger as",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_19448",
+        "skolenavn": "Norges Toppidrettsgymnas Lillehammer as",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8208",
+        "skolenavn": "Raufoss videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8154",
+        "skolenavn": "Ringsaker videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8168",
+        "skolenavn": "Ringsaker videreg\u00e5ende skole Avdeling Moelv",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8163",
+        "skolenavn": "Sentrum videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8173",
+        "skolenavn": "Skarnes videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8158",
+        "skolenavn": "Sol\u00f8r videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_6567",
+        "skolenavn": "Sol\u00f8r videreg\u00e5ende skole Studiested S\u00f8nsterud",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8165",
+        "skolenavn": "Sol\u00f8r videreg\u00e5ende skole Studiested V\u00e5ler",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8169",
+        "skolenavn": "Stange videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_14493",
+        "skolenavn": "Steinerskolen p\u00e5 Hedemarken",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_202454",
+        "skolenavn": "Hjerleid Handverksskole AS",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8167",
+        "skolenavn": "Storhamar videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_6568",
+        "skolenavn": "Storsteigen videreg\u00e5ende skole Avdeling Alvdal",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_14298",
+        "skolenavn": "Trysil videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8205",
+        "skolenavn": "Valdres vidareg\u00e5ande skule",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_6570",
+        "skolenavn": "Lena-Valle videreg\u00e5ende skole Avdeling Valle",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_16888",
+        "skolenavn": "Lillehammer videreg\u00e5ende skole Avdeling Nord",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8192",
+        "skolenavn": "Vinstra vidareg\u00e5ande skule",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8156",
+        "skolenavn": "\u00d8vrebyen videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_6563",
+        "skolenavn": "Norges gr\u00f8nne fagskole \u2013 Vea (Videreg\u00e5ende trinn)",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_247312",
+        "skolenavn": "Helsepedagogisk Steinerskole p\u00e5 Hedemarken",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_828615",
+        "skolenavn": "Lillehammer videreg\u00e5ende skole Avdeling S\u00f8r",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_831352",
+        "skolenavn": "Lena-Valle videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_834855",
+        "skolenavn": "Wang Ung Hamar",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_847145",
+        "skolenavn": "Nord-Gudbrandsdal vidareg\u00e5ande skule avdeling Domb\u00e5s",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_842429",
+        "skolenavn": "Wang Hamar as",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_882537",
+        "skolenavn": "Create \u2013 Lillehammer kreative videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_986719",
+        "skolenavn": "Norges natur- og \u00f8kologigymnas",
+        "skoleregionnr": null,
+        "visning": true
+      }
+    ],
+    "kommuner": [
+      {
+        "kommunenr": "3401",
+        "kommunenavn": "Kongsvinger",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3403",
+        "kommunenavn": "Hamar",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3405",
+        "kommunenavn": "Lillehammer",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3407",
+        "kommunenavn": "Gj\u00f8vik",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3411",
+        "kommunenavn": "Ringsaker",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3412",
+        "kommunenavn": "L\u00f8ten",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3413",
+        "kommunenavn": "Stange",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3414",
+        "kommunenavn": "Nord-Odal",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3415",
+        "kommunenavn": "S\u00f8r-Odal",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3416",
+        "kommunenavn": "Eidskog",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3417",
+        "kommunenavn": "Grue",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3418",
+        "kommunenavn": "\u00c5snes",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3419",
+        "kommunenavn": "V\u00e5ler",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3420",
+        "kommunenavn": "Elverum",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3421",
+        "kommunenavn": "Trysil",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3422",
+        "kommunenavn": "\u00c5mot",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3423",
+        "kommunenavn": "Stor-Elvdal",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3424",
+        "kommunenavn": "Rendalen",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3425",
+        "kommunenavn": "Engerdal",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3426",
+        "kommunenavn": "Tolga",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3427",
+        "kommunenavn": "Tynset",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3428",
+        "kommunenavn": "Alvdal",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3429",
+        "kommunenavn": "Folldal",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3430",
+        "kommunenavn": "Os",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3431",
+        "kommunenavn": "Dovre",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3432",
+        "kommunenavn": "Lesja",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3433",
+        "kommunenavn": "Skj\u00e5k",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3434",
+        "kommunenavn": "Lom",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3435",
+        "kommunenavn": "V\u00e5g\u00e5",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3436",
+        "kommunenavn": "Nord-Fron",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3437",
+        "kommunenavn": "Sel",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3438",
+        "kommunenavn": "S\u00f8r-Fron",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3439",
+        "kommunenavn": "Ringebu",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3440",
+        "kommunenavn": "\u00d8yer",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3441",
+        "kommunenavn": "Gausdal",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3442",
+        "kommunenavn": "\u00d8stre Toten",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3443",
+        "kommunenavn": "Vestre Toten",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3446",
+        "kommunenavn": "Gran",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3447",
+        "kommunenavn": "S\u00f8ndre Land",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3448",
+        "kommunenavn": "Nordre Land",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3449",
+        "kommunenavn": "S\u00f8r-Aurdal",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3450",
+        "kommunenavn": "Etnedal",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3451",
+        "kommunenavn": "Nord-Aurdal",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3452",
+        "kommunenavn": "Vestre Slidre",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3453",
+        "kommunenavn": "\u00d8ystre Slidre",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3454",
+        "kommunenavn": "Vang",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      }
+    ]
+  },
+  {
+    "fylkenr": "39",
+    "fylkenavn": "Vestfold",
+    "visning": true,
+    "skoler": [
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8288",
+        "skolenavn": "F\u00e6rder videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_6574",
+        "skolenavn": "Gjennestad videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8280",
+        "skolenavn": "Greveskogen videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8284",
+        "skolenavn": "Holmestrand videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8292",
+        "skolenavn": "Horten videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8285",
+        "skolenavn": "Horten videreg\u00e5ende skole Avdeling Skippergata",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8316",
+        "skolenavn": "Melsom videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8276",
+        "skolenavn": "N\u00f8tter\u00f8y videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8301",
+        "skolenavn": "Re videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8298",
+        "skolenavn": "Sande videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8279",
+        "skolenavn": "Sandefjord videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8302",
+        "skolenavn": "Sandefjord videreg\u00e5ende skole Avdeling Hjelpepleierskolen",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_10089",
+        "skolenavn": "Skagerak International School",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8315",
+        "skolenavn": "Slottsfjellet videreg\u00e5ende steinerskole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_200971",
+        "skolenavn": "Thor Heyerdahl videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_230126",
+        "skolenavn": "Signo grunn- og videreg\u00e5ende skole as",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_309945",
+        "skolenavn": "Wang T\u00f8nsberg as",
+        "skoleregionnr": null,
+        "visning": true
+      }
+    ],
+    "kommuner": [
+      {
+        "kommunenr": "3901",
+        "kommunenavn": "Horten",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3903",
+        "kommunenavn": "Holmestrand",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3905",
+        "kommunenavn": "T\u00f8nsberg",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3907",
+        "kommunenavn": "Sandefjord",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3909",
+        "kommunenavn": "Larvik",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "3911",
+        "kommunenavn": "F\u00e6rder",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      }
+    ]
+  },
+  {
+    "fylkenr": "40",
+    "fylkenavn": "Telemark",
+    "visning": true,
+    "skoler": [
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8341",
+        "skolenavn": "Bamble videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8322",
+        "skolenavn": "B\u00f8 vidareg\u00e5ande skule",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8332",
+        "skolenavn": "Vest-Telemark vidareg\u00e5ande skule Avdeling Seljord",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8337",
+        "skolenavn": "Bamble videreg\u00e5ende skole Avdeling Croftholmen",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8329",
+        "skolenavn": "Hjalmar Johansen videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_11967",
+        "skolenavn": "Hjalmar Johansen videreg\u00e5ende skole Avdeling Fritidsparken",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_253903",
+        "skolenavn": "Hjalmar Johansen videreg\u00e5ende skole Avdeling Klosterskogen",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8323",
+        "skolenavn": "Krager\u00f8 videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8328",
+        "skolenavn": "Kvitsund Gymnas",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8331",
+        "skolenavn": "Nome videreg\u00e5ande skole Avdeling Lunde",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8324",
+        "skolenavn": "Notodden videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8325",
+        "skolenavn": "Porsgrunn videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8336",
+        "skolenavn": "Porsgrunn videreg\u00e5ende skole Avdeling s\u00f8r",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_239768",
+        "skolenavn": "Porsgrunn videreg\u00e5ende skole Avdeling nord",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8330",
+        "skolenavn": "Rjukan videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8321",
+        "skolenavn": "Skien videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8327",
+        "skolenavn": "Skien videreg\u00e5ende skole Avdeling Brekkeby",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_253932",
+        "skolenavn": "Skien videreg\u00e5ende skole Avdeling Prestejordet",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8344",
+        "skolenavn": "Skogmo videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_6576",
+        "skolenavn": "Nome videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_210637",
+        "skolenavn": "Stiftelsen Telemark Toppidrett Gymnas",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8339",
+        "skolenavn": "Vest-Telemark vidareg\u00e5ande skule",
+        "skoleregionnr": null,
+        "visning": true
+      }
+    ],
+    "kommuner": [
+      {
+        "kommunenr": "4001",
+        "kommunenavn": "Porsgrunn",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4003",
+        "kommunenavn": "Skien",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4005",
+        "kommunenavn": "Notodden",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4010",
+        "kommunenavn": "Siljan",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4012",
+        "kommunenavn": "Bamble",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4014",
+        "kommunenavn": "Krager\u00f8",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4016",
+        "kommunenavn": "Drangedal",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4018",
+        "kommunenavn": "Nome",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4020",
+        "kommunenavn": "Midt-Telemark",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4022",
+        "kommunenavn": "Seljord",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4024",
+        "kommunenavn": "Hjartdal",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4026",
+        "kommunenavn": "Tinn",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4028",
+        "kommunenavn": "Kviteseid",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4030",
+        "kommunenavn": "Nissedal",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4032",
+        "kommunenavn": "Fyresdal",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4034",
+        "kommunenavn": "Tokke",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4036",
+        "kommunenavn": "Vinje",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      }
+    ]
+  },
+  {
+    "fylkenr": "42",
+    "fylkenavn": "Agder",
+    "visning": true,
+    "skoler": [
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8349",
+        "skolenavn": "Arendal videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8364",
+        "skolenavn": "Arendal videreg\u00e5ende skole Undervisningsted M\u00f8lleheia",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8355",
+        "skolenavn": "Blakstad videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8385",
+        "skolenavn": "Byremo videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_16936",
+        "skolenavn": "Dahlske videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8367",
+        "skolenavn": "Drottningborg videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8380",
+        "skolenavn": "Eilert Sundt videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8393",
+        "skolenavn": "Flekkefjord videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_230154",
+        "skolenavn": "Kristiansand katedralskole Gimle",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8388",
+        "skolenavn": "Kvadraturen videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8397",
+        "skolenavn": "Flekkefjord videreg\u00e5ende skole Studiested Kvinesdal",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_200917",
+        "skolenavn": "KVS-Bygland",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_6580",
+        "skolenavn": "KVS-Lyngdal as",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8391",
+        "skolenavn": "Eilert Sundt videreg\u00e5ende skole Studiested Lista",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8392",
+        "skolenavn": "Eilert Sundt videreg\u00e5ende skole Studiested Lyngdal",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8390",
+        "skolenavn": "Mandal videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8369",
+        "skolenavn": "Lillesand videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_201245",
+        "skolenavn": "Akademiet VGS Kristiansand",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8352",
+        "skolenavn": "Ris\u00f8r videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8351",
+        "skolenavn": "Setesdal vidareg\u00e5ande skule",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_220473",
+        "skolenavn": "Setesdal vidareg\u00e5ande skule Avdeling Hornnes",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8360",
+        "skolenavn": "Setesdal vidareg\u00e5ande skule Avdeling Hovden",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_9981",
+        "skolenavn": "Setesdal vidareg\u00e5ande skule Avdeling Valle",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8387",
+        "skolenavn": "Sirdal videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_303535",
+        "skolenavn": "Sam Eyde videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_6581",
+        "skolenavn": "S\u00f8gne videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8411",
+        "skolenavn": "Stiftelsen S\u00f8rlandets maritime videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8396",
+        "skolenavn": "Tangen videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_6577",
+        "skolenavn": "Tvedestrand og \u00c5mli videreg\u00e5ende skole Avdeling Tvedestrand",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8353",
+        "skolenavn": "Tvedestrand og \u00c5mli videreg\u00e5ende skole Avdeling Holt",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8406",
+        "skolenavn": "Vennesla videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8383",
+        "skolenavn": "V\u00e5gsbygd videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8400",
+        "skolenavn": "Bl\u00e5 Kors videreg\u00e5ende skole \u00d8vreb\u00f8  as",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8370",
+        "skolenavn": "Tvedestrand og \u00c5mli videreg\u00e5ende skole Avdeling \u00c5mli",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_256010",
+        "skolenavn": "Oasen VGS Vennesla",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_278970",
+        "skolenavn": "Flekkefjord videreg\u00e5ende skole Studiested Flekkefjord",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_290038",
+        "skolenavn": "Tvedestrand videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_859118",
+        "skolenavn": "Eilert Sundt videreg\u00e5ende skole Studiested Farsund",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_986972",
+        "skolenavn": "Maritim videreg\u00e5ende skole S\u00f8rlandet",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_993176",
+        "skolenavn": "Bl\u00e5 Kors videreg\u00e5ende skole Grimstad",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_999186",
+        "skolenavn": "Oasen skole Str\u00f8mme",
+        "skoleregionnr": null,
+        "visning": true
+      }
+    ],
+    "kommuner": [
+      {
+        "kommunenr": "4201",
+        "kommunenavn": "Ris\u00f8r",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4202",
+        "kommunenavn": "Grimstad",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4203",
+        "kommunenavn": "Arendal",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4204",
+        "kommunenavn": "Kristiansand",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4205",
+        "kommunenavn": "Lindesnes",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4206",
+        "kommunenavn": "Farsund",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4207",
+        "kommunenavn": "Flekkefjord",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4211",
+        "kommunenavn": "Gjerstad",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4212",
+        "kommunenavn": "Veg\u00e5rshei",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4213",
+        "kommunenavn": "Tvedestrand",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4214",
+        "kommunenavn": "Froland",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4215",
+        "kommunenavn": "Lillesand",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4216",
+        "kommunenavn": "Birkenes",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4217",
+        "kommunenavn": "\u00c5mli",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4218",
+        "kommunenavn": "Iveland",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4219",
+        "kommunenavn": "Evje og Hornnes",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4220",
+        "kommunenavn": "Bygland",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4221",
+        "kommunenavn": "Valle",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4222",
+        "kommunenavn": "Bykle",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4223",
+        "kommunenavn": "Vennesla",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4224",
+        "kommunenavn": "\u00c5seral",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4225",
+        "kommunenavn": "Lyngdal",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4226",
+        "kommunenavn": "H\u00e6gebostad",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4227",
+        "kommunenavn": "Kvinesdal",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4228",
+        "kommunenavn": "Sirdal",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      }
+    ]
+  },
+  {
+    "fylkenr": "46",
+    "fylkenavn": "Vestland",
+    "visning": true,
+    "skoler": [
+      {
+        "vilbli_org_id": "Vilbli_no_adr_202420",
+        "skolenavn": "Metis videreg\u00e5ende as",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8495",
+        "skolenavn": "Arna vidareg\u00e5ande skule",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8496",
+        "skolenavn": "Ask\u00f8y videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8556",
+        "skolenavn": "Austevoll vidareg\u00e5ande skule",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8530",
+        "skolenavn": "Austrheim vidareg\u00e5ande skule",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8551",
+        "skolenavn": "Bergen Handelsgymnasium",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8547",
+        "skolenavn": "Bergen Katedralskole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8555",
+        "skolenavn": "Laksev\u00e5g og Bergen maritime videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8481",
+        "skolenavn": "B\u00f8mlo vidareg\u00e5ande skule",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8587",
+        "skolenavn": "Dale vidareg\u00e5ande skule",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_200210",
+        "skolenavn": "Danielsen Intensivgymnas",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8552",
+        "skolenavn": "Danielsen Videreg\u00e5ende Skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8580",
+        "skolenavn": "Eid vidareg\u00e5ande skule",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_200970",
+        "skolenavn": "Eid vidareg\u00e5ande skule Yrkesfag",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_6587",
+        "skolenavn": "Etne vidareg\u00e5ande skule",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8582",
+        "skolenavn": "Firda vidareg\u00e5ande skule",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8484",
+        "skolenavn": "Fitjar vidareg\u00e5ande skule",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8577",
+        "skolenavn": "Flora vidareg\u00e5ande skule",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_14865",
+        "skolenavn": "Framnes kristne vidareg\u00e5ande skule",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8534",
+        "skolenavn": "Fusa vidareg\u00e5ande skule",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8537",
+        "skolenavn": "Fyllingsdalen videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8471",
+        "skolenavn": "Arna vidareg\u00e5ande skule Avdeling Garnes",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8488",
+        "skolenavn": "Arna vidareg\u00e5ande skule Avdeling Tunesvegen",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8572",
+        "skolenavn": "Hafstad videreg\u00e5ende skule",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_6588",
+        "skolenavn": "Hjeltnes vidareg\u00e5ande skule",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8523",
+        "skolenavn": "Hop videreg\u00e5ende skole as",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8571",
+        "skolenavn": "H\u00f8yanger vidareg\u00e5ande skule",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_219868",
+        "skolenavn": "Bergen Private Gymnas",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8500",
+        "skolenavn": "Knarvik vidareg\u00e5ande skule",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8474",
+        "skolenavn": "Knarvik vidareg\u00e5ande skule Avdeling Juvikst\u00f8len",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_6072",
+        "skolenavn": "Kongshaug Musikkgymnas",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8507",
+        "skolenavn": "Krokeide videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8482",
+        "skolenavn": "Kvinnherad vidareg\u00e5ande skule",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8499",
+        "skolenavn": "Laksev\u00e5g videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8548",
+        "skolenavn": "Langhaugen videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8566",
+        "skolenavn": "Luster vidareg\u00e5ande skule",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8538",
+        "skolenavn": "L\u00f8nborg videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_6592",
+        "skolenavn": "Mo og \u00d8yrane vidareg\u00e5ande skule Skulestad Mo",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8583",
+        "skolenavn": "M\u00e5l\u00f8y vidareg\u00e5ande skule",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8501",
+        "skolenavn": "Kvam vidareg\u00e5ande skule Avdeling Norheimsund",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8502",
+        "skolenavn": "Odda vidareg\u00e5ande skule",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_220480",
+        "skolenavn": "Olsvik\u00e5sen videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8476",
+        "skolenavn": "Os gymnas",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8524",
+        "skolenavn": "Os vidareg\u00e5ande skule",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8513",
+        "skolenavn": "Oster\u00f8y vidareg\u00e5ande skule",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8503",
+        "skolenavn": "Rubbestadnes vidareg\u00e5ande skule",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8528",
+        "skolenavn": "Rudolf Steinerskolen i Bergen",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8511",
+        "skolenavn": "Sandsli videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8498",
+        "skolenavn": "Sl\u00e5tthaug videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_16537",
+        "skolenavn": "Sl\u00e5tthaug videreg\u00e5ende skole Avdeling Bj\u00f8rk\u00e5sen",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_6593",
+        "skolenavn": "Sogn Jord- og Hagebruksskule",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8567",
+        "skolenavn": "Sogndal vidareg\u00e5ande skule",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_14314",
+        "skolenavn": "Sonans privatgymnas Bergen",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8525",
+        "skolenavn": "Sotra vidareg\u00e5ande skule",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_201027",
+        "skolenavn": "Sotra vidareg\u00e5ande skule Avdeling Sund",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_6589",
+        "skolenavn": "Stend vidareg\u00e5ande skule",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8477",
+        "skolenavn": "Stord vidareg\u00e5ande skule",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_220482",
+        "skolenavn": "Stord vidareg\u00e5ande skule Avdeling Saghaugen",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8504",
+        "skolenavn": "Stord vidareg\u00e5ande skule Avdeling Vabakkjen",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8579",
+        "skolenavn": "Stryn vidareg\u00e5ande skule",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8589",
+        "skolenavn": "Sygna vidareg\u00e5ande skule",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8549",
+        "skolenavn": "Tanks videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8480",
+        "skolenavn": "Tertnes vidareg\u00e5ande skule",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8550",
+        "skolenavn": "U. Pihl videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8478",
+        "skolenavn": "Voss gymnas",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8490",
+        "skolenavn": "Voss husflidskule",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_6590",
+        "skolenavn": "Voss jordbruksskule",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8505",
+        "skolenavn": "Voss vidareg\u00e5ande skule Avdeling Vatle",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8531",
+        "skolenavn": "Voss vidareg\u00e5ande skule Avdeling Granvin",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8575",
+        "skolenavn": "Mo og \u00d8yrane vidareg\u00e5ande skule",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8479",
+        "skolenavn": "Kvam vidareg\u00e5ande skule Avdeling \u00d8ystese",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8565",
+        "skolenavn": "\u00c5rdal vidareg\u00e5ande skule",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8590",
+        "skolenavn": "\u00c5rdal vidareg\u00e5ande skule Avdeling L\u00e6rdal",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8497",
+        "skolenavn": "\u00c5rstad videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8506",
+        "skolenavn": "\u00c5sane vidareg\u00e5ande skule",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8535",
+        "skolenavn": "\u00c5sane videreg\u00e5ende skole Avdeling Eidsv\u00e5g",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_279230",
+        "skolenavn": "Nordahl Grieg videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_201694",
+        "skolenavn": "Akademiet VGS Bergen",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_303813",
+        "skolenavn": "St. Paul gymnas",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_846986",
+        "skolenavn": "Voss vidareg\u00e5ande skule",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_872368",
+        "skolenavn": "Kvam vidareg\u00e5ande skule",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_980772",
+        "skolenavn": "Laksev\u00e5g og Bergen maritime vidareg\u00e5ande skule",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_980773",
+        "skolenavn": "Laksev\u00e5g og Bergen maritime vidareg\u00e5ande skule",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_992798",
+        "skolenavn": "Norges Toppidrettsgymnas Bergen as",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_992799",
+        "skolenavn": "Norges Toppidrettsgymnas Bergen as",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_1000113",
+        "skolenavn": "F\u00f8rde vidareg\u00e5ande skule",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_333198",
+        "skolenavn": "Amalie Skram videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      }
+    ],
+    "kommuner": [
+      {
+        "kommunenr": "4601",
+        "kommunenavn": "Bergen",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4602",
+        "kommunenavn": "Kinn",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4611",
+        "kommunenavn": "Etne",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4612",
+        "kommunenavn": "Sveio",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4613",
+        "kommunenavn": "B\u00f8mlo",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4614",
+        "kommunenavn": "Stord",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4615",
+        "kommunenavn": "Fitjar",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4616",
+        "kommunenavn": "Tysnes",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4617",
+        "kommunenavn": "Kvinnherad",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4618",
+        "kommunenavn": "Ullensvang",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4619",
+        "kommunenavn": "Eidfjord",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4620",
+        "kommunenavn": "Ulvik",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4621",
+        "kommunenavn": "Voss",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4622",
+        "kommunenavn": "Kvam",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4623",
+        "kommunenavn": "Samnanger",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4624",
+        "kommunenavn": "Bj\u00f8rnafjorden",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4625",
+        "kommunenavn": "Austevoll",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4626",
+        "kommunenavn": "\u00d8ygarden",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4627",
+        "kommunenavn": "Ask\u00f8y",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4628",
+        "kommunenavn": "Vaksdal",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4629",
+        "kommunenavn": "Modalen",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4630",
+        "kommunenavn": "Oster\u00f8y",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4631",
+        "kommunenavn": "Alver",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4632",
+        "kommunenavn": "Austrheim",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4633",
+        "kommunenavn": "Fedje",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4634",
+        "kommunenavn": "Masfjorden",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4635",
+        "kommunenavn": "Gulen",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4636",
+        "kommunenavn": "Solund",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4637",
+        "kommunenavn": "Hyllestad",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4638",
+        "kommunenavn": "H\u00f8yanger",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4639",
+        "kommunenavn": "Vik",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4640",
+        "kommunenavn": "Sogndal",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4641",
+        "kommunenavn": "Aurland",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4642",
+        "kommunenavn": "L\u00e6rdal",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4643",
+        "kommunenavn": "\u00c5rdal",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4644",
+        "kommunenavn": "Luster",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4645",
+        "kommunenavn": "Askvoll",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4646",
+        "kommunenavn": "Fjaler",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4647",
+        "kommunenavn": "Sunnfjord",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4648",
+        "kommunenavn": "Bremanger",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4649",
+        "kommunenavn": "Stad",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4650",
+        "kommunenavn": "Gloppen",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "4651",
+        "kommunenavn": "Stryn",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      }
+    ]
+  },
+  {
+    "fylkenr": "50",
+    "fylkenavn": "Tr\u00f8ndelag",
+    "visning": true,
+    "skoler": [
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8732",
+        "skolenavn": "Aglo videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8663",
+        "skolenavn": "Bybroen videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_200377",
+        "skolenavn": "By\u00e5sen videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8664",
+        "skolenavn": "Fosen videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8684",
+        "skolenavn": "Guri Kunna videreg\u00e5ende skole Skolested Fr\u00f8ya",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8655",
+        "skolenavn": "Gauldal videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8656",
+        "skolenavn": "Thora Storm videreg\u00e5ende skole avdeling Gerhard Sch\u00f8ning",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8733",
+        "skolenavn": "Grong videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8685",
+        "skolenavn": "Heimdal videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8672",
+        "skolenavn": "Kyrks\u00e6ter\u00f8ra videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8686",
+        "skolenavn": "Guri Kunna videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8727",
+        "skolenavn": "Inder\u00f8y videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8693",
+        "skolenavn": "Kristen Videreg\u00e5ende skole Tr\u00f8ndelag",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8718",
+        "skolenavn": "Johan Bojer videreg\u00e5ende skole Skolested Leksvik",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8708",
+        "skolenavn": "Levanger videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_16927",
+        "skolenavn": "Lukas videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8704",
+        "skolenavn": "Malvik videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8667",
+        "skolenavn": "Meldal videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8688",
+        "skolenavn": "Melhus videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8734",
+        "skolenavn": "Mer\u00e5ker videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_6597",
+        "skolenavn": "M\u00e6re landbruksskole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8709",
+        "skolenavn": "Olav Duun videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8711",
+        "skolenavn": "Ole Vig videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8661",
+        "skolenavn": "Oppdal videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8657",
+        "skolenavn": "Orkdal vidareg\u00e5ande skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8687",
+        "skolenavn": "Johan Bojer videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8670",
+        "skolenavn": "R\u00f8ros videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8683",
+        "skolenavn": "Selbu videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_6595",
+        "skolenavn": "Skjetlein videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8705",
+        "skolenavn": "Skansen Videreg\u00e5ende Steinerskole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_201581",
+        "skolenavn": "Steinerskolen p\u00e5 Rotvoll Videreg\u00e5ende trinn",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_244289",
+        "skolenavn": "Steinkjer videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8716",
+        "skolenavn": "Steinkjer videreg\u00e5ende skole Avdeling Egge",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8710",
+        "skolenavn": "Steinkjer videreg\u00e5ende skole Avdeling Guldbergaunet",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8659",
+        "skolenavn": "Strinda videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8682",
+        "skolenavn": "Tiller videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8653",
+        "skolenavn": "Trondheim katedralskole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_6600",
+        "skolenavn": "Val Skoler as",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8713",
+        "skolenavn": "Verdal videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8726",
+        "skolenavn": "Ytre Namdal videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_11952",
+        "skolenavn": "\u00d8ya videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8665",
+        "skolenavn": "\u00c5fjord videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_292140",
+        "skolenavn": "Charlottenlund videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_287787",
+        "skolenavn": "Thora Storm videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_827649",
+        "skolenavn": "Momo Waldorfskole as",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_857774",
+        "skolenavn": "Guri Kunna videreg\u00e5ende skole Skolested Hitra",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_990476",
+        "skolenavn": "Cissi Klein videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_999847",
+        "skolenavn": "Johan Bojer videreg\u00e5ende skole Skolested Rissa",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_4760",
+        "skolenavn": "Rostad skole as",
+        "skoleregionnr": null,
+        "visning": true
+      }
+    ],
+    "kommuner": [
+      {
+        "kommunenr": "5001",
+        "kommunenavn": "Trondheim",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5006",
+        "kommunenavn": "Steinkjer",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5007",
+        "kommunenavn": "Namsos",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5014",
+        "kommunenavn": "Fr\u00f8ya",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5020",
+        "kommunenavn": "Osen",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5021",
+        "kommunenavn": "Oppdal",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5022",
+        "kommunenavn": "Rennebu",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5025",
+        "kommunenavn": "R\u00f8ros",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5026",
+        "kommunenavn": "Holt\u00e5len",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5027",
+        "kommunenavn": "Midtre Gauldal",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5028",
+        "kommunenavn": "Melhus",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5029",
+        "kommunenavn": "Skaun",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5031",
+        "kommunenavn": "Malvik",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5032",
+        "kommunenavn": "Selbu",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5033",
+        "kommunenavn": "Tydal",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5034",
+        "kommunenavn": "Mer\u00e5ker",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5035",
+        "kommunenavn": "Stj\u00f8rdal",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5036",
+        "kommunenavn": "Frosta",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5037",
+        "kommunenavn": "Levanger",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5038",
+        "kommunenavn": "Verdal",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5041",
+        "kommunenavn": "Sn\u00e5sa",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5042",
+        "kommunenavn": "Lierne",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5043",
+        "kommunenavn": "R\u00f8yrvik",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5044",
+        "kommunenavn": "Namsskogan",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5045",
+        "kommunenavn": "Grong",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5046",
+        "kommunenavn": "H\u00f8ylandet",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5047",
+        "kommunenavn": "Overhalla",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5049",
+        "kommunenavn": "Flatanger",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5052",
+        "kommunenavn": "Leka",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5053",
+        "kommunenavn": "Inder\u00f8y",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5054",
+        "kommunenavn": "Indre Fosen",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5055",
+        "kommunenavn": "Heim",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5056",
+        "kommunenavn": "Hitra",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5057",
+        "kommunenavn": "\u00d8rland",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5058",
+        "kommunenavn": "\u00c5fjord",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5059",
+        "kommunenavn": "Orkland",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5060",
+        "kommunenavn": "N\u00e6r\u00f8ysund",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5061",
+        "kommunenavn": "Rindal",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      }
+    ]
+  },
+  {
+    "fylkenr": "55",
+    "fylkenavn": "Troms",
+    "visning": true,
+    "skoler": [
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8821",
+        "skolenavn": "Breivang videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8822",
+        "skolenavn": "Ishavsbyen videreg\u00e5ende skole Skolested Breivika",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8811",
+        "skolenavn": "Senja videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8824",
+        "skolenavn": "Bardufoss videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8818",
+        "skolenavn": "Sj\u00f8vegan videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8810",
+        "skolenavn": "Kongsbakken videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8839",
+        "skolenavn": "Kval\u00f8ya videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8828",
+        "skolenavn": "Nordborg Videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8841",
+        "skolenavn": "Nordkjosbotn videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8817",
+        "skolenavn": "Nord-Troms videreg\u00e5ende skole Avdeling Nordreisa",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_6602",
+        "skolenavn": "Stangnes R\u00e5 videreg\u00e5ende skole, skolested R\u00e5",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8847",
+        "skolenavn": "Senja videreg\u00e5ende skole Avdeling Gibostad",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8826",
+        "skolenavn": "Nord-Troms videreg\u00e5ende skole Avdeling Skjerv\u00f8y",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8819",
+        "skolenavn": "Stangnes R\u00e5 videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8820",
+        "skolenavn": "Tromsdalen videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8833",
+        "skolenavn": "Ishavsbyen videreg\u00e5ende skole Skolested Rambergan",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8812",
+        "skolenavn": "Heggen videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8813",
+        "skolenavn": "V\u00e5gsfjord videreg\u00e5ende skole Avdeling Sk\u00e5nland",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_257536",
+        "skolenavn": "Norges Toppidrettsgymnas Troms\u00f8 as",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_294025",
+        "skolenavn": "Nord-Troms videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_859674",
+        "skolenavn": "Ishavsbyen videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_303482",
+        "skolenavn": "Senja videreg\u00e5ende skole Avdeling Finnfjordbotn",
+        "skoleregionnr": null,
+        "visning": true
+      }
+    ],
+    "kommuner": [
+      {
+        "kommunenr": "5501",
+        "kommunenavn": "Troms\u00f8",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5503",
+        "kommunenavn": "Harstad",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5510",
+        "kommunenavn": "Kv\u00e6fjord",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5512",
+        "kommunenavn": "Tjeldsund",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5514",
+        "kommunenavn": "Ibestad",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5516",
+        "kommunenavn": "Gratangen",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5518",
+        "kommunenavn": "Lavangen",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5520",
+        "kommunenavn": "Bardu",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5522",
+        "kommunenavn": "Salangen",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5524",
+        "kommunenavn": "M\u00e5lselv",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5526",
+        "kommunenavn": "S\u00f8rreisa",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5528",
+        "kommunenavn": "Dyr\u00f8y",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5530",
+        "kommunenavn": "Senja",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5532",
+        "kommunenavn": "Balsfjord",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5534",
+        "kommunenavn": "Karls\u00f8y",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5536",
+        "kommunenavn": "Lyngen",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5538",
+        "kommunenavn": "Storfjord",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5540",
+        "kommunenavn": "K\u00e5fjord",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5542",
+        "kommunenavn": "Skjerv\u00f8y",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5544",
+        "kommunenavn": "Nordreisa",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5546",
+        "kommunenavn": "Kv\u00e6nangen",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      }
+    ]
+  },
+  {
+    "fylkenr": "56",
+    "fylkenavn": "Finnmark",
+    "visning": true,
+    "skoler": [
+      {
+        "vilbli_org_id": "Vilbli_no_adr_209148",
+        "skolenavn": "Alta videreg\u00e5ende skole Yrkessj\u00e5f\u00f8rer",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8862",
+        "skolenavn": "Alta videreg\u00e5ende skole / \u00c0ltt\u00e0 joatkkaskuvla",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_201154",
+        "skolenavn": "Nordkapp videreg\u00e5ende skole Avdeling B\u00e5tsfjord",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8863",
+        "skolenavn": "Hammerfest videreg\u00e5ende skole / H\u00e1mmerfeasta joatkkaskuvla",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8858",
+        "skolenavn": "Kirkenes videreg\u00e5ende skole / Girkonj\u00e1rgga joatkkaskuvla",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8867",
+        "skolenavn": "Lakselv videreg\u00e5ende skole / Leavnnja joatkkaskuvla",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8861",
+        "skolenavn": "Nordkapp videreg\u00e5ende skole",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_229030",
+        "skolenavn": "Nordkapp videreg\u00e5ende skole \u2013 LOSA Berlev\u00e5g",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8873",
+        "skolenavn": "Nordkapp videreg\u00e5ende skole \u2013 LOSA Hasvik",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8883",
+        "skolenavn": "Nordkapp videreg\u00e5ende skole \u2013 LOSA M\u00e5s\u00f8y",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8874",
+        "skolenavn": "Nordkapp videreg\u00e5ende skole \u2013 LOSA Lebesby",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_203171",
+        "skolenavn": "Nordkapp videreg\u00e5ende skole \u2013 LOSA Gamvik",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_229033",
+        "skolenavn": "Nordkapp videreg\u00e5ende skole \u2013 LOSA Loppa",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8868",
+        "skolenavn": "Sami joatkkaskuvla ja boazodoalloskuvla / Samisk videreg\u00e5ende og reindriftsskole i Kautokeino",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8860",
+        "skolenavn": "Samisk videreg\u00e5ende skole Karasjok \u2013 S\u00e1mi joatkkaskuvla K\u00e1r\u00e1sjogas",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_6603",
+        "skolenavn": "Tana videreg\u00e5ende skole / Deanu joatkkaskuvla",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8859",
+        "skolenavn": "Vads\u00f8 videreg\u00e5ende skole / C\u00e1hcesullo joatkkaskuvla",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_8865",
+        "skolenavn": "Vard\u00f8 videreg\u00e5ende skole/V\u00e1rgg\u00e1idt joatkkaskuvla",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_259133",
+        "skolenavn": "Nordkapp videreg\u00e5ende skole \u2013 LOSA Tana",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_841107",
+        "skolenavn": "B\u00e5tsfjord private videreg\u00e5ende skole as",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_872137",
+        "skolenavn": "Nordkapp videreg\u00e5ende skole \u2013 LOSA Alta",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_908778",
+        "skolenavn": "Nordkapp videreg\u00e5ende skole \u2013\u00a0LOSA B\u00e5tsfjord",
+        "skoleregionnr": null,
+        "visning": true
+      },
+      {
+        "vilbli_org_id": "Vilbli_no_adr_908779",
+        "skolenavn": "Nordkapp videreg\u00e5ende skole \u2013 LOSA B\u00e5tsfjord",
+        "skoleregionnr": null,
+        "visning": true
+      }
+    ],
+    "kommuner": [
+      {
+        "kommunenr": "5601",
+        "kommunenavn": "Alta",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5603",
+        "kommunenavn": "Hammerfest",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5605",
+        "kommunenavn": "S\u00f8r-Varanger",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5607",
+        "kommunenavn": "Vads\u00f8",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5610",
+        "kommunenavn": "Karasjok",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5612",
+        "kommunenavn": "Kautokeino",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5614",
+        "kommunenavn": "Loppa",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5616",
+        "kommunenavn": "Hasvik",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5618",
+        "kommunenavn": "M\u00e5s\u00f8y",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5620",
+        "kommunenavn": "Nordkapp",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5622",
+        "kommunenavn": "Porsanger",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5624",
+        "kommunenavn": "Lebesby",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5626",
+        "kommunenavn": "Gamvik",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5628",
+        "kommunenavn": "Tana",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5630",
+        "kommunenavn": "Berlev\u00e5g",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5632",
+        "kommunenavn": "B\u00e5tsfjord",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5634",
+        "kommunenavn": "Vard\u00f8",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      },
+      {
+        "kommunenr": "5636",
+        "kommunenavn": "Nesseby",
+        "skoleregionnr": null,
+        "skoleregionnavn": null,
+        "visning": true
+      }
+    ]
+  }
+]

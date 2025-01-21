@@ -1,0 +1,110 @@
+{
+  "@context": "/contexts/Region",
+  "@id": "/utdanningsdata/region",
+  "@type": "hydra:Collection",
+  "hydra:totalItems": 5,
+  "hydra:member": [
+    {
+      "@id": "/regions/Midt-Norge",
+      "@type": "Region",
+      "navn": "Midt-Norge",
+      "fylker_nummer": [
+        "50"
+      ],
+      "fylker_navn": [
+        "Tr\u00f8ndelag"
+      ]
+    },
+    {
+      "@id": "/regions/Vestlandet",
+      "@type": "Region",
+      "navn": "Vestlandet",
+      "fylker_nummer": [
+        "15",
+        "11",
+        "46"
+      ],
+      "fylker_navn": [
+        "M\u00f8re og Romsdal",
+        "Rogaland",
+        "Vestland"
+      ]
+    },
+    {
+      "@id": "/regions/S%C3%B8rlandet",
+      "@type": "Region",
+      "navn": "S\u00f8rlandet",
+      "fylker_nummer": [
+        "42"
+      ],
+      "fylker_navn": [
+        "Agder"
+      ]
+    },
+    {
+      "@id": "/regions/Nord-Norge",
+      "@type": "Region",
+      "navn": "Nord-Norge",
+      "fylker_nummer": [
+        "18",
+        "21",
+        "56",
+        "55"
+      ],
+      "fylker_navn": [
+        "Nordland",
+        "Svalbard",
+        "Finnmark",
+        "Troms"
+      ]
+    },
+    {
+      "@id": "/regions/%C3%98stlandet",
+      "@type": "Region",
+      "navn": "\u00d8stlandet",
+      "fylker_nummer": [
+        "3",
+        "34",
+        "32",
+        "33",
+        "40",
+        "39",
+        "31"
+      ],
+      "fylker_navn": [
+        "Oslo",
+        "Innlandet",
+        "Akershus",
+        "Buskerud",
+        "Telemark",
+        "Vestfold",
+        "\u00d8stfold"
+      ]
+    }
+  ],
+  "hydra:search": {
+    "@type": "hydra:IriTemplate",
+    "hydra:template": "/utdanningsdata/region{?region,fylkenr,fylkenavn}",
+    "hydra:variableRepresentation": "BasicRepresentation",
+    "hydra:mapping": [
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "region",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "fylkenr",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "fylkenavn",
+        "property": null,
+        "required": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,339 @@
+[
+  {
+    "id": 1,
+    "tittel": "Hovedmodell",
+    "beskrivelse": "Oppl\u00e6ring i skole og bedrift - vanligste l\u00f8p",
+    "ingress": "<p>Dette er den vanligste veien til fag- og svennebrev.</p>",
+    "info": null,
+    "ordningslenke": null,
+    "fag": [
+      "BAAMF3----",
+      "BAANG3----",
+      "BAARL3----",
+      "BAASF3----",
+      "BABAN3----",
+      "BABET3----",
+      "BABRO3----",
+      "BAFJE3----",
+      "BAFMF3----",
+      "BAIMF3----",
+      "BAISL3----",
+      "BAMFF3----",
+      "BAMOT3----",
+      "BASNE3----",
+      "BATAK3----",
+      "BATLT3----",
+      "BATMF3----",
+      "BAVBL3----",
+      "BAVOA3----",
+      "BAVOV3----",
+      "DTBKF3----",
+      "DTBNT3----",
+      "DTBSM3----",
+      "DTBUN3----",
+      "DTFIL3----",
+      "DTGUL3----",
+      "DTHMD3----",
+      "DTHSK3----",
+      "DTHVF3----",
+      "DTKBB3----",
+      "DTKJD3----",
+      "DTKST3----",
+      "DTMOD3----",
+      "DTMSF3----",
+      "DTSAL3----",
+      "DTSKO3----",
+      "DTSLV3----",
+      "DTSME3----",
+      "DTSPD3----",
+      "DTSTR3----",
+      "DTTDR3----",
+      "DTTED3----",
+      "DTTRB3----",
+      "DTTRD3----",
+      "DTTSK3----",
+      "DTURM3----",
+      "DTVHD3----",
+      "ELDRF3----",
+      "ELERF3----",
+      "ELKVP3----",
+      "ELLSM3----",
+      "ELOPT3----",
+      "ELPRO3----",
+      "ELTAV3----",
+      "ELTOG3----",
+      "ELVEN3----",
+      "ELVIK3----",
+      "FDBLD3----",
+      "FDFRI3----",
+      "FDPFD3----",
+      "HSAKT3----",
+      "HSAMB3----",
+      "HSBUA3----",
+      "HSHEA3----",
+      "HSORT3----",
+      "HSPOR3----",
+      "IMIHP3----",
+      "IMITD3----",
+      "IMIUV3----",
+      "IMMDF3----",
+      "IMMET3----",
+      "NAAKV3----",
+      "NADYR3----",
+      "NAFFA3----",
+      "NAGAR3----",
+      "NAHAV3----",
+      "NAHST3----",
+      "NAREI3----",
+      "NASKF3----",
+      "RMBAK3----",
+      "RMEKF3----",
+      "RMFVF3----",
+      "RMIMP3----",
+      "RMKOK3----",
+      "RMKON3----",
+      "RMKSK3----",
+      "RMPMF3----",
+      "RMSER3----",
+      "RMSLF3----",
+      "RMSMP3----",
+      "SRRLV3----",
+      "SRSIK3----",
+      "SRSLG3----",
+      "SRSOA3----",
+      "TPALU3----",
+      "TPBIP3----",
+      "TPBKO3----",
+      "TPBKV3----",
+      "TPBLA3----",
+      "TPBMF3----",
+      "TPBMK3----",
+      "TPBOR3----",
+      "TPBRE3----",
+      "TPBRH3----",
+      "TPBRM3----",
+      "TPBRS3----",
+      "TPBSK3----",
+      "TPBTK3----",
+      "TPCNC3----",
+      "TPDKO3----",
+      "TPFMK3----",
+      "TPGPT3----",
+      "TPGVF3----",
+      "TPHJU3----",
+      "TPIME3----",
+      "TPIMO3----",
+      "TPIOM3----",
+      "TPIOV3----",
+      "TPIRL3----",
+      "TPISN3----",
+      "TPITA3----",
+      "TPITF3----",
+      "TPKAR3----",
+      "TPKJP3----",
+      "TPKLO3----",
+      "TPLAB3----",
+      "TPLMM3----",
+      "TPLOG3----",
+      "TPMME3----",
+      "TPMOB3----",
+      "TPMSY3----",
+      "TPMTS3----",
+      "TPNDT3----",
+      "TPPLA3----",
+      "TPPLF3----",
+      "TPPOM3----",
+      "TPPRT3----",
+      "TPRSD3----",
+      "TPSGR3----",
+      "TPSMK3----",
+      "TPSVE3----",
+      "TPSYM3----",
+      "TPTLM3----",
+      "TPTSR3----",
+      "TPVAF3----",
+      "TPVER3----",
+      "TPYRK3----"
+    ],
+    "vei": {
+      "aar1": "skole",
+      "aar2": "skole",
+      "aar3": "bedrift",
+      "aar4": "bedrift",
+      "aar5": null,
+      "aar6": null
+    },
+    "vei_beskrivelse": [
+      {
+        "type": "skole",
+        "length": "2 \u00e5r"
+      },
+      {
+        "type": "bedrift",
+        "length": "2 \u00e5r"
+      }
+    ],
+    "vei_varighet": "4 \u00e5r"
+  },
+  {
+    "id": 2,
+    "tittel": "S\u00e6rl\u00f8p",
+    "beskrivelse": "Oppl\u00e6ring i skole og bedrift - mest l\u00e6retid",
+    "ingress": "<p>Noen fag har en s\u00e6rl\u00f8psmodell. Det er gjerne sm\u00e5 fag som er s\u00e6rl\u00f8psfag.</p>",
+    "info": null,
+    "ordningslenke": null,
+    "fag": null,
+    "vei": {
+      "aar1": "skole",
+      "aar2": "bedrift",
+      "aar3": "bedrift",
+      "aar4": "bedrift",
+      "aar5": null,
+      "aar6": null
+    },
+    "vei_beskrivelse": [
+      {
+        "type": "skole",
+        "length": "1 \u00e5r"
+      },
+      {
+        "type": "bedrift",
+        "length": "3 \u00e5r"
+      }
+    ],
+    "vei_varighet": "4 \u00e5r"
+  },
+  {
+    "id": 3,
+    "tittel": "Avviksfag 3+1",
+    "beskrivelse": "Oppl\u00e6ring i skole og bedrift - mest teori",
+    "ingress": "<p>Varer i 4,5 \u00e5r, selv om den heter 3+1. Gjelder fag med oppl\u00e6ringsl\u00f8p der l\u00e6retiden kun inneholder verdiskaping, alts\u00e5 at all l\u00e6retid er gitt.</p>",
+    "info": null,
+    "ordningslenke": null,
+    "fag": null,
+    "vei": {
+      "aar1": "skole",
+      "aar2": "skole",
+      "aar3": "skole",
+      "aar4": "bedrift",
+      "aar5": "bedrift_halv",
+      "aar6": null
+    },
+    "vei_beskrivelse": [
+      {
+        "type": "skole",
+        "length": "3 \u00e5r"
+      },
+      {
+        "type": "bedrift",
+        "length": "1,5 \u00e5r"
+      }
+    ],
+    "vei_varighet": "4,5 \u00e5r"
+  },
+  {
+    "id": 4,
+    "tittel": "Avviksfag 2+2,5",
+    "beskrivelse": "Oppl\u00e6ring i skole og bedrift - lengre l\u00e6retid",
+    "ingress": "<p>Denne modellen gjelder blant annet for de fleste elektrofagene og r\u00f8rleggerfaget. Du m\u00e5 avlegge en egen eksamen i l\u00e6retida i elektrofagene.</p>",
+    "info": null,
+    "ordningslenke": null,
+    "fag": [
+      "BARLF3----",
+      "ELELE3----",
+      "ELEMO3----",
+      "ELEOP3----",
+      "ELFUO3----",
+      "ELHEI3----",
+      "ELSIG3----",
+      "ELTEL3----"
+    ],
+    "vei": {
+      "aar1": "skole",
+      "aar2": "skole",
+      "aar3": "bedrift",
+      "aar4": "bedrift",
+      "aar5": "bedrift_halv",
+      "aar6": null
+    },
+    "vei_beskrivelse": [
+      {
+        "type": "skole",
+        "length": "2 \u00e5r"
+      },
+      {
+        "type": "bedrift",
+        "length": "2.5 \u00e5r"
+      }
+    ],
+    "vei_varighet": "4 \u00e5r"
+  },
+  {
+    "id": 5,
+    "tittel": "Avviksfag 3+2",
+    "beskrivelse": "Oppl\u00e6ring i skole og bedrift - fem \u00e5r",
+    "ingress": "<p>Denne modellen gjelder blant annet for flyfagene og maritim elektriker-faget.</p>",
+    "info": null,
+    "ordningslenke": null,
+    "fag": [
+      "ELAVI4----",
+      "ELFMO4----",
+      "ELFST4----",
+      "ELFSY4----",
+      "ELMEL4----"
+    ],
+    "vei": {
+      "aar1": "skole",
+      "aar2": "skole",
+      "aar3": "skole",
+      "aar4": "bedrift",
+      "aar5": "bedrift",
+      "aar6": null
+    },
+    "vei_beskrivelse": [
+      {
+        "type": "skole",
+        "length": "3 \u00e5r"
+      },
+      {
+        "type": "bedrift",
+        "length": "2 \u00e5r"
+      }
+    ],
+    "vei_varighet": "5 \u00e5r"
+  },
+  {
+    "id": 6,
+    "tittel": "Yrkeskompetansefag",
+    "beskrivelse": "Oppl\u00e6ring p\u00e5 skolen",
+    "ingress": "<p>Noen fag gir ikke fag- eller svennebrev, men vitnem\u00e5l med yrkeskompetanse.</p>",
+    "info": null,
+    "ordningslenke": null,
+    "fag": [
+      "ELROM3----",
+      "FDEKD3----",
+      "FDINT3----",
+      "HSAPO3----",
+      "HSFOT3----",
+      "HSHSE3----",
+      "HSHUD3----",
+      "HSTAN3----",
+      "NALBR3----"
+    ],
+    "vei": {
+      "aar1": "skole",
+      "aar2": "skole",
+      "aar3": "skole",
+      "aar4": null,
+      "aar5": null,
+      "aar6": null
+    },
+    "vei_beskrivelse": [
+      {
+        "type": "skole",
+        "length": "3 \u00e5r"
+      }
+    ],
+    "vei_varighet": "3 \u00e5r"
+  }
+]

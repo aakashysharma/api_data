@@ -1,0 +1,123 @@
+{
+  "@context": "/contexts/Godkjenninger",
+  "@id": "/finnlarebedrift/facet/godkjenninger",
+  "@type": "hydra:Collection",
+  "hydra:totalItems": 7,
+  "hydra:member": [
+    {
+      "@id": "/finnlarebedrift/godkjenninger/Sentralt%20godkjent",
+      "@type": "Godkjenninger",
+      "value": "Sentralt godkjent",
+      "count": 20538
+    },
+    {
+      "@id": "/finnlarebedrift/godkjenninger/Mesterbedrift",
+      "@type": "Godkjenninger",
+      "value": "Mesterbedrift",
+      "count": 13767
+    },
+    {
+      "@id": "/finnlarebedrift/godkjenninger/Godkjent%20renholdsbedrift",
+      "@type": "Godkjenninger",
+      "value": "Godkjent renholdsbedrift",
+      "count": 11042
+    },
+    {
+      "@id": "/finnlarebedrift/godkjenninger/Smilefjestilsyn",
+      "@type": "Godkjenninger",
+      "value": "Smilefjestilsyn",
+      "count": 8380
+    },
+    {
+      "@id": "/finnlarebedrift/godkjenninger/Godkjent%20kj%C3%B8ret%C3%B8yverksted",
+      "@type": "Godkjenninger",
+      "value": "Godkjent kj\u00f8ret\u00f8yverksted",
+      "count": 5369
+    },
+    {
+      "@id": "/finnlarebedrift/godkjenninger/Godkjent%20elvirksomhet",
+      "@type": "Godkjenninger",
+      "value": "Godkjent elvirksomhet",
+      "count": 4008
+    },
+    {
+      "@id": "/finnlarebedrift/godkjenninger/Ekomnettautorisasjon",
+      "@type": "Godkjenninger",
+      "value": "Ekomnettautorisasjon",
+      "count": 3582
+    }
+  ],
+  "hydra:search": {
+    "@type": "hydra:IriTemplate",
+    "hydra:template": "/finnlarebedrift/facet/godkjenninger{?q,larling,aarsverk,opplaring,gk,sted,fag,YFF,larlinger,bedriftsstorrelse,opplaringskontor}",
+    "hydra:variableRepresentation": "BasicRepresentation",
+    "hydra:mapping": [
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "q",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "larling",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "aarsverk",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "opplaring",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "gk",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "sted",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "fag",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "YFF",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "larlinger",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "bedriftsstorrelse",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "opplaringskontor",
+        "property": null,
+        "required": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+[
+  {
+    "programomradekode10": "BABAT1----",
+    "programomrade_tittel": "Vg1 Bygg- og anleggsteknikk",
+    "utdanningsprogram_type": "Yrkesfaglig utdanningsprogram",
+    "programomrade_type": "Skole(Elev)",
+    "opplaringssted": "Skole",
+    "varighet": "1.0",
+    "forste_semester": "H\u00f8st 2006",
+    "siste_semester": null,
+    "program_status": "GYLDIG",
+    "is_krysslop": false,
+    "nasjonal_linje": false,
+    "tilbys": null,
+    "canonical_path": [
+      "BABAT1----"
+    ]
+  },
+  {
+    "programomradekode10": "DTDTH1----",
+    "programomrade_tittel": "Vg1 H\u00e5ndverk, design og produktutvikling",
+    "utdanningsprogram_type": "Yrkesfaglig utdanningsprogram",
+    "programomrade_type": "Skole(Elev)",
+    "opplaringssted": "Skole",
+    "varighet": "1.0",
+    "forste_semester": "H\u00f8st 2020",
+    "siste_semester": null,
+    "program_status": "GYLDIG",
+    "is_krysslop": false,
+    "nasjonal_linje": false,
+    "tilbys": null,
+    "canonical_path": [
+      "DTDTH1----"
+    ]
+  },
+  {
+    "programomradekode10": "ELELE1----",
+    "programomrade_tittel": "Vg1 Elektro og datateknologi",
+    "utdanningsprogram_type": "Yrkesfaglig utdanningsprogram",
+    "programomrade_type": "Skole(Elev)",
+    "opplaringssted": "Skole",
+    "varighet": "1.0",
+    "forste_semester": "H\u00f8st 2006",
+    "siste_semester": null,
+    "program_status": "GYLDIG",
+    "is_krysslop": false,
+    "nasjonal_linje": false,
+    "tilbys": null,
+    "canonical_path": [
+      "ELELE1----"
+    ]
+  },
+  {
+    "programomradekode10": "FDFBI1----",
+    "programomrade_tittel": "Vg1 Fris\u00f8r, blomster, interi\u00f8r og eksponeringsdesign",
+    "utdanningsprogram_type": "Yrkesfaglig utdanningsprogram",
+    "programomrade_type": "Skole(Elev)",
+    "opplaringssted": "Skole",
+    "varighet": "1.0",
+    "forste_semester": "H\u00f8st 2020",
+    "siste_semester": null,
+    "program_status": "GYLDIG",
+    "is_krysslop": false,
+    "nasjonal_linje": false,
+    "tilbys": null,
+    "canonical_path": [
+      "FDFBI1----"
+    ]
+  },
+  {
+    "programomradekode10": "HSHSF1----",
+    "programomrade_tittel": "Vg1 Helse- og oppvekstfag",
+    "utdanningsprogram_type": "Yrkesfaglig utdanningsprogram",
+    "programomrade_type": "Skole(Elev)",
+    "opplaringssted": "Skole",
+    "varighet": "1.0",
+    "forste_semester": "H\u00f8st 2006",
+    "siste_semester": null,
+    "program_status": "GYLDIG",
+    "is_krysslop": false,
+    "nasjonal_linje": false,
+    "tilbys": null,
+    "canonical_path": [
+      "HSHSF1----"
+    ]
+  },
+  {
+    "programomradekode10": "IDRET1----",
+    "programomrade_tittel": "Vg1 Idrettsfag",
+    "utdanningsprogram_type": "Studieforberedende utdanningsprogram",
+    "programomrade_type": "Skole(Elev)",
+    "opplaringssted": "Skole",
+    "varighet": "1.0",
+    "forste_semester": "H\u00f8st 2006",
+    "siste_semester": null,
+    "program_status": "GYLDIG",
+    "is_krysslop": false,
+    "nasjonal_linje": false,
+    "tilbys": null,
+    "canonical_path": [
+      "IDRET1----"
+    ]
+  },
+  {
+    "programomradekode10": "IMIKM1----",
+    "programomrade_tittel": "Vg1 Informasjonsteknologi og medieproduksjon",
+    "utdanningsprogram_type": "Yrkesfaglig utdanningsprogram",
+    "programomrade_type": "Skole(Elev)",
+    "opplaringssted": "Skole",
+    "varighet": "1.0",
+    "forste_semester": "H\u00f8st 2020",
+    "siste_semester": null,
+    "program_status": "GYLDIG",
+    "is_krysslop": false,
+    "nasjonal_linje": false,
+    "tilbys": null,
+    "canonical_path": [
+      "IMIKM1----"
+    ]
+  },
+  {
+    "programomradekode10": "KDKDA1----",
+    "programomrade_tittel": "Vg1 Kunst, design og arkitektur",
+    "utdanningsprogram_type": "Studieforberedende utdanningsprogram",
+    "programomrade_type": "Skole(Elev)",
+    "opplaringssted": "Skole",
+    "varighet": "1.0",
+    "forste_semester": "H\u00f8st 2016",
+    "siste_semester": null,
+    "program_status": "GYLDIG",
+    "is_krysslop": false,
+    "nasjonal_linje": false,
+    "tilbys": null,
+    "canonical_path": [
+      "KDKDA1----"
+    ]
+  },
+  {
+    "programomradekode10": "MDMDD1----",
+    "programomrade_tittel": "Vg1 Musikk, dans og drama",
+    "utdanningsprogram_type": "Studieforberedende utdanningsprogram",
+    "programomrade_type": "Skole(Elev)",
+    "opplaringssted": "Skole",
+    "varighet": "1.0",
+    "forste_semester": "H\u00f8st 2006",
+    "siste_semester": null,
+    "program_status": "GYLDIG",
+    "is_krysslop": false,
+    "nasjonal_linje": false,
+    "tilbys": null,
+    "canonical_path": [
+      "MDMDD1----"
+    ]
+  },
+  {
+    "programomradekode10": "MEMOK1----",
+    "programomrade_tittel": "Vg1 Medier og kommunikasjon",
+    "utdanningsprogram_type": "Studieforberedende utdanningsprogram",
+    "programomrade_type": "Skole(Elev)",
+    "opplaringssted": "Skole",
+    "varighet": "1.0",
+    "forste_semester": "H\u00f8st 2016",
+    "siste_semester": null,
+    "program_status": "GYLDIG",
+    "is_krysslop": false,
+    "nasjonal_linje": false,
+    "tilbys": null,
+    "canonical_path": [
+      "MEMOK1----"
+    ]
+  },
+  {
+    "programomradekode10": "NANAB1----",
+    "programomrade_tittel": "Vg1 Naturbruk",
+    "utdanningsprogram_type": "Yrkesfaglig utdanningsprogram",
+    "programomrade_type": "Skole(Elev)",
+    "opplaringssted": "Skole",
+    "varighet": "1.0",
+    "forste_semester": "H\u00f8st 2006",
+    "siste_semester": null,
+    "program_status": "GYLDIG",
+    "is_krysslop": false,
+    "nasjonal_linje": false,
+    "tilbys": null,
+    "canonical_path": [
+      "NANAB1----"
+    ]
+  },
+  {
+    "programomradekode10": "RMRMF1----",
+    "programomrade_tittel": "Vg1 Restaurant- og matfag",
+    "utdanningsprogram_type": "Yrkesfaglig utdanningsprogram",
+    "programomrade_type": "Skole(Elev)",
+    "opplaringssted": "Skole",
+    "varighet": "1.0",
+    "forste_semester": "H\u00f8st 2006",
+    "siste_semester": null,
+    "program_status": "GYLDIG",
+    "is_krysslop": false,
+    "nasjonal_linje": false,
+    "tilbys": null,
+    "canonical_path": [
+      "RMRMF1----"
+    ]
+  },
+  {
+    "programomradekode10": "SRSSR1----",
+    "programomrade_tittel": "Vg1 Salg, service og reiseliv",
+    "utdanningsprogram_type": "Yrkesfaglig utdanningsprogram",
+    "programomrade_type": "Skole(Elev)",
+    "opplaringssted": "Skole",
+    "varighet": "1.0",
+    "forste_semester": "H\u00f8st 2020",
+    "siste_semester": null,
+    "program_status": "GYLDIG",
+    "is_krysslop": false,
+    "nasjonal_linje": false,
+    "tilbys": null,
+    "canonical_path": [
+      "SRSSR1----"
+    ]
+  },
+  {
+    "programomradekode10": "STUSP1----",
+    "programomrade_tittel": "Vg1 Studiespesialisering",
+    "utdanningsprogram_type": "Studieforberedende utdanningsprogram",
+    "programomrade_type": "Skole(Elev)",
+    "opplaringssted": "Skole",
+    "varighet": "1.0",
+    "forste_semester": "H\u00f8st 2006",
+    "siste_semester": null,
+    "program_status": "GYLDIG",
+    "is_krysslop": false,
+    "nasjonal_linje": false,
+    "tilbys": null,
+    "canonical_path": [
+      "STUSP1----"
+    ]
+  },
+  {
+    "programomradekode10": "TPTIP1----",
+    "programomrade_tittel": "Vg1 Teknologi- og industrifag",
+    "utdanningsprogram_type": "Yrkesfaglig utdanningsprogram",
+    "programomrade_type": "Skole(Elev)",
+    "opplaringssted": "Skole",
+    "varighet": "1.0",
+    "forste_semester": "H\u00f8st 2006",
+    "siste_semester": null,
+    "program_status": "GYLDIG",
+    "is_krysslop": false,
+    "nasjonal_linje": false,
+    "tilbys": null,
+    "canonical_path": [
+      "TPTIP1----"
+    ]
+  }
+]

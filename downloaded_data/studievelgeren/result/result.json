@@ -1,0 +1,2357 @@
+{
+  "@context": "/contexts/StudievelgerenResult",
+  "@id": "/studievelgeren/result",
+  "@type": "hydra:Collection",
+  "hydra:totalItems": 1364,
+  "hydra:member": [
+    {
+      "@id": "/studievelgeren_results/NnNsbWc5LXN0dWRpZXZlbGdlcmVuLWVudGl0eTpka191aF9zby8xODQ1NjU6bmI=",
+      "@type": "StudievelgerenResult",
+      "id": "NnNsbWc5LXN0dWRpZXZlbGdlcmVuLWVudGl0eTpka191aF9zby8xODQ1NjU6bmI=",
+      "title": "Italiensk",
+      "type": "",
+      "entity_id": "",
+      "url": "/",
+      "score": 21,
+      "adgangstype": "L",
+      "alltext": [
+        "0.00",
+        "180.0",
+        "184",
+        "184565",
+        "6",
+        "Bachelor, 3 \u00e5r",
+        "Europeiske spr\u00e5k/-kunnskap",
+        "Generell studiekompetanse",
+        "Italiensk",
+        "Italiensk (bachelor)",
+        "L",
+        "Spr\u00e5k",
+        "Universitetet i Bergen",
+        "Vestland",
+        "http://www.uib.no/studieprogram/BAHF-ITAL"
+      ],
+      "interesse": [
+        "Kunst og kultur",
+        "Spr\u00e5k"
+      ],
+      "fotnote": "",
+      "uh_tilbud_id": [
+        "uib.no___cdm-programs-___BAHF-ITAL"
+      ],
+      "utdanningsbeskrivelse_title": [
+        "Vesteuropeiske spr\u00e5k"
+      ],
+      "utdanningsbeskrivelse_url": [
+        "/utdanningsoversikt/vesteuropeiske_sprak"
+      ],
+      "uh_tilbud_title": [
+        "Italiensk (bachelor)"
+      ],
+      "uh_tilbud_url": [
+        "/utdanning/uib.no/italiensk_bachelor"
+      ],
+      "so_kode": "184565",
+      "fylke": [
+        "Vestland"
+      ],
+      "hjemmeside": "http://www.uib.no/studieprogram/BAHF-ITAL",
+      "orgnr": "184",
+      "organisasjon": "Universitetet i Bergen",
+      "studieniva": "Bachelor, 3 \u00e5r",
+      "studieplasser": 10,
+      "poeng_forste": 0,
+      "poeng_ordinar": 0,
+      "kravkode": "Generell studiekompetanse",
+      "sokeord": [
+        "Europeiske spr\u00e5k/-kunnskap",
+        "Italiensk",
+        "Spr\u00e5k"
+      ],
+      "studiepoeng": 180,
+      "deltid": false,
+      "nettbasert": false,
+      "samlingsbasert": false
+    },
+    {
+      "@id": "/studievelgeren_results/NnNsbWc5LXN0dWRpZXZlbGdlcmVuLWVudGl0eTpka191aF9zby8xODQ1ODI6bmI=",
+      "@type": "StudievelgerenResult",
+      "id": "NnNsbWc5LXN0dWRpZXZlbGdlcmVuLWVudGl0eTpka191aF9zby8xODQ1ODI6bmI=",
+      "title": "Japansk",
+      "type": "",
+      "entity_id": "",
+      "url": "/",
+      "score": 21,
+      "adgangstype": "L",
+      "alltext": [
+        "0.00",
+        "180.0",
+        "184",
+        "184582",
+        "6",
+        "Asiatiske spr\u00e5k/kunnskap",
+        "Bachelor, 3 \u00e5r",
+        "Generell studiekompetanse",
+        "Japansk",
+        "Japansk (bachelor)",
+        "L",
+        "Spr\u00e5k",
+        "Universitetet i Bergen",
+        "Vestland",
+        "http://www.uib.no/studieprogram/BAHF-JAP"
+      ],
+      "interesse": [
+        "Spr\u00e5k"
+      ],
+      "fotnote": "",
+      "uh_tilbud_id": [
+        "uib.no___cdm-programs-___BAHF-JAP"
+      ],
+      "utdanningsbeskrivelse_title": [
+        "Asiatiske og Afrikanske spr\u00e5k"
+      ],
+      "utdanningsbeskrivelse_url": [
+        "/utdanningsoversikt/asiatiske_og_afrikanske_sprak"
+      ],
+      "uh_tilbud_title": [
+        "Japansk (bachelor)"
+      ],
+      "uh_tilbud_url": [
+        "/utdanning/uib.no/japansk_bachelor"
+      ],
+      "so_kode": "184582",
+      "fylke": [
+        "Vestland"
+      ],
+      "hjemmeside": "http://www.uib.no/studieprogram/BAHF-JAP",
+      "orgnr": "184",
+      "organisasjon": "Universitetet i Bergen",
+      "studieniva": "Bachelor, 3 \u00e5r",
+      "studieplasser": 40,
+      "poeng_forste": 0,
+      "poeng_ordinar": 0,
+      "kravkode": "Generell studiekompetanse",
+      "sokeord": [
+        "Asiatiske spr\u00e5k/kunnskap",
+        "Spr\u00e5k"
+      ],
+      "studiepoeng": 180,
+      "deltid": false,
+      "nettbasert": false,
+      "samlingsbasert": false
+    },
+    {
+      "@id": "/studievelgeren_results/NnNsbWc5LXN0dWRpZXZlbGdlcmVuLWVudGl0eTpka191aF9zby8xODQ1OTI6bmI=",
+      "@type": "StudievelgerenResult",
+      "id": "NnNsbWc5LXN0dWRpZXZlbGdlcmVuLWVudGl0eTpka191aF9zby8xODQ1OTI6bmI=",
+      "title": "Kinesisk",
+      "type": "",
+      "entity_id": "",
+      "url": "/",
+      "score": 21,
+      "adgangstype": "L",
+      "alltext": [
+        "0.00",
+        "180.0",
+        "184",
+        "184592",
+        "6",
+        "Asiatiske spr\u00e5k/kunnskap",
+        "Bachelor, 3 \u00e5r",
+        "Generell studiekompetanse",
+        "Kinesisk",
+        "Kinesisk (bachelor)",
+        "L",
+        "Spr\u00e5k",
+        "Universitetet i Bergen",
+        "Vestland",
+        "http://www.uib.no/studieprogram/BAHF-KIN"
+      ],
+      "interesse": [
+        "Spr\u00e5k"
+      ],
+      "fotnote": "",
+      "uh_tilbud_id": [
+        "uib.no___cdm-programs-___BAHF-KIN"
+      ],
+      "utdanningsbeskrivelse_title": [
+        "Asiatiske og Afrikanske spr\u00e5k"
+      ],
+      "utdanningsbeskrivelse_url": [
+        "/utdanningsoversikt/asiatiske_og_afrikanske_sprak"
+      ],
+      "uh_tilbud_title": [
+        "Kinesisk (bachelor)"
+      ],
+      "uh_tilbud_url": [
+        "/utdanning/uib.no/kinesisk_bachelor"
+      ],
+      "so_kode": "184592",
+      "fylke": [
+        "Vestland"
+      ],
+      "hjemmeside": "http://www.uib.no/studieprogram/BAHF-KIN",
+      "orgnr": "184",
+      "organisasjon": "Universitetet i Bergen",
+      "studieniva": "Bachelor, 3 \u00e5r",
+      "studieplasser": 20,
+      "poeng_forste": 0,
+      "poeng_ordinar": 0,
+      "kravkode": "Generell studiekompetanse",
+      "sokeord": [
+        "Asiatiske spr\u00e5k/kunnskap",
+        "Spr\u00e5k"
+      ],
+      "studiepoeng": 180,
+      "deltid": false,
+      "nettbasert": false,
+      "samlingsbasert": false
+    },
+    {
+      "@id": "/studievelgeren_results/NnNsbWc5LXN0dWRpZXZlbGdlcmVuLWVudGl0eTpka191aF9zby8xODQ2NjM6bmI=",
+      "@type": "StudievelgerenResult",
+      "id": "NnNsbWc5LXN0dWRpZXZlbGdlcmVuLWVudGl0eTpka191aF9zby8xODQ2NjM6bmI=",
+      "title": "Medier og kommunikasjon, \u00e5rsstudium",
+      "type": "",
+      "entity_id": "",
+      "url": "/",
+      "score": 21,
+      "adgangstype": "L",
+      "alltext": [
+        "184",
+        "184663",
+        "2",
+        "45.00",
+        "54.00",
+        "60.0",
+        "Generell studiekompetanse",
+        "Informasjon",
+        "Kunst og kultur",
+        "L",
+        "Media og kommunikasjon",
+        "Mediefag",
+        "Medier og kommunikasjon (\u00e5rsstudium)",
+        "Medier og kommunikasjon, \u00e5rsstudium",
+        "Samfunn",
+        "Universitetet i Bergen",
+        "Vestland",
+        "http://www.uib.no/studieprogram/\u00c5RSV-MEVI",
+        "\u00c5rsstudium"
+      ],
+      "interesse": [
+        "Kunst og kultur",
+        "Media og kommunikasjon",
+        "Samfunn"
+      ],
+      "fotnote": "",
+      "uh_tilbud_id": [
+        "uib.no___cdm-programs-____AA_RSV-MEVI"
+      ],
+      "utdanningsbeskrivelse_title": [
+        "Kommunikasjon og medievitenskap"
+      ],
+      "utdanningsbeskrivelse_url": [
+        "/utdanningsoversikt/kommunikasjon_og_medievitenskap"
+      ],
+      "uh_tilbud_title": [
+        "Medier og kommunikasjon (\u00e5rsstudium)"
+      ],
+      "uh_tilbud_url": [
+        "/utdanning/uib.no/medier_og_kommunikasjon_arsstudium"
+      ],
+      "so_kode": "184663",
+      "fylke": [
+        "Vestland"
+      ],
+      "hjemmeside": "http://www.uib.no/studieprogram/\u00c5RSV-MEVI",
+      "orgnr": "184",
+      "organisasjon": "Universitetet i Bergen",
+      "studieniva": "\u00c5rsstudium",
+      "studieplasser": 19,
+      "poeng_forste": 45,
+      "poeng_ordinar": 54,
+      "kravkode": "Generell studiekompetanse",
+      "sokeord": [
+        "Informasjon",
+        "Mediefag"
+      ],
+      "studiepoeng": 60,
+      "deltid": false,
+      "nettbasert": false,
+      "samlingsbasert": false
+    },
+    {
+      "@id": "/studievelgeren_results/NnNsbWc5LXN0dWRpZXZlbGdlcmVuLWVudGl0eTpka191aF9zby8xODQ2NzA6bmI=",
+      "@type": "StudievelgerenResult",
+      "id": "NnNsbWc5LXN0dWRpZXZlbGdlcmVuLWVudGl0eTpka191aF9zby8xODQ2NzA6bmI=",
+      "title": "Naturvitenskapelige fag",
+      "type": "",
+      "entity_id": "",
+      "url": "/",
+      "score": 21,
+      "adgangstype": "L",
+      "alltext": [
+        "0.00",
+        "184",
+        "184670",
+        "2",
+        "60.0",
+        "Biokjemi",
+        "Biologi",
+        "Bioteknologi",
+        "Fysikk",
+        "Geofysikk",
+        "Geologi",
+        "Havbruk",
+        "IKT/IT",
+        "Informatikk",
+        "Kjemi",
+        "Klima og milj\u00f8",
+        "L",
+        "Marinbiologi",
+        "Matematikk",
+        "Meteorologi",
+        "Molekyl\u00e6rbiologi",
+        "Natur",
+        "Natur og milj\u00f8",
+        "Naturvitenskapelige fag",
+        "Naturvitskaplege fag (\u00e5rsstudium)",
+        "Oseanografi",
+        "Petroleumsfag",
+        "REALFA",
+        "Realfag",
+        "Statistikk",
+        "Teknologi",
+        "Universitetet i Bergen",
+        "Vestland",
+        "http://www.uib.no/studieprogram/\u00c5RMN",
+        "\u00c5rsstudium"
+      ],
+      "interesse": [
+        "Klima og milj\u00f8",
+        "Natur",
+        "Realfag",
+        "\u00d8konomi"
+      ],
+      "fotnote": "",
+      "uh_tilbud_id": [
+        "uib.no___cdm-programs-____AA_RMN"
+      ],
+      "utdanningsbeskrivelse_title": [
+        "Matematikk"
+      ],
+      "utdanningsbeskrivelse_url": [
+        "/utdanningsoversikt/matematikk"
+      ],
+      "uh_tilbud_title": [
+        "Naturvitskaplege fag (\u00e5rsstudium)"
+      ],
+      "uh_tilbud_url": [
+        "/utdanning/uib.no/naturvitskaplege_fag_arsstudium"
+      ],
+      "so_kode": "184670",
+      "fylke": [
+        "Vestland"
+      ],
+      "hjemmeside": "http://www.uib.no/studieprogram/\u00c5RMN",
+      "orgnr": "184",
+      "organisasjon": "Universitetet i Bergen",
+      "studieniva": "\u00c5rsstudium",
+      "studieplasser": 90,
+      "poeng_forste": 0,
+      "poeng_ordinar": 0,
+      "kravkode": "REALFA",
+      "sokeord": [
+        "Biokjemi",
+        "Biologi",
+        "Bioteknologi",
+        "Fysikk",
+        "Geofysikk",
+        "Geologi",
+        "Havbruk",
+        "IKT/IT",
+        "Informatikk",
+        "Kjemi",
+        "Marinbiologi",
+        "Matematikk",
+        "Meteorologi",
+        "Molekyl\u00e6rbiologi",
+        "Natur og milj\u00f8",
+        "Oseanografi",
+        "Petroleumsfag",
+        "Realfag",
+        "Statistikk",
+        "Teknologi"
+      ],
+      "studiepoeng": 60,
+      "deltid": false,
+      "nettbasert": false,
+      "samlingsbasert": false
+    },
+    {
+      "@id": "/studievelgeren_results/NnNsbWc5LXN0dWRpZXZlbGdlcmVuLWVudGl0eTpka191aF9zby8xODQ2ODY6bmI=",
+      "@type": "StudievelgerenResult",
+      "id": "NnNsbWc5LXN0dWRpZXZlbGdlcmVuLWVudGl0eTpka191aF9zby8xODQ2ODY6bmI=",
+      "title": "Lektor, 8.-13. trinn, fransk",
+      "type": "",
+      "entity_id": "",
+      "url": "/",
+      "score": 21,
+      "adgangstype": "L",
+      "alltext": [
+        "-2.00",
+        "10",
+        "184",
+        "184686",
+        "300.0",
+        "L",
+        "Lektor, 8.-13. trinn, fransk",
+        "Lektorutdanning med master i framandspr\u00e5k (engelsk, fransk, spansk eller tysk)",
+        "L\u00c6RALT",
+        "Master, 5 \u00e5r",
+        "Pedagogikk",
+        "Universitetet i Bergen",
+        "Vestland",
+        "http://www.uib.no/studieprogram/MAHF-L\u00c6FR"
+      ],
+      "interesse": [
+        "Barn",
+        "Mennesker",
+        "Pedagogikk"
+      ],
+      "fotnote": "",
+      "uh_tilbud_id": [
+        "uib.no___cdm-programs-___MAHF-L_AE_FR"
+      ],
+      "utdanningsbeskrivelse_title": [
+        "Lektorutdanning"
+      ],
+      "utdanningsbeskrivelse_url": [
+        "/utdanningsoversikt/lektorutdanning"
+      ],
+      "uh_tilbud_title": [
+        "Lektorutdanning med master i framandspr\u00e5k (engelsk, fransk, spansk eller tysk)"
+      ],
+      "uh_tilbud_url": [
+        "/utdanning/uib.no/lektorutdanning_med_master_i_framandsprak_engelsk_fransk_spansk_eller_tysk"
+      ],
+      "so_kode": "184686",
+      "fylke": [
+        "Vestland"
+      ],
+      "hjemmeside": "http://www.uib.no/studieprogram/MAHF-L\u00c6FR",
+      "orgnr": "184",
+      "organisasjon": "Universitetet i Bergen",
+      "studieniva": "Master, 5 \u00e5r",
+      "studieplasser": 4,
+      "poeng_forste": -2,
+      "poeng_ordinar": -2,
+      "kravkode": "L\u00c6RALT",
+      "sokeord": "",
+      "studiepoeng": 300,
+      "deltid": false,
+      "nettbasert": false,
+      "samlingsbasert": false
+    },
+    {
+      "@id": "/studievelgeren_results/NnNsbWc5LXN0dWRpZXZlbGdlcmVuLWVudGl0eTpka191aF9zby8xODQ2ODk6bmI=",
+      "@type": "StudievelgerenResult",
+      "id": "NnNsbWc5LXN0dWRpZXZlbGdlcmVuLWVudGl0eTpka191aF9zby8xODQ2ODk6bmI=",
+      "title": "Lektor, 8.-13. trinn, tysk",
+      "type": "",
+      "entity_id": "",
+      "url": "/",
+      "score": 21,
+      "adgangstype": "L",
+      "alltext": [
+        "-2.00",
+        "10",
+        "184",
+        "184689",
+        "300.0",
+        "L",
+        "Lektor, 8.-13. trinn, tysk",
+        "Lektorutdanning med master i framandspr\u00e5k (engelsk, fransk, spansk eller tysk)",
+        "L\u00c6RALT",
+        "Master, 5 \u00e5r",
+        "Pedagogikk",
+        "Universitetet i Bergen",
+        "Vestland",
+        "http://www.uib.no/studieprogram/MAHF-L\u00c6FR"
+      ],
+      "interesse": [
+        "Barn",
+        "Mennesker",
+        "Pedagogikk"
+      ],
+      "fotnote": "",
+      "uh_tilbud_id": [
+        "uib.no___cdm-programs-___MAHF-L_AE_FR"
+      ],
+      "utdanningsbeskrivelse_title": [
+        "Lektorutdanning"
+      ],
+      "utdanningsbeskrivelse_url": [
+        "/utdanningsoversikt/lektorutdanning"
+      ],
+      "uh_tilbud_title": [
+        "Lektorutdanning med master i framandspr\u00e5k (engelsk, fransk, spansk eller tysk)"
+      ],
+      "uh_tilbud_url": [
+        "/utdanning/uib.no/lektorutdanning_med_master_i_framandsprak_engelsk_fransk_spansk_eller_tysk"
+      ],
+      "so_kode": "184689",
+      "fylke": [
+        "Vestland"
+      ],
+      "hjemmeside": "http://www.uib.no/studieprogram/MAHF-L\u00c6FR",
+      "orgnr": "184",
+      "organisasjon": "Universitetet i Bergen",
+      "studieniva": "Master, 5 \u00e5r",
+      "studieplasser": 4,
+      "poeng_forste": -2,
+      "poeng_ordinar": -2,
+      "kravkode": "L\u00c6RALT",
+      "sokeord": "",
+      "studiepoeng": 300,
+      "deltid": false,
+      "nettbasert": false,
+      "samlingsbasert": false
+    },
+    {
+      "@id": "/studievelgeren_results/NnNsbWc5LXN0dWRpZXZlbGdlcmVuLWVudGl0eTpka191aF9zby8xODQ2OTI6bmI=",
+      "@type": "StudievelgerenResult",
+      "id": "NnNsbWc5LXN0dWRpZXZlbGdlcmVuLWVudGl0eTpka191aF9zby8xODQ2OTI6bmI=",
+      "title": "Teatervitenskap",
+      "type": "",
+      "entity_id": "",
+      "url": "/",
+      "score": 21,
+      "adgangstype": "L",
+      "alltext": [
+        "0.00",
+        "180.0",
+        "184",
+        "184692",
+        "6",
+        "Bachelor, 3 \u00e5r",
+        "Generell studiekompetanse",
+        "Kultur",
+        "Kunst og kultur",
+        "Kunstfag",
+        "L",
+        "Media og kommunikasjon",
+        "Teatervitenskap",
+        "Teatervitenskap (bachelor)",
+        "Teatervitskap",
+        "Universitetet i Bergen",
+        "Vestland",
+        "http://www.uib.no/studieprogram/BAHF-TEAT"
+      ],
+      "interesse": [
+        "Historie",
+        "Kunst og kultur",
+        "Media og kommunikasjon",
+        "Mennesker",
+        "Samfunn"
+      ],
+      "fotnote": "",
+      "uh_tilbud_id": [
+        "uib.no___cdm-programs-___BAHF-TEAT"
+      ],
+      "utdanningsbeskrivelse_title": [
+        "Filosofi og etikk"
+      ],
+      "utdanningsbeskrivelse_url": [
+        "/utdanningsoversikt/filosofi_og_etikk"
+      ],
+      "uh_tilbud_title": [
+        "Teatervitenskap (bachelor)"
+      ],
+      "uh_tilbud_url": [
+        "/utdanning/uib.no/teatervitenskap_bachelor"
+      ],
+      "so_kode": "184692",
+      "fylke": [
+        "Vestland"
+      ],
+      "hjemmeside": "http://www.uib.no/studieprogram/BAHF-TEAT",
+      "orgnr": "184",
+      "organisasjon": "Universitetet i Bergen",
+      "studieniva": "Bachelor, 3 \u00e5r",
+      "studieplasser": 16,
+      "poeng_forste": 0,
+      "poeng_ordinar": 0,
+      "kravkode": "Generell studiekompetanse",
+      "sokeord": [
+        "Kultur",
+        "Kunstfag",
+        "Teatervitskap"
+      ],
+      "studiepoeng": 180,
+      "deltid": false,
+      "nettbasert": false,
+      "samlingsbasert": false
+    },
+    {
+      "@id": "/studievelgeren_results/NnNsbWc5LXN0dWRpZXZlbGdlcmVuLWVudGl0eTpka191aF9zby8xODQ2OTg6bmI=",
+      "@type": "StudievelgerenResult",
+      "id": "NnNsbWc5LXN0dWRpZXZlbGdlcmVuLWVudGl0eTpka191aF9zby8xODQ2OTg6bmI=",
+      "title": "Samfunns\u00f8konomi, master",
+      "type": "",
+      "entity_id": "",
+      "url": "/",
+      "score": 21,
+      "adgangstype": "L",
+      "alltext": [
+        "10",
+        "184",
+        "184698",
+        "300.0",
+        "50.10",
+        "53.50",
+        "L",
+        "Ledelse",
+        "MATRS",
+        "Master, 5 \u00e5r",
+        "Samfunn",
+        "Samfunns\u00f8konomi",
+        "Samfunns\u00f8konomi (profesjon)",
+        "Samfunns\u00f8konomi, master",
+        "Universitetet i Bergen",
+        "Vestland",
+        "http://www.uib.no/studieprogram/PROF-S\u00d8K",
+        "\u00d8konomi"
+      ],
+      "interesse": [
+        "Kontor og administrasjon",
+        "Realfag",
+        "Samfunn",
+        "\u00d8konomi"
+      ],
+      "fotnote": "",
+      "uh_tilbud_id": [
+        "uib.no___cdm-programs-___PROF-S_OE_K"
+      ],
+      "utdanningsbeskrivelse_title": [
+        "Samfunns\u00f8konomi"
+      ],
+      "utdanningsbeskrivelse_url": [
+        "/utdanningsoversikt/samfunnsokonomi"
+      ],
+      "uh_tilbud_title": [
+        "Samfunns\u00f8konomi (profesjon)"
+      ],
+      "uh_tilbud_url": [
+        "/utdanning/uib.no/samfunnsokonomi_profesjon"
+      ],
+      "so_kode": "184698",
+      "fylke": [
+        "Vestland"
+      ],
+      "hjemmeside": "http://www.uib.no/studieprogram/PROF-S\u00d8K",
+      "orgnr": "184",
+      "organisasjon": "Universitetet i Bergen",
+      "studieniva": "Master, 5 \u00e5r",
+      "studieplasser": 22,
+      "poeng_forste": 50.1,
+      "poeng_ordinar": 53.5,
+      "kravkode": "MATRS",
+      "sokeord": [
+        "Ledelse",
+        "Samfunns\u00f8konomi",
+        "\u00d8konomi"
+      ],
+      "studiepoeng": 300,
+      "deltid": false,
+      "nettbasert": false,
+      "samlingsbasert": false
+    },
+    {
+      "@id": "/studievelgeren_results/NnNsbWc5LXN0dWRpZXZlbGdlcmVuLWVudGl0eTpka191aF9zby8xODQ3MDc6bmI=",
+      "@type": "StudievelgerenResult",
+      "id": "NnNsbWc5LXN0dWRpZXZlbGdlcmVuLWVudGl0eTpka191aF9zby8xODQ3MDc6bmI=",
+      "title": "Farmasi",
+      "type": "",
+      "entity_id": "",
+      "url": "/",
+      "score": 21,
+      "adgangstype": "L",
+      "alltext": [
+        "10",
+        "184",
+        "184707",
+        "300.0",
+        "49.40",
+        "52.80",
+        "Farmasi",
+        "Farmasi (intergert master)",
+        "Helse",
+        "Kjemi",
+        "L",
+        "MEROD",
+        "Master, 5 \u00e5r",
+        "Realfag",
+        "Universitetet i Bergen",
+        "Vestland",
+        "http://www.uib.no/studieprogram/MATF-FARM"
+      ],
+      "interesse": [
+        "Helse",
+        "Realfag",
+        "Salg og service"
+      ],
+      "fotnote": "",
+      "uh_tilbud_id": [
+        "uib.no___cdm-programs-___MATF-FARM"
+      ],
+      "utdanningsbeskrivelse_title": [
+        "Farmasi"
+      ],
+      "utdanningsbeskrivelse_url": [
+        "/utdanningsoversikt/farmasi"
+      ],
+      "uh_tilbud_title": [
+        "Farmasi (intergert master)"
+      ],
+      "uh_tilbud_url": [
+        "/utdanning/uib.no/farmasi_intergert_master"
+      ],
+      "so_kode": "184707",
+      "fylke": [
+        "Vestland"
+      ],
+      "hjemmeside": "http://www.uib.no/studieprogram/MATF-FARM",
+      "orgnr": "184",
+      "organisasjon": "Universitetet i Bergen",
+      "studieniva": "Master, 5 \u00e5r",
+      "studieplasser": 24,
+      "poeng_forste": 49.4,
+      "poeng_ordinar": 52.8,
+      "kravkode": "MEROD",
+      "sokeord": [
+        "Farmasi",
+        "Helse",
+        "Kjemi"
+      ],
+      "studiepoeng": 300,
+      "deltid": false,
+      "nettbasert": false,
+      "samlingsbasert": false
+    },
+    {
+      "@id": "/studievelgeren_results/NnNsbWc5LXN0dWRpZXZlbGdlcmVuLWVudGl0eTpka191aF9zby8xODQ3MDg6bmI=",
+      "@type": "StudievelgerenResult",
+      "id": "NnNsbWc5LXN0dWRpZXZlbGdlcmVuLWVudGl0eTpka191aF9zby8xODQ3MDg6bmI=",
+      "title": "Ern\u00e6ring",
+      "type": "",
+      "entity_id": "",
+      "url": "/",
+      "score": 21,
+      "adgangstype": "L",
+      "alltext": [
+        "0.00",
+        "180.0",
+        "184",
+        "184708",
+        "6",
+        "Bachelor, 3 \u00e5r",
+        "Ern\u00e6ring",
+        "Ern\u00e6ring (bachelor)",
+        "Helse",
+        "Kosthold",
+        "L",
+        "MEROD",
+        "Mat og drikke",
+        "N\u00e6ringsmiddelfag",
+        "Universitetet i Bergen",
+        "Vestland",
+        "http://www.uib.no/studieprogram/BAMD-NUHUM"
+      ],
+      "interesse": [
+        "Helse",
+        "Idrett",
+        "Mat og drikke",
+        "Mennesker",
+        "Realfag"
+      ],
+      "fotnote": "",
+      "uh_tilbud_id": [
+        "uib.no___cdm-programs-___BAMD-NUHUM"
+      ],
+      "utdanningsbeskrivelse_title": [
+        "Ern\u00e6ring"
+      ],
+      "utdanningsbeskrivelse_url": [
+        "/utdanningsoversikt/ernaering"
+      ],
+      "uh_tilbud_title": [
+        "Ern\u00e6ring (bachelor)"
+      ],
+      "uh_tilbud_url": [
+        "/utdanning/uib.no/ernaering_bachelor"
+      ],
+      "so_kode": "184708",
+      "fylke": [
+        "Vestland"
+      ],
+      "hjemmeside": "http://www.uib.no/studieprogram/BAMD-NUHUM",
+      "orgnr": "184",
+      "organisasjon": "Universitetet i Bergen",
+      "studieniva": "Bachelor, 3 \u00e5r",
+      "studieplasser": 34,
+      "poeng_forste": 0,
+      "poeng_ordinar": 0,
+      "kravkode": "MEROD",
+      "sokeord": [
+        "Ern\u00e6ring",
+        "Helse",
+        "Kosthold",
+        "N\u00e6ringsmiddelfag"
+      ],
+      "studiepoeng": 180,
+      "deltid": false,
+      "nettbasert": false,
+      "samlingsbasert": false
+    },
+    {
+      "@id": "/studievelgeren_results/NnNsbWc5LXN0dWRpZXZlbGdlcmVuLWVudGl0eTpka191aF9zby8xODQ3MjQ6bmI=",
+      "@type": "StudievelgerenResult",
+      "id": "NnNsbWc5LXN0dWRpZXZlbGdlcmVuLWVudGl0eTpka191aF9zby8xODQ3MjQ6bmI=",
+      "title": "Rettsvitenskap",
+      "type": "",
+      "entity_id": "",
+      "url": "/",
+      "score": 21,
+      "adgangstype": "L",
+      "alltext": [
+        "10",
+        "184",
+        "184724",
+        "300.0",
+        "55.00",
+        "62.30",
+        "Fem\u00e5rig masterprogram i rettsvitenskap (juss)",
+        "Generell studiekompetanse",
+        "Juridiske fag",
+        "L",
+        "Lov og orden",
+        "Master, 5 \u00e5r",
+        "Rettsvitenskap",
+        "Universitetet i Bergen",
+        "Vestland",
+        "http://www.uib.no/studieprogram/MAJUR"
+      ],
+      "interesse": [
+        "Lov og orden"
+      ],
+      "fotnote": "",
+      "uh_tilbud_id": [
+        "uib.no___cdm-programs-___MAJUR"
+      ],
+      "utdanningsbeskrivelse_title": [
+        "Juss - rettsvitenskap"
+      ],
+      "utdanningsbeskrivelse_url": [
+        "/utdanningsoversikt/juss_-_rettsvitenskap"
+      ],
+      "uh_tilbud_title": [
+        "Fem\u00e5rig masterprogram i rettsvitenskap (juss)"
+      ],
+      "uh_tilbud_url": [
+        "/utdanning/uib.no/femarig_masterprogram_i_rettsvitenskap_juss"
+      ],
+      "so_kode": "184724",
+      "fylke": [
+        "Vestland"
+      ],
+      "hjemmeside": "http://www.uib.no/studieprogram/MAJUR",
+      "orgnr": "184",
+      "organisasjon": "Universitetet i Bergen",
+      "studieniva": "Master, 5 \u00e5r",
+      "studieplasser": 374,
+      "poeng_forste": 55,
+      "poeng_ordinar": 62.3,
+      "kravkode": "Generell studiekompetanse",
+      "sokeord": [
+        "Juridiske fag"
+      ],
+      "studiepoeng": 300,
+      "deltid": false,
+      "nettbasert": false,
+      "samlingsbasert": false
+    },
+    {
+      "@id": "/studievelgeren_results/NnNsbWc5LXN0dWRpZXZlbGdlcmVuLWVudGl0eTpka191aF9zby8xODQ3NDA6bmI=",
+      "@type": "StudievelgerenResult",
+      "id": "NnNsbWc5LXN0dWRpZXZlbGdlcmVuLWVudGl0eTpka191aF9zby8xODQ3NDA6bmI=",
+      "title": "Medisin, Bergen",
+      "type": "",
+      "entity_id": "",
+      "url": "/",
+      "score": 21,
+      "adgangstype": "L",
+      "alltext": [
+        "12",
+        "184",
+        "184740",
+        "360.0",
+        "59.40",
+        "67.80",
+        "Helse",
+        "L",
+        "MEROD",
+        "Medisin",
+        "Medisin (profesjon, 6 \u00e5r)",
+        "Medisin, Bergen",
+        "Profesjonsstudium",
+        "Universitetet i Bergen",
+        "Vestland",
+        "http://www.uib.no/studieprogram/PRMEDISIN"
+      ],
+      "interesse": [
+        "Helse",
+        "Mennesker",
+        "Realfag"
+      ],
+      "fotnote": "",
+      "uh_tilbud_id": [
+        "uib.no___cdm-programs-___PRMEDISIN"
+      ],
+      "utdanningsbeskrivelse_title": [
+        "Medisin profesjonsstudium"
+      ],
+      "utdanningsbeskrivelse_url": [
+        "/utdanningsoversikt/medisin_profesjonsstudium"
+      ],
+      "uh_tilbud_title": [
+        "Medisin (profesjon, 6 \u00e5r)"
+      ],
+      "uh_tilbud_url": [
+        "/utdanning/uib.no/medisin_profesjon_6_ar"
+      ],
+      "so_kode": "184740",
+      "fylke": [
+        "Vestland"
+      ],
+      "hjemmeside": "http://www.uib.no/studieprogram/PRMEDISIN",
+      "orgnr": "184",
+      "organisasjon": "Universitetet i Bergen",
+      "studieniva": "Profesjonsstudium",
+      "studieplasser": 165,
+      "poeng_forste": 59.4,
+      "poeng_ordinar": 67.8,
+      "kravkode": "MEROD",
+      "sokeord": [
+        "Helse",
+        "Medisin"
+      ],
+      "studiepoeng": 360,
+      "deltid": false,
+      "nettbasert": false,
+      "samlingsbasert": false
+    },
+    {
+      "@id": "/studievelgeren_results/NnNsbWc5LXN0dWRpZXZlbGdlcmVuLWVudGl0eTpka191aF9zby8xODQ3NDI6bmI=",
+      "@type": "StudievelgerenResult",
+      "id": "NnNsbWc5LXN0dWRpZXZlbGdlcmVuLWVudGl0eTpka191aF9zby8xODQ3NDI6bmI=",
+      "title": "Odontologi",
+      "type": "",
+      "entity_id": "",
+      "url": "/",
+      "score": 21,
+      "adgangstype": "L",
+      "alltext": [
+        "10",
+        "184",
+        "184742",
+        "300.0",
+        "56.90",
+        "65.20",
+        "Helse",
+        "L",
+        "MEROD",
+        "Master, 5 \u00e5r",
+        "Odontologi",
+        "Odontologi (integrert master)",
+        "Tannlege",
+        "Universitetet i Bergen",
+        "Vestland",
+        "http://www.uib.no/studieprogram/MAOD-ODONT"
+      ],
+      "interesse": [
+        "Helse",
+        "Mennesker",
+        "Realfag"
+      ],
+      "fotnote": "",
+      "uh_tilbud_id": [
+        "uib.no___cdm-programs-___MAOD-ODONT"
+      ],
+      "utdanningsbeskrivelse_title": [
+        "Odontologi (tannlege)"
+      ],
+      "utdanningsbeskrivelse_url": [
+        "/utdanningsoversikt/odontologi_tannlege"
+      ],
+      "uh_tilbud_title": [
+        "Odontologi (integrert master)"
+      ],
+      "uh_tilbud_url": [
+        "/utdanning/uib.no/odontologi_integrert_master"
+      ],
+      "so_kode": "184742",
+      "fylke": [
+        "Vestland"
+      ],
+      "hjemmeside": "http://www.uib.no/studieprogram/MAOD-ODONT",
+      "orgnr": "184",
+      "organisasjon": "Universitetet i Bergen",
+      "studieniva": "Master, 5 \u00e5r",
+      "studieplasser": 48,
+      "poeng_forste": 56.9,
+      "poeng_ordinar": 65.2,
+      "kravkode": "MEROD",
+      "sokeord": [
+        "Helse",
+        "Odontologi",
+        "Tannlege"
+      ],
+      "studiepoeng": 300,
+      "deltid": false,
+      "nettbasert": false,
+      "samlingsbasert": false
+    },
+    {
+      "@id": "/studievelgeren_results/NnNsbWc5LXN0dWRpZXZlbGdlcmVuLWVudGl0eTpka191aF9zby8xODQ3NDM6bmI=",
+      "@type": "StudievelgerenResult",
+      "id": "NnNsbWc5LXN0dWRpZXZlbGdlcmVuLWVudGl0eTpka191aF9zby8xODQ3NDM6bmI=",
+      "title": "Tannpleie",
+      "type": "",
+      "entity_id": "",
+      "url": "/",
+      "score": 21,
+      "adgangstype": "L",
+      "alltext": [
+        "180.0",
+        "184",
+        "184743",
+        "43.30",
+        "47.20",
+        "6",
+        "Bachelor, 3 \u00e5r",
+        "Generell studiekompetanse",
+        "Helse",
+        "L",
+        "Studiet er en profesjonsutdanning som gir rett til autorisasjon som tannpleier.",
+        "Tannpleiar",
+        "Tannpleie",
+        "Tannpleie (bachelor)",
+        "Universitetet i Bergen",
+        "Vestland",
+        "http://www.uib.no/studieprogram/BAOD-TANNP"
+      ],
+      "interesse": [
+        "Helse",
+        "Mennesker"
+      ],
+      "fotnote": [
+        "Studiet er en profesjonsutdanning som gir rett til autorisasjon som tannpleier."
+      ],
+      "uh_tilbud_id": [
+        "uib.no___cdm-programs-___BAOD-TANNP"
+      ],
+      "utdanningsbeskrivelse_title": [
+        "Tannpleie"
+      ],
+      "utdanningsbeskrivelse_url": [
+        "/utdanningsoversikt/tannpleie"
+      ],
+      "uh_tilbud_title": [
+        "Tannpleie (bachelor)"
+      ],
+      "uh_tilbud_url": [
+        "/utdanning/uib.no/tannpleie_bachelor"
+      ],
+      "so_kode": "184743",
+      "fylke": [
+        "Vestland"
+      ],
+      "hjemmeside": "http://www.uib.no/studieprogram/BAOD-TANNP",
+      "orgnr": "184",
+      "organisasjon": "Universitetet i Bergen",
+      "studieniva": "Bachelor, 3 \u00e5r",
+      "studieplasser": 31,
+      "poeng_forste": 43.3,
+      "poeng_ordinar": 47.2,
+      "kravkode": "Generell studiekompetanse",
+      "sokeord": [
+        "Helse",
+        "Tannpleiar"
+      ],
+      "studiepoeng": 180,
+      "deltid": false,
+      "nettbasert": false,
+      "samlingsbasert": false
+    },
+    {
+      "@id": "/studievelgeren_results/NnNsbWc5LXN0dWRpZXZlbGdlcmVuLWVudGl0eTpka191aF9zby8xODQ3NTI6bmI=",
+      "@type": "StudievelgerenResult",
+      "id": "NnNsbWc5LXN0dWRpZXZlbGdlcmVuLWVudGl0eTpka191aF9zby8xODQ3NTI6bmI=",
+      "title": "Psykologi, \u00e5rsstudium",
+      "type": "",
+      "entity_id": "",
+      "url": "/",
+      "score": 21,
+      "adgangstype": "L",
+      "alltext": [
+        "184",
+        "184752",
+        "2",
+        "49.10",
+        "53.10",
+        "60.0",
+        "Atferdsanalyse",
+        "For de s\u00f8kerne som f\u00e5r opptak til \u00e5rsstudiet i psykologi ved UiB gjennom Samordna opptak i 2015, vil 2016 v\u00e6re siste mulighet til \u00e5 s\u00f8ke opptak til andre studie\u00e5r ved profesjonsstudiet i psykologi. Fra 2016 vil opptaket til det seks\u00e5rige profesjonsstudiet i psykologi skje gjennom Samordna opptak.",
+        "Generell studiekompetanse",
+        "Helse",
+        "L",
+        "Ledelse",
+        "Oppvekst",
+        "Psykologi",
+        "Psykologi (\u00e5rsstudium)",
+        "Psykologi, \u00e5rsstudium",
+        "R\u00e5dgiving",
+        "Samfunnskunnskap",
+        "Universitetet i Bergen",
+        "Vestland",
+        "http://www.uib.no/studieprogram/\u00c5RPS",
+        "\u00c5rsstudium"
+      ],
+      "interesse": [
+        "Helse",
+        "Mennesker",
+        "Samfunn"
+      ],
+      "fotnote": [
+        "For de s\u00f8kerne som f\u00e5r opptak til \u00e5rsstudiet i psykologi ved UiB gjennom Samordna opptak i 2015, vil 2016 v\u00e6re siste mulighet til \u00e5 s\u00f8ke opptak til andre studie\u00e5r ved profesjonsstudiet i psykologi. Fra 2016 vil opptaket til det seks\u00e5rige profesjonsstudiet i psykologi skje gjennom Samordna opptak."
+      ],
+      "uh_tilbud_id": [
+        "uib.no___cdm-programs-____AA_RPS"
+      ],
+      "utdanningsbeskrivelse_title": [
+        "Psykologiske fag"
+      ],
+      "utdanningsbeskrivelse_url": [
+        "/utdanningsoversikt/psykologiske_fag"
+      ],
+      "uh_tilbud_title": [
+        "Psykologi (\u00e5rsstudium)"
+      ],
+      "uh_tilbud_url": [
+        "/utdanning/uib.no/psykologi_arsstudium"
+      ],
+      "so_kode": "184752",
+      "fylke": [
+        "Vestland"
+      ],
+      "hjemmeside": "http://www.uib.no/studieprogram/\u00c5RPS",
+      "orgnr": "184",
+      "organisasjon": "Universitetet i Bergen",
+      "studieniva": "\u00c5rsstudium",
+      "studieplasser": 200,
+      "poeng_forste": 49.1,
+      "poeng_ordinar": 53.1,
+      "kravkode": "Generell studiekompetanse",
+      "sokeord": [
+        "Atferdsanalyse",
+        "Ledelse",
+        "Oppvekst",
+        "Psykologi",
+        "R\u00e5dgiving",
+        "Samfunnskunnskap"
+      ],
+      "studiepoeng": 60,
+      "deltid": false,
+      "nettbasert": false,
+      "samlingsbasert": false
+    },
+    {
+      "@id": "/studievelgeren_results/NnNsbWc5LXN0dWRpZXZlbGdlcmVuLWVudGl0eTpka191aF9zby8xODQ4MTc6bmI=",
+      "@type": "StudievelgerenResult",
+      "id": "NnNsbWc5LXN0dWRpZXZlbGdlcmVuLWVudGl0eTpka191aF9zby8xODQ4MTc6bmI=",
+      "title": "Lektor, 8.-13. trinn, nordisk",
+      "type": "",
+      "entity_id": "",
+      "url": "/",
+      "score": 21,
+      "adgangstype": "L",
+      "alltext": [
+        "0.00",
+        "10",
+        "184",
+        "184817",
+        "300.0",
+        "Fagl\u00e6rar",
+        "L",
+        "Lektor, 8.-13. trinn, nordisk",
+        "Lektorutdanning",
+        "Lektorutdanning med master i nordisk",
+        "L\u00c6RALT",
+        "L\u00e6rar",
+        "Master, 5 \u00e5r",
+        "Norsk/nordisk",
+        "Pedagogikk",
+        "Universitetet i Bergen",
+        "Vestland",
+        "http://www.uib.no/studieprogram/MAHF-L\u00c6NO"
+      ],
+      "interesse": [
+        "Barn",
+        "Mennesker",
+        "Pedagogikk"
+      ],
+      "fotnote": "",
+      "uh_tilbud_id": [
+        "uib.no___cdm-programs-___MAHF-L_AE_NO"
+      ],
+      "utdanningsbeskrivelse_title": [
+        "Lektorutdanning"
+      ],
+      "utdanningsbeskrivelse_url": [
+        "/utdanningsoversikt/lektorutdanning"
+      ],
+      "uh_tilbud_title": [
+        "Lektorutdanning med master i nordisk"
+      ],
+      "uh_tilbud_url": [
+        "/utdanning/uib.no/lektorutdanning_med_master_i_nordisk"
+      ],
+      "so_kode": "184817",
+      "fylke": [
+        "Vestland"
+      ],
+      "hjemmeside": "http://www.uib.no/studieprogram/MAHF-L\u00c6NO",
+      "orgnr": "184",
+      "organisasjon": "Universitetet i Bergen",
+      "studieniva": "Master, 5 \u00e5r",
+      "studieplasser": 29,
+      "poeng_forste": 0,
+      "poeng_ordinar": 0,
+      "kravkode": "L\u00c6RALT",
+      "sokeord": [
+        "Fagl\u00e6rar",
+        "Lektorutdanning",
+        "L\u00e6rar",
+        "Norsk/nordisk"
+      ],
+      "studiepoeng": 300,
+      "deltid": false,
+      "nettbasert": false,
+      "samlingsbasert": false
+    },
+    {
+      "@id": "/studievelgeren_results/NnNsbWc5LXN0dWRpZXZlbGdlcmVuLWVudGl0eTpka191aF9zby8xODQ4Mjc6bmI=",
+      "@type": "StudievelgerenResult",
+      "id": "NnNsbWc5LXN0dWRpZXZlbGdlcmVuLWVudGl0eTpka191aF9zby8xODQ4Mjc6bmI=",
+      "title": "Fiskehelse - akvamedisin",
+      "type": "",
+      "entity_id": "",
+      "url": "/",
+      "score": 21,
+      "adgangstype": "L",
+      "alltext": [
+        "10",
+        "184",
+        "184827",
+        "300.0",
+        "50.10",
+        "56.40",
+        "Fiskehelse - akvamedisin",
+        "Fiskehelse - akvamedisin (profesjon)",
+        "Fiskehelsestudiet er et profesjonsstudium som gir ferdig utdannede fiskehelsebiologer reseptrett p\u00e5 fisk p\u00e5 lik linje med veterin\u00e6rer.\n\n",
+        "Fiskeri",
+        "Fiskeri og havbruk",
+        "Havbruk",
+        "L",
+        "Marinbiologi",
+        "Marine fag",
+        "Master, 5 \u00e5r",
+        "N\u00e6ringsmiddelfag",
+        "REALFA",
+        "Realfag",
+        "Universitetet i Bergen",
+        "Vestland",
+        "Veterin\u00e6r",
+        "Zoologi",
+        "http://www.uib.no/studieprogram/MAMN-FISK"
+      ],
+      "interesse": [
+        "Dyr",
+        "Fiskeri og havbruk",
+        "Mennesker",
+        "Natur",
+        "Realfag",
+        "Sj\u00f8fart"
+      ],
+      "fotnote": [
+        "Fiskehelsestudiet er et profesjonsstudium som gir ferdig utdannede fiskehelsebiologer reseptrett p\u00e5 fisk p\u00e5 lik linje med veterin\u00e6rer.\n\n"
+      ],
+      "uh_tilbud_id": [
+        "uib.no___cdm-programs-___MAMN-FISK"
+      ],
+      "utdanningsbeskrivelse_title": [
+        "Biologi",
+        "Fiske og havbruk",
+        "Fiskehelse og akvamedisin",
+        "Marin- og ferskvannsbiologi"
+      ],
+      "utdanningsbeskrivelse_url": [
+        "/utdanningsoversikt/biologi",
+        "/utdanningsoversikt/fiske_og_havbruk",
+        "/utdanningsoversikt/fiskehelse_og_akvamedisin",
+        "/utdanningsoversikt/marin-_og_ferskvannsbiologi"
+      ],
+      "uh_tilbud_title": [
+        "Fiskehelse - akvamedisin (profesjon)"
+      ],
+      "uh_tilbud_url": [
+        "/utdanning/uib.no/fiskehelse_-_akvamedisin_profesjon"
+      ],
+      "so_kode": "184827",
+      "fylke": [
+        "Vestland"
+      ],
+      "hjemmeside": "http://www.uib.no/studieprogram/MAMN-FISK",
+      "orgnr": "184",
+      "organisasjon": "Universitetet i Bergen",
+      "studieniva": "Master, 5 \u00e5r",
+      "studieplasser": 25,
+      "poeng_forste": 50.1,
+      "poeng_ordinar": 56.4,
+      "kravkode": "REALFA",
+      "sokeord": [
+        "Fiskeri",
+        "Havbruk",
+        "Marinbiologi",
+        "Marine fag",
+        "N\u00e6ringsmiddelfag",
+        "Veterin\u00e6r",
+        "Zoologi"
+      ],
+      "studiepoeng": 300,
+      "deltid": false,
+      "nettbasert": false,
+      "samlingsbasert": false
+    },
+    {
+      "@id": "/studievelgeren_results/NnNsbWc5LXN0dWRpZXZlbGdlcmVuLWVudGl0eTpka191aF9zby8xODQ4Mjk6bmI=",
+      "@type": "StudievelgerenResult",
+      "id": "NnNsbWc5LXN0dWRpZXZlbGdlcmVuLWVudGl0eTpka191aF9zby8xODQ4Mjk6bmI=",
+      "title": "Informatikk: datateknologi",
+      "type": "",
+      "entity_id": "",
+      "url": "/",
+      "score": 21,
+      "adgangstype": "L",
+      "alltext": [
+        "180.0",
+        "184",
+        "184829",
+        "46.10",
+        "55.80",
+        "6",
+        "Bachelor, 3 \u00e5r",
+        "Biletbehandling",
+        "Bioinformatikk",
+        "Databaser",
+        "Datakommunikasjon",
+        "Datateknikk",
+        "Datatryggleik",
+        "IKT/IT",
+        "IT",
+        "IT og data",
+        "Informasjonsteknologi",
+        "Informatikk",
+        "Informatikk: datateknologi",
+        "Informatikk: datateknologi (bachelor)",
+        "Internett",
+        "Kommunikasjonsteknologi",
+        "L",
+        "MATRS",
+        "Operativsystemer",
+        "Programmering",
+        "Realfag",
+        "Sikkerhet",
+        "Spillprogrammering",
+        "Systemutvikling",
+        "Teknologi",
+        "Universitetet i Bergen",
+        "Vestland",
+        "http://www.uib.no/studieprogram/BAMN-DTEK"
+      ],
+      "interesse": [
+        "Elektronikk",
+        "IT og data",
+        "Realfag",
+        "Teknologi"
+      ],
+      "fotnote": "",
+      "uh_tilbud_id": [
+        "uib.no___cdm-programs-___BAMN-DTEK"
+      ],
+      "utdanningsbeskrivelse_title": [
+        "Informasjons- og datateknologi",
+        "Informatikk"
+      ],
+      "utdanningsbeskrivelse_url": [
+        "/utdanningsoversikt/informasjons-_og_datateknologi",
+        "/utdanningsoversikt/informatikk"
+      ],
+      "uh_tilbud_title": [
+        "Informatikk: datateknologi (bachelor)"
+      ],
+      "uh_tilbud_url": [
+        "/utdanning/uib.no/informatikk_datateknologi_bachelor"
+      ],
+      "so_kode": "184829",
+      "fylke": [
+        "Vestland"
+      ],
+      "hjemmeside": "http://www.uib.no/studieprogram/BAMN-DTEK",
+      "orgnr": "184",
+      "organisasjon": "Universitetet i Bergen",
+      "studieniva": "Bachelor, 3 \u00e5r",
+      "studieplasser": 66,
+      "poeng_forste": 46.1,
+      "poeng_ordinar": 55.8,
+      "kravkode": "MATRS",
+      "sokeord": [
+        "Biletbehandling",
+        "Bioinformatikk",
+        "Databaser",
+        "Datakommunikasjon",
+        "Datateknikk",
+        "Datatryggleik",
+        "IKT/IT",
+        "IT",
+        "Informasjonsteknologi",
+        "Informatikk",
+        "Internett",
+        "Kommunikasjonsteknologi",
+        "Operativsystemer",
+        "Programmering",
+        "Sikkerhet",
+        "Spillprogrammering",
+        "Systemutvikling"
+      ],
+      "studiepoeng": 180,
+      "deltid": false,
+      "nettbasert": false,
+      "samlingsbasert": false
+    },
+    {
+      "@id": "/studievelgeren_results/NnNsbWc5LXN0dWRpZXZlbGdlcmVuLWVudGl0eTpka191aF9zby8xODQ4MzI6bmI=",
+      "@type": "StudievelgerenResult",
+      "id": "NnNsbWc5LXN0dWRpZXZlbGdlcmVuLWVudGl0eTpka191aF9zby8xODQ4MzI6bmI=",
+      "title": "Kunstig intelligens",
+      "type": "",
+      "entity_id": "",
+      "url": "/",
+      "score": 21,
+      "adgangstype": "L",
+      "alltext": [
+        "180.0",
+        "184",
+        "184832",
+        "48.60",
+        "56.00",
+        "6",
+        "Bachelor, 3 \u00e5r",
+        "Kunstig intelligens",
+        "Kunstig intelligens (bachelor)",
+        "L",
+        "MATRS",
+        "Universitetet i Bergen",
+        "Vestland",
+        "https://www.uib.no/studier/BASV-AIKI/"
+      ],
+      "interesse": [
+        "Elektronikk",
+        "IT og data",
+        "Realfag",
+        "Teknologi"
+      ],
+      "fotnote": "",
+      "uh_tilbud_id": [
+        "uib.no___cdm-programs-___BASV-AIKI"
+      ],
+      "utdanningsbeskrivelse_title": [
+        "Informasjons- og datateknologi",
+        "Informatikk"
+      ],
+      "utdanningsbeskrivelse_url": [
+        "/utdanningsoversikt/informasjons-_og_datateknologi",
+        "/utdanningsoversikt/informatikk"
+      ],
+      "uh_tilbud_title": [
+        "Kunstig intelligens (bachelor)"
+      ],
+      "uh_tilbud_url": [
+        "/utdanning/uib.no/kunstig_intelligens_bachelor"
+      ],
+      "so_kode": "184832",
+      "fylke": [
+        "Vestland"
+      ],
+      "hjemmeside": "https://www.uib.no/studier/BASV-AIKI/",
+      "orgnr": "184",
+      "organisasjon": "Universitetet i Bergen",
+      "studieniva": "Bachelor, 3 \u00e5r",
+      "studieplasser": 34,
+      "poeng_forste": 48.6,
+      "poeng_ordinar": 56,
+      "kravkode": "MATRS",
+      "sokeord": "",
+      "studiepoeng": 180,
+      "deltid": false,
+      "nettbasert": false,
+      "samlingsbasert": false
+    },
+    {
+      "@id": "/studievelgeren_results/NnNsbWc5LXN0dWRpZXZlbGdlcmVuLWVudGl0eTpka191aF9zby8xODQ4Mzc6bmI=",
+      "@type": "StudievelgerenResult",
+      "id": "NnNsbWc5LXN0dWRpZXZlbGdlcmVuLWVudGl0eTpka191aF9zby8xODQ4Mzc6bmI=",
+      "title": "Kognitiv vitenskap",
+      "type": "",
+      "entity_id": "",
+      "url": "/",
+      "score": 21,
+      "adgangstype": "L",
+      "alltext": [
+        "180.0",
+        "184",
+        "184837",
+        "50.70",
+        "56.40",
+        "6",
+        "Bachelor, 3 \u00e5r",
+        "Datalingvistikk",
+        "Filosofi",
+        "Generell studiekompetanse",
+        "IKT/IT",
+        "Informatikk",
+        "Kognitiv psykologi (N)",
+        "Kognitiv vitenskap",
+        "Kognitiv vitskap (bachelor)",
+        "Kunst og kultur",
+        "L",
+        "Logikk (N)",
+        "Media og kommunikasjon",
+        "Programmering",
+        "Psykologi",
+        "Samfunn",
+        "Spr\u00e5kteknologi",
+        "Universitetet i Bergen",
+        "Vestland",
+        "http://www.uib.no/studieprogram/BASV-KOGNI"
+      ],
+      "interesse": [
+        "Kunst og kultur",
+        "Media og kommunikasjon",
+        "Samfunn"
+      ],
+      "fotnote": "",
+      "uh_tilbud_id": [
+        "uib.no___cdm-programs-___BASV-KOGNI"
+      ],
+      "utdanningsbeskrivelse_title": [
+        "Kommunikasjon og medievitenskap"
+      ],
+      "utdanningsbeskrivelse_url": [
+        "/utdanningsoversikt/kommunikasjon_og_medievitenskap"
+      ],
+      "uh_tilbud_title": [
+        "Kognitiv vitskap (bachelor)"
+      ],
+      "uh_tilbud_url": [
+        "/utdanning/uib.no/kognitiv_vitskap_bachelor"
+      ],
+      "so_kode": "184837",
+      "fylke": [
+        "Vestland"
+      ],
+      "hjemmeside": "http://www.uib.no/studieprogram/BASV-KOGNI",
+      "orgnr": "184",
+      "organisasjon": "Universitetet i Bergen",
+      "studieniva": "Bachelor, 3 \u00e5r",
+      "studieplasser": 29,
+      "poeng_forste": 50.7,
+      "poeng_ordinar": 56.4,
+      "kravkode": "Generell studiekompetanse",
+      "sokeord": [
+        "Datalingvistikk",
+        "Filosofi",
+        "IKT/IT",
+        "Informatikk",
+        "Kognitiv psykologi (N)",
+        "Logikk (N)",
+        "Programmering",
+        "Psykologi",
+        "Spr\u00e5kteknologi"
+      ],
+      "studiepoeng": 180,
+      "deltid": false,
+      "nettbasert": false,
+      "samlingsbasert": false
+    },
+    {
+      "@id": "/studievelgeren_results/NnNsbWc5LXN0dWRpZXZlbGdlcmVuLWVudGl0eTpka191aF9zby8xODQ4NDM6bmI=",
+      "@type": "StudievelgerenResult",
+      "id": "NnNsbWc5LXN0dWRpZXZlbGdlcmVuLWVudGl0eTpka191aF9zby8xODQ4NDM6bmI=",
+      "title": "Lektor, 8.-13. trinn, naturvit. eller matematikk",
+      "type": "",
+      "entity_id": "",
+      "url": "/",
+      "score": 21,
+      "adgangstype": "L",
+      "alltext": [
+        "0.00",
+        "10",
+        "184",
+        "184843",
+        "300.0",
+        "Biologi",
+        "Fagdidaktikk",
+        "Fagl\u00e6rar",
+        "Fysikk",
+        "Kjemi",
+        "L",
+        "Lektor, 8.-13. trinn, naturvit. eller matematikk",
+        "Lektorprogram i naturvitenskap og matematikk",
+        "Lektorutdanning",
+        "L\u00c6REAL",
+        "L\u00e6rar",
+        "Master, 5 \u00e5r",
+        "Matematikk",
+        "Naturfag",
+        "Pedagogikk",
+        "Realfag",
+        "Universitetet i Bergen",
+        "Vestland",
+        "http://www.uib.no/studieprogram/MAMN-L\u00c6RE"
+      ],
+      "interesse": [
+        "Barn",
+        "Mennesker",
+        "Pedagogikk"
+      ],
+      "fotnote": "",
+      "uh_tilbud_id": [
+        "uib.no___cdm-programs-___MAMN-L_AE_RE"
+      ],
+      "utdanningsbeskrivelse_title": [
+        "Lektorutdanning"
+      ],
+      "utdanningsbeskrivelse_url": [
+        "/utdanningsoversikt/lektorutdanning"
+      ],
+      "uh_tilbud_title": [
+        "Lektorprogram i naturvitenskap og matematikk"
+      ],
+      "uh_tilbud_url": [
+        "/utdanning/uib.no/lektorprogram_i_naturvitenskap_og_matematikk"
+      ],
+      "so_kode": "184843",
+      "fylke": [
+        "Vestland"
+      ],
+      "hjemmeside": "http://www.uib.no/studieprogram/MAMN-L\u00c6RE",
+      "orgnr": "184",
+      "organisasjon": "Universitetet i Bergen",
+      "studieniva": "Master, 5 \u00e5r",
+      "studieplasser": 40,
+      "poeng_forste": 0,
+      "poeng_ordinar": 0,
+      "kravkode": "L\u00c6REAL",
+      "sokeord": [
+        "Biologi",
+        "Fagdidaktikk",
+        "Fagl\u00e6rar",
+        "Fysikk",
+        "Kjemi",
+        "Lektorutdanning",
+        "L\u00e6rar",
+        "Matematikk",
+        "Naturfag",
+        "Realfag"
+      ],
+      "studiepoeng": 300,
+      "deltid": false,
+      "nettbasert": false,
+      "samlingsbasert": false
+    },
+    {
+      "@id": "/studievelgeren_results/NnNsbWc5LXN0dWRpZXZlbGdlcmVuLWVudGl0eTpka191aF9zby8xODQ4NDQ6bmI=",
+      "@type": "StudievelgerenResult",
+      "id": "NnNsbWc5LXN0dWRpZXZlbGdlcmVuLWVudGl0eTpka191aF9zby8xODQ4NDQ6bmI=",
+      "title": "Lektor, 8.-13. trinn, engelsk",
+      "type": "",
+      "entity_id": "",
+      "url": "/",
+      "score": 21,
+      "adgangstype": "L",
+      "alltext": [
+        "0.00",
+        "10",
+        "184",
+        "184844",
+        "300.0",
+        "Et studium i spr\u00e5kene engelsk, fransk, italiensk, spansk eller tysk krever gode forkunnskaper i det aktuelle spr\u00e5ket fra videreg\u00e5ende skole. \n\n",
+        "Fagl\u00e6rar",
+        "L",
+        "Lektor, 8.-13. trinn, engelsk",
+        "Lektorutdanning",
+        "Lektorutdanning med master i framandspr\u00e5k (engelsk, fransk, spansk eller tysk)",
+        "L\u00c6RALT",
+        "L\u00e6rar",
+        "Master, 5 \u00e5r",
+        "Pedagogikk",
+        "Spr\u00e5k",
+        "Universitetet i Bergen",
+        "Vestland",
+        "http://www.uib.no/studieprogram/MAHF-L\u00c6FR"
+      ],
+      "interesse": [
+        "Barn",
+        "Mennesker",
+        "Pedagogikk"
+      ],
+      "fotnote": [
+        "Et studium i spr\u00e5kene engelsk, fransk, italiensk, spansk eller tysk krever gode forkunnskaper i det aktuelle spr\u00e5ket fra videreg\u00e5ende skole. \n\n"
+      ],
+      "uh_tilbud_id": [
+        "uib.no___cdm-programs-___MAHF-L_AE_FR"
+      ],
+      "utdanningsbeskrivelse_title": [
+        "Lektorutdanning"
+      ],
+      "utdanningsbeskrivelse_url": [
+        "/utdanningsoversikt/lektorutdanning"
+      ],
+      "uh_tilbud_title": [
+        "Lektorutdanning med master i framandspr\u00e5k (engelsk, fransk, spansk eller tysk)"
+      ],
+      "uh_tilbud_url": [
+        "/utdanning/uib.no/lektorutdanning_med_master_i_framandsprak_engelsk_fransk_spansk_eller_tysk"
+      ],
+      "so_kode": "184844",
+      "fylke": [
+        "Vestland"
+      ],
+      "hjemmeside": "http://www.uib.no/studieprogram/MAHF-L\u00c6FR",
+      "orgnr": "184",
+      "organisasjon": "Universitetet i Bergen",
+      "studieniva": "Master, 5 \u00e5r",
+      "studieplasser": 24,
+      "poeng_forste": 0,
+      "poeng_ordinar": 0,
+      "kravkode": "L\u00c6RALT",
+      "sokeord": [
+        "Fagl\u00e6rar",
+        "Lektorutdanning",
+        "L\u00e6rar",
+        "Spr\u00e5k"
+      ],
+      "studiepoeng": 300,
+      "deltid": false,
+      "nettbasert": false,
+      "samlingsbasert": false
+    },
+    {
+      "@id": "/studievelgeren_results/NnNsbWc5LXN0dWRpZXZlbGdlcmVuLWVudGl0eTpka191aF9zby8xODQ4NTE6bmI=",
+      "@type": "StudievelgerenResult",
+      "id": "NnNsbWc5LXN0dWRpZXZlbGdlcmVuLWVudGl0eTpka191aF9zby8xODQ4NTE6bmI=",
+      "title": "Medier og kommunikasjon, bachelor",
+      "type": "",
+      "entity_id": "",
+      "url": "/",
+      "score": 21,
+      "adgangstype": "L",
+      "alltext": [
+        "180.0",
+        "184",
+        "184851",
+        "45.60",
+        "47.90",
+        "6",
+        "Bachelor, 3 \u00e5r",
+        "Film",
+        "Fjernsyn",
+        "Generell studiekompetanse",
+        "Informasjon",
+        "Kunst og kultur",
+        "L",
+        "Media og kommunikasjon",
+        "Mediefag",
+        "Medieproduksjon",
+        "Medier og kommunikasjon (bachelor)",
+        "Medier og kommunikasjon, bachelor",
+        "Samfunn",
+        "Universitetet i Bergen",
+        "Vestland",
+        "http://www.uib.no/studieprogram/BASV-MEVI"
+      ],
+      "interesse": [
+        "Kunst og kultur",
+        "Media og kommunikasjon",
+        "Samfunn"
+      ],
+      "fotnote": "",
+      "uh_tilbud_id": [
+        "uib.no___cdm-programs-___BASV-MEVI"
+      ],
+      "utdanningsbeskrivelse_title": [
+        "Kommunikasjon og medievitenskap"
+      ],
+      "utdanningsbeskrivelse_url": [
+        "/utdanningsoversikt/kommunikasjon_og_medievitenskap"
+      ],
+      "uh_tilbud_title": [
+        "Medier og kommunikasjon (bachelor)"
+      ],
+      "uh_tilbud_url": [
+        "/utdanning/uib.no/medier_og_kommunikasjon_bachelor"
+      ],
+      "so_kode": "184851",
+      "fylke": [
+        "Vestland"
+      ],
+      "hjemmeside": "http://www.uib.no/studieprogram/BASV-MEVI",
+      "orgnr": "184",
+      "organisasjon": "Universitetet i Bergen",
+      "studieniva": "Bachelor, 3 \u00e5r",
+      "studieplasser": 53,
+      "poeng_forste": 45.6,
+      "poeng_ordinar": 47.9,
+      "kravkode": "Generell studiekompetanse",
+      "sokeord": [
+        "Film",
+        "Fjernsyn",
+        "Informasjon",
+        "Mediefag",
+        "Medieproduksjon"
+      ],
+      "studiepoeng": 180,
+      "deltid": false,
+      "nettbasert": false,
+      "samlingsbasert": false
+    },
+    {
+      "@id": "/studievelgeren_results/NnNsbWc5LXN0dWRpZXZlbGdlcmVuLWVudGl0eTpka191aF9zby8xODQ4NTI6bmI=",
+      "@type": "StudievelgerenResult",
+      "id": "NnNsbWc5LXN0dWRpZXZlbGdlcmVuLWVudGl0eTpka191aF9zby8xODQ4NTI6bmI=",
+      "title": "Pedagogikk, bachelor",
+      "type": "",
+      "entity_id": "",
+      "url": "/",
+      "score": 21,
+      "adgangstype": "L",
+      "alltext": [
+        "180.0",
+        "184",
+        "184852",
+        "43.50",
+        "47.60",
+        "6",
+        "Bachelor, 3 \u00e5r",
+        "Fleirkulturelt",
+        "Generell studiekompetanse",
+        "Informasjon",
+        "Kommunikasjon",
+        "Kommunikasjonsdesign",
+        "L",
+        "L\u00e6ring",
+        "Nettbasert",
+        "Pedagogikk",
+        "Pedagogikk (bachelor)",
+        "Pedagogikk, bachelor",
+        "R\u00e5dgiving",
+        "Undervisning",
+        "Universitetet i Bergen",
+        "Vestland",
+        "http://www.uib.no/studieprogram/BAPS-PED"
+      ],
+      "interesse": [
+        "Barn",
+        "Mennesker",
+        "Pedagogikk"
+      ],
+      "fotnote": "",
+      "uh_tilbud_id": [
+        "uib.no___cdm-programs-___BAPS-PED"
+      ],
+      "utdanningsbeskrivelse_title": [
+        "Pedagogikk"
+      ],
+      "utdanningsbeskrivelse_url": [
+        "/utdanningsoversikt/pedagogikk"
+      ],
+      "uh_tilbud_title": [
+        "Pedagogikk (bachelor)"
+      ],
+      "uh_tilbud_url": [
+        "/utdanning/uib.no/pedagogikk_bachelor"
+      ],
+      "so_kode": "184852",
+      "fylke": [
+        "Vestland"
+      ],
+      "hjemmeside": "http://www.uib.no/studieprogram/BAPS-PED",
+      "orgnr": "184",
+      "organisasjon": "Universitetet i Bergen",
+      "studieniva": "Bachelor, 3 \u00e5r",
+      "studieplasser": 40,
+      "poeng_forste": 43.5,
+      "poeng_ordinar": 47.6,
+      "kravkode": "Generell studiekompetanse",
+      "sokeord": [
+        "Fleirkulturelt",
+        "Informasjon",
+        "Kommunikasjon",
+        "Kommunikasjonsdesign",
+        "L\u00e6ring",
+        "Nettbasert",
+        "Pedagogikk",
+        "R\u00e5dgiving",
+        "Undervisning"
+      ],
+      "studiepoeng": 180,
+      "deltid": false,
+      "nettbasert": false,
+      "samlingsbasert": false
+    },
+    {
+      "@id": "/studievelgeren_results/NnNsbWc5LXN0dWRpZXZlbGdlcmVuLWVudGl0eTpka191aF9zby8xODQ4NTM6bmI=",
+      "@type": "StudievelgerenResult",
+      "id": "NnNsbWc5LXN0dWRpZXZlbGdlcmVuLWVudGl0eTpka191aF9zby8xODQ4NTM6bmI=",
+      "title": "Spesialpedagogikk",
+      "type": "",
+      "entity_id": "",
+      "url": "/",
+      "score": 21,
+      "adgangstype": "L",
+      "alltext": [
+        "180.0",
+        "184",
+        "184853",
+        "47.40",
+        "53.80",
+        "6",
+        "Bachelor, 3 \u00e5r",
+        "Barn",
+        "Generell studiekompetanse",
+        "L",
+        "Pedagogikk",
+        "Spesialpedagogikk",
+        "Spesialpedagogikk (bachelor)",
+        "Universitetet i Bergen",
+        "Vestland",
+        "http://www.uib.no/studieprogram/BAPS-SPED"
+      ],
+      "interesse": [
+        "Barn",
+        "Pedagogikk"
+      ],
+      "fotnote": "",
+      "uh_tilbud_id": [
+        "uib.no___cdm-programs-___BAPS-SPED"
+      ],
+      "utdanningsbeskrivelse_title": [
+        "Spesialpedagogikk"
+      ],
+      "utdanningsbeskrivelse_url": [
+        "/utdanningsoversikt/spesialpedagogikk"
+      ],
+      "uh_tilbud_title": [
+        "Spesialpedagogikk (bachelor)"
+      ],
+      "uh_tilbud_url": [
+        "/utdanning/uib.no/spesialpedagogikk_bachelor"
+      ],
+      "so_kode": "184853",
+      "fylke": [
+        "Vestland"
+      ],
+      "hjemmeside": "http://www.uib.no/studieprogram/BAPS-SPED",
+      "orgnr": "184",
+      "organisasjon": "Universitetet i Bergen",
+      "studieniva": "Bachelor, 3 \u00e5r",
+      "studieplasser": 23,
+      "poeng_forste": 47.4,
+      "poeng_ordinar": 53.8,
+      "kravkode": "Generell studiekompetanse",
+      "sokeord": "",
+      "studiepoeng": 180,
+      "deltid": false,
+      "nettbasert": false,
+      "samlingsbasert": false
+    },
+    {
+      "@id": "/studievelgeren_results/NnNsbWc5LXN0dWRpZXZlbGdlcmVuLWVudGl0eTpka191aF9zby8xODQ4NTc6bmI=",
+      "@type": "StudievelgerenResult",
+      "id": "NnNsbWc5LXN0dWRpZXZlbGdlcmVuLWVudGl0eTpka191aF9zby8xODQ4NTc6bmI=",
+      "title": "Fysikk",
+      "type": "",
+      "entity_id": "",
+      "url": "/",
+      "score": 21,
+      "adgangstype": "L",
+      "alltext": [
+        "0.00",
+        "180.0",
+        "184",
+        "184857",
+        "6",
+        "Bachelor, 3 \u00e5r",
+        "Elektromagnetisme (N)",
+        "Energi",
+        "Fysikk",
+        "Fysikk (bachelor)",
+        "L",
+        "Mekanikk",
+        "Nanoteknologi",
+        "Nanoteknologi (N)",
+        "REALR2",
+        "Realfag",
+        "Teknologi",
+        "Universitetet i Bergen",
+        "Vestland",
+        "http://www.uib.no/studieprogram/BAMN-PHYS"
+      ],
+      "interesse": [
+        "Forskning og innovasjon",
+        "Natur",
+        "Realfag"
+      ],
+      "fotnote": "",
+      "uh_tilbud_id": [
+        "uib.no___cdm-programs-___BAMN-PHYS"
+      ],
+      "utdanningsbeskrivelse_title": [
+        "Fysikk"
+      ],
+      "utdanningsbeskrivelse_url": [
+        "/utdanningsoversikt/fysikk"
+      ],
+      "uh_tilbud_title": [
+        "Fysikk (bachelor)"
+      ],
+      "uh_tilbud_url": [
+        "/utdanning/uib.no/fysikk_bachelor"
+      ],
+      "so_kode": "184857",
+      "fylke": [
+        "Vestland"
+      ],
+      "hjemmeside": "http://www.uib.no/studieprogram/BAMN-PHYS",
+      "orgnr": "184",
+      "organisasjon": "Universitetet i Bergen",
+      "studieniva": "Bachelor, 3 \u00e5r",
+      "studieplasser": 52,
+      "poeng_forste": 0,
+      "poeng_ordinar": 0,
+      "kravkode": "REALR2",
+      "sokeord": [
+        "Elektromagnetisme (N)",
+        "Energi",
+        "Fysikk",
+        "Mekanikk",
+        "Nanoteknologi",
+        "Nanoteknologi (N)",
+        "Realfag",
+        "Teknologi"
+      ],
+      "studiepoeng": 180,
+      "deltid": false,
+      "nettbasert": false,
+      "samlingsbasert": false
+    },
+    {
+      "@id": "/studievelgeren_results/NnNsbWc5LXN0dWRpZXZlbGdlcmVuLWVudGl0eTpka191aF9zby8xODQ4NTg6bmI=",
+      "@type": "StudievelgerenResult",
+      "id": "NnNsbWc5LXN0dWRpZXZlbGdlcmVuLWVudGl0eTpka191aF9zby8xODQ4NTg6bmI=",
+      "title": "Geofag og informatikk",
+      "type": "",
+      "entity_id": "",
+      "url": "/",
+      "score": 21,
+      "adgangstype": "N",
+      "alltext": [
+        "180.0",
+        "184",
+        "184858",
+        "45.70",
+        "47.70",
+        "6",
+        "Bachelor, 3 \u00e5r",
+        "Geofag og informatikk",
+        "Geofag og informatikk (bachelor)",
+        "N",
+        "REALFA",
+        "Universitetet i Bergen",
+        "Vestland",
+        "https://www.uib.no/studier/BAMN-GEOIN"
+      ],
+      "interesse": [
+        "IT og data",
+        "Jobb i utlandet",
+        "Klima og milj\u00f8",
+        "Natur",
+        "Olje, gass og energi",
+        "Realfag",
+        "Teknologi"
+      ],
+      "fotnote": "",
+      "uh_tilbud_id": [
+        "uib.no___partner___BAMN-GEOIN"
+      ],
+      "utdanningsbeskrivelse_title": [
+        "Geofag",
+        "Informatikk"
+      ],
+      "utdanningsbeskrivelse_url": [
+        "/utdanningsoversikt/geofag",
+        "/utdanningsoversikt/informatikk"
+      ],
+      "uh_tilbud_title": [
+        "Geofag og informatikk (bachelor)"
+      ],
+      "uh_tilbud_url": [
+        "/utdanning/uib.no/geofag_og_informatikk_bachelor"
+      ],
+      "so_kode": "184858",
+      "fylke": [
+        "Vestland"
+      ],
+      "hjemmeside": "https://www.uib.no/studier/BAMN-GEOIN",
+      "orgnr": "184",
+      "organisasjon": "Universitetet i Bergen",
+      "studieniva": "Bachelor, 3 \u00e5r",
+      "studieplasser": 23,
+      "poeng_forste": 45.7,
+      "poeng_ordinar": 47.7,
+      "kravkode": "REALFA",
+      "sokeord": "",
+      "studiepoeng": 180,
+      "deltid": false,
+      "nettbasert": false,
+      "samlingsbasert": false
+    },
+    {
+      "@id": "/studievelgeren_results/NnNsbWc5LXN0dWRpZXZlbGdlcmVuLWVudGl0eTpka191aF9zby8xODQ4NTk6bmI=",
+      "@type": "StudievelgerenResult",
+      "id": "NnNsbWc5LXN0dWRpZXZlbGdlcmVuLWVudGl0eTpka191aF9zby8xODQ4NTk6bmI=",
+      "title": "Geovitenskap, retning geologi",
+      "type": "",
+      "entity_id": "",
+      "url": "/",
+      "score": 21,
+      "adgangstype": "L",
+      "alltext": [
+        "180.0",
+        "184",
+        "184859",
+        "46.80",
+        "49.20",
+        "6",
+        "Bachelor, 3 \u00e5r",
+        "Geofag",
+        "Geofysikk",
+        "Geologi",
+        "Geovitenskap, retning geologi",
+        "Geovitskap (bachelor)",
+        "Klima",
+        "L",
+        "Olje og gass (N)",
+        "Olje, gass og energi",
+        "REALFA",
+        "Realfag",
+        "Universitetet i Bergen",
+        "Vestland",
+        "http://www.uib.no/studieretning/BAMN-GVGEOL"
+      ],
+      "interesse": [
+        "Jobb i utlandet",
+        "Klima og milj\u00f8",
+        "Natur",
+        "Olje, gass og energi",
+        "Realfag"
+      ],
+      "fotnote": "",
+      "uh_tilbud_id": [
+        "uib.no___cdm-programs-___BAMN-GEOV"
+      ],
+      "utdanningsbeskrivelse_title": [
+        "Geofag"
+      ],
+      "utdanningsbeskrivelse_url": [
+        "/utdanningsoversikt/geofag"
+      ],
+      "uh_tilbud_title": [
+        "Geovitskap (bachelor)"
+      ],
+      "uh_tilbud_url": [
+        "/utdanning/uib.no/geovitskap_bachelor"
+      ],
+      "so_kode": "184859",
+      "fylke": [
+        "Vestland"
+      ],
+      "hjemmeside": "http://www.uib.no/studieretning/BAMN-GVGEOL",
+      "orgnr": "184",
+      "organisasjon": "Universitetet i Bergen",
+      "studieniva": "Bachelor, 3 \u00e5r",
+      "studieplasser": 38,
+      "poeng_forste": 46.8,
+      "poeng_ordinar": 49.2,
+      "kravkode": "REALFA",
+      "sokeord": [
+        "Geofag",
+        "Geofysikk",
+        "Geologi",
+        "Klima",
+        "Olje og gass (N)",
+        "Realfag"
+      ],
+      "studiepoeng": 180,
+      "deltid": false,
+      "nettbasert": false,
+      "samlingsbasert": false
+    },
+    {
+      "@id": "/studievelgeren_results/NnNsbWc5LXN0dWRpZXZlbGdlcmVuLWVudGl0eTpka191aF9zby8xODQ4NjA6bmI=",
+      "@type": "StudievelgerenResult",
+      "id": "NnNsbWc5LXN0dWRpZXZlbGdlcmVuLWVudGl0eTpka191aF9zby8xODQ4NjA6bmI=",
+      "title": "Kjemi",
+      "type": "",
+      "entity_id": "",
+      "url": "/",
+      "score": 21,
+      "adgangstype": "L",
+      "alltext": [
+        "0.00",
+        "180.0",
+        "184",
+        "184860",
+        "6",
+        "Bachelor, 3 \u00e5r",
+        "Forureining",
+        "Kjemi",
+        "Kjemi (bachelor)",
+        "L",
+        "Milj\u00f8vern",
+        "Modellering (N)",
+        "Naturfag",
+        "Olje, gass og energi",
+        "REALFA",
+        "Realfag",
+        "Teknologi",
+        "Universitetet i Bergen",
+        "Vestland",
+        "http://www.uib.no/studieprogram/BAMN-KJEM"
+      ],
+      "interesse": [
+        "Industri",
+        "Olje, gass og energi",
+        "Realfag",
+        "Teknologi"
+      ],
+      "fotnote": "",
+      "uh_tilbud_id": [
+        "uib.no___cdm-programs-___BAMN-KJEM"
+      ],
+      "utdanningsbeskrivelse_title": [
+        "Kjemi og bioteknologi"
+      ],
+      "utdanningsbeskrivelse_url": [
+        "/utdanningsoversikt/kjemi_og_bioteknologi"
+      ],
+      "uh_tilbud_title": [
+        "Kjemi (bachelor)"
+      ],
+      "uh_tilbud_url": [
+        "/utdanning/uib.no/kjemi_bachelor"
+      ],
+      "so_kode": "184860",
+      "fylke": [
+        "Vestland"
+      ],
+      "hjemmeside": "http://www.uib.no/studieprogram/BAMN-KJEM",
+      "orgnr": "184",
+      "organisasjon": "Universitetet i Bergen",
+      "studieniva": "Bachelor, 3 \u00e5r",
+      "studieplasser": 35,
+      "poeng_forste": 0,
+      "poeng_ordinar": 0,
+      "kravkode": "REALFA",
+      "sokeord": [
+        "Forureining",
+        "Kjemi",
+        "Milj\u00f8vern",
+        "Modellering (N)",
+        "Naturfag",
+        "Realfag",
+        "Teknologi"
+      ],
+      "studiepoeng": 180,
+      "deltid": false,
+      "nettbasert": false,
+      "samlingsbasert": false
+    }
+  ],
+  "hydra:view": {
+    "@id": "/studievelgeren/result?page=1",
+    "@type": "hydra:PartialCollectionView",
+    "hydra:first": "/studievelgeren/result?page=1",
+    "hydra:last": "/studievelgeren/result?page=46",
+    "hydra:next": "/studievelgeren/result?page=2"
+  },
+  "hydra:search": {
+    "@type": "hydra:IriTemplate",
+    "hydra:template": "/studievelgeren/result{?query_value,fylke,studieniva,utdanningsbeskrivelse,interesse}",
+    "hydra:variableRepresentation": "BasicRepresentation",
+    "hydra:mapping": [
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "query_value",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "fylke",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "studieniva",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "utdanningsbeskrivelse",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "interesse",
+        "property": null,
+        "required": false
+      }
+    ]
+  }
+}

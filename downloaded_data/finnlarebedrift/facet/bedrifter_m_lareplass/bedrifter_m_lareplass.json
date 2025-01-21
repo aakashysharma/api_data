@@ -1,0 +1,105 @@
+{
+  "@context": "/contexts/Bedrifter_m_lareplass_facet",
+  "@id": "/finnlarebedrift/facet/bedrifter_m_lareplass",
+  "@type": "hydra:Collection",
+  "hydra:totalItems": 2,
+  "hydra:member": [
+    {
+      "@id": "/bedrifter_m_lareplass_facets/bedrifter_m_lareplass_sum",
+      "@type": "Bedrifter_m_lareplass_facet",
+      "value": "bedrifter_m_lareplass_sum",
+      "count": 2634
+    },
+    {
+      "@id": "/bedrifter_m_lareplass_facets/bedrifter_m_lareplass",
+      "@type": "Bedrifter_m_lareplass_facet",
+      "value": "bedrifter_m_lareplass",
+      "count": 469
+    }
+  ],
+  "hydra:search": {
+    "@type": "hydra:IriTemplate",
+    "hydra:template": "/finnlarebedrift/facet/bedrifter_m_lareplass{?q,aarsverk,opplaring,gk,sted,fag,YFF,larlinger,bedriftsstorrelse,opplaringskontor,ledig_stilling_valgte_fag,larlinger_i_valgte_fag,laereplassgaranti}",
+    "hydra:variableRepresentation": "BasicRepresentation",
+    "hydra:mapping": [
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "q",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "aarsverk",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "opplaring",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "gk",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "sted",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "fag",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "YFF",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "larlinger",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "bedriftsstorrelse",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "opplaringskontor",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "ledig_stilling_valgte_fag",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "larlinger_i_valgte_fag",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "laereplassgaranti",
+        "property": null,
+        "required": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,2590 @@
+[
+  {
+    "programomradekode10": "BAAMF3----",
+    "programomrade_tittel": "Anleggsmaskinf\u00f8rerfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "BAANG2----",
+    "programomrade_tittel": "Vg2 Anleggsgartner"
+  },
+  {
+    "programomradekode10": "BAANG3----",
+    "programomrade_tittel": "Anleggsgartnerfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "BAANL2----",
+    "programomrade_tittel": "Vg2 Anleggsteknikk"
+  },
+  {
+    "programomradekode10": "BAANL2H---",
+    "programomrade_tittel": "Vg2 Anleggsteknikk, grunnkompetanse"
+  },
+  {
+    "programomradekode10": "BAARL3----",
+    "programomrade_tittel": "Anleggsr\u00f8rleggerfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "BAASF3----",
+    "programomrade_tittel": "Asfaltfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "BABAN3----",
+    "programomrade_tittel": "Banemont\u00f8rfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "BABAT1----",
+    "programomrade_tittel": "Vg1 Bygg- og anleggsteknikk"
+  },
+  {
+    "programomradekode10": "BABAT1--T-",
+    "programomrade_tittel": "Vg1 Bygg- og anleggsteknikk med toppidrett"
+  },
+  {
+    "programomradekode10": "BABAT1HT-1",
+    "programomrade_tittel": "Vg1 Bygg- og anleggsteknikk, spesialundervisning i egen gruppe, 1. \u00e5r"
+  },
+  {
+    "programomradekode10": "BABAT1N---",
+    "programomrade_tittel": "Vg1 Bygg- og anleggsteknikk, studiekompetanse, 3-\u00e5rig"
+  },
+  {
+    "programomradekode10": "BABAT1P---",
+    "programomrade_tittel": "Vg1 Bygg- og anleggsteknikk, yrkes- og studiekompetanse, 4-\u00e5rig (YSK)"
+  },
+  {
+    "programomradekode10": "BABDR3----",
+    "programomrade_tittel": "Byggdrifterfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "BABET3----",
+    "programomrade_tittel": "Betongfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "BABET3P---",
+    "programomrade_tittel": "Betongfaget, yrkes- og studiekompetanse, 4-\u00e5rig  (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "BABFB3----",
+    "programomrade_tittel": "Brannforebyggerfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "BABMO2----",
+    "programomrade_tittel": "Vg2 Betong og mur"
+  },
+  {
+    "programomradekode10": "BABMO2H---",
+    "programomrade_tittel": "Vg2 Betong og mur, grunnkompetanse"
+  },
+  {
+    "programomradekode10": "BABMO2N---",
+    "programomrade_tittel": "Vg2 Betong og mur, studiekompetanse, 3-\u00e5rig"
+  },
+  {
+    "programomradekode10": "BABMO2P---",
+    "programomrade_tittel": "Vg2 Betong og mur, yrkes- og studiekompetanse, 4-\u00e5rig"
+  },
+  {
+    "programomradekode10": "BABRO3----",
+    "programomrade_tittel": "Br\u00f8nn- og borefaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "BABYM3----",
+    "programomrade_tittel": "Byggmontasjefaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "BAFJE3----",
+    "programomrade_tittel": "Fjell- og bergverksfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "BAFMF3----",
+    "programomrade_tittel": "Fundamenteringsfaget"
+  },
+  {
+    "programomradekode10": "BAGLA3----",
+    "programomrade_tittel": "Glassfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "BAIMF3----",
+    "programomrade_tittel": "Industrimalerfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "BAISL3----",
+    "programomrade_tittel": "Isolat\u00f8rfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "BAKEM2----",
+    "programomrade_tittel": "Vg2 Klima, energi og milj\u00f8teknikk"
+  },
+  {
+    "programomradekode10": "BAMFF3----",
+    "programomrade_tittel": "Murer- og flisleggerfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "BAMFF3P---",
+    "programomrade_tittel": "Murer- og flisleggerfaget, yrkes- og studiekompetanse, 4-\u00e5rig  (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "BAMOT3----",
+    "programomrade_tittel": "Maler- og overflateteknikkfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "BAOFT2----",
+    "programomrade_tittel": "Vg2 Overflateteknikk"
+  },
+  {
+    "programomradekode10": "BAOFT2SY--",
+    "programomrade_tittel": "Vg2 Overflateteknikk, overgang fra studiespesialisering til yrkesfag"
+  },
+  {
+    "programomradekode10": "BARLF2----",
+    "programomrade_tittel": "Vg2 R\u00f8rlegger"
+  },
+  {
+    "programomradekode10": "BARLF2H---",
+    "programomrade_tittel": "Vg2 R\u00f8rlegger, grunnkompetanse"
+  },
+  {
+    "programomradekode10": "BARLF3----",
+    "programomrade_tittel": "R\u00f8rleggerfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "BAROF3----",
+    "programomrade_tittel": "Renholdsoperat\u00f8rfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "BASBF3----",
+    "programomrade_tittel": "Stillasbyggerfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "BASNE3----",
+    "programomrade_tittel": "Snekkerfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "BASTE3----",
+    "programomrade_tittel": "Steinfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "BATAK3----",
+    "programomrade_tittel": "Tak- og membrantekkerfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "BATLT3----",
+    "programomrade_tittel": "Trelast- og limtreproduksjonsfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "BATMF2----",
+    "programomrade_tittel": "Vg2 T\u00f8mrer"
+  },
+  {
+    "programomradekode10": "BATMF2--T-",
+    "programomrade_tittel": "Vg2 T\u00f8mrer med toppidrett"
+  },
+  {
+    "programomradekode10": "BATMF2H---",
+    "programomrade_tittel": "Vg2 T\u00f8mrer, grunnkompetanse"
+  },
+  {
+    "programomradekode10": "BATMF2N---",
+    "programomrade_tittel": "Vg2 T\u00f8mrer, studiekompetanse, 3-\u00e5rig"
+  },
+  {
+    "programomradekode10": "BATMF2P---",
+    "programomrade_tittel": "Vg2 T\u00f8mrer, yrkes- og studiekompetanse, 4-\u00e5rig"
+  },
+  {
+    "programomradekode10": "BATMF3----",
+    "programomrade_tittel": "T\u00f8mrerfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "BATMF3P---",
+    "programomrade_tittel": "T\u00f8mrerfaget, yrkes- og studiekompetanse, 4-\u00e5rig (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "BATRT2----",
+    "programomrade_tittel": "Vg2 Treteknikk"
+  },
+  {
+    "programomradekode10": "BATRT2H---",
+    "programomrade_tittel": "Vg2 Treteknikk, grunnkompetanse"
+  },
+  {
+    "programomradekode10": "BAVBL3----",
+    "programomrade_tittel": "Ventilasjons- og blikkenslagerfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "BAVOA3----",
+    "programomrade_tittel": "Vei- og anleggsfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "BAVOV3----",
+    "programomrade_tittel": "Veidrift- og veivedlikeholdsfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "DTBBF2----",
+    "programomrade_tittel": "Vg2 B\u00e5tbygger"
+  },
+  {
+    "programomradekode10": "DTBKF3----",
+    "programomrade_tittel": "B\u00f8kkerfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "DTBLY3----",
+    "programomrade_tittel": "Blyglassh\u00e5ndverkerfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "DTBNT3----",
+    "programomrade_tittel": "Buntmakerfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "DTBSM3----",
+    "programomrade_tittel": "Bilsalmakerfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "DTBUN3----",
+    "programomrade_tittel": "Bunadstilvirkerfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "DTDDU2----",
+    "programomrade_tittel": "Vg2 Duodji"
+  },
+  {
+    "programomradekode10": "DTDGH2----",
+    "programomrade_tittel": "Vg2 Gull- og s\u00f8lvsmedh\u00e5ndverk"
+  },
+  {
+    "programomradekode10": "DTDGH2N---",
+    "programomrade_tittel": "Vg2 Gull- og s\u00f8lvsmedh\u00e5ndverk, studiekompetanse, 3-\u00e5rig"
+  },
+  {
+    "programomradekode10": "DTDTH1----",
+    "programomrade_tittel": "Vg1 H\u00e5ndverk, design og produktutvikling"
+  },
+  {
+    "programomradekode10": "DTDTH1HT-1",
+    "programomrade_tittel": "Vg1 H\u00e5ndverk, design og produktutvikling, spesialoppl\u00e6ring i egen gruppe, 1. \u00e5r"
+  },
+  {
+    "programomradekode10": "DTDTH1N-GS",
+    "programomrade_tittel": "Vg1 H\u00e5ndverk, design og produktutvikling, med gull-/s\u00f8lvh\u00e5ndverk, stud.komp., 3-\u00e5rig"
+  },
+  {
+    "programomradekode10": "DTDTH1N-ST",
+    "programomrade_tittel": "Vg1 H\u00e5ndverk, design og produktutvikling med s\u00f8m/tekstil, studiekompetanse, 3-\u00e5rig"
+  },
+  {
+    "programomradekode10": "DTDTH1N-TA",
+    "programomrade_tittel": "Vg1 H\u00e5ndverk, design og produktutvikling med trearbeid, studiekompetanse, 3-\u00e5rig"
+  },
+  {
+    "programomradekode10": "DTDTR2----",
+    "programomrade_tittel": "Vg2 Trearbeid"
+  },
+  {
+    "programomradekode10": "DTDTR2N---",
+    "programomrade_tittel": "Vg2 Trearbeid, studiekompetanse, 3-\u00e5rig"
+  },
+  {
+    "programomradekode10": "DTFGY3----",
+    "programomrade_tittel": "Forgyllerfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "DTFIL3----",
+    "programomrade_tittel": "Filigranss\u00f8lvsmedfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "DTGBF3----",
+    "programomrade_tittel": "Glassbl\u00e5serfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "DTGIP3----",
+    "programomrade_tittel": "Gipsmakerfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "DTGRF3----",
+    "programomrade_tittel": "Grav\u00f8rfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "DTGTL3----",
+    "programomrade_tittel": "Gj\u00f8rtlerfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "DTGUL3----",
+    "programomrade_tittel": "Gullsmedfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "DTGUL3F---",
+    "programomrade_tittel": "Vg3 Gullsmedfaget, fagoppl\u00e6ring i skole"
+  },
+  {
+    "programomradekode10": "DTGUL3F1--",
+    "programomrade_tittel": "Vg3 Gullsmedfaget, fagoppl\u00e6ring i skole, 2-\u00e5rig, 1. \u00e5r"
+  },
+  {
+    "programomradekode10": "DTGUL3F2--",
+    "programomrade_tittel": "Vg3 Gullsmedfaget, fagoppl\u00e6ring i skole, 2-\u00e5rig, 2. \u00e5r"
+  },
+  {
+    "programomradekode10": "DTHBB3----",
+    "programomrade_tittel": "H\u00e5ndbokbinderfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "DTHMD3----",
+    "programomrade_tittel": "Horn-, bein- og metallduodjifaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "DTHSK3----",
+    "programomrade_tittel": "Herreskredderfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "DTHVF3----",
+    "programomrade_tittel": "H\u00e5ndveverfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "DTKBB3----",
+    "programomrade_tittel": "Komposittb\u00e5tbyggerfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "DTKER3----",
+    "programomrade_tittel": "Keramikerfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "DTKJD3----",
+    "programomrade_tittel": "Kjole- og draktsyerfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "DTKRV3----",
+    "programomrade_tittel": "Kurvmakerfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "DTKST3----",
+    "programomrade_tittel": "Kostymesyerfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "DTMBT3----",
+    "programomrade_tittel": "M\u00f8beltapetsererfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "DTMOD3----",
+    "programomrade_tittel": "Modistfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "DTMSF3----",
+    "programomrade_tittel": "M\u00f8belsnekkerfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "DTORG3----",
+    "programomrade_tittel": "Orgelbyggerfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "DTREP3----",
+    "programomrade_tittel": "Repslagerfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "DTSAL3----",
+    "programomrade_tittel": "Salmakerfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "DTSEI3----",
+    "programomrade_tittel": "Seilmakerfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "DTSKO3----",
+    "programomrade_tittel": "Skomakerfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "DTSKO3F---",
+    "programomrade_tittel": "Vg3 Skomakerfaget, fagoppl\u00e6ring i skole"
+  },
+  {
+    "programomradekode10": "DTSLV3----",
+    "programomrade_tittel": "S\u00f8lvsmedfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "DTSME2----",
+    "programomrade_tittel": "Vg2 Smed"
+  },
+  {
+    "programomradekode10": "DTSME3----",
+    "programomrade_tittel": "Smedfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "DTSPD3----",
+    "programomrade_tittel": "Skinn- og pelsduodjifaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "DTSTH2----",
+    "programomrade_tittel": "Vg2 S\u00f8m og tekstilh\u00e5ndverk"
+  },
+  {
+    "programomradekode10": "DTSTH2H---",
+    "programomrade_tittel": "Vg2 S\u00f8m og tekstilh\u00e5ndverk, grunnkompetanse"
+  },
+  {
+    "programomradekode10": "DTSTH2N---",
+    "programomrade_tittel": "Vg2 S\u00f8m og tekstilh\u00e5ndverk, studiekompetanse, 3-\u00e5rig"
+  },
+  {
+    "programomradekode10": "DTSTR3----",
+    "programomrade_tittel": "Strikkefaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "DTTDR3----",
+    "programomrade_tittel": "Tredreierfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "DTTED3----",
+    "programomrade_tittel": "Tekstilduodjifaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "DTTKS3----",
+    "programomrade_tittel": "Taksidermistfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "DTTRB3----",
+    "programomrade_tittel": "Treb\u00e5tbyggerfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "DTTRB3F---",
+    "programomrade_tittel": "Vg3 Treb\u00e5tbyggerfaget, fagoppl\u00e6ring i skole"
+  },
+  {
+    "programomradekode10": "DTTRD3----",
+    "programomrade_tittel": "Treduodjifaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "DTTSK3----",
+    "programomrade_tittel": "Treskj\u00e6rerfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "DTTSK3F---",
+    "programomrade_tittel": "Vg3 Treskj\u00e6rerfaget, fagoppl\u00e6ring i skole"
+  },
+  {
+    "programomradekode10": "DTUIM2----",
+    "programomrade_tittel": "Vg2 Urmaker"
+  },
+  {
+    "programomradekode10": "DTURM3----",
+    "programomrade_tittel": "Urmakerfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "DTVHD3----",
+    "programomrade_tittel": "Ull- og garnduodjifaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "ELAUT2----",
+    "programomrade_tittel": "Vg2 Automatisering"
+  },
+  {
+    "programomradekode10": "ELAUT2N---",
+    "programomrade_tittel": "Vg2 Automatisering, studiekompetanse, 3-\u00e5rig"
+  },
+  {
+    "programomradekode10": "ELAUT2P---",
+    "programomrade_tittel": "Vg2 Automatisering, yrkes- og studiekompetanse, 4-\u00e5rig (TAF)"
+  },
+  {
+    "programomradekode10": "ELAUT2UT--",
+    "programomrade_tittel": "Vg2 Automatisering med oppl\u00e6ring i utlandet"
+  },
+  {
+    "programomradekode10": "ELAUT3----",
+    "programomrade_tittel": "Vg3 Automatiseringsfaget"
+  },
+  {
+    "programomradekode10": "ELAUT3P---",
+    "programomrade_tittel": "Automatiseringsfaget, yrkes- og studiekompetanse, 4-\u00e5rig (TAF) (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "ELAUT4----",
+    "programomrade_tittel": "Vg3 Automatiseringsfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "ELAUT4P---",
+    "programomrade_tittel": "Automatiseringsfaget, yrkes- og studiekompetanse, 4-\u00e5rig (TAF) (oppl\u00e6ring i bedrift) (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "ELAVI3----",
+    "programomrade_tittel": "Vg3 Avionikerfag"
+  },
+  {
+    "programomradekode10": "ELAVI4----",
+    "programomrade_tittel": "Avionikerfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "ELDAT3----",
+    "programomrade_tittel": "Vg3 Dataelektronikerfaget"
+  },
+  {
+    "programomradekode10": "ELDAT4----",
+    "programomrade_tittel": "Vg3 Dataelektronikerfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "ELDEL2----",
+    "programomrade_tittel": "Vg2 Datateknologi og elektronikk"
+  },
+  {
+    "programomradekode10": "ELDEL2N---",
+    "programomrade_tittel": "Vg2 Datateknologi og elektronikk, studiekompetanse, 3-\u00e5rig"
+  },
+  {
+    "programomradekode10": "ELDEL2N-HM",
+    "programomrade_tittel": "Vg2 Datateknologi og elektronikk med helse- og milj\u00f8teknologi"
+  },
+  {
+    "programomradekode10": "ELDEL2P---",
+    "programomrade_tittel": "Vg2 Datateknologi og elektronikk, yrkes- og studiekompetanse, 4-\u00e5rig (TAF)"
+  },
+  {
+    "programomradekode10": "ELDEL2UT--",
+    "programomrade_tittel": "Vg2 Datateknologi og elektronikk med oppl\u00e6ring i utlandet"
+  },
+  {
+    "programomradekode10": "ELDRF2----",
+    "programomrade_tittel": "Vg2 Drone"
+  },
+  {
+    "programomradekode10": "ELDRF3----",
+    "programomrade_tittel": "Droneoperat\u00f8rfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "ELELE1----",
+    "programomrade_tittel": "Vg1 Elektro og datateknologi"
+  },
+  {
+    "programomradekode10": "ELELE1N---",
+    "programomrade_tittel": "Vg1 Elektro og datateknologi, studiekompetanse, 3-\u00e5rig"
+  },
+  {
+    "programomradekode10": "ELELE1N-AU",
+    "programomrade_tittel": "Vg1 Elektrofag med automatisering (robotikk), studiekompetanse, 3-\u00e5rig"
+  },
+  {
+    "programomradekode10": "ELELE1N-EL",
+    "programomrade_tittel": "Vg1 Elektrofag med elenergi, studiekompetanse, 3-\u00e5rig"
+  },
+  {
+    "programomradekode10": "ELELE1N-HM",
+    "programomrade_tittel": "Vg1 Elektrofag med helse- og milj\u00f8teknikk, studiekompetanse, 3-\u00e5rig"
+  },
+  {
+    "programomradekode10": "ELELE1P---",
+    "programomrade_tittel": "Vg1 Elektro og datateknologi, yrkes- og studiekompetanse, 4-\u00e5rig (YSK)"
+  },
+  {
+    "programomradekode10": "ELELE2----",
+    "programomrade_tittel": "Vg2 Elenergi og ekom"
+  },
+  {
+    "programomradekode10": "ELELE2N---",
+    "programomrade_tittel": "Vg2 Elenergi og ekom, studiekompetanse, 3-\u00e5rig"
+  },
+  {
+    "programomradekode10": "ELELE2P---",
+    "programomrade_tittel": "Vg2 Elenergi og ekom, yrkes- og studiekompetanse, 4-\u00e5rig (TAF)"
+  },
+  {
+    "programomradekode10": "ELELE2UT--",
+    "programomrade_tittel": "Vg2 Elenergi og ekom med oppl\u00e6ring i utlandet"
+  },
+  {
+    "programomradekode10": "ELELE3----",
+    "programomrade_tittel": "Elektrikerfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "ELELE3P---",
+    "programomrade_tittel": "Elektrikerfaget, yrkes- og studiekompetanse, 4-\u00e5rig (TAF) (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "ELEMO3----",
+    "programomrade_tittel": "Energimont\u00f8rfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "ELEOP3----",
+    "programomrade_tittel": "Energioperat\u00f8rfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "ELERF3----",
+    "programomrade_tittel": "Elektroreparat\u00f8rfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "ELFLY2----",
+    "programomrade_tittel": "Vg2 Flyfag"
+  },
+  {
+    "programomradekode10": "ELFLY3----",
+    "programomrade_tittel": "Vg3 Flytekniske fag"
+  },
+  {
+    "programomradekode10": "ELFMO4----",
+    "programomrade_tittel": "Flymotormekanikerfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "ELFST4----",
+    "programomrade_tittel": "Flystrukturmekanikerfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "ELFSY4----",
+    "programomrade_tittel": "Flysystemmekanikerfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "ELFUO3----",
+    "programomrade_tittel": "Fjernstyrte undervannsoperasjoner (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "ELHEI3----",
+    "programomrade_tittel": "Heismont\u00f8rfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "ELKVP3----",
+    "programomrade_tittel": "Kulde- og varmepumpeteknikkfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "ELKVV2----",
+    "programomrade_tittel": "Vg2 Kulde-, varmepumpe- og ventilasjonsteknikk"
+  },
+  {
+    "programomradekode10": "ELLSM3----",
+    "programomrade_tittel": "L\u00e5sesmedfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "ELMEL3----",
+    "programomrade_tittel": "Vg3 Maritim elektriker"
+  },
+  {
+    "programomradekode10": "ELMEL4----",
+    "programomrade_tittel": "Maritim elektrikerfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "ELOPT3----",
+    "programomrade_tittel": "Optronikerfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "ELPRO3----",
+    "programomrade_tittel": "Produksjonselektronikerfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "ELPRO3P---",
+    "programomrade_tittel": "Produksjonselektronikerfaget, yrkes- og studiekompetanse, 4-\u00e5rig (TAF) (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "ELROM3----",
+    "programomrade_tittel": "Vg3 Romteknologi"
+  },
+  {
+    "programomradekode10": "ELSIG3----",
+    "programomrade_tittel": "Signalmont\u00f8rfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "ELTAV3----",
+    "programomrade_tittel": "Tavlemont\u00f8rfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "ELTAV3P---",
+    "programomrade_tittel": "Vg3 Tavlemont\u00f8rfaget, yrkes- og studiekompetanse, 4-\u00e5rig (TAF)"
+  },
+  {
+    "programomradekode10": "ELTEL3----",
+    "programomrade_tittel": "Telekommunikasjonsmont\u00f8rfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "ELTOG3----",
+    "programomrade_tittel": "Togelektrikerfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "ELVEN3----",
+    "programomrade_tittel": "Ventilasjonsteknikkfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "ELVIK3----",
+    "programomrade_tittel": "Viklerfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "FDBLD2----",
+    "programomrade_tittel": "Vg2 Blomsterdekorat\u00f8r"
+  },
+  {
+    "programomradekode10": "FDBLD3----",
+    "programomrade_tittel": "Blomsterdekorat\u00f8rfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "FDEKD3----",
+    "programomrade_tittel": "Vg3 Eksponeringsdesign"
+  },
+  {
+    "programomradekode10": "FDFBI1----",
+    "programomrade_tittel": "Vg1 Fris\u00f8r, blomster, interi\u00f8r og eksponeringsdesign"
+  },
+  {
+    "programomradekode10": "FDFBI1HT-1",
+    "programomrade_tittel": "Vg1 Fris\u00f8r, blomster, interi\u00f8r og eksponeringsdesign, spes.oppl. egen gruppe, 1. \u00e5r"
+  },
+  {
+    "programomradekode10": "FDFRI2----",
+    "programomrade_tittel": "Vg2 Fris\u00f8r"
+  },
+  {
+    "programomradekode10": "FDFRI2H---",
+    "programomrade_tittel": "Vg2 Fris\u00f8r, grunnkompetanse"
+  },
+  {
+    "programomradekode10": "FDFRI2SY--",
+    "programomrade_tittel": "Vg2 Fris\u00f8r, overgang fra st.spes til yrkesfag"
+  },
+  {
+    "programomradekode10": "FDFRI3----",
+    "programomrade_tittel": "Fris\u00f8rfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "FDIED2----",
+    "programomrade_tittel": "Vg2 Interi\u00f8r og eksponeringsdesign"
+  },
+  {
+    "programomradekode10": "FDIED2H---",
+    "programomrade_tittel": "Vg2 Interi\u00f8r og eksponeringsdesign, grunnkompetanse"
+  },
+  {
+    "programomradekode10": "FDINT3----",
+    "programomrade_tittel": "Vg3 Interi\u00f8r"
+  },
+  {
+    "programomradekode10": "FDMPM3----",
+    "programomrade_tittel": "Mask\u00f8r- og parykkmakerfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "FDPFD3----",
+    "programomrade_tittel": "Profileringsdesignfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "HSAKT2----",
+    "programomrade_tittel": "Vg2 Aktivit\u00f8r"
+  },
+  {
+    "programomradekode10": "HSAKT3----",
+    "programomrade_tittel": "Aktivit\u00f8rfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "HSAMB2----",
+    "programomrade_tittel": "Vg2 Ambulansefag"
+  },
+  {
+    "programomradekode10": "HSAMB2N---",
+    "programomrade_tittel": "Vg2 Ambulansefag, studiekompetanse, 3-\u00e5rig"
+  },
+  {
+    "programomradekode10": "HSAMB2N-OR",
+    "programomrade_tittel": "Vg2 Ambulansefag,studiekompetanse, 3 \u00e5rig fra ordin\u00e6rt Vg1"
+  },
+  {
+    "programomradekode10": "HSAMB3----",
+    "programomrade_tittel": "Ambulansefaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "HSAMB3P---",
+    "programomrade_tittel": "Ambulansefaget, yrkes- og studiekompetanse, 4-\u00e5rig (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "HSAPO3----",
+    "programomrade_tittel": "Vg3 Apotekteknikk"
+  },
+  {
+    "programomradekode10": "HSBUA2----",
+    "programomrade_tittel": "Vg2 Barne- og ungdomsarbeiderfag"
+  },
+  {
+    "programomradekode10": "HSBUA2--T-",
+    "programomrade_tittel": "Vg2 Barne- og ungdomsarbeider med toppidrett"
+  },
+  {
+    "programomradekode10": "HSBUA2H---",
+    "programomrade_tittel": "Vg2 Barne- og ungdomsarbeiderfag, grunnkompetanse"
+  },
+  {
+    "programomradekode10": "HSBUA2N---",
+    "programomrade_tittel": "Vg2 Barne- og ungdomsarbeiderfag, studiekompetanse, 3-\u00e5rig"
+  },
+  {
+    "programomradekode10": "HSBUA2SY--",
+    "programomrade_tittel": "Vg2 Barne- og ungdomsarbeiderfag, overgang fra studiespesialisering til yrkesfag"
+  },
+  {
+    "programomradekode10": "HSBUA2VM--",
+    "programomrade_tittel": "Vg2 Barne- og ungdomsarbeiderfag, vekslingsmodell"
+  },
+  {
+    "programomradekode10": "HSBUA3----",
+    "programomrade_tittel": "Barne- og ungdomsarbeiderfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "HSBUA3P---",
+    "programomrade_tittel": "Barne- og ungdomsarbeiderfaget, yrkes- og studiekompetanse, 4-\u00e5rig (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "HSFOT2----",
+    "programomrade_tittel": "Vg2 Fotterapi og ortopediteknikk"
+  },
+  {
+    "programomradekode10": "HSFOT3----",
+    "programomrade_tittel": "Vg3 Fotterapi"
+  },
+  {
+    "programomradekode10": "HSHEA2----",
+    "programomrade_tittel": "Vg2 Helsearbeiderfag"
+  },
+  {
+    "programomradekode10": "HSHEA2H---",
+    "programomrade_tittel": "Vg2 Helsearbeiderfag, grunnkompetanse"
+  },
+  {
+    "programomradekode10": "HSHEA2N---",
+    "programomrade_tittel": "Vg2 Helsearbeiderfag, studiekompetanse, 3-\u00e5rig"
+  },
+  {
+    "programomradekode10": "HSHEA2N-OR",
+    "programomrade_tittel": "Vg2 Helsearbeiderfag, studiekompetanse 3 \u00e5rig fra ordin\u00e6rt Vg1"
+  },
+  {
+    "programomradekode10": "HSHEA2P---",
+    "programomrade_tittel": "Vg2 Helsearbeiderfag, yrkes- og studiekompetanse, 4-\u00e5rig"
+  },
+  {
+    "programomradekode10": "HSHEA2SY--",
+    "programomrade_tittel": "Vg2 Helsearbeiderfag, overgang fra studiespesialisering til yrkesfag"
+  },
+  {
+    "programomradekode10": "HSHEA2UT--",
+    "programomrade_tittel": "Vg2 Helsearbeiderfag med oppl\u00e6ring i utlandet"
+  },
+  {
+    "programomradekode10": "HSHEA2VM--",
+    "programomrade_tittel": "Vg2 Helsearbeiderfag, vekslingsmodell"
+  },
+  {
+    "programomradekode10": "HSHEA3----",
+    "programomrade_tittel": "Helsearbeiderfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "HSHEA3P---",
+    "programomrade_tittel": "Helsearbeiderfaget, yrkes- og studiekompetanse, 4-\u00e5rig (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "HSHES2----",
+    "programomrade_tittel": "Vg2 Helseservicefag"
+  },
+  {
+    "programomradekode10": "HSHSE3----",
+    "programomrade_tittel": "Vg3 Helsesekret\u00e6r"
+  },
+  {
+    "programomradekode10": "HSHSF1----",
+    "programomrade_tittel": "Vg1 Helse- og oppvekstfag"
+  },
+  {
+    "programomradekode10": "HSHSF1--T-",
+    "programomrade_tittel": "Vg1 Helse- og oppvekstfag med toppidrett"
+  },
+  {
+    "programomradekode10": "HSHSF1--VT",
+    "programomrade_tittel": "Vg1 Helse- og oppvekstfag med velferdsteknologi"
+  },
+  {
+    "programomradekode10": "HSHSF1A---",
+    "programomrade_tittel": "Vg1 Helse- og oppvekstfag, 2-\u00e5rig, 1. \u00e5r"
+  },
+  {
+    "programomradekode10": "HSHSF1B---",
+    "programomrade_tittel": "Vg1 Helse- og oppvekstfag, 2-\u00e5rig, 2. \u00e5r"
+  },
+  {
+    "programomradekode10": "HSHSF1C---",
+    "programomrade_tittel": "Vg1 Helse- og oppvekstfag for minoritetsspr\u00e5klige"
+  },
+  {
+    "programomradekode10": "HSHSF1HT-1",
+    "programomrade_tittel": "Vg1 Helse- og oppvekstfag, spesialundervisning i egen gruppe, 1. \u00e5r"
+  },
+  {
+    "programomradekode10": "HSHSF1N---",
+    "programomrade_tittel": "Vg1 Helse- og oppvekstfag, studiekompetanse, 3-\u00e5rig"
+  },
+  {
+    "programomradekode10": "HSHSF1N-A-",
+    "programomrade_tittel": "Vg1 Helse- og oppvekstfag med ambulansefag, studiekompetanse, 3-\u00e5rig"
+  },
+  {
+    "programomradekode10": "HSHSF1N-B-",
+    "programomrade_tittel": "Vg1 Helse- og oppvekstfag med barne- og ungdomsarbeiderfag, studiekompetanse, 3-\u00e5rig"
+  },
+  {
+    "programomradekode10": "HSHSF1N-H-",
+    "programomrade_tittel": "Vg1 Helse- og oppvekstfag med helsearbeiderfag, studiekompetanse, 3-\u00e5rig"
+  },
+  {
+    "programomradekode10": "HSHSF1P---",
+    "programomrade_tittel": "Vg1 Helse- og oppvekstfag, yrkes- og studiekompetanse, 4-\u00e5rig"
+  },
+  {
+    "programomradekode10": "HSHUD2----",
+    "programomrade_tittel": "Vg2 Hudpleie"
+  },
+  {
+    "programomradekode10": "HSHUD2H---",
+    "programomrade_tittel": "Vg2 Hudpleie, grunnkompetanse"
+  },
+  {
+    "programomradekode10": "HSHUD2UT--",
+    "programomrade_tittel": "Vg2 Hudpleie med oppl\u00e6ring i utlandet"
+  },
+  {
+    "programomradekode10": "HSHUD3----",
+    "programomrade_tittel": "Vg3 Hudpleier"
+  },
+  {
+    "programomradekode10": "HSORT3----",
+    "programomrade_tittel": "Ortopediteknikkfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "HSPOR3----",
+    "programomrade_tittel": "Port\u00f8rfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "HSTAN3----",
+    "programomrade_tittel": "Vg3 Tannhelsesekret\u00e6r"
+  },
+  {
+    "programomradekode10": "IDIDR2----",
+    "programomrade_tittel": "Vg2 Idrettsfag"
+  },
+  {
+    "programomradekode10": "IDIDR2--2-",
+    "programomrade_tittel": "Vg2 Idrettsfag med friluftsliv"
+  },
+  {
+    "programomradekode10": "IDIDR2--A-",
+    "programomrade_tittel": "Vg2 Idrettsfag med toppidrett"
+  },
+  {
+    "programomradekode10": "IDIDR2--AR",
+    "programomrade_tittel": "Vg2 Idrettsfag med toppidrett randonee og fjell\u00f8p"
+  },
+  {
+    "programomradekode10": "IDIDR2--AS",
+    "programomrade_tittel": "Vg2 Idrettsfag med toppidrett skyting"
+  },
+  {
+    "programomradekode10": "IDIDR2--B-",
+    "programomrade_tittel": "Vg2 Idrettsfag med alpint"
+  },
+  {
+    "programomradekode10": "IDIDR2--B4",
+    "programomrade_tittel": "Vg2 Idrettsfag med alpin, 4-\u00e5rig"
+  },
+  {
+    "programomradekode10": "IDIDR2--BF",
+    "programomrade_tittel": "Vg2 Idrettsfag med bratt friluftsliv"
+  },
+  {
+    "programomradekode10": "IDIDR2--C-",
+    "programomrade_tittel": "Vg2 Idrettsfag med golf"
+  },
+  {
+    "programomradekode10": "IDIDR2--D-",
+    "programomrade_tittel": "Vg2 Idrettsfag med fotball"
+  },
+  {
+    "programomradekode10": "IDIDR2--E-",
+    "programomrade_tittel": "Vg2 Idrettsfag med h\u00e5ndball"
+  },
+  {
+    "programomradekode10": "IDIDR2--H-",
+    "programomrade_tittel": "Vg2 Idrettsfag med nordiske grener"
+  },
+  {
+    "programomradekode10": "IDIDR2--J-",
+    "programomrade_tittel": "Vg2 Idrettsfag med friidrett"
+  },
+  {
+    "programomradekode10": "IDIDR2--LS",
+    "programomrade_tittel": "Vg2 Idrettsfag med langrenn og sv\u00f8mming"
+  },
+  {
+    "programomradekode10": "IDIDR2--M-",
+    "programomrade_tittel": "Vg2 Idrettsfag med langrenn"
+  },
+  {
+    "programomradekode10": "IDIDR2--N-",
+    "programomrade_tittel": "Vg2 Idrettsfag med kombinert"
+  },
+  {
+    "programomradekode10": "IDIDR2--O-",
+    "programomrade_tittel": "Vg2 Idrettsfag med hopp"
+  },
+  {
+    "programomradekode10": "IDIDR2--SS",
+    "programomrade_tittel": "Vg2 Idrettsfag med skiskyting"
+  },
+  {
+    "programomradekode10": "IDIDR2--T-",
+    "programomrade_tittel": "Vg2 Idrettsfag med bandy/hopp/turn"
+  },
+  {
+    "programomradekode10": "IDIDR3----",
+    "programomrade_tittel": "Vg3 Idrettsfag"
+  },
+  {
+    "programomradekode10": "IDIDR3--2-",
+    "programomrade_tittel": "Vg3 Idrettsfag med friluftsliv"
+  },
+  {
+    "programomradekode10": "IDIDR3--A-",
+    "programomrade_tittel": "Vg3 Idrettsfag med toppidrett"
+  },
+  {
+    "programomradekode10": "IDIDR3--AR",
+    "programomrade_tittel": "Vg3 Idrettsfag med toppidrett randonee og fjell\u00f8p"
+  },
+  {
+    "programomradekode10": "IDIDR3--AS",
+    "programomrade_tittel": "Vg3 Idrettsfag med toppidrett skyting"
+  },
+  {
+    "programomradekode10": "IDIDR3--B-",
+    "programomrade_tittel": "Vg3 Idrettsfag med alpint"
+  },
+  {
+    "programomradekode10": "IDIDR3--B4",
+    "programomrade_tittel": "Vg3 Idrettsfag med alpin, 4-\u00e5rig"
+  },
+  {
+    "programomradekode10": "IDIDR3--BF",
+    "programomrade_tittel": "Vg3 Idrettsfag med bratt friluftsliv"
+  },
+  {
+    "programomradekode10": "IDIDR3--C-",
+    "programomrade_tittel": "Vg3 Idrettsfag med golf"
+  },
+  {
+    "programomradekode10": "IDIDR3--D-",
+    "programomrade_tittel": "Vg3 Idrettsfag med fotball"
+  },
+  {
+    "programomradekode10": "IDIDR3--E-",
+    "programomrade_tittel": "Vg3 Idrettsfag med h\u00e5ndball"
+  },
+  {
+    "programomradekode10": "IDIDR3--H-",
+    "programomrade_tittel": "Vg3 Idrettsfag med nordiske grener"
+  },
+  {
+    "programomradekode10": "IDIDR3--J-",
+    "programomrade_tittel": "Vg3 Idrettsfag med friidrett"
+  },
+  {
+    "programomradekode10": "IDIDR3--LS",
+    "programomrade_tittel": "Vg3 Idrettsfag med langrenn og sv\u00f8mming"
+  },
+  {
+    "programomradekode10": "IDIDR3--M-",
+    "programomrade_tittel": "Vg3 Idrettsfag med langrenn"
+  },
+  {
+    "programomradekode10": "IDIDR3--N-",
+    "programomrade_tittel": "Vg3 Idrettsfag med kombinert"
+  },
+  {
+    "programomradekode10": "IDIDR3--O-",
+    "programomrade_tittel": "Vg3 Idrettsfag med hopp"
+  },
+  {
+    "programomradekode10": "IDIDR3--SS",
+    "programomrade_tittel": "Vg3 Idrettsfag med skiskyting"
+  },
+  {
+    "programomradekode10": "IDIDR3--T-",
+    "programomrade_tittel": "Vg3 Idrettsfag med bandy/hopp/turn"
+  },
+  {
+    "programomradekode10": "IDRET1----",
+    "programomrade_tittel": "Vg1 Idrettsfag"
+  },
+  {
+    "programomradekode10": "IDRET1--2-",
+    "programomrade_tittel": "Vg1 Idrettsfag med friluftsliv"
+  },
+  {
+    "programomradekode10": "IDRET1--A-",
+    "programomrade_tittel": "Vg1 Idrettsfag med toppidrett"
+  },
+  {
+    "programomradekode10": "IDRET1--AR",
+    "programomrade_tittel": "Vg1 Idrettsfag med toppidrett randonee og fjell\u00f8p"
+  },
+  {
+    "programomradekode10": "IDRET1--AS",
+    "programomrade_tittel": "Vg1 Idrettsfag med toppidrett skyting"
+  },
+  {
+    "programomradekode10": "IDRET1--B-",
+    "programomrade_tittel": "Vg1 Idrettsfag med alpint"
+  },
+  {
+    "programomradekode10": "IDRET1--B4",
+    "programomrade_tittel": "Vg1 Idrettsfag med alpin, 4-\u00e5rig"
+  },
+  {
+    "programomradekode10": "IDRET1--BF",
+    "programomrade_tittel": "Vg1 Idrettsfag med bratt friluftsliv"
+  },
+  {
+    "programomradekode10": "IDRET1--C-",
+    "programomrade_tittel": "Vg1 Idrettsfag med golf"
+  },
+  {
+    "programomradekode10": "IDRET1--D-",
+    "programomrade_tittel": "Vg1 Idrettsfag med fotball"
+  },
+  {
+    "programomradekode10": "IDRET1--E-",
+    "programomrade_tittel": "Vg1 Idrettsfag med h\u00e5ndball"
+  },
+  {
+    "programomradekode10": "IDRET1--H-",
+    "programomrade_tittel": "Vg1 Idrettsfag med nordiske grener"
+  },
+  {
+    "programomradekode10": "IDRET1--J-",
+    "programomrade_tittel": "Vg1 Idrettsfag med friidrett"
+  },
+  {
+    "programomradekode10": "IDRET1--LS",
+    "programomrade_tittel": "Vg1 Idrettsfag med langrenn og sv\u00f8mming"
+  },
+  {
+    "programomradekode10": "IDRET1--M-",
+    "programomrade_tittel": "Vg1 Idrettsfag med langrenn"
+  },
+  {
+    "programomradekode10": "IDRET1--N-",
+    "programomrade_tittel": "Vg1 Idrettsfag med kombinert"
+  },
+  {
+    "programomradekode10": "IDRET1--O-",
+    "programomrade_tittel": "Vg1 Idrettsfag med hopp"
+  },
+  {
+    "programomradekode10": "IDRET1--OR",
+    "programomrade_tittel": "Vg1 Idrettsfag med orientering"
+  },
+  {
+    "programomradekode10": "IDRET1--SS",
+    "programomrade_tittel": "Vg1 Idrettsfag med skiskyting"
+  },
+  {
+    "programomradekode10": "IDRET1--T-",
+    "programomrade_tittel": "Vg1 Idrettsfag med bandy/hopp/turn"
+  },
+  {
+    "programomradekode10": "IDRET1HT-1",
+    "programomrade_tittel": "Vg1 Idrettsfag, spesialundervisning i egen gruppe, 1. \u00e5r"
+  },
+  {
+    "programomradekode10": "IMIHP3----",
+    "programomrade_tittel": "Innholdsproduksjonsfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "IMIKM1----",
+    "programomrade_tittel": "Vg1 Informasjonsteknologi og medieproduksjon"
+  },
+  {
+    "programomradekode10": "IMIKM1HT-1",
+    "programomrade_tittel": "Vg1 Informasjonsteknologi og medieproduksjon, spes.oppl. i egen gruppe, 1. \u00e5r"
+  },
+  {
+    "programomradekode10": "IMIKM1N---",
+    "programomrade_tittel": "Vg1 Informasjonsteknologi og medieproduksjon, studiekompetanse, 3-\u00e5rig"
+  },
+  {
+    "programomradekode10": "IMIKM1N-IT",
+    "programomrade_tittel": "Vg1 Informasjonsteknologi og medieproduksjon med IT, studiekompetanse, 3-\u00e5rig"
+  },
+  {
+    "programomradekode10": "IMITD3----",
+    "programomrade_tittel": "IT-driftsfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "IMITK2----",
+    "programomrade_tittel": "Vg2 Informasjonsteknologi"
+  },
+  {
+    "programomradekode10": "IMITK2H---",
+    "programomrade_tittel": "Vg2 Informasjonsteknologi, grunnkompetanse"
+  },
+  {
+    "programomradekode10": "IMITK2N---",
+    "programomrade_tittel": "Vg2 Informasjonsteknologi, studiekompetanse, 3-\u00e5rig"
+  },
+  {
+    "programomradekode10": "IMIUV3----",
+    "programomrade_tittel": "IT-utviklerfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "IMMDF3----",
+    "programomrade_tittel": "Mediedesignfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "IMMED2----",
+    "programomrade_tittel": "Vg2 Medieproduksjon"
+  },
+  {
+    "programomradekode10": "IMMED2H---",
+    "programomrade_tittel": "Vg2 Medieproduksjon, grunnkompetanse"
+  },
+  {
+    "programomradekode10": "IMMED2N---",
+    "programomrade_tittel": "Vg2 Medieproduksjon, studiekompetanse, 3-\u00e5rig"
+  },
+  {
+    "programomradekode10": "IMMET3----",
+    "programomrade_tittel": "Medieteknikkfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "KDKDA1----",
+    "programomrade_tittel": "Vg1 Kunst, design og arkitektur"
+  },
+  {
+    "programomradekode10": "KDKDA1RS--",
+    "programomrade_tittel": "Vg1 Kunst, design og arkitektur, steinerpedagogikk"
+  },
+  {
+    "programomradekode10": "KDKDA2----",
+    "programomrade_tittel": "Vg2 Kunst, design og arkitektur"
+  },
+  {
+    "programomradekode10": "KDKDA2RS--",
+    "programomrade_tittel": "Vg2 Kunst, design og arkitektur, steinerpedagogikk"
+  },
+  {
+    "programomradekode10": "KDKDA3----",
+    "programomrade_tittel": "Vg3 Kunst, design og arkitektur"
+  },
+  {
+    "programomradekode10": "KDKDA3RS--",
+    "programomrade_tittel": "Vg3 Kunst, design og arkitektur, steinerpedagogikk"
+  },
+  {
+    "programomradekode10": "MDDAN2----",
+    "programomrade_tittel": "Vg2 Dans"
+  },
+  {
+    "programomradekode10": "MDDAN2--5-",
+    "programomrade_tittel": "Vg2 Dans med ballett"
+  },
+  {
+    "programomradekode10": "MDDAN3----",
+    "programomrade_tittel": "Vg3 Dans"
+  },
+  {
+    "programomradekode10": "MDDAN3--5-",
+    "programomrade_tittel": "Vg3 Dans med ballett"
+  },
+  {
+    "programomradekode10": "MDDRA2----",
+    "programomrade_tittel": "Vg2 Drama"
+  },
+  {
+    "programomradekode10": "MDDRA3----",
+    "programomrade_tittel": "Vg3 Drama"
+  },
+  {
+    "programomradekode10": "MDMDD1----",
+    "programomrade_tittel": "Vg1 Musikk, dans og drama"
+  },
+  {
+    "programomradekode10": "MDMDD1--1-",
+    "programomrade_tittel": "Vg1 Musikk, dans og drama med musikk"
+  },
+  {
+    "programomradekode10": "MDMDD1--2-",
+    "programomrade_tittel": "Vg1 Musikk, dans og drama med folkemusikk"
+  },
+  {
+    "programomradekode10": "MDMDD1--4-",
+    "programomrade_tittel": "Vg1 Musikk, dans og drama med dans"
+  },
+  {
+    "programomradekode10": "MDMDD1--5-",
+    "programomrade_tittel": "Vg1 Musikk, dans og drama med ballett"
+  },
+  {
+    "programomradekode10": "MDMDD1--6-",
+    "programomrade_tittel": "Vg1 Musikk, dans og drama med drama"
+  },
+  {
+    "programomradekode10": "MDMDD1--J-",
+    "programomrade_tittel": "Vg1 Musikk, dans og drama med jazz"
+  },
+  {
+    "programomradekode10": "MDMDD1HT-1",
+    "programomrade_tittel": "Vg1 Musikk, dans og drama, spesialundervisning i egen gruppe, 1. \u00e5r"
+  },
+  {
+    "programomradekode10": "MDMUS2----",
+    "programomrade_tittel": "Vg2 Musikk"
+  },
+  {
+    "programomradekode10": "MDMUS2--2-",
+    "programomrade_tittel": "Vg2 Musikk med folkemusikk"
+  },
+  {
+    "programomradekode10": "MDMUS2--J-",
+    "programomrade_tittel": "Vg2 Musikk med jazz"
+  },
+  {
+    "programomradekode10": "MDMUS2RS--",
+    "programomrade_tittel": "Vg2 Musikk, steinerpedagogikk"
+  },
+  {
+    "programomradekode10": "MDMUS3----",
+    "programomrade_tittel": "Vg3 Musikk"
+  },
+  {
+    "programomradekode10": "MDMUS3--2-",
+    "programomrade_tittel": "Vg3 Musikk med folkemusikk"
+  },
+  {
+    "programomradekode10": "MDMUS3--J-",
+    "programomrade_tittel": "Vg3 Musikk med jazz"
+  },
+  {
+    "programomradekode10": "MDMUS3RS--",
+    "programomrade_tittel": "Vg3 Musikk, steinerpedagogikk"
+  },
+  {
+    "programomradekode10": "MEMOK1----",
+    "programomrade_tittel": "Vg1 Medier og kommunikasjon"
+  },
+  {
+    "programomradekode10": "MEMOK1RS--",
+    "programomrade_tittel": "Vg1 Medier og kommunikasjon, steinerpedagogikk"
+  },
+  {
+    "programomradekode10": "MEMOK2----",
+    "programomrade_tittel": "Vg2 Medier og kommunikasjon"
+  },
+  {
+    "programomradekode10": "MEMOK2RS--",
+    "programomrade_tittel": "Vg2 Medier og kommunikasjon, steinerpedagogikk"
+  },
+  {
+    "programomradekode10": "MEMOK3----",
+    "programomrade_tittel": "Vg3 Medier og kommunikasjon"
+  },
+  {
+    "programomradekode10": "MEMOK3RS--",
+    "programomrade_tittel": "Vg3 Medier og kommunikasjon, steinerpedagogikk"
+  },
+  {
+    "programomradekode10": "NAAKV2----",
+    "programomrade_tittel": "Vg2 Akvakultur"
+  },
+  {
+    "programomradekode10": "NAAKV2P---",
+    "programomrade_tittel": "Vg2 Akvakultur med marine fag, yrkes- og studiekompetanse, 4-\u00e5rig (TAF)"
+  },
+  {
+    "programomradekode10": "NAAKV2VM--",
+    "programomrade_tittel": "Vg2 Akvakultur, vekslingsmodell"
+  },
+  {
+    "programomradekode10": "NAAKV3----",
+    "programomrade_tittel": "Akvakulturfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "NAAKV3P---",
+    "programomrade_tittel": "Akvakulturfaget med marine fag, yrkes- og studiekompetanse, 4-\u00e5rig (TAF) (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "NADYR3----",
+    "programomrade_tittel": "Dyrefaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "NAFFA2----",
+    "programomrade_tittel": "Vg2 Fiske og fangst"
+  },
+  {
+    "programomradekode10": "NAFFA3----",
+    "programomrade_tittel": "Fiske og fangst (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "NAGAR3----",
+    "programomrade_tittel": "Gartnerfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "NAHAV3----",
+    "programomrade_tittel": "Havbruksteknikkfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "NAHDF2----",
+    "programomrade_tittel": "Vg2 Heste- og dyrefag"
+  },
+  {
+    "programomradekode10": "NAHDF2--HK",
+    "programomrade_tittel": "Vg2 Heste- og dyrefag med hundekj\u00f8ring"
+  },
+  {
+    "programomradekode10": "NAHST3----",
+    "programomrade_tittel": "Hestefaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "NAHVS3----",
+    "programomrade_tittel": "Hovslagerfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "NALBR3----",
+    "programomrade_tittel": "Vg3 Landbruk"
+  },
+  {
+    "programomradekode10": "NALBR3--OK",
+    "programomrade_tittel": "Vg3 Landbruk, \u00f8kologisk"
+  },
+  {
+    "programomradekode10": "NALGA2----",
+    "programomrade_tittel": "Vg2 Landbruk og gartnern\u00e6ring"
+  },
+  {
+    "programomradekode10": "NALGA2--2-",
+    "programomrade_tittel": "Vg2 Landbruk og gartnern\u00e6ring med friluftsliv"
+  },
+  {
+    "programomradekode10": "NALGA2--OK",
+    "programomrade_tittel": "Vg2 Landbruk og gartnern\u00e6ring, \u00f8kologisk"
+  },
+  {
+    "programomradekode10": "NALGA2--SF",
+    "programomrade_tittel": "Vg2 Landbruk og gartnern\u00e6ring, sportsfiske"
+  },
+  {
+    "programomradekode10": "NALGA2H---",
+    "programomrade_tittel": "Vg2 Landbruk og gartnern\u00e6ring, grunnkompetanse"
+  },
+  {
+    "programomradekode10": "NALGA2N-D-",
+    "programomrade_tittel": "Vg1 Landbruk og gartnern\u00e6ring med dyrekunnskap, studiekompetanse, 3-\u00e5rig"
+  },
+  {
+    "programomradekode10": "NALGA2N-E-",
+    "programomrade_tittel": "Vg2 Landbruk og gartnern\u00e6ring med energi- og milj\u00f8fag, studiekompetanse, 3-\u00e5rig"
+  },
+  {
+    "programomradekode10": "NALGA2UT--",
+    "programomrade_tittel": "Vg2 Landbruk og gartnern\u00e6ring med oppl\u00e6ring i utlandet"
+  },
+  {
+    "programomradekode10": "NANAB1----",
+    "programomrade_tittel": "Vg1 Naturbruk"
+  },
+  {
+    "programomradekode10": "NANAB1--2-",
+    "programomrade_tittel": "Vg1 Naturbruk med friluftsliv"
+  },
+  {
+    "programomradekode10": "NANAB1--3-",
+    "programomrade_tittel": "Vg1 Naturbruk med hest"
+  },
+  {
+    "programomradekode10": "NANAB1--AN",
+    "programomrade_tittel": "Vg1 Naturbruk med anleggsgartner"
+  },
+  {
+    "programomradekode10": "NANAB1--DF",
+    "programomrade_tittel": "Vg1 Naturbruk med dyrefag"
+  },
+  {
+    "programomradekode10": "NANAB1--HK",
+    "programomrade_tittel": "Vg1 Naturbruk med hundekj\u00f8ring"
+  },
+  {
+    "programomradekode10": "NANAB1--SF",
+    "programomrade_tittel": "Vg1 Naturbruk med sportsfiske som n\u00e6ring og hobby"
+  },
+  {
+    "programomradekode10": "NANAB1HTH2",
+    "programomrade_tittel": "Vg1 Naturbruk, spesialundervisning i liten gruppe H, 2. \u00e5r"
+  },
+  {
+    "programomradekode10": "NANAB1HTH3",
+    "programomrade_tittel": "Vg1 Naturbruk, spesialundervisning i liten gruppe H, 3. \u00e5r"
+  },
+  {
+    "programomradekode10": "NANAB1N-D-",
+    "programomrade_tittel": "Vg1 Naturbruk med dyrekunnskap, studiekompetanse, 3-\u00e5rig"
+  },
+  {
+    "programomradekode10": "NANAB1N-DR",
+    "programomrade_tittel": "Vg1 Naturbruk med realfag og dyrekunnskap, studiekompetanse, 3-\u00e5rig"
+  },
+  {
+    "programomradekode10": "NANAB1N-E-",
+    "programomrade_tittel": "Vg1 Naturbruk med energi- og milj\u00f8fag, studiekompetanse, 3-\u00e5rig"
+  },
+  {
+    "programomradekode10": "NANAB1P-M-",
+    "programomrade_tittel": "Vg1 Naturbruk med marine fag, yrkes- og studiekompetanse, 4-\u00e5rig (TAF)"
+  },
+  {
+    "programomradekode10": "NANAB3----",
+    "programomrade_tittel": "Vg3 Naturbruk (studieforberedende)"
+  },
+  {
+    "programomradekode10": "NANAB3--D-",
+    "programomrade_tittel": "Vg3 Naturbruk med dyrekunnskap, studiekompetanse, 3-\u00e5rig"
+  },
+  {
+    "programomradekode10": "NANAB3--E-",
+    "programomrade_tittel": "Vg3 Naturbruk med energi- og milj\u00f8fag, studiekompetanse, 3-\u00e5rig"
+  },
+  {
+    "programomradekode10": "NANAB3--HK",
+    "programomrade_tittel": "Vg3 Naturbruk med hundekj\u00f8ring"
+  },
+  {
+    "programomradekode10": "NANAB3--SF",
+    "programomrade_tittel": "Vg3 Naturbruk med sportsfiske som n\u00e6ring og hobby (studieforberedende)"
+  },
+  {
+    "programomradekode10": "NAREI2----",
+    "programomrade_tittel": "Vg2 Reindrift"
+  },
+  {
+    "programomradekode10": "NAREI3----",
+    "programomrade_tittel": "Reindriftsfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "NASBR2----",
+    "programomrade_tittel": "Vg2 Skogbruk"
+  },
+  {
+    "programomradekode10": "NASKF3----",
+    "programomrade_tittel": "Skogfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "PBPBY3----",
+    "programomrade_tittel": "Vg3 P\u00e5bygging til generell studiekompetanse"
+  },
+  {
+    "programomradekode10": "PBPBY3--EP",
+    "programomrade_tittel": "Vg3 P\u00e5bygging til generell studiekompetanse med innovasjon og ledelse"
+  },
+  {
+    "programomradekode10": "PBPBY3--RF",
+    "programomrade_tittel": "Vg3 P\u00e5bygging til generell studiekompetanse med realfaglig fordypning"
+  },
+  {
+    "programomradekode10": "PBPBY3--SF",
+    "programomrade_tittel": "Vg3 P\u00e5bygging til generell studiekompetanse med sj\u00f8matfag for yrkesfaglige utdanning"
+  },
+  {
+    "programomradekode10": "PBPBY3--ST",
+    "programomrade_tittel": "Vg3 P\u00e5bygging til spesiell studiekompetanse"
+  },
+  {
+    "programomradekode10": "PBPBY3N---",
+    "programomrade_tittel": "Vg3 P\u00e5bygging til generell studiekompetanse, 3-\u00e5rig"
+  },
+  {
+    "programomradekode10": "PBPBY4----",
+    "programomrade_tittel": "Fag for studiekompetanse"
+  },
+  {
+    "programomradekode10": "PBPBY4--6P",
+    "programomrade_tittel": "Vg3 P\u00e5bygging til generell studiekompetanse etter utenlandsk studiekompetanse"
+  },
+  {
+    "programomradekode10": "PBPBY4YK--",
+    "programomrade_tittel": "Vg4 P\u00e5bygging til generell studiekompetanse etter yrkeskompetanse"
+  },
+  {
+    "programomradekode10": "PBPBY4YK3D",
+    "programomrade_tittel": "Vg4 P\u00e5bygging til generell studiekompetanse etter yrkeskompetanse, 3 dager per uke"
+  },
+  {
+    "programomradekode10": "PBPBY4YKHA",
+    "programomrade_tittel": "Vg4 P\u00e5bygging til generell studiekompetanse etter yrkeskompetanse, halv\u00e5rig"
+  },
+  {
+    "programomradekode10": "PBPBY4YKKV",
+    "programomrade_tittel": "Vg4 P\u00e5bygging til generell studiekompetanse etter yrkeskompetanse, kveldstid"
+  },
+  {
+    "programomradekode10": "RMBAK2----",
+    "programomrade_tittel": "Vg2 Baker og konditor"
+  },
+  {
+    "programomradekode10": "RMBAK2H---",
+    "programomrade_tittel": "Vg2 Baker og konditor, grunnkompetanse"
+  },
+  {
+    "programomradekode10": "RMBAK2SY--",
+    "programomrade_tittel": "Vg2 Baker og konditor, overgang fra st.spes til yrkesfag"
+  },
+  {
+    "programomradekode10": "RMBAK3----",
+    "programomrade_tittel": "Bakerfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "RMBAK3P---",
+    "programomrade_tittel": "Bakerfaget, yrkes- og studiekompetanse, 4-\u00e5rig (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "RMEKF3----",
+    "programomrade_tittel": "Ern\u00e6ringskokkfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "RMEKF3P---",
+    "programomrade_tittel": "Ern\u00e6ringskokkfaget, yrkes- og studiekompetanse, 4-\u00e5rig (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "RMFVF3----",
+    "programomrade_tittel": "Ferskvarehandlerfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "RMFVF3P---",
+    "programomrade_tittel": "Ferskvarehandlerfaget, yrkes- og studiekompetanse, 4-\u00e5rig (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "RMIMP3----",
+    "programomrade_tittel": "Industriell matproduksjon (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "RMIMP3P---",
+    "programomrade_tittel": "Industriell matproduksjon, yrkes- og studiekompetanse, 4-\u00e5rig (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "RMKOK3----",
+    "programomrade_tittel": "Kokkfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "RMKOK3P---",
+    "programomrade_tittel": "Kokkfaget, yrkes- og studiekompetanse, 4-\u00e5rig (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "RMKON3----",
+    "programomrade_tittel": "Konditorfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "RMKON3P---",
+    "programomrade_tittel": "Konditorfaget, yrkes- og studiekompetanse, 4-\u00e5rig (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "RMKOS2----",
+    "programomrade_tittel": "Vg2 Kokk- og servit\u00f8rfag"
+  },
+  {
+    "programomradekode10": "RMKOS2--TK",
+    "programomrade_tittel": "Vg2 Kokk- og servit\u00f8rfag med toppkokk"
+  },
+  {
+    "programomradekode10": "RMKOS2H---",
+    "programomrade_tittel": "Vg2 Kokk- og servit\u00f8rfag, grunnkompetanse"
+  },
+  {
+    "programomradekode10": "RMKOS2P---",
+    "programomrade_tittel": "Vg2 Kokk- og servit\u00f8rfag, yrkes- og studiekompetanse, 4-\u00e5rig"
+  },
+  {
+    "programomradekode10": "RMKOS2SY--",
+    "programomrade_tittel": "Vg2 Kokk- og servit\u00f8rfag, overgang fra studiespesialisering til yrkesfag"
+  },
+  {
+    "programomradekode10": "RMKSK3----",
+    "programomrade_tittel": "Kj\u00f8ttskj\u00e6rerfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "RMMPR2----",
+    "programomrade_tittel": "Vg2 Matproduksjon"
+  },
+  {
+    "programomradekode10": "RMMPR2--SF",
+    "programomrade_tittel": "Vg2 Matproduksjon med sj\u00f8matfag"
+  },
+  {
+    "programomradekode10": "RMMPR2H---",
+    "programomrade_tittel": "Vg2 Matproduksjon, grunnkompetanse"
+  },
+  {
+    "programomradekode10": "RMPMF3----",
+    "programomrade_tittel": "P\u00f8lsemakerfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "RMRMF1----",
+    "programomrade_tittel": "Vg1 Restaurant- og matfag"
+  },
+  {
+    "programomradekode10": "RMRMF1--SF",
+    "programomrade_tittel": "Vg1 Restaurant- og matfag med sj\u00f8mat"
+  },
+  {
+    "programomradekode10": "RMRMF1--TK",
+    "programomrade_tittel": "Vg1 Restaurant- og matfag med toppkokk"
+  },
+  {
+    "programomradekode10": "RMRMF1HT-1",
+    "programomrade_tittel": "Vg1 Restaurant- og matfag, spesialundervisning i egen gruppe, 1. \u00e5r"
+  },
+  {
+    "programomradekode10": "RMRMF1P---",
+    "programomrade_tittel": "Vg1 Restaurant- og matfag, yrkes- og studiekompetanse, 4-\u00e5rig"
+  },
+  {
+    "programomradekode10": "RMSER3----",
+    "programomrade_tittel": "Servit\u00f8rfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "RMSER3P---",
+    "programomrade_tittel": "Servit\u00f8rfaget, yrkes- og studiekompetanse, 4-\u00e5rig (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "RMSLF3----",
+    "programomrade_tittel": "Slakterfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "RMSLF3P---",
+    "programomrade_tittel": "Slakterfaget, yrkes- og studiekompetanse, 4-\u00e5rig (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "RMSMP3----",
+    "programomrade_tittel": "Sj\u00f8matproduksjon (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "SRRLV3----",
+    "programomrade_tittel": "Reiselivsfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "SRSIK3----",
+    "programomrade_tittel": "Sikkerhetsfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "SRSLG3----",
+    "programomrade_tittel": "Salgsfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "SRSOA3----",
+    "programomrade_tittel": "Service- og administrasjonsfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "SRSRL2----",
+    "programomrade_tittel": "Vg2 Salg og reiseliv"
+  },
+  {
+    "programomradekode10": "SRSRL2--EP",
+    "programomrade_tittel": "Vg2 Salg og reiseliv med innovasjon og ledelse"
+  },
+  {
+    "programomradekode10": "SRSRL2H---",
+    "programomrade_tittel": "Vg2 Salg og reiseliv, grunnkompetanse"
+  },
+  {
+    "programomradekode10": "SRSRL2N---",
+    "programomrade_tittel": "Vg2 Salg og reiseliv, studiekompetanse, 3-\u00e5rig"
+  },
+  {
+    "programomradekode10": "SRSRL2P---",
+    "programomrade_tittel": "Vg2 Salg og reiseliv, yrkes- og studiekompetanse, 4-\u00e5rig"
+  },
+  {
+    "programomradekode10": "SRSSH2----",
+    "programomrade_tittel": "Vg2 Service, sikkerhet og administrasjon"
+  },
+  {
+    "programomradekode10": "SRSSH2H---",
+    "programomrade_tittel": "Vg2 Service, sikkerhet og administrasjon, grunnkompetanse"
+  },
+  {
+    "programomradekode10": "SRSSH2P---",
+    "programomrade_tittel": "Vg2 Service, sikkerhet og administrasjon, yrkes- og studiekompetanse, 4-\u00e5rig"
+  },
+  {
+    "programomradekode10": "SRSSR1----",
+    "programomrade_tittel": "Vg1 Salg, service og reiseliv"
+  },
+  {
+    "programomradekode10": "SRSSR1--EP",
+    "programomrade_tittel": "Vg1 Salg, service og reiseliv med innovasjon og ledelse"
+  },
+  {
+    "programomradekode10": "SRSSR1B---",
+    "programomrade_tittel": "Vg2 Salg, service og reiseliv, 2-\u00e5rig, 2. \u00e5r"
+  },
+  {
+    "programomradekode10": "SRSSR1HT-1",
+    "programomrade_tittel": "Vg1 Salg, service og reiseliv, spesialundervisning i egen gruppe, 1. \u00e5r"
+  },
+  {
+    "programomradekode10": "SRSSR1N---",
+    "programomrade_tittel": "Vg1 Salg, service og reiseliv, studiekompetanse, 3-\u00e5rig"
+  },
+  {
+    "programomradekode10": "SRSSR1P---",
+    "programomrade_tittel": "Vg1 Salg, service og reiseliv, yrkes- og studiekompetanse, 4-\u00e5rig"
+  },
+  {
+    "programomradekode10": "STREA2----",
+    "programomrade_tittel": "Vg2 Realfag"
+  },
+  {
+    "programomradekode10": "STREA2--K-",
+    "programomrade_tittel": "Vg2 Realfag med teknologifag"
+  },
+  {
+    "programomradekode10": "STREA2--N-",
+    "programomrade_tittel": "Vg2 Realfag med fokus p\u00e5 internasjonalisering"
+  },
+  {
+    "programomradekode10": "STREA2--Q-",
+    "programomrade_tittel": "Vg2 Realfag med forskerlinje"
+  },
+  {
+    "programomradekode10": "STREA2--RA",
+    "programomrade_tittel": "Vg2 Realfag med science"
+  },
+  {
+    "programomradekode10": "STREA2--S-",
+    "programomrade_tittel": "Vg2 Realfag med alpint og langrenn"
+  },
+  {
+    "programomradekode10": "STREA2--SL",
+    "programomrade_tittel": "Vg2 Realfag med langrenn og skiskyting"
+  },
+  {
+    "programomradekode10": "STREA2--SS",
+    "programomrade_tittel": "Vg2 Realfag med skiskyting"
+  },
+  {
+    "programomradekode10": "STREA2--T-",
+    "programomrade_tittel": "Vg2 Realfag med toppidrett"
+  },
+  {
+    "programomradekode10": "STREA2--TP",
+    "programomrade_tittel": "Vg2 Realfag med toppidrett"
+  },
+  {
+    "programomradekode10": "STREA2--TR",
+    "programomrade_tittel": "Vg2 Realfag med toppidrett randonee og fjell\u00f8p"
+  },
+  {
+    "programomradekode10": "STREA2--TS",
+    "programomrade_tittel": "Vg2 Realfag med toppidrett skyting"
+  },
+  {
+    "programomradekode10": "STREA2--X-",
+    "programomrade_tittel": "Vg2 Realfag med natur og milj\u00f8"
+  },
+  {
+    "programomradekode10": "STREA2C---",
+    "programomrade_tittel": "Vg2 Realfag for minoritetsspr\u00e5klige"
+  },
+  {
+    "programomradekode10": "STREA2RS--",
+    "programomrade_tittel": "Vg2 Studiespesialisering med realfag, steinerpedagogikk"
+  },
+  {
+    "programomradekode10": "STREA2TY--",
+    "programomrade_tittel": "Vg2 Realfag med tysk oppl\u00e6ring"
+  },
+  {
+    "programomradekode10": "STREA2UT--",
+    "programomrade_tittel": "Vg2 Realfag med oppl\u00e6ring i utlandet"
+  },
+  {
+    "programomradekode10": "STREA3----",
+    "programomrade_tittel": "Vg3 Realfag"
+  },
+  {
+    "programomradekode10": "STREA3--K-",
+    "programomrade_tittel": "Vg3 Realfag med teknologifag"
+  },
+  {
+    "programomradekode10": "STREA3--N-",
+    "programomrade_tittel": "Vg3 Realfag med fokus p\u00e5 internasjonalisering"
+  },
+  {
+    "programomradekode10": "STREA3--Q-",
+    "programomrade_tittel": "Vg3 Realfag med forskerlinje"
+  },
+  {
+    "programomradekode10": "STREA3--RA",
+    "programomrade_tittel": "Vg3 Realfag med science"
+  },
+  {
+    "programomradekode10": "STREA3--S-",
+    "programomrade_tittel": "Vg3 Realfag med alpint og langrenn"
+  },
+  {
+    "programomradekode10": "STREA3--SL",
+    "programomrade_tittel": "Vg3 Realfag med langrenn og skiskyting"
+  },
+  {
+    "programomradekode10": "STREA3--SS",
+    "programomrade_tittel": "Vg3 Realfag med skiskyting"
+  },
+  {
+    "programomradekode10": "STREA3--T-",
+    "programomrade_tittel": "Vg3 Realfag med toppidrett"
+  },
+  {
+    "programomradekode10": "STREA3--TP",
+    "programomrade_tittel": "Vg3 Realfag med toppidrett"
+  },
+  {
+    "programomradekode10": "STREA3--TR",
+    "programomrade_tittel": "Vg3 Realfag med toppidrett randonee og fjell\u00f8p"
+  },
+  {
+    "programomradekode10": "STREA3--TS",
+    "programomrade_tittel": "Vg3 Realfag med toppidrett skyting"
+  },
+  {
+    "programomradekode10": "STREA3--X-",
+    "programomrade_tittel": "Vg3 Realfag med natur og milj\u00f8"
+  },
+  {
+    "programomradekode10": "STREA3C---",
+    "programomrade_tittel": "Vg3 Realfag for minoritetsspr\u00e5klige"
+  },
+  {
+    "programomradekode10": "STREA3RS--",
+    "programomrade_tittel": "Vg3 Studiespesialisering med realfag, steinerpedagogikk"
+  },
+  {
+    "programomradekode10": "STREA3TY--",
+    "programomrade_tittel": "Vg3 Realfag med tysk oppl\u00e6ring"
+  },
+  {
+    "programomradekode10": "STSSA2----",
+    "programomrade_tittel": "Vg2 Spr\u00e5k, samfunnsfag og \u00f8konomi"
+  },
+  {
+    "programomradekode10": "STSSA2--EP",
+    "programomrade_tittel": "Vg2 Spr\u00e5k, samfunnsfag og \u00f8konomi med entrepren\u00f8rskap"
+  },
+  {
+    "programomradekode10": "STSSA2--HO",
+    "programomrade_tittel": "Vg2 Spr\u00e5k, samfunnsfag og \u00f8konomi for h\u00f8rselshemmede"
+  },
+  {
+    "programomradekode10": "STSSA2--N-",
+    "programomrade_tittel": "Vg2 Spr\u00e5k, samfunnsfag og \u00f8konomi med fokus p\u00e5 internasjonalisering"
+  },
+  {
+    "programomradekode10": "STSSA2--Q-",
+    "programomrade_tittel": "Vg2 Spr\u00e5k, samfunnsfag og \u00f8konomi med forskerlinje"
+  },
+  {
+    "programomradekode10": "STSSA2--S-",
+    "programomrade_tittel": "Vg2 Spr\u00e5k, samfunnsfag og \u00f8konomi med alpint og langrenn"
+  },
+  {
+    "programomradekode10": "STSSA2--SL",
+    "programomrade_tittel": "Vg2 Spr\u00e5k, samfunnsfag og \u00f8konomi med langrenn og skiskyting"
+  },
+  {
+    "programomradekode10": "STSSA2--SS",
+    "programomrade_tittel": "Vg2 Spr\u00e5k, samfunnsfag og \u00f8konomi med skiskyting"
+  },
+  {
+    "programomradekode10": "STSSA2--T-",
+    "programomrade_tittel": "Vg2 Spr\u00e5k, samfunnsfag og \u00f8konomi med toppidrett"
+  },
+  {
+    "programomradekode10": "STSSA2--TH",
+    "programomrade_tittel": "Vg2 Spr\u00e5k, samfunnsfag og \u00f8konomi med toppidrett hest"
+  },
+  {
+    "programomradekode10": "STSSA2--TP",
+    "programomrade_tittel": "Vg2 Spr\u00e5k, samfunnsfag og \u00f8konomi med toppidrett"
+  },
+  {
+    "programomradekode10": "STSSA2C---",
+    "programomrade_tittel": "Vg2 Spr\u00e5k, samfunnsfag og \u00f8konomi for minoritetsspr\u00e5klige"
+  },
+  {
+    "programomradekode10": "STSSA2RS--",
+    "programomrade_tittel": "Vg2 Studiespesialisering med humanistfag, steinerpedagogikk"
+  },
+  {
+    "programomradekode10": "STSSA2UT--",
+    "programomrade_tittel": "Vg2 Spr\u00e5k, samfunnsfag og \u00f8konomi med oppl\u00e6ring i utlandet"
+  },
+  {
+    "programomradekode10": "STSSA3----",
+    "programomrade_tittel": "Vg3 Spr\u00e5k, samfunnsfag og \u00f8konomi"
+  },
+  {
+    "programomradekode10": "STSSA3--EP",
+    "programomrade_tittel": "Vg3 Spr\u00e5k, samfunnsfag og \u00f8konomi med entrepren\u00f8rskap"
+  },
+  {
+    "programomradekode10": "STSSA3--HO",
+    "programomrade_tittel": "Vg3 Spr\u00e5k, samfunnsfag og \u00f8konomi for h\u00f8rselshemmede"
+  },
+  {
+    "programomradekode10": "STSSA3--N-",
+    "programomrade_tittel": "Vg3 Spr\u00e5k, samfunnsfag og \u00f8konomi med fokus p\u00e5 internasjonalisering"
+  },
+  {
+    "programomradekode10": "STSSA3--Q-",
+    "programomrade_tittel": "Vg3 Spr\u00e5k, samfunnsfag og \u00f8konomi med forskerlinje"
+  },
+  {
+    "programomradekode10": "STSSA3--S-",
+    "programomrade_tittel": "Vg3 Spr\u00e5k, samfunnsfag og \u00f8konomi med alpint og langrenn"
+  },
+  {
+    "programomradekode10": "STSSA3--SL",
+    "programomrade_tittel": "Vg3 Spr\u00e5k, samfunnsfag og \u00f8konomi med langrenn og skiskyting"
+  },
+  {
+    "programomradekode10": "STSSA3--SS",
+    "programomrade_tittel": "Vg3 Spr\u00e5k, samfunnsfag og \u00f8konomi med skiskyting"
+  },
+  {
+    "programomradekode10": "STSSA3--T-",
+    "programomrade_tittel": "Vg3 Spr\u00e5k, samfunnsfag og \u00f8konomi med toppidrett"
+  },
+  {
+    "programomradekode10": "STSSA3--TH",
+    "programomrade_tittel": "Vg3 Spr\u00e5k, samfunnsfag og \u00f8konomi med toppidrett hest"
+  },
+  {
+    "programomradekode10": "STSSA3--TP",
+    "programomrade_tittel": "Vg3 Spr\u00e5k, samfunnsfag og \u00f8konomi med toppidrett"
+  },
+  {
+    "programomradekode10": "STSSA3C---",
+    "programomrade_tittel": "Vg3 Spr\u00e5k, samfunnsfag og \u00f8konomi for minoritetsspr\u00e5klige"
+  },
+  {
+    "programomradekode10": "STSSA3RS--",
+    "programomrade_tittel": "Vg3 Studiespesialisering med humanistfag, steinerpedagogikk"
+  },
+  {
+    "programomradekode10": "STUSP1----",
+    "programomrade_tittel": "Vg1 Studiespesialisering"
+  },
+  {
+    "programomradekode10": "STUSP1--2-",
+    "programomrade_tittel": "Vg1 Studiespesialisering med friluftsliv"
+  },
+  {
+    "programomradekode10": "STUSP1--EP",
+    "programomrade_tittel": "Vg1 Studiespesialisering med entrepren\u00f8rskap"
+  },
+  {
+    "programomradekode10": "STUSP1--ES",
+    "programomrade_tittel": "Vg1 Studiespesialisering med e-sport"
+  },
+  {
+    "programomradekode10": "STUSP1--F-",
+    "programomrade_tittel": "Vg1 Studiespesialisering med fotball"
+  },
+  {
+    "programomradekode10": "STUSP1--H-",
+    "programomrade_tittel": "Vg1 Studiespesialisering med h\u00e5ndball"
+  },
+  {
+    "programomradekode10": "STUSP1--HO",
+    "programomrade_tittel": "Vg1 Studiespesialisering for h\u00f8rselshemmede"
+  },
+  {
+    "programomradekode10": "STUSP1--IT",
+    "programomrade_tittel": "Vg1 Studiespesialisering med IT"
+  },
+  {
+    "programomradekode10": "STUSP1--K-",
+    "programomrade_tittel": "Vg1 Studiespesialisering med teknologifag"
+  },
+  {
+    "programomradekode10": "STUSP1--N-",
+    "programomrade_tittel": "Vg1 Studiespesialisering med fokus p\u00e5 internasjonalisering"
+  },
+  {
+    "programomradekode10": "STUSP1--Q-",
+    "programomrade_tittel": "Vg1 Studiespesialisering med forskerlinje"
+  },
+  {
+    "programomradekode10": "STUSP1--RA",
+    "programomrade_tittel": "Vg1 Studiespesialisering med science"
+  },
+  {
+    "programomradekode10": "STUSP1--S-",
+    "programomrade_tittel": "Vg1 Studiespesialisering med alpint og langrenn"
+  },
+  {
+    "programomradekode10": "STUSP1--SL",
+    "programomrade_tittel": "Vg1 Studiespesialisering med langrenn og skiskyting"
+  },
+  {
+    "programomradekode10": "STUSP1--SS",
+    "programomrade_tittel": "Vg1 Studiespesialisering med skiskyting"
+  },
+  {
+    "programomradekode10": "STUSP1--T-",
+    "programomrade_tittel": "Vg1 Studiespesialisering med toppidrett"
+  },
+  {
+    "programomradekode10": "STUSP1--TH",
+    "programomrade_tittel": "Vg1 Studiespesialisering med toppidrett hest"
+  },
+  {
+    "programomradekode10": "STUSP1--TP",
+    "programomrade_tittel": "Vg1 Studiespesialisering med toppidrett"
+  },
+  {
+    "programomradekode10": "STUSP1--TR",
+    "programomrade_tittel": "Vg1 Studiespesialisering med toppidrett randonee og fjell\u00f8p"
+  },
+  {
+    "programomradekode10": "STUSP1--TS",
+    "programomrade_tittel": "Vg1 Studiespesialisering med toppidrett skyting"
+  },
+  {
+    "programomradekode10": "STUSP1--X-",
+    "programomrade_tittel": "Vg1 Studiespesialisering med natur og milj\u00f8"
+  },
+  {
+    "programomradekode10": "STUSP1A---",
+    "programomrade_tittel": "Vg1 Studiespesialisering, 2-\u00e5rig, 1. \u00e5r"
+  },
+  {
+    "programomradekode10": "STUSP1B---",
+    "programomrade_tittel": "Vg1 Studiespesialisering, 2-\u00e5rig, 2. \u00e5r"
+  },
+  {
+    "programomradekode10": "STUSP1C---",
+    "programomrade_tittel": "Vg1 Studiespesialisering for minoritetsspr\u00e5klige"
+  },
+  {
+    "programomradekode10": "STUSP1H-HO",
+    "programomrade_tittel": "Vg1 Studiespesialisering for h\u00f8rselshemmede, grunnkompetanse"
+  },
+  {
+    "programomradekode10": "STUSP1HR-1",
+    "programomrade_tittel": "Vg1 Studiespesialisering, spesialundervisning i egen grp., steinerpedagogikk, 1. \u00e5r"
+  },
+  {
+    "programomradekode10": "STUSP1HR-2",
+    "programomrade_tittel": "Vg1 Studiespesialisering, spesialundervisning i egen grp., steinerpedagogikk, 2. \u00e5r"
+  },
+  {
+    "programomradekode10": "STUSP1HR-3",
+    "programomrade_tittel": "Vg1 Studiespesialisering, spesialundervisning i egen grp., steinerpedagogikk, 3. \u00e5r"
+  },
+  {
+    "programomradekode10": "STUSP1HT-1",
+    "programomrade_tittel": "Vg1 Studiespesialisering, spesialundervisning i egen gruppe, 1. \u00e5r"
+  },
+  {
+    "programomradekode10": "STUSP1HTA1",
+    "programomrade_tittel": "Vg1 Studiespesialisering, spesialundervisning i liten gruppe A, 1. \u00e5r"
+  },
+  {
+    "programomradekode10": "STUSP1HTH1",
+    "programomrade_tittel": "Vg1 Studiespesialisering, spesialundervisning i liten gruppe H, 1. \u00e5r"
+  },
+  {
+    "programomradekode10": "STUSP1RFQ-",
+    "programomrade_tittel": "Vg1 Studiespesialisering med realfag og forskeraktivitet"
+  },
+  {
+    "programomradekode10": "STUSP1RS--",
+    "programomrade_tittel": "Vg1 Studiespesialisering, allment l\u00f8p, steinerpedagogikk"
+  },
+  {
+    "programomradekode10": "STUSP1TY--",
+    "programomrade_tittel": "Vg1 Studiespesialisering med tysk oppl\u00e6ring"
+  },
+  {
+    "programomradekode10": "STUSP1Z---",
+    "programomrade_tittel": "Vg1 Studiespesialisering med forberedende International Baccalaureate"
+  },
+  {
+    "programomradekode10": "STUSP1Z-5-",
+    "programomrade_tittel": "Vg1 Studiespesialisering med International Baccalaureate, Middle Years Programme 5"
+  },
+  {
+    "programomradekode10": "TPALU3----",
+    "programomrade_tittel": "Aluminiumskonstruksjonsfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "TPALU3P---",
+    "programomrade_tittel": "Aluminiumskonstruksjonsfaget, yrkes- og studiekompetanse, 4-\u00e5rig (TAF) (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "TPAMK2----",
+    "programomrade_tittel": "Vg2 Arbeidsmaskiner"
+  },
+  {
+    "programomradekode10": "TPAMK2H---",
+    "programomrade_tittel": "Vg2 Arbeidsmaskiner, grunnkompetanse"
+  },
+  {
+    "programomradekode10": "TPAMM3----",
+    "programomrade_tittel": "Vg3 Anleggsmaskinmekanikerfaget"
+  },
+  {
+    "programomradekode10": "TPAMM4----",
+    "programomrade_tittel": "Vg3 Anleggsmaskinmekanikerfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "TPBIP3----",
+    "programomrade_tittel": "Bilpleiefaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "TPBKO3----",
+    "programomrade_tittel": "Br\u00f8nnfaget, komplettering (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "TPBKV3----",
+    "programomrade_tittel": "Br\u00f8nnfaget, kveiler\u00f8roperasjoner (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "TPBLA3----",
+    "programomrade_tittel": "Billakkererfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "TPBLK2----",
+    "programomrade_tittel": "Vg2 Bilskade, lakk og karosseri"
+  },
+  {
+    "programomradekode10": "TPBLK2H---",
+    "programomrade_tittel": "Vg2 Bilskade, lakk og karosseri, grunnkompetanse"
+  },
+  {
+    "programomradekode10": "TPBMF2----",
+    "programomrade_tittel": "Vg2 B\u00f8rsemaker"
+  },
+  {
+    "programomradekode10": "TPBMF3----",
+    "programomrade_tittel": "B\u00f8rsemakerfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "TPBMK3----",
+    "programomrade_tittel": "Bilfaget, lette kj\u00f8ret\u00f8y (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "TPBOR3----",
+    "programomrade_tittel": "Boreoperat\u00f8rfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "TPBRE3----",
+    "programomrade_tittel": "Br\u00f8nnfaget, elektriske kabeloperasjoner (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "TPBRH3----",
+    "programomrade_tittel": "Br\u00f8nnfaget, havbunnsinstallasjoner (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "TPBRM3----",
+    "programomrade_tittel": "Br\u00f8nnfaget, mekaniske kabeloperasjoner (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "TPBRS3----",
+    "programomrade_tittel": "Br\u00f8nnfaget, sementering (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "TPBRT2----",
+    "programomrade_tittel": "Vg2 Br\u00f8nnteknikk"
+  },
+  {
+    "programomradekode10": "TPBSK3----",
+    "programomrade_tittel": "Bilskadefaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "TPBTK3----",
+    "programomrade_tittel": "Bilfaget, tunge kj\u00f8ret\u00f8y (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "TPCNC3----",
+    "programomrade_tittel": "CNC-maskineringsfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "TPCNC3P---",
+    "programomrade_tittel": "CNC-maskineringsfaget, yrkes- og studiekompetanse, 4-\u00e5rig (TAF) (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "TPDKO3----",
+    "programomrade_tittel": "Dimensjonskontrollfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "TPDKO3P---",
+    "programomrade_tittel": "Dimensjonskontrollfaget, yrkes- og studiekompetanse, 4-\u00e5rig (TAF) (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "TPFMK3----",
+    "programomrade_tittel": "Finmekanikerfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "TPGPT3----",
+    "programomrade_tittel": "Grafisk produksjonsteknikkfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "TPGVF3----",
+    "programomrade_tittel": "Gjenvinningsfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "TPHJU3----",
+    "programomrade_tittel": "Hjulutrustningsfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "TPIME3----",
+    "programomrade_tittel": "Industrimekanikerfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "TPIME3P---",
+    "programomrade_tittel": "Industrimekanikerfaget, yrkes- og studiekompetanse, 4-\u00e5rig (TAF) (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "TPIMO3----",
+    "programomrade_tittel": "Industrimont\u00f8rfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "TPIMO3P---",
+    "programomrade_tittel": "Industrimont\u00f8rfaget, yrkes- og studiekompetanse, 4-\u00e5rig (TAF) (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "TPIOM3----",
+    "programomrade_tittel": "Industrioppm\u00e5lingsfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "TPIOV3----",
+    "programomrade_tittel": "Industriell overflatebehandling (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "TPIRL3----",
+    "programomrade_tittel": "Industrir\u00f8rleggerfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "TPIRL3P---",
+    "programomrade_tittel": "Industrir\u00f8rleggerfaget, yrkes- og studiekompetanse, 4-\u00e5rig (TAF) (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "TPISM3----",
+    "programomrade_tittel": "Industris\u00f8mfaget"
+  },
+  {
+    "programomradekode10": "TPISN3----",
+    "programomrade_tittel": "Industrisnekkerfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "TPITA3----",
+    "programomrade_tittel": "Industritapetsererfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "TPITF3----",
+    "programomrade_tittel": "Industritekstilfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "TPKAR3----",
+    "programomrade_tittel": "Chassisp\u00e5byggerfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "TPKJP3----",
+    "programomrade_tittel": "Kjemiprosessfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "TPKJP3P---",
+    "programomrade_tittel": "Kjemiprosessfaget, yrkes- og studiekompetanse, 4-\u00e5rig (TAF) (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "TPKJT2----",
+    "programomrade_tittel": "Vg2 Kj\u00f8ret\u00f8y"
+  },
+  {
+    "programomradekode10": "TPKJT2H---",
+    "programomrade_tittel": "Vg2 Kj\u00f8ret\u00f8y, grunnkompetanse"
+  },
+  {
+    "programomradekode10": "TPKLO3----",
+    "programomrade_tittel": "Kran- og l\u00f8fteoperasjonsfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "TPKPL2----",
+    "programomrade_tittel": "Vg2 Kjemiprosess- og laboratoriefag"
+  },
+  {
+    "programomradekode10": "TPKPL2H---",
+    "programomrade_tittel": "Vg2 Kjemiprosess- og labratoriefag, grunnkompetanse"
+  },
+  {
+    "programomradekode10": "TPKPL2P---",
+    "programomrade_tittel": "Vg2 Kjemiprosess- og laboratoriefag, yrkes- og studiekompetanse, 4-\u00e5rig"
+  },
+  {
+    "programomradekode10": "TPKPL2SY--",
+    "programomrade_tittel": "Vg2 Kjemiprosess- og laboratoriefag, overgang fra st.spes til yrkesfag"
+  },
+  {
+    "programomradekode10": "TPLAB3----",
+    "programomrade_tittel": "Laboratoriefaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "TPLAB3P---",
+    "programomrade_tittel": "Laboratoriefaget, yrkes- og studiekompetanse, 4-\u00e5rig (TAF) (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "TPLMM3----",
+    "programomrade_tittel": "Landbruksmaskinmekanikerfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "TPLOG3----",
+    "programomrade_tittel": "Logistikkfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "TPMAR2----",
+    "programomrade_tittel": "Vg2 Maritime fag"
+  },
+  {
+    "programomradekode10": "TPMAR2H---",
+    "programomrade_tittel": "Vg2 Maritime fag, grunnkompetanse"
+  },
+  {
+    "programomradekode10": "TPMME3----",
+    "programomrade_tittel": "Motormekanikerfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "TPMOB3----",
+    "programomrade_tittel": "Modellbyggerfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "TPMSY3----",
+    "programomrade_tittel": "Motorsykkelfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "TPMTS3----",
+    "programomrade_tittel": "Matrosfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "TPNDT3----",
+    "programomrade_tittel": "NDT-kontroll\u00f8rfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "TPNDT3P---",
+    "programomrade_tittel": "NDT-kontroll\u00f8rfaget, yrkes- og studiekompetanse, 4-\u00e5rig (TAF) (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "TPPIN2----",
+    "programomrade_tittel": "Vg2 Industriteknologi"
+  },
+  {
+    "programomradekode10": "TPPIN2--PK",
+    "programomrade_tittel": "Vg2 Industriteknologi med plast og kompositt"
+  },
+  {
+    "programomradekode10": "TPPIN2H---",
+    "programomrade_tittel": "Vg2 Industriteknologi, grunnkompetanse"
+  },
+  {
+    "programomradekode10": "TPPIN2N---",
+    "programomrade_tittel": "Vg2 Industriteknologi, studiekompetanse, 3-\u00e5rig"
+  },
+  {
+    "programomradekode10": "TPPIN2P---",
+    "programomrade_tittel": "Vg2 Industriteknologi, yrkes- og studiekompetanse, 4-\u00e5rig (YSK)"
+  },
+  {
+    "programomradekode10": "TPPIN2SY--",
+    "programomrade_tittel": "Vg2 Industriteknologi, overgang fra studiespesialisering til yrkesfag"
+  },
+  {
+    "programomradekode10": "TPPLA3----",
+    "programomrade_tittel": "Platearbeiderfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "TPPLA3P---",
+    "programomrade_tittel": "Platearbeiderfaget, yrkes- og studiekompetanse, 4-\u00e5rig (TAF) (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "TPPLF3----",
+    "programomrade_tittel": "Plastfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "TPPOM3----",
+    "programomrade_tittel": "Polymerkomposittfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "TPPRT3----",
+    "programomrade_tittel": "Produksjonsteknikkfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "TPPRT3P---",
+    "programomrade_tittel": "Produksjonsteknikkfaget, yrkes- og studiekompetanse, 4-\u00e5rig (TAF) (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "TPRSD3----",
+    "programomrade_tittel": "Reservedelsfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "TPSGR3----",
+    "programomrade_tittel": "Serigrafifaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "TPSMK3----",
+    "programomrade_tittel": "Skipsmotormekanikerfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "TPSVE3----",
+    "programomrade_tittel": "Sveisefaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "TPSVE3P---",
+    "programomrade_tittel": "Sveisefaget, yrkes- og studiekompetanse, 4-\u00e5rig (TAF) (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "TPSYM3----",
+    "programomrade_tittel": "Sykkelmekanikerfaget"
+  },
+  {
+    "programomradekode10": "TPTIP1----",
+    "programomrade_tittel": "Vg1 Teknologi- og industrifag"
+  },
+  {
+    "programomradekode10": "TPTIP1HT-1",
+    "programomrade_tittel": "Vg1 Teknologi- og industrifag, spesialundervisning i egen gruppe, 1. \u00e5r"
+  },
+  {
+    "programomradekode10": "TPTIP1N---",
+    "programomrade_tittel": "Vg1 Teknologi- og industrifag, studiekompetanse, 3-\u00e5rig"
+  },
+  {
+    "programomradekode10": "TPTIP1P---",
+    "programomrade_tittel": "Vg1 Teknologi- og industrifag, yrkes- og studiekompetanse, 4-\u00e5rig (YSK)"
+  },
+  {
+    "programomradekode10": "TPTLM3----",
+    "programomrade_tittel": "Truck- og liftmekanikerfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "TPTOL2----",
+    "programomrade_tittel": "Vg2 Transport og logistikk"
+  },
+  {
+    "programomradekode10": "TPTSR3----",
+    "programomrade_tittel": "Tekstilrensfaget"
+  },
+  {
+    "programomradekode10": "TPVAF3----",
+    "programomrade_tittel": "Vaskerifaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "TPVER3----",
+    "programomrade_tittel": "Verkt\u00f8ymakerfaget (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "TPVER3P---",
+    "programomrade_tittel": "Verkt\u00f8ymakerfaget, yrkes- og studiekompetanse, 4-\u00e5rig (TAF) (oppl\u00e6ring i bedrift)"
+  },
+  {
+    "programomradekode10": "TPYRK3----",
+    "programomrade_tittel": "Yrkessj\u00e5f\u00f8rfaget (oppl\u00e6ring i bedrift)"
+  }
+]

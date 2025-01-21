@@ -1,0 +1,616 @@
+{
+  "@context": "/contexts/Opplaringskontor",
+  "@id": "/yrkearbeidsliv/opplaringskontor",
+  "@type": "hydra:Collection",
+  "hydra:totalItems": 432,
+  "hydra:member": [
+    {
+      "@id": "/opplaringskontors/0",
+      "@type": "Opplaringskontor",
+      "id": 0,
+      "orgnr": [
+        938371547
+      ],
+      "navn": [
+        "ADAM OG EVA SKOLEN AS"
+      ],
+      "fylkenr": [
+        "31"
+      ],
+      "fylkenavn": "\u00d8stfold",
+      "kommunenr": [
+        "3107"
+      ],
+      "kommunenavn": "Fredrikstad"
+    },
+    {
+      "@id": "/opplaringskontors/1",
+      "@type": "Opplaringskontor",
+      "id": 1,
+      "orgnr": [
+        938371547
+      ],
+      "navn": [
+        "ADAM OG EVA SKOLEN AS OPPL\u00c6RINGSKONTOR"
+      ],
+      "fylkenr": [
+        "11"
+      ],
+      "fylkenavn": "Rogaland",
+      "kommunenr": [
+        "1103"
+      ],
+      "kommunenavn": "Stavanger"
+    },
+    {
+      "@id": "/opplaringskontors/2",
+      "@type": "Opplaringskontor",
+      "id": 2,
+      "orgnr": [
+        938371547
+      ],
+      "navn": [
+        "ADAM OG EVA SKOLEN AS avd  Oppl\u00e6ringskontor"
+      ],
+      "fylkenr": [
+        "50"
+      ],
+      "fylkenavn": "Tr\u00f8ndelag",
+      "kommunenr": [
+        "5001"
+      ],
+      "kommunenavn": "Trondheim"
+    },
+    {
+      "@id": "/opplaringskontors/3",
+      "@type": "Opplaringskontor",
+      "id": 3,
+      "orgnr": [
+        993467049
+      ],
+      "navn": [
+        "AMBULANSEFAGETS OPPL\u00c6RINGSKONTOR"
+      ],
+      "fylkenr": [
+        "32"
+      ],
+      "fylkenavn": "Akershus",
+      "kommunenr": [
+        "3201"
+      ],
+      "kommunenavn": "B\u00e6rum"
+    },
+    {
+      "@id": "/opplaringskontors/4",
+      "@type": "Opplaringskontor",
+      "id": 4,
+      "orgnr": [
+        996074552
+      ],
+      "navn": [
+        "AOF OPPL\u00c6RINGSKONTOR"
+      ],
+      "fylkenr": [
+        "03"
+      ],
+      "fylkenavn": "Oslo",
+      "kommunenr": [
+        "0301"
+      ],
+      "kommunenavn": "Oslo"
+    },
+    {
+      "@id": "/opplaringskontors/5",
+      "@type": "Opplaringskontor",
+      "id": 5,
+      "orgnr": [
+        931326279
+      ],
+      "navn": [
+        "ARAKATAKA L\u00c6RLINGBEDRIFT AS"
+      ],
+      "fylkenr": [
+        "03"
+      ],
+      "fylkenavn": "Oslo",
+      "kommunenr": [
+        "0301"
+      ],
+      "kommunenavn": "Oslo"
+    },
+    {
+      "@id": "/opplaringskontors/6",
+      "@type": "Opplaringskontor",
+      "id": 6,
+      "orgnr": [
+        924534273
+      ],
+      "navn": [
+        "AURSKOG-H\u00d8LAND OPPL\u00c6RINGSKONTOR"
+      ],
+      "fylkenr": [
+        "32"
+      ],
+      "fylkenavn": "Akershus",
+      "kommunenr": [
+        "3226"
+      ],
+      "kommunenavn": "Aurskog-H\u00f8land"
+    },
+    {
+      "@id": "/opplaringskontors/7",
+      "@type": "Opplaringskontor",
+      "id": 7,
+      "orgnr": [
+        989091883
+      ],
+      "navn": [
+        "AUSTER SALONGER AS"
+      ],
+      "fylkenr": [
+        "03"
+      ],
+      "fylkenavn": "Oslo",
+      "kommunenr": [
+        "0301"
+      ],
+      "kommunenavn": "Oslo"
+    },
+    {
+      "@id": "/opplaringskontors/8",
+      "@type": "Opplaringskontor",
+      "id": 8,
+      "orgnr": [
+        976709446
+      ],
+      "navn": [
+        "AUSTEVOLL OPPL\u00c6RINGSKONTOR"
+      ],
+      "fylkenr": [
+        "46"
+      ],
+      "fylkenavn": "Vestland",
+      "kommunenr": [
+        "4625"
+      ],
+      "kommunenavn": "Austevoll"
+    },
+    {
+      "@id": "/opplaringskontors/9",
+      "@type": "Opplaringskontor",
+      "id": 9,
+      "orgnr": [
+        929792076
+      ],
+      "navn": [
+        "AVARN SECURITY AS AVD OPPL\u00c6RINGSKONTOR"
+      ],
+      "fylkenr": [
+        "11"
+      ],
+      "fylkenavn": "Rogaland",
+      "kommunenr": [
+        "1124"
+      ],
+      "kommunenavn": "Sola"
+    },
+    {
+      "@id": "/opplaringskontors/10",
+      "@type": "Opplaringskontor",
+      "id": 10,
+      "orgnr": [
+        971332379
+      ],
+      "navn": [
+        "Agder Tresenter"
+      ],
+      "fylkenr": [
+        "42"
+      ],
+      "fylkenavn": "Agder",
+      "kommunenr": [
+        "4205"
+      ],
+      "kommunenavn": "Lindesnes"
+    },
+    {
+      "@id": "/opplaringskontors/11",
+      "@type": "Opplaringskontor",
+      "id": 11,
+      "orgnr": [
+        898745422
+      ],
+      "navn": [
+        "Agder l\u00e6rlingesenter AS"
+      ],
+      "fylkenr": [
+        "42"
+      ],
+      "fylkenavn": "Agder",
+      "kommunenr": [
+        "4204"
+      ],
+      "kommunenavn": "Kristiansand"
+    },
+    {
+      "@id": "/opplaringskontors/12",
+      "@type": "Opplaringskontor",
+      "id": 12,
+      "orgnr": [
+        980973298
+      ],
+      "navn": [
+        "Agder oppl\u00e6ringskontor for landbruks- og anleggsmaskin reparat\u00f8rer"
+      ],
+      "fylkenr": [
+        "18"
+      ],
+      "fylkenavn": "Nordland",
+      "kommunenr": [
+        "1824"
+      ],
+      "kommunenavn": "Vefsn"
+    },
+    {
+      "@id": "/opplaringskontors/13",
+      "@type": "Opplaringskontor",
+      "id": 13,
+      "orgnr": [
+        920762220
+      ],
+      "navn": [
+        "BAKER & KONDITOR OPPL\u00c6RING"
+      ],
+      "fylkenr": [
+        "34"
+      ],
+      "fylkenavn": "Innlandet",
+      "kommunenr": [
+        "3403"
+      ],
+      "kommunenavn": "Hamar"
+    },
+    {
+      "@id": "/opplaringskontors/14",
+      "@type": "Opplaringskontor",
+      "id": 14,
+      "orgnr": [
+        920762220
+      ],
+      "navn": [
+        "BAKER OG KONDITORBRANSJENS OPPL\u00c6RINGSKONTOR -BKO"
+      ],
+      "fylkenr": [
+        "39"
+      ],
+      "fylkenavn": "Vestfold",
+      "kommunenr": [
+        "3909"
+      ],
+      "kommunenavn": "Larvik"
+    },
+    {
+      "@id": "/opplaringskontors/15",
+      "@type": "Opplaringskontor",
+      "id": 15,
+      "orgnr": [
+        920762220
+      ],
+      "navn": [
+        "BAKER OG KONDITORBRANSJENS OPPL\u00c6RINGSKONTOR BKO"
+      ],
+      "fylkenr": [
+        "11"
+      ],
+      "fylkenavn": "Rogaland",
+      "kommunenr": [
+        "1103"
+      ],
+      "kommunenavn": "Stavanger"
+    },
+    {
+      "@id": "/opplaringskontors/16",
+      "@type": "Opplaringskontor",
+      "id": 16,
+      "orgnr": [
+        931079344
+      ],
+      "navn": [
+        "BAKER- BRANSJENS OPPL\u00c6RINGSKONTOR AS"
+      ],
+      "fylkenr": [
+        "46"
+      ],
+      "fylkenavn": "Vestland",
+      "kommunenr": [
+        "4601"
+      ],
+      "kommunenavn": "Bergen"
+    },
+    {
+      "@id": "/opplaringskontors/17",
+      "@type": "Opplaringskontor",
+      "id": 17,
+      "orgnr": [
+        920762220
+      ],
+      "navn": [
+        "BAKER- OG KONDITORBRANSJENS OPPL\u00c6RINGSKONTOR"
+      ],
+      "fylkenr": [
+        "03"
+      ],
+      "fylkenavn": "Oslo",
+      "kommunenr": [
+        "0301"
+      ],
+      "kommunenavn": "Oslo"
+    },
+    {
+      "@id": "/opplaringskontors/18",
+      "@type": "Opplaringskontor",
+      "id": 18,
+      "orgnr": [
+        981430123
+      ],
+      "navn": [
+        "BAUDA-KONSERNETS OPPL\u00c6RINGSKONTOR FOR BILFAG"
+      ],
+      "fylkenr": [
+        "33"
+      ],
+      "fylkenavn": "Buskerud",
+      "kommunenr": [
+        "3301"
+      ],
+      "kommunenavn": "Drammen"
+    },
+    {
+      "@id": "/opplaringskontors/19",
+      "@type": "Opplaringskontor",
+      "id": 19,
+      "orgnr": [
+        931012509
+      ],
+      "navn": [
+        "BERTEL O STEEN DETALJ AS AVD BOS AKADEMIET"
+      ],
+      "fylkenr": [
+        "32"
+      ],
+      "fylkenavn": "Akershus",
+      "kommunenr": [
+        "3205"
+      ],
+      "kommunenavn": "Lillestr\u00f8m"
+    },
+    {
+      "@id": "/opplaringskontors/20",
+      "@type": "Opplaringskontor",
+      "id": 20,
+      "orgnr": [
+        976782763
+      ],
+      "navn": [
+        "BILBRANSJENS OPPL. KTR HAUGALANDET A/S"
+      ],
+      "fylkenr": [
+        "11"
+      ],
+      "fylkenavn": "Rogaland",
+      "kommunenr": [
+        "1106"
+      ],
+      "kommunenavn": "Haugesund"
+    },
+    {
+      "@id": "/opplaringskontors/21",
+      "@type": "Opplaringskontor",
+      "id": 21,
+      "orgnr": [
+        959334188
+      ],
+      "navn": [
+        "BILBRANSJENS OPPL\u00c6RINGSKONTOR AS"
+      ],
+      "fylkenr": [
+        "46"
+      ],
+      "fylkenavn": "Vestland",
+      "kommunenr": [
+        "4601"
+      ],
+      "kommunenavn": "Bergen"
+    },
+    {
+      "@id": "/opplaringskontors/22",
+      "@type": "Opplaringskontor",
+      "id": 22,
+      "orgnr": [
+        976782763
+      ],
+      "navn": [
+        "BILBRANSJENS OPPL\u00c6RINGSKONTOR HAUGALANDET AS"
+      ],
+      "fylkenr": [
+        "46"
+      ],
+      "fylkenavn": "Vestland",
+      "kommunenr": [
+        "4612"
+      ],
+      "kommunenavn": "Sveio"
+    },
+    {
+      "@id": "/opplaringskontors/23",
+      "@type": "Opplaringskontor",
+      "id": 23,
+      "orgnr": [
+        976046978
+      ],
+      "navn": [
+        "BILBRANSJENS OPPL\u00c6RINGSKONTOR HEDMARK"
+      ],
+      "fylkenr": [
+        "34"
+      ],
+      "fylkenavn": "Innlandet",
+      "kommunenr": [
+        "3403"
+      ],
+      "kommunenavn": "Hamar"
+    },
+    {
+      "@id": "/opplaringskontors/24",
+      "@type": "Opplaringskontor",
+      "id": 24,
+      "orgnr": [
+        980988775
+      ],
+      "navn": [
+        "BILBRANSJENS OPPL\u00c6RINGSKONTOR I BUSKERUD"
+      ],
+      "fylkenr": [
+        "33"
+      ],
+      "fylkenavn": "Buskerud",
+      "kommunenr": [
+        "3305"
+      ],
+      "kommunenavn": "Ringerike"
+    },
+    {
+      "@id": "/opplaringskontors/25",
+      "@type": "Opplaringskontor",
+      "id": 25,
+      "orgnr": [
+        976941993
+      ],
+      "navn": [
+        "BILBRANSJENS OPPL\u00c6RINGSKONTOR as."
+      ],
+      "fylkenr": [
+        "46"
+      ],
+      "fylkenavn": "Vestland",
+      "kommunenr": [
+        "4602"
+      ],
+      "kommunenavn": "Kinn"
+    },
+    {
+      "@id": "/opplaringskontors/26",
+      "@type": "Opplaringskontor",
+      "id": 26,
+      "orgnr": [
+        975959759
+      ],
+      "navn": [
+        "BILFAG SUNNM\u00d8RE"
+      ],
+      "fylkenr": [
+        "15"
+      ],
+      "fylkenavn": "M\u00f8re og Romsdal",
+      "kommunenr": [
+        "1508"
+      ],
+      "kommunenavn": "\u00c5lesund"
+    },
+    {
+      "@id": "/opplaringskontors/27",
+      "@type": "Opplaringskontor",
+      "id": 27,
+      "orgnr": [
+        979143834
+      ],
+      "navn": [
+        "BILFAGENES OPPL\u00c6RINGSKONTOR STORD AS"
+      ],
+      "fylkenr": [
+        "46"
+      ],
+      "fylkenavn": "Vestland",
+      "kommunenr": [
+        "4613"
+      ],
+      "kommunenavn": "B\u00f8mlo"
+    },
+    {
+      "@id": "/opplaringskontors/28",
+      "@type": "Opplaringskontor",
+      "id": 28,
+      "orgnr": [
+        979168373
+      ],
+      "navn": [
+        "BLOMSTERDEKORAT\u00d8RFAGETS OPPL\u00c6RINGSKONTOR"
+      ],
+      "fylkenr": [
+        "11"
+      ],
+      "fylkenavn": "Rogaland",
+      "kommunenr": [
+        "1103"
+      ],
+      "kommunenavn": "Stavanger"
+    },
+    {
+      "@id": "/opplaringskontors/29",
+      "@type": "Opplaringskontor",
+      "id": 29,
+      "orgnr": [
+        979168373
+      ],
+      "navn": [
+        "BLOMSTERDEKORAT\u00d8RFAGETS OPPL\u00c6RINGSKONTOR (BLOK)"
+      ],
+      "fylkenr": [
+        "03"
+      ],
+      "fylkenavn": "Oslo",
+      "kommunenr": [
+        "0301"
+      ],
+      "kommunenavn": "Oslo"
+    }
+  ],
+  "hydra:view": {
+    "@id": "/yrkearbeidsliv/opplaringskontor?page=1",
+    "@type": "hydra:PartialCollectionView",
+    "hydra:first": "/yrkearbeidsliv/opplaringskontor?page=1",
+    "hydra:last": "/yrkearbeidsliv/opplaringskontor?page=15",
+    "hydra:next": "/yrkearbeidsliv/opplaringskontor?page=2"
+  },
+  "hydra:search": {
+    "@type": "hydra:IriTemplate",
+    "hydra:template": "/yrkearbeidsliv/opplaringskontor{?uno_id,programomradekode6,fylkenr,kommunenr}",
+    "hydra:variableRepresentation": "BasicRepresentation",
+    "hydra:mapping": [
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "uno_id",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "programomradekode6",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "fylkenr",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "kommunenr",
+        "property": null,
+        "required": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,712 @@
+{
+  "@context": "/contexts/PotensielleBedrifter",
+  "@id": "/yrkearbeidsliv/potensielle-bedrifter",
+  "@type": "hydra:Collection",
+  "hydra:totalItems": 1040354,
+  "hydra:member": [
+    {
+      "@id": "/potensielle_bedrifters/0",
+      "@type": "PotensielleBedrifter",
+      "id": 0,
+      "orgnr": [
+        926080091
+      ],
+      "navn": [
+        "&PARTNERS AS"
+      ],
+      "fylkenr": [
+        "39"
+      ],
+      "fylkenavn": "Vestfold",
+      "kommunenr": [
+        "3905"
+      ],
+      "kommunenavn": "T\u00f8nsberg",
+      "stillinger": [
+        2
+      ]
+    },
+    {
+      "@id": "/potensielle_bedrifters/1",
+      "@type": "PotensielleBedrifter",
+      "id": 1,
+      "orgnr": [
+        926080091
+      ],
+      "navn": [
+        "&PARTNERS AS"
+      ],
+      "fylkenr": [
+        "39"
+      ],
+      "fylkenavn": "Vestfold",
+      "kommunenr": [
+        "3905"
+      ],
+      "kommunenavn": "T\u00f8nsberg",
+      "stillinger": [
+        2
+      ]
+    },
+    {
+      "@id": "/potensielle_bedrifters/2",
+      "@type": "PotensielleBedrifter",
+      "id": 2,
+      "orgnr": [
+        913840615
+      ],
+      "navn": [
+        "+ ARK AS"
+      ],
+      "fylkenr": [
+        "39"
+      ],
+      "fylkenavn": "Vestfold",
+      "kommunenr": [
+        "3905"
+      ],
+      "kommunenavn": "T\u00f8nsberg",
+      "stillinger": [
+        2
+      ]
+    },
+    {
+      "@id": "/potensielle_bedrifters/3",
+      "@type": "PotensielleBedrifter",
+      "id": 3,
+      "orgnr": [
+        998699320
+      ],
+      "navn": [
+        "+ TORSTEIN"
+      ],
+      "fylkenr": [
+        "11"
+      ],
+      "fylkenavn": "Rogaland",
+      "kommunenr": [
+        "1103"
+      ],
+      "kommunenavn": "Stavanger",
+      "stillinger": [
+        2
+      ]
+    },
+    {
+      "@id": "/potensielle_bedrifters/4",
+      "@type": "PotensielleBedrifter",
+      "id": 4,
+      "orgnr": [
+        998699320
+      ],
+      "navn": [
+        "+ TORSTEIN"
+      ],
+      "fylkenr": [
+        "11"
+      ],
+      "fylkenavn": "Rogaland",
+      "kommunenr": [
+        "1103"
+      ],
+      "kommunenavn": "Stavanger",
+      "stillinger": [
+        2
+      ]
+    },
+    {
+      "@id": "/potensielle_bedrifters/5",
+      "@type": "PotensielleBedrifter",
+      "id": 5,
+      "orgnr": [
+        995461714
+      ],
+      "navn": [
+        "+2 INTERI\u00d8R AS"
+      ],
+      "fylkenr": [
+        "03"
+      ],
+      "fylkenavn": "Oslo",
+      "kommunenr": [
+        "0301"
+      ],
+      "kommunenavn": "Oslo",
+      "stillinger": [
+        2
+      ]
+    },
+    {
+      "@id": "/potensielle_bedrifters/6",
+      "@type": "PotensielleBedrifter",
+      "id": 6,
+      "orgnr": [
+        995461714
+      ],
+      "navn": [
+        "+2 INTERI\u00d8R AS"
+      ],
+      "fylkenr": [
+        "03"
+      ],
+      "fylkenavn": "Oslo",
+      "kommunenr": [
+        "0301"
+      ],
+      "kommunenavn": "Oslo",
+      "stillinger": [
+        2
+      ]
+    },
+    {
+      "@id": "/potensielle_bedrifters/7",
+      "@type": "PotensielleBedrifter",
+      "id": 7,
+      "orgnr": [
+        822838162
+      ],
+      "navn": [
+        "+BYGG AS"
+      ],
+      "fylkenr": [
+        "39"
+      ],
+      "fylkenavn": "Vestfold",
+      "kommunenr": [
+        "3911"
+      ],
+      "kommunenavn": "F\u00e6rder",
+      "stillinger": [
+        2
+      ]
+    },
+    {
+      "@id": "/potensielle_bedrifters/8",
+      "@type": "PotensielleBedrifter",
+      "id": 8,
+      "orgnr": [
+        822838162
+      ],
+      "navn": [
+        "+BYGG AS"
+      ],
+      "fylkenr": [
+        "39"
+      ],
+      "fylkenavn": "Vestfold",
+      "kommunenr": [
+        "3911"
+      ],
+      "kommunenavn": "F\u00e6rder",
+      "stillinger": [
+        2
+      ]
+    },
+    {
+      "@id": "/potensielle_bedrifters/9",
+      "@type": "PotensielleBedrifter",
+      "id": 9,
+      "orgnr": [
+        822838162
+      ],
+      "navn": [
+        "+BYGG AS"
+      ],
+      "fylkenr": [
+        "39"
+      ],
+      "fylkenavn": "Vestfold",
+      "kommunenr": [
+        "3911"
+      ],
+      "kommunenavn": "F\u00e6rder",
+      "stillinger": [
+        2
+      ]
+    },
+    {
+      "@id": "/potensielle_bedrifters/10",
+      "@type": "PotensielleBedrifter",
+      "id": 10,
+      "orgnr": [
+        923603263
+      ],
+      "navn": [
+        ".EAGL TECHNOLOGIES AS"
+      ],
+      "fylkenr": [
+        "32"
+      ],
+      "fylkenavn": "Akershus",
+      "kommunenr": [
+        "3203"
+      ],
+      "kommunenavn": "Asker",
+      "stillinger": [
+        2
+      ]
+    },
+    {
+      "@id": "/potensielle_bedrifters/11",
+      "@type": "PotensielleBedrifter",
+      "id": 11,
+      "orgnr": [
+        923603263
+      ],
+      "navn": [
+        ".EAGL TECHNOLOGIES AS"
+      ],
+      "fylkenr": [
+        "32"
+      ],
+      "fylkenavn": "Akershus",
+      "kommunenr": [
+        "3203"
+      ],
+      "kommunenavn": "Asker",
+      "stillinger": [
+        2
+      ]
+    },
+    {
+      "@id": "/potensielle_bedrifters/12",
+      "@type": "PotensielleBedrifter",
+      "id": 12,
+      "orgnr": [
+        923603263
+      ],
+      "navn": [
+        ".EAGL TECHNOLOGIES AS"
+      ],
+      "fylkenr": [
+        "32"
+      ],
+      "fylkenavn": "Akershus",
+      "kommunenr": [
+        "3203"
+      ],
+      "kommunenavn": "Asker",
+      "stillinger": [
+        2
+      ]
+    },
+    {
+      "@id": "/potensielle_bedrifters/13",
+      "@type": "PotensielleBedrifter",
+      "id": 13,
+      "orgnr": [
+        923603263
+      ],
+      "navn": [
+        ".EAGL TECHNOLOGIES AS"
+      ],
+      "fylkenr": [
+        "32"
+      ],
+      "fylkenavn": "Akershus",
+      "kommunenr": [
+        "3203"
+      ],
+      "kommunenavn": "Asker",
+      "stillinger": [
+        2
+      ]
+    },
+    {
+      "@id": "/potensielle_bedrifters/14",
+      "@type": "PotensielleBedrifter",
+      "id": 14,
+      "orgnr": [
+        923603263
+      ],
+      "navn": [
+        ".EAGL TECHNOLOGIES AS"
+      ],
+      "fylkenr": [
+        "32"
+      ],
+      "fylkenavn": "Akershus",
+      "kommunenr": [
+        "3203"
+      ],
+      "kommunenavn": "Asker",
+      "stillinger": [
+        2
+      ]
+    },
+    {
+      "@id": "/potensielle_bedrifters/15",
+      "@type": "PotensielleBedrifter",
+      "id": 15,
+      "orgnr": [
+        994174525
+      ],
+      "navn": [
+        "0 - 6 ULLENSAKERGATA BARNEHAGE AS"
+      ],
+      "fylkenr": [
+        "03"
+      ],
+      "fylkenavn": "Oslo",
+      "kommunenr": [
+        "0301"
+      ],
+      "kommunenavn": "Oslo",
+      "stillinger": [
+        2
+      ]
+    },
+    {
+      "@id": "/potensielle_bedrifters/16",
+      "@type": "PotensielleBedrifter",
+      "id": 16,
+      "orgnr": [
+        994174525
+      ],
+      "navn": [
+        "0 - 6 ULLENSAKERGATA BARNEHAGE AS"
+      ],
+      "fylkenr": [
+        "03"
+      ],
+      "fylkenavn": "Oslo",
+      "kommunenr": [
+        "0301"
+      ],
+      "kommunenavn": "Oslo",
+      "stillinger": [
+        2
+      ]
+    },
+    {
+      "@id": "/potensielle_bedrifters/17",
+      "@type": "PotensielleBedrifter",
+      "id": 17,
+      "orgnr": [
+        994174525
+      ],
+      "navn": [
+        "0 - 6 ULLENSAKERGATA BARNEHAGE AS"
+      ],
+      "fylkenr": [
+        "03"
+      ],
+      "fylkenavn": "Oslo",
+      "kommunenr": [
+        "0301"
+      ],
+      "kommunenavn": "Oslo",
+      "stillinger": [
+        0
+      ]
+    },
+    {
+      "@id": "/potensielle_bedrifters/18",
+      "@type": "PotensielleBedrifter",
+      "id": 18,
+      "orgnr": [
+        994174525
+      ],
+      "navn": [
+        "0 - 6 ULLENSAKERGATA BARNEHAGE AS"
+      ],
+      "fylkenr": [
+        "03"
+      ],
+      "fylkenavn": "Oslo",
+      "kommunenr": [
+        "0301"
+      ],
+      "kommunenavn": "Oslo",
+      "stillinger": [
+        2
+      ]
+    },
+    {
+      "@id": "/potensielle_bedrifters/19",
+      "@type": "PotensielleBedrifter",
+      "id": 19,
+      "orgnr": [
+        994174525
+      ],
+      "navn": [
+        "0 - 6 ULLENSAKERGATA BARNEHAGE AS"
+      ],
+      "fylkenr": [
+        "03"
+      ],
+      "fylkenavn": "Oslo",
+      "kommunenr": [
+        "0301"
+      ],
+      "kommunenavn": "Oslo",
+      "stillinger": [
+        2
+      ]
+    },
+    {
+      "@id": "/potensielle_bedrifters/20",
+      "@type": "PotensielleBedrifter",
+      "id": 20,
+      "orgnr": [
+        899303962
+      ],
+      "navn": [
+        "0 - 6 V\u00c5LERENGGATA BARNEHAGE AS"
+      ],
+      "fylkenr": [
+        "03"
+      ],
+      "fylkenavn": "Oslo",
+      "kommunenr": [
+        "0301"
+      ],
+      "kommunenavn": "Oslo",
+      "stillinger": [
+        2
+      ]
+    },
+    {
+      "@id": "/potensielle_bedrifters/21",
+      "@type": "PotensielleBedrifter",
+      "id": 21,
+      "orgnr": [
+        899303962
+      ],
+      "navn": [
+        "0 - 6 V\u00c5LERENGGATA BARNEHAGE AS"
+      ],
+      "fylkenr": [
+        "03"
+      ],
+      "fylkenavn": "Oslo",
+      "kommunenr": [
+        "0301"
+      ],
+      "kommunenavn": "Oslo",
+      "stillinger": [
+        2
+      ]
+    },
+    {
+      "@id": "/potensielle_bedrifters/22",
+      "@type": "PotensielleBedrifter",
+      "id": 22,
+      "orgnr": [
+        899303962
+      ],
+      "navn": [
+        "0 - 6 V\u00c5LERENGGATA BARNEHAGE AS"
+      ],
+      "fylkenr": [
+        "03"
+      ],
+      "fylkenavn": "Oslo",
+      "kommunenr": [
+        "0301"
+      ],
+      "kommunenavn": "Oslo",
+      "stillinger": [
+        2
+      ]
+    },
+    {
+      "@id": "/potensielle_bedrifters/23",
+      "@type": "PotensielleBedrifter",
+      "id": 23,
+      "orgnr": [
+        899303962
+      ],
+      "navn": [
+        "0 - 6 V\u00c5LERENGGATA BARNEHAGE AS"
+      ],
+      "fylkenr": [
+        "03"
+      ],
+      "fylkenavn": "Oslo",
+      "kommunenr": [
+        "0301"
+      ],
+      "kommunenavn": "Oslo",
+      "stillinger": [
+        0
+      ]
+    },
+    {
+      "@id": "/potensielle_bedrifters/24",
+      "@type": "PotensielleBedrifter",
+      "id": 24,
+      "orgnr": [
+        899303962
+      ],
+      "navn": [
+        "0 - 6 V\u00c5LERENGGATA BARNEHAGE AS"
+      ],
+      "fylkenr": [
+        "03"
+      ],
+      "fylkenavn": "Oslo",
+      "kommunenr": [
+        "0301"
+      ],
+      "kommunenavn": "Oslo",
+      "stillinger": [
+        6
+      ]
+    },
+    {
+      "@id": "/potensielle_bedrifters/25",
+      "@type": "PotensielleBedrifter",
+      "id": 25,
+      "orgnr": [
+        914879299
+      ],
+      "navn": [
+        "0-100"
+      ],
+      "fylkenr": [
+        "31"
+      ],
+      "fylkenavn": "\u00d8stfold",
+      "kommunenr": [
+        "3105"
+      ],
+      "kommunenavn": "Sarpsborg",
+      "stillinger": [
+        2
+      ]
+    },
+    {
+      "@id": "/potensielle_bedrifters/26",
+      "@type": "PotensielleBedrifter",
+      "id": 26,
+      "orgnr": [
+        914879299
+      ],
+      "navn": [
+        "0-100"
+      ],
+      "fylkenr": [
+        "31"
+      ],
+      "fylkenavn": "\u00d8stfold",
+      "kommunenr": [
+        "3105"
+      ],
+      "kommunenavn": "Sarpsborg",
+      "stillinger": [
+        2
+      ]
+    },
+    {
+      "@id": "/potensielle_bedrifters/27",
+      "@type": "PotensielleBedrifter",
+      "id": 27,
+      "orgnr": [
+        914879299
+      ],
+      "navn": [
+        "0-100"
+      ],
+      "fylkenr": [
+        "31"
+      ],
+      "fylkenavn": "\u00d8stfold",
+      "kommunenr": [
+        "3105"
+      ],
+      "kommunenavn": "Sarpsborg",
+      "stillinger": [
+        2
+      ]
+    },
+    {
+      "@id": "/potensielle_bedrifters/28",
+      "@type": "PotensielleBedrifter",
+      "id": 28,
+      "orgnr": [
+        914879299
+      ],
+      "navn": [
+        "0-100"
+      ],
+      "fylkenr": [
+        "31"
+      ],
+      "fylkenavn": "\u00d8stfold",
+      "kommunenr": [
+        "3105"
+      ],
+      "kommunenavn": "Sarpsborg",
+      "stillinger": [
+        2
+      ]
+    },
+    {
+      "@id": "/potensielle_bedrifters/29",
+      "@type": "PotensielleBedrifter",
+      "id": 29,
+      "orgnr": [
+        914879299
+      ],
+      "navn": [
+        "0-100"
+      ],
+      "fylkenr": [
+        "31"
+      ],
+      "fylkenavn": "\u00d8stfold",
+      "kommunenr": [
+        "3105"
+      ],
+      "kommunenavn": "Sarpsborg",
+      "stillinger": [
+        2
+      ]
+    }
+  ],
+  "hydra:view": {
+    "@id": "/yrkearbeidsliv/potensielle-bedrifter?page=1",
+    "@type": "hydra:PartialCollectionView",
+    "hydra:first": "/yrkearbeidsliv/potensielle-bedrifter?page=1",
+    "hydra:last": "/yrkearbeidsliv/potensielle-bedrifter?page=34679",
+    "hydra:next": "/yrkearbeidsliv/potensielle-bedrifter?page=2"
+  },
+  "hydra:search": {
+    "@type": "hydra:IriTemplate",
+    "hydra:template": "/yrkearbeidsliv/potensielle-bedrifter{?uno_id,fylkenr,kommunenr,yrkeskode_styrk98,sort}",
+    "hydra:variableRepresentation": "BasicRepresentation",
+    "hydra:mapping": [
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "uno_id",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "fylkenr",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "kommunenr",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "yrkeskode_styrk98",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "sort",
+        "property": null,
+        "required": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "@context": "/contexts/Bedrifter_ikke_godkjente_facet",
+  "@id": "/finnlarebedrift/facet/bedrifter_ikke_godkjente",
+  "@type": "hydra:Collection",
+  "hydra:totalItems": 1,
+  "hydra:member": [
+    {
+      "@id": "/bedrifter_ikke_godkjente_facets/bedrifter_ikke_godkjente",
+      "@type": "Bedrifter_ikke_godkjente_facet",
+      "value": "bedrifter_ikke_godkjente",
+      "count": 1898201
+    }
+  ],
+  "hydra:search": {
+    "@type": "hydra:IriTemplate",
+    "hydra:template": "/finnlarebedrift/facet/bedrifter_ikke_godkjente{?q,larling_ekskluder,aarsverk,opplaring,gk,sted,fag,YFF,larlinger,bedriftsstorrelse,opplaringskontor,larlinger_i_valgte_fag,laereplassgaranti}",
+    "hydra:variableRepresentation": "BasicRepresentation",
+    "hydra:mapping": [
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "q",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "larling_ekskluder",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "aarsverk",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "opplaring",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "gk",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "sted",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "fag",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "YFF",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "larlinger",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "bedriftsstorrelse",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "opplaringskontor",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "larlinger_i_valgte_fag",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "laereplassgaranti",
+        "property": null,
+        "required": false
+      }
+    ]
+  }
+}

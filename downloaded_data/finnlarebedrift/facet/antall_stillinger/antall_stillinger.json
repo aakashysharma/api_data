@@ -1,0 +1,70 @@
+{
+  "@context": "/contexts/Antall_stillinger",
+  "@id": "/finnlarebedrift/facet/antall_stillinger",
+  "@type": "hydra:Collection",
+  "hydra:totalItems": 1,
+  "hydra:member": [
+    {
+      "@id": "/finnlarebedrift/antall_stillinger/stillinger",
+      "@type": "Antall_stillinger",
+      "stillinger": 2634,
+      "value": "stillinger",
+      "count": 469
+    }
+  ],
+  "hydra:search": {
+    "@type": "hydra:IriTemplate",
+    "hydra:template": "/finnlarebedrift/facet/antall_stillinger{?q,aarsverk,opplaring,gk,sted,fag,YFF,bedriftsstorrelse}",
+    "hydra:variableRepresentation": "BasicRepresentation",
+    "hydra:mapping": [
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "q",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "aarsverk",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "opplaring",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "gk",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "sted",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "fag",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "YFF",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "bedriftsstorrelse",
+        "property": null,
+        "required": false
+      }
+    ]
+  }
+}

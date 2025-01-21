@@ -1,0 +1,87 @@
+{
+  "@context": "/contexts/YFF",
+  "@id": "/finnlarebedrift/facet/YFF",
+  "@type": "hydra:Collection",
+  "hydra:totalItems": 2,
+  "hydra:member": [
+    {
+      "@id": "/y_f_fs/har_avtale",
+      "@type": "YFF",
+      "value": "har_avtale",
+      "count": 110
+    },
+    {
+      "@id": "/y_f_fs/ingen_avtale",
+      "@type": "YFF",
+      "value": "ingen_avtale",
+      "count": 1920981
+    }
+  ],
+  "hydra:search": {
+    "@type": "hydra:IriTemplate",
+    "hydra:template": "/finnlarebedrift/facet/YFF{?q,aarsverk,opplaring,gk,sted,fag,YFF,larlinger,bedriftsstorrelse,opplaringskontor}",
+    "hydra:variableRepresentation": "BasicRepresentation",
+    "hydra:mapping": [
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "q",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "aarsverk",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "opplaring",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "gk",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "sted",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "fag",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "YFF",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "larlinger",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "bedriftsstorrelse",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "opplaringskontor",
+        "property": null,
+        "required": false
+      }
+    ]
+  }
+}

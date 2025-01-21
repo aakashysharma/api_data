@@ -1,0 +1,111 @@
+{
+  "@context": "/contexts/Larling",
+  "@id": "/finnlarebedrift/facet/larling",
+  "@type": "hydra:Collection",
+  "hydra:totalItems": 5,
+  "hydra:member": [
+    {
+      "@id": "/finnlarebedrift/larling/godkjent_har_larling",
+      "@type": "Larling",
+      "value": "godkjent_har_larling",
+      "count": 26029
+    },
+    {
+      "@id": "/finnlarebedrift/larling/godkjent_uten_larling",
+      "@type": "Larling",
+      "value": "godkjent_uten_larling",
+      "count": 20917
+    },
+    {
+      "@id": "/finnlarebedrift/larling/utlopt",
+      "@type": "Larling",
+      "value": "utlopt",
+      "count": 33411
+    },
+    {
+      "@id": "/finnlarebedrift/larling/ikke_godkjent",
+      "@type": "Larling",
+      "value": "ikke_godkjent",
+      "count": 178538
+    },
+    {
+      "@id": "/finnlarebedrift/larling/avtale_yff",
+      "@type": "Larling",
+      "value": "avtale_yff",
+      "count": 110
+    }
+  ],
+  "hydra:search": {
+    "@type": "hydra:IriTemplate",
+    "hydra:template": "/finnlarebedrift/facet/larling{?q,larling,aarsverk,opplaring,gk,sted,fag,YFF,larlinger,bedriftsstorrelse,opplaringskontor}",
+    "hydra:variableRepresentation": "BasicRepresentation",
+    "hydra:mapping": [
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "q",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "larling",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "aarsverk",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "opplaring",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "gk",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "sted",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "fag",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "YFF",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "larlinger",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "bedriftsstorrelse",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "opplaringskontor",
+        "property": null,
+        "required": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "@context": "/contexts/Stillingsutlysning",
+  "@id": "/arbeidsmarkedskart/stillingsutlysning",
+  "@type": "hydra:Collection",
+  "hydra:totalItems": 0,
+  "hydra:member": [],
+  "hydra:search": {
+    "@type": "hydra:IriTemplate",
+    "hydra:template": "/arbeidsmarkedskart/stillingsutlysning{?styrk08,kommune,dato,region,ba_region_nr,uno_id}",
+    "hydra:variableRepresentation": "BasicRepresentation",
+    "hydra:mapping": [
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "styrk08",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "kommune",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "dato",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "region",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "ba_region_nr",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "uno_id",
+        "property": null,
+        "required": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,305 @@
+{
+  "@context": "/contexts/Latefy",
+  "@id": "/finnlarebedrift/facet/latefy",
+  "@type": "hydra:Collection",
+  "hydra:totalItems": 16,
+  "hydra:member": [
+    {
+      "@id": "/latefies/sted_42",
+      "@type": "Latefy",
+      "antall": {
+        "count": 37556,
+        "aarsverk": 86467.67000000122
+      },
+      "sum": {
+        "count": 4211,
+        "kontrakter": 3133
+      },
+      "value": "sted_42",
+      "count": 106330
+    },
+    {
+      "@id": "/latefies/sted_15",
+      "@type": "Latefy",
+      "antall": {
+        "count": 34600,
+        "aarsverk": 84223.790000001
+      },
+      "sum": {
+        "count": 3549,
+        "kontrakter": 2681
+      },
+      "value": "sted_15",
+      "count": 84630
+    },
+    {
+      "@id": "/latefies/sted_18",
+      "@type": "Latefy",
+      "antall": {
+        "count": 34568,
+        "aarsverk": 76011.97000000092
+      },
+      "sum": {
+        "count": 3618,
+        "kontrakter": 2642
+      },
+      "value": "sted_18",
+      "count": 75510
+    },
+    {
+      "@id": "/latefies/sted_11",
+      "@type": "Latefy",
+      "antall": {
+        "count": 56743,
+        "aarsverk": 160918.99000000287
+      },
+      "sum": {
+        "count": 6308,
+        "kontrakter": 6626
+      },
+      "value": "sted_11",
+      "count": 145372
+    },
+    {
+      "@id": "/latefies/sted_46",
+      "@type": "Latefy",
+      "antall": {
+        "count": 73327,
+        "aarsverk": 191378.03000000148
+      },
+      "sum": {
+        "count": 6904,
+        "kontrakter": 6498
+      },
+      "value": "sted_46",
+      "count": 208774
+    },
+    {
+      "@id": "/latefies/sted_03",
+      "@type": "Latefy",
+      "antall": {
+        "count": 84003,
+        "aarsverk": 275099.53000000183
+      },
+      "sum": {
+        "count": 4902,
+        "kontrakter": 4648
+      },
+      "value": "sted_03",
+      "count": 313704
+    },
+    {
+      "@id": "/latefies/sted_34",
+      "@type": "Latefy",
+      "antall": {
+        "count": 45996,
+        "aarsverk": 101593.30000000239
+      },
+      "sum": {
+        "count": 4700,
+        "kontrakter": 2879
+      },
+      "value": "sted_34",
+      "count": 132072
+    },
+    {
+      "@id": "/latefies/sted_21",
+      "@type": "Latefy",
+      "antall": {
+        "count": 513,
+        "aarsverk": 977.2500000000005
+      },
+      "sum": {
+        "count": 38,
+        "kontrakter": 19
+      },
+      "value": "sted_21",
+      "count": 1199
+    },
+    {
+      "@id": "/latefies/sted_50",
+      "@type": "Latefy",
+      "antall": {
+        "count": 56024,
+        "aarsverk": 138533.53000000244
+      },
+      "sum": {
+        "count": 5414,
+        "kontrakter": 4824
+      },
+      "value": "sted_50",
+      "count": 155962
+    },
+    {
+      "@id": "/latefies/sted_56",
+      "@type": "Latefy",
+      "antall": {
+        "count": 13137,
+        "aarsverk": 28003.989999999823
+      },
+      "sum": {
+        "count": 1272,
+        "kontrakter": 870
+      },
+      "value": "sted_56",
+      "count": 27193
+    },
+    {
+      "@id": "/latefies/sted_55",
+      "@type": "Latefy",
+      "antall": {
+        "count": 22076,
+        "aarsverk": 50286.869999999624
+      },
+      "sum": {
+        "count": 2417,
+        "kontrakter": 1759
+      },
+      "value": "sted_55",
+      "count": 51728
+    },
+    {
+      "@id": "/latefies/sted_32",
+      "@type": "Latefy",
+      "antall": {
+        "count": 66845,
+        "aarsverk": 190989.22000000087
+      },
+      "sum": {
+        "count": 4858,
+        "kontrakter": 3642
+      },
+      "value": "sted_32",
+      "count": 218405
+    },
+    {
+      "@id": "/latefies/sted_33",
+      "@type": "Latefy",
+      "antall": {
+        "count": 31146,
+        "aarsverk": 79062.97000000124
+      },
+      "sum": {
+        "count": 2759,
+        "kontrakter": 2320
+      },
+      "value": "sted_33",
+      "count": 91666
+    },
+    {
+      "@id": "/latefies/sted_40",
+      "@type": "Latefy",
+      "antall": {
+        "count": 21203,
+        "aarsverk": 48804.69000000002
+      },
+      "sum": {
+        "count": 2456,
+        "kontrakter": 1690
+      },
+      "value": "sted_40",
+      "count": 59036
+    },
+    {
+      "@id": "/latefies/sted_39",
+      "@type": "Latefy",
+      "antall": {
+        "count": 28556,
+        "aarsverk": 66707.46999999994
+      },
+      "sum": {
+        "count": 2699,
+        "kontrakter": 1935
+      },
+      "value": "sted_39",
+      "count": 82591
+    },
+    {
+      "@id": "/latefies/sted_31",
+      "@type": "Latefy",
+      "antall": {
+        "count": 32313,
+        "aarsverk": 82182.3200000008
+      },
+      "sum": {
+        "count": 3112,
+        "kontrakter": 2336
+      },
+      "value": "sted_31",
+      "count": 91711
+    }
+  ],
+  "hydra:search": {
+    "@type": "hydra:IriTemplate",
+    "hydra:template": "/finnlarebedrift/facet/latefy{?q,larling,aarsverk,opplaring,gk,sted,fag,YFF,larlinger,bedriftsstorrelse,opplaringskontor}",
+    "hydra:variableRepresentation": "BasicRepresentation",
+    "hydra:mapping": [
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "q",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "larling",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "aarsverk",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "opplaring",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "gk",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "sted",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "fag",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "YFF",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "larlinger",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "bedriftsstorrelse",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "opplaringskontor",
+        "property": null,
+        "required": false
+      }
+    ]
+  }
+}

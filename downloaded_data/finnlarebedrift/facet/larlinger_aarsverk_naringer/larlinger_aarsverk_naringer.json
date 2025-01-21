@@ -1,0 +1,101 @@
+{
+  "@context": "/contexts/Larlinger_aarsverk_naringer",
+  "@id": "/finnlarebedrift/facet/larlinger_aarsverk_naringer",
+  "@type": "hydra:Collection",
+  "hydra:totalItems": 1,
+  "hydra:member": [
+    {
+      "@id": "/finnlarebedrift/facet/larlinger_aarsverk_naringer/naringer_*",
+      "@type": "Larlinger_aarsverk_naringer",
+      "antall": {
+        "count": 1840621,
+        "aarsverk": 2688157.780000116
+      },
+      "sum": {
+        "count": 1840621,
+        "kontrakter": 48804
+      },
+      "value": "naringer_*",
+      "count": 1921091
+    }
+  ],
+  "hydra:search": {
+    "@type": "hydra:IriTemplate",
+    "hydra:template": "/finnlarebedrift/facet/larlinger_aarsverk_naringer{?q,larling,aarsverk,opplaring,gk,sted,fag,YFF,larlinger,bedriftsstorrelse,opplaringskontor,naringskode}",
+    "hydra:variableRepresentation": "BasicRepresentation",
+    "hydra:mapping": [
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "q",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "larling",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "aarsverk",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "opplaring",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "gk",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "sted",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "fag",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "YFF",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "larlinger",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "bedriftsstorrelse",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "opplaringskontor",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "naringskode",
+        "property": null,
+        "required": false
+      }
+    ]
+  }
+}

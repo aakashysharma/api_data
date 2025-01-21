@@ -1,0 +1,66 @@
+{
+  "data": [],
+  "facets": {
+    "fylkenr": {
+      "00": 98,
+      "03": 98,
+      "11": 98,
+      "15": 98,
+      "30": 98,
+      "34": 98,
+      "38": 98,
+      "42": 98,
+      "46": 98,
+      "50": 98,
+      "54": 98
+    },
+    "aldersgruppe": {
+      "15-19": 154,
+      "15-74": 154,
+      "20-24": 154,
+      "25-39": 154,
+      "40-54": 154,
+      "55-66": 154,
+      "67-74": 154
+    },
+    "regionstype": {
+      "F": 980,
+      "L": 98
+    },
+    "dato": {
+      "2009": 77,
+      "2010": 77,
+      "2011": 77,
+      "2012": 77,
+      "2013": 77,
+      "2014": 77,
+      "2015": 77,
+      "2016": 77,
+      "2017": 77,
+      "2018": 77,
+      "2019": 77,
+      "2020": 77,
+      "2021": 77,
+      "2022": 77
+    }
+  },
+  "aggregates": {
+    "agg_total": [],
+    "agg_aldersgruppe": [],
+    "agg_regioner": []
+  },
+  "meta": {
+    "sources": [
+      {
+        "sourcename": "Statistisk Sentralbyr\u00e5, tabell 09315.",
+        "sourceurl": "https://www.ssb.no/statbank/table/09315",
+        "updated": "23.02.2024"
+      },
+      {
+        "sourcename": "Utdanningsdirektoratet, Fag-og svennebrev, utdanningsprogram.",
+        "sourceurl": "https://www.udir.no/tall-og-forskning/statistikk/statistikk-fag-og-yrkesopplaring/fagbrev/fagbrev-utdanningsprogram/",
+        "updated": "13.05.2024"
+      }
+    ]
+  }
+}

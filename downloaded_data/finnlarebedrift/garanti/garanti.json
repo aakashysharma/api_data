@@ -1,0 +1,34 @@
+{
+  "@context": "/contexts/Garanti",
+  "@id": "/finnlarebedrift/garanti",
+  "@type": "hydra:Collection",
+  "hydra:totalItems": 1,
+  "hydra:member": [
+    {
+      "@id": "/garantis/964982953",
+      "@type": "Garanti",
+      "lpg_koordinator_orgnr": "964982953",
+      "lpg_koordinator_url": "https://www.nfk.no/lareplassgaranti/",
+      "lpg_koordinator_navn": "Nordland fylkeskommune"
+    }
+  ],
+  "hydra:search": {
+    "@type": "hydra:IriTemplate",
+    "hydra:template": "/finnlarebedrift/garanti{?sted,fag}",
+    "hydra:variableRepresentation": "BasicRepresentation",
+    "hydra:mapping": [
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "sted",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "fag",
+        "property": null,
+        "required": false
+      }
+    ]
+  }
+}

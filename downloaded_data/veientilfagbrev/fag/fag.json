@@ -1,0 +1,1353 @@
+[
+  {
+    "programomradekode10": "BAANG3----",
+    "name": "Anleggsgartnerfag",
+    "url": "https://utdanning.no/utdanning/vgs/baang3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/anleggsgartner",
+    "utdanningsprogram_kode": "BA"
+  },
+  {
+    "programomradekode10": "BAAMF3----",
+    "name": "Anleggsmaskinf\u00f8rerfag",
+    "url": "https://utdanning.no/utdanning/vgs/baamf3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/anleggsmaskinforer",
+    "utdanningsprogram_kode": "BA"
+  },
+  {
+    "programomradekode10": "BAARL3----",
+    "name": "Anleggsr\u00f8rleggerfaget",
+    "url": "https://utdanning.no/utdanning/vgs/baarl3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/anleggsrorlegger",
+    "utdanningsprogram_kode": "BA"
+  },
+  {
+    "programomradekode10": "BAASF3----",
+    "name": "Asfaltfag",
+    "url": "https://utdanning.no/utdanning/vgs/baasf3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/asfaltor",
+    "utdanningsprogram_kode": "BA"
+  },
+  {
+    "programomradekode10": "BABAN3----",
+    "name": "Banemont\u00f8rfag",
+    "url": "https://utdanning.no/utdanning/vgs/baban3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/banemontor",
+    "utdanningsprogram_kode": "BA"
+  },
+  {
+    "programomradekode10": "BABET3----",
+    "name": "Betongfag",
+    "url": "https://utdanning.no/utdanning/vgs/babet3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/betongfagarbeider",
+    "utdanningsprogram_kode": "BA"
+  },
+  {
+    "programomradekode10": "BABFB3----",
+    "name": "brannforebyggerfaget",
+    "url": "https://utdanning.no/utdanning/vgs/babfb3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/brannforebygger",
+    "utdanningsprogram_kode": "BA"
+  },
+  {
+    "programomradekode10": "BABRO3----",
+    "name": "Br\u00f8nn- og borefaget",
+    "url": "https://utdanning.no/utdanning/vgs/babro3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/bronnborer_fastland",
+    "utdanningsprogram_kode": "BA"
+  },
+  {
+    "programomradekode10": "BABDR3----",
+    "name": "Byggdrifterfag",
+    "url": "https://utdanning.no/utdanning/vgs/babdr3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/byggdrifter_vaktmester",
+    "utdanningsprogram_kode": "BA"
+  },
+  {
+    "programomradekode10": "BABYM3----",
+    "name": "Byggmontasjefaget",
+    "url": "https://utdanning.no/utdanning/vgs/babym3----",
+    "yrkesbeskrivelse_url": null,
+    "utdanningsprogram_kode": "BA"
+  },
+  {
+    "programomradekode10": "BAFJE3----",
+    "name": "Fjell- og bergverksfag",
+    "url": "https://utdanning.no/utdanning/vgs/bafje3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/fjell-_og_bergverksarbeider",
+    "utdanningsprogram_kode": "BA"
+  },
+  {
+    "programomradekode10": "BAFMF3----",
+    "name": "Fundamenteringsfaget",
+    "url": "https://utdanning.no/utdanning/vgs/bafmf3----",
+    "yrkesbeskrivelse_url": null,
+    "utdanningsprogram_kode": "BA"
+  },
+  {
+    "programomradekode10": "BAGLA3----",
+    "name": "Glassfag",
+    "url": "https://utdanning.no/utdanning/vgs/bagla3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/glassfagarbeider",
+    "utdanningsprogram_kode": "BA"
+  },
+  {
+    "programomradekode10": "BAIMF3----",
+    "name": "Industrimalerfag",
+    "url": "https://utdanning.no/utdanning/vgs/baimf3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/industrimaler",
+    "utdanningsprogram_kode": "BA"
+  },
+  {
+    "programomradekode10": "BAISL3----",
+    "name": "Isolat\u00f8rfag",
+    "url": "https://utdanning.no/utdanning/vgs/baisl3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/isolator",
+    "utdanningsprogram_kode": "BA"
+  },
+  {
+    "programomradekode10": "BAMOT3----",
+    "name": "Maler- og overflateteknikkfaget",
+    "url": "https://utdanning.no/utdanning/vgs/bamot3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/maler",
+    "utdanningsprogram_kode": "BA"
+  },
+  {
+    "programomradekode10": "BAMFF3----",
+    "name": "Murer- og flisleggerfag",
+    "url": "https://utdanning.no/utdanning/vgs/bamff3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/mur-og_flislegger",
+    "utdanningsprogram_kode": "BA"
+  },
+  {
+    "programomradekode10": "BAROF3----",
+    "name": "Renholdsoperat\u00f8rfag",
+    "url": "https://utdanning.no/utdanning/vgs/barof3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/renholdsoperator",
+    "utdanningsprogram_kode": "BA"
+  },
+  {
+    "programomradekode10": "BARLF3----",
+    "name": "R\u00f8rleggerfag",
+    "url": "https://utdanning.no/utdanning/vgs/barlf3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/rorlegger",
+    "utdanningsprogram_kode": "BA"
+  },
+  {
+    "programomradekode10": "BASNE3----",
+    "name": "Snekkerfaget",
+    "url": "https://utdanning.no/utdanning/vgs/basne3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/snekker_0",
+    "utdanningsprogram_kode": "BA"
+  },
+  {
+    "programomradekode10": "BASTE3----",
+    "name": "Steinfag",
+    "url": "https://utdanning.no/utdanning/vgs/baste3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/steinfagarbeider",
+    "utdanningsprogram_kode": "BA"
+  },
+  {
+    "programomradekode10": "BASBF3----",
+    "name": "Stillasbyggerfag",
+    "url": "https://utdanning.no/utdanning/vgs/basbf3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/stillasbygger",
+    "utdanningsprogram_kode": "BA"
+  },
+  {
+    "programomradekode10": "BATAK3----",
+    "name": "Tak- og membrantekkerfaget",
+    "url": "https://utdanning.no/utdanning/vgs/batak3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/tak-_og_membrantekker",
+    "utdanningsprogram_kode": "BA"
+  },
+  {
+    "programomradekode10": "BATLT3----",
+    "name": "Trelast- og limtreproduksjonsfaget",
+    "url": "https://utdanning.no/utdanning/vgs/batlt3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/fagoperator_i_trelast-_og_limtreproduksjon",
+    "utdanningsprogram_kode": "BA"
+  },
+  {
+    "programomradekode10": "BATMF3----",
+    "name": "T\u00f8mrerfag",
+    "url": "https://utdanning.no/utdanning/vgs/batmf3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/tomrer",
+    "utdanningsprogram_kode": "BA"
+  },
+  {
+    "programomradekode10": "BAVOA3----",
+    "name": "Vei- og anleggsfag",
+    "url": "https://utdanning.no/utdanning/vgs/bavoa3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/vei-_og_anleggsarbeider",
+    "utdanningsprogram_kode": "BA"
+  },
+  {
+    "programomradekode10": "BAVOV3----",
+    "name": "Veidrift- og veivedlikeholdsfaget",
+    "url": "https://utdanning.no/utdanning/vgs/bavov3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/veidrift-_og_veivedlikeholdsarbeider",
+    "utdanningsprogram_kode": "BA"
+  },
+  {
+    "programomradekode10": "BAVBL3----",
+    "name": "Ventilasjons- og blikkenslagerfag",
+    "url": "https://utdanning.no/utdanning/vgs/bavbl3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/blikkenslager",
+    "utdanningsprogram_kode": "BA"
+  },
+  {
+    "programomradekode10": "DTBSM3----",
+    "name": "Bilsalmakerfaget",
+    "url": "https://utdanning.no/utdanning/vgs/dtbsm3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/bilsalmaker",
+    "utdanningsprogram_kode": "DT"
+  },
+  {
+    "programomradekode10": "DTBLY3----",
+    "name": "Blyglassh\u00e5ndverkerfaget",
+    "url": "https://utdanning.no/utdanning/vgs/dtbly3----",
+    "yrkesbeskrivelse_url": null,
+    "utdanningsprogram_kode": "DT"
+  },
+  {
+    "programomradekode10": "DTBUN3----",
+    "name": "Bunadtilvirkerfag",
+    "url": "https://utdanning.no/utdanning/vgs/dtbun3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/bunadtilvirker",
+    "utdanningsprogram_kode": "DT"
+  },
+  {
+    "programomradekode10": "DTBNT3----",
+    "name": "Buntmakerfag",
+    "url": "https://utdanning.no/utdanning/vgs/dtbnt3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/buntmaker",
+    "utdanningsprogram_kode": "DT"
+  },
+  {
+    "programomradekode10": "DTBKF3----",
+    "name": "B\u00f8kkerfag",
+    "url": "https://utdanning.no/utdanning/vgs/dtbkf3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/bokker",
+    "utdanningsprogram_kode": "DT"
+  },
+  {
+    "programomradekode10": "DTFIL3----",
+    "name": "Filigranss\u00f8lvsmedfag",
+    "url": "https://utdanning.no/utdanning/vgs/dtfil3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/filigranssolvsmed",
+    "utdanningsprogram_kode": "DT"
+  },
+  {
+    "programomradekode10": "DTFGY3----",
+    "name": "Forgyllerfaget",
+    "url": "https://utdanning.no/utdanning/vgs/dtfgy3----",
+    "yrkesbeskrivelse_url": null,
+    "utdanningsprogram_kode": "DT"
+  },
+  {
+    "programomradekode10": "DTGIP3----",
+    "name": "Gipsmakerfaget",
+    "url": "https://utdanning.no/utdanning/vgs/dtgip3----",
+    "yrkesbeskrivelse_url": null,
+    "utdanningsprogram_kode": "DT"
+  },
+  {
+    "programomradekode10": "DTGTL3----",
+    "name": "Gj\u00f8rtlerfag",
+    "url": "https://utdanning.no/utdanning/vgs/dtgtl3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/gjortler",
+    "utdanningsprogram_kode": "DT"
+  },
+  {
+    "programomradekode10": "DTGBF3----",
+    "name": "Glassbl\u00e5serfaget",
+    "url": "https://utdanning.no/utdanning/vgs/dtgbf3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/glassblaser",
+    "utdanningsprogram_kode": "DT"
+  },
+  {
+    "programomradekode10": "DTGRF3----",
+    "name": "Grav\u00f8rfaget",
+    "url": "https://utdanning.no/utdanning/vgs/dtgrf3----",
+    "yrkesbeskrivelse_url": null,
+    "utdanningsprogram_kode": "DT"
+  },
+  {
+    "programomradekode10": "DTGUL3----",
+    "name": "Gullsmedfag",
+    "url": "https://utdanning.no/utdanning/vgs/dtgul3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/gullsmed",
+    "utdanningsprogram_kode": "DT"
+  },
+  {
+    "programomradekode10": "DTHSK3----",
+    "name": "Herreskredderfag",
+    "url": "https://utdanning.no/utdanning/vgs/dthsk3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/herreskredder",
+    "utdanningsprogram_kode": "DT"
+  },
+  {
+    "programomradekode10": "DTHMD3----",
+    "name": "Horn-, bein- og metallduodjifag ",
+    "url": "https://utdanning.no/utdanning/vgs/dthmd3----",
+    "yrkesbeskrivelse_url": null,
+    "utdanningsprogram_kode": "DT"
+  },
+  {
+    "programomradekode10": "DTHBB3----",
+    "name": "H\u00e5ndbokbinderfaget",
+    "url": "https://utdanning.no/utdanning/vgs/dthbb3----",
+    "yrkesbeskrivelse_url": null,
+    "utdanningsprogram_kode": "DT"
+  },
+  {
+    "programomradekode10": "DTHVF3----",
+    "name": "H\u00e5ndveverfag",
+    "url": "https://utdanning.no/utdanning/vgs/dthvf3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/handvever",
+    "utdanningsprogram_kode": "DT"
+  },
+  {
+    "programomradekode10": "DTKER3----",
+    "name": "Keramikerfaget",
+    "url": "https://utdanning.no/utdanning/vgs/dtker3----",
+    "yrkesbeskrivelse_url": null,
+    "utdanningsprogram_kode": "DT"
+  },
+  {
+    "programomradekode10": "DTKJD3----",
+    "name": "Kjole- og draktsyerfag",
+    "url": "https://utdanning.no/utdanning/vgs/dtkjd3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/kjole-_og_draktsyer",
+    "utdanningsprogram_kode": "DT"
+  },
+  {
+    "programomradekode10": "DTKBB3----",
+    "name": "Komposittb\u00e5tbyggerfag",
+    "url": "https://utdanning.no/utdanning/vgs/dtkbb3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/batbygger",
+    "utdanningsprogram_kode": "DT"
+  },
+  {
+    "programomradekode10": "DTKST3----",
+    "name": "Kostymesyerfag",
+    "url": "https://utdanning.no/utdanning/vgs/dtkst3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/kostymesyer",
+    "utdanningsprogram_kode": "DT"
+  },
+  {
+    "programomradekode10": "DTKRV3----",
+    "name": "Kurvmakerfaget",
+    "url": "https://utdanning.no/utdanning/vgs/dtkrv3----",
+    "yrkesbeskrivelse_url": null,
+    "utdanningsprogram_kode": "DT"
+  },
+  {
+    "programomradekode10": "DTMOD3----",
+    "name": "Modistfag",
+    "url": "https://utdanning.no/utdanning/vgs/dtmod3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/modist",
+    "utdanningsprogram_kode": "DT"
+  },
+  {
+    "programomradekode10": "DTMSF3----",
+    "name": "M\u00f8belsnekkerfag",
+    "url": "https://utdanning.no/utdanning/vgs/dtmsf3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/mobelsnekker",
+    "utdanningsprogram_kode": "DT"
+  },
+  {
+    "programomradekode10": "DTMBT3----",
+    "name": "M\u00f8beltapetsererfag",
+    "url": "https://utdanning.no/utdanning/vgs/dtmbt3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/mobeltapetserer",
+    "utdanningsprogram_kode": "DT"
+  },
+  {
+    "programomradekode10": "DTORG3----",
+    "name": "Orgelbyggerfag",
+    "url": "https://utdanning.no/utdanning/vgs/dtorg3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/orgelbygger",
+    "utdanningsprogram_kode": "DT"
+  },
+  {
+    "programomradekode10": "DTREP3----",
+    "name": "Repslagerfaget",
+    "url": "https://utdanning.no/utdanning/vgs/dtrep3----",
+    "yrkesbeskrivelse_url": null,
+    "utdanningsprogram_kode": "DT"
+  },
+  {
+    "programomradekode10": "DTSAL3----",
+    "name": "Salmakerfag",
+    "url": "https://utdanning.no/utdanning/vgs/dtsal3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/salmaker",
+    "utdanningsprogram_kode": "DT"
+  },
+  {
+    "programomradekode10": "DTSEI3----",
+    "name": "Seilmakerfaget",
+    "url": "https://utdanning.no/utdanning/vgs/dtsei3----",
+    "yrkesbeskrivelse_url": null,
+    "utdanningsprogram_kode": "DT"
+  },
+  {
+    "programomradekode10": "DTSPD3----",
+    "name": "Skinn- og pelsduodjifag",
+    "url": "https://utdanning.no/utdanning/vgs/dtspd3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/duojar",
+    "utdanningsprogram_kode": "DT"
+  },
+  {
+    "programomradekode10": "DTSKO3----",
+    "name": "Skomakerfag",
+    "url": "https://utdanning.no/utdanning/vgs/dtsko3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/skomaker",
+    "utdanningsprogram_kode": "DT"
+  },
+  {
+    "programomradekode10": "DTSME3----",
+    "name": "Smedfag",
+    "url": "https://utdanning.no/utdanning/vgs/dtsme3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/smed",
+    "utdanningsprogram_kode": "DT"
+  },
+  {
+    "programomradekode10": "DTSTR3----",
+    "name": "Strikkefag",
+    "url": "https://utdanning.no/utdanning/vgs/dtstr3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/strikkehandverker",
+    "utdanningsprogram_kode": "DT"
+  },
+  {
+    "programomradekode10": "DTSLV3----",
+    "name": "S\u00f8lvsmedfag",
+    "url": "https://utdanning.no/utdanning/vgs/dtslv3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/solvsmed",
+    "utdanningsprogram_kode": "DT"
+  },
+  {
+    "programomradekode10": "DTTKS3----",
+    "name": "Taksidermistfaget",
+    "url": "https://utdanning.no/utdanning/vgs/dttks3----",
+    "yrkesbeskrivelse_url": null,
+    "utdanningsprogram_kode": "DT"
+  },
+  {
+    "programomradekode10": "DTTED3----",
+    "name": "Tekstilduodjifag",
+    "url": "https://utdanning.no/utdanning/vgs/dtted3----",
+    "yrkesbeskrivelse_url": null,
+    "utdanningsprogram_kode": "DT"
+  },
+  {
+    "programomradekode10": "DTTRB3----",
+    "name": "Treb\u00e5tbyggerfag",
+    "url": "https://utdanning.no/utdanning/vgs/dttrb3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/trebatbygger",
+    "utdanningsprogram_kode": "DT"
+  },
+  {
+    "programomradekode10": "DTTDR3----",
+    "name": "Tredreierfag",
+    "url": "https://utdanning.no/utdanning/vgs/dttdr3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/tredreier",
+    "utdanningsprogram_kode": "DT"
+  },
+  {
+    "programomradekode10": "DTTRD3----",
+    "name": "Treduodjifag",
+    "url": "https://utdanning.no/utdanning/vgs/dttrd3----",
+    "yrkesbeskrivelse_url": null,
+    "utdanningsprogram_kode": "DT"
+  },
+  {
+    "programomradekode10": "DTTSK3----",
+    "name": "Treskj\u00e6rerfag",
+    "url": "https://utdanning.no/utdanning/vgs/dttsk3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/treskjaerer",
+    "utdanningsprogram_kode": "DT"
+  },
+  {
+    "programomradekode10": "DTURM3----",
+    "name": "Urmakerfag",
+    "url": "https://utdanning.no/utdanning/vgs/dturm3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/urmaker",
+    "utdanningsprogram_kode": "DT"
+  },
+  {
+    "programomradekode10": "DTVHD3----",
+    "name": "Veve- og h\u00e5ndstrikkeduodjifag",
+    "url": "https://utdanning.no/utdanning/vgs/dtvhd3----",
+    "yrkesbeskrivelse_url": null,
+    "utdanningsprogram_kode": "DT"
+  },
+  {
+    "programomradekode10": "ELAVI4----",
+    "name": "Avionikerfag",
+    "url": "https://utdanning.no/utdanning/vgs/elavi4----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/avioniker",
+    "utdanningsprogram_kode": "EL"
+  },
+  {
+    "programomradekode10": "ELELE3----",
+    "name": "Elektrikerfag",
+    "url": "https://utdanning.no/utdanning/vgs/elele3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/elektriker",
+    "utdanningsprogram_kode": "EL"
+  },
+  {
+    "programomradekode10": "ELERF3----",
+    "name": "Elektroreparat\u00f8rfag",
+    "url": "https://utdanning.no/utdanning/vgs/elerf3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/elektroreparator",
+    "utdanningsprogram_kode": "EL"
+  },
+  {
+    "programomradekode10": "ELEMO3----",
+    "name": "Energimont\u00f8rfag",
+    "url": "https://utdanning.no/utdanning/vgs/elemo3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/energimontor",
+    "utdanningsprogram_kode": "EL"
+  },
+  {
+    "programomradekode10": "ELEOP3----",
+    "name": "Energioperat\u00f8rfag",
+    "url": "https://utdanning.no/utdanning/vgs/eleop3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/energioperator",
+    "utdanningsprogram_kode": "EL"
+  },
+  {
+    "programomradekode10": "ELFUO3----",
+    "name": "Fjernstyrte undervannsoperasjoner",
+    "url": "https://utdanning.no/utdanning/vgs/elfuo3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/fu-operator",
+    "utdanningsprogram_kode": "EL"
+  },
+  {
+    "programomradekode10": "ELFMO4----",
+    "name": "Flymotormekanikerfag",
+    "url": "https://utdanning.no/utdanning/vgs/elfmo4----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/flymotormekaniker",
+    "utdanningsprogram_kode": "EL"
+  },
+  {
+    "programomradekode10": "ELFST4----",
+    "name": "Flystrukturmekanikerfag",
+    "url": "https://utdanning.no/utdanning/vgs/elfst4----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/flystrukturmekaniker",
+    "utdanningsprogram_kode": "EL"
+  },
+  {
+    "programomradekode10": "ELFSY4----",
+    "name": "Flysystemmekanikerfag",
+    "url": "https://utdanning.no/utdanning/vgs/elfsy4----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/flysystemmekaniker",
+    "utdanningsprogram_kode": "EL"
+  },
+  {
+    "programomradekode10": "ELHEI3----",
+    "name": "Heismont\u00f8rfag",
+    "url": "https://utdanning.no/utdanning/vgs/elhei3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/heismontor",
+    "utdanningsprogram_kode": "EL"
+  },
+  {
+    "programomradekode10": "ELKVP3----",
+    "name": "Kulde- og varmepumpeteknikkfaget",
+    "url": "https://utdanning.no/utdanning/vgs/elkvp3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/kulde-_og_varmepumpetekniker",
+    "utdanningsprogram_kode": "EL"
+  },
+  {
+    "programomradekode10": "ELLSM3----",
+    "name": "L\u00e5sesmedfag",
+    "url": "https://utdanning.no/utdanning/vgs/ellsm3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/lasesmed",
+    "utdanningsprogram_kode": "EL"
+  },
+  {
+    "programomradekode10": "ELMEL4----",
+    "name": "Maritim elektrikerfag",
+    "url": "https://utdanning.no/utdanning/vgs/elmel4----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/maritim_elektriker",
+    "utdanningsprogram_kode": "EL"
+  },
+  {
+    "programomradekode10": "ELOPT3----",
+    "name": "Optronikerfag",
+    "url": "https://utdanning.no/utdanning/vgs/elopt3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/optroniker",
+    "utdanningsprogram_kode": "EL"
+  },
+  {
+    "programomradekode10": "ELPRO3----",
+    "name": "Produksjonselektronikerfag",
+    "url": "https://utdanning.no/utdanning/vgs/elpro3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/produksjonselektroniker",
+    "utdanningsprogram_kode": "EL"
+  },
+  {
+    "programomradekode10": "ELROM3----",
+    "name": "Romteknologi",
+    "url": "https://utdanning.no/utdanning/vgs/elrom3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/romteknolog",
+    "utdanningsprogram_kode": "EL"
+  },
+  {
+    "programomradekode10": "ELSIG3----",
+    "name": "Signalmont\u00f8rfag",
+    "url": "https://utdanning.no/utdanning/vgs/elsig3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/signalmontor",
+    "utdanningsprogram_kode": "EL"
+  },
+  {
+    "programomradekode10": "ELTAV3----",
+    "name": "Tavlemont\u00f8rfag",
+    "url": "https://utdanning.no/utdanning/vgs/eltav3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/tavlemontor",
+    "utdanningsprogram_kode": "EL"
+  },
+  {
+    "programomradekode10": "ELTEL3----",
+    "name": "Telekommunikasjonsmont\u00f8rfag",
+    "url": "https://utdanning.no/utdanning/vgs/eltel3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/telekommunikasjonsmontor",
+    "utdanningsprogram_kode": "EL"
+  },
+  {
+    "programomradekode10": "ELTOG3----",
+    "name": "Togelektrikerfag",
+    "url": "https://utdanning.no/utdanning/vgs/eltog3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/togelektriker",
+    "utdanningsprogram_kode": "EL"
+  },
+  {
+    "programomradekode10": "ELVEN3----",
+    "name": "Ventilasjonsteknikkfaget",
+    "url": "https://utdanning.no/utdanning/vgs/elven3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/ventilasjonstekniker",
+    "utdanningsprogram_kode": "EL"
+  },
+  {
+    "programomradekode10": "ELVIK3----",
+    "name": "Viklerfaget",
+    "url": "https://utdanning.no/utdanning/vgs/elvik3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/vikler",
+    "utdanningsprogram_kode": "EL"
+  },
+  {
+    "programomradekode10": "FDBLD3----",
+    "name": "Blomsterdekorat\u00f8rfag",
+    "url": "https://utdanning.no/utdanning/vgs/fdbld3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/blomsterdekorator",
+    "utdanningsprogram_kode": "FD"
+  },
+  {
+    "programomradekode10": "FDEKD3----",
+    "name": "Eksponeringsdesign",
+    "url": "https://utdanning.no/utdanning/vgs/fdekd3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/eksponeringsdesigner",
+    "utdanningsprogram_kode": "FD"
+  },
+  {
+    "programomradekode10": "FDFRI3----",
+    "name": "Fris\u00f8rfag",
+    "url": "https://utdanning.no/utdanning/vgs/fdfri3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/frisor",
+    "utdanningsprogram_kode": "FD"
+  },
+  {
+    "programomradekode10": "FDINT3----",
+    "name": "Interi\u00f8r",
+    "url": "https://utdanning.no/utdanning/vgs/fdint3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/interiorkonsulent",
+    "utdanningsprogram_kode": "FD"
+  },
+  {
+    "programomradekode10": "FDMPM3----",
+    "name": "Mask\u00f8r- og parykkmakerfaget",
+    "url": "https://utdanning.no/utdanning/vgs/fdmpm3----",
+    "yrkesbeskrivelse_url": null,
+    "utdanningsprogram_kode": "FD"
+  },
+  {
+    "programomradekode10": "FDPFD3----",
+    "name": "Profileringsdesignfag",
+    "url": "https://utdanning.no/utdanning/vgs/fdpfd3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/profileringsdesigner",
+    "utdanningsprogram_kode": "FD"
+  },
+  {
+    "programomradekode10": "HSAKT3----",
+    "name": "Aktivit\u00f8rfag",
+    "url": "https://utdanning.no/utdanning/vgs/hsakt3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/aktivitor",
+    "utdanningsprogram_kode": "HS"
+  },
+  {
+    "programomradekode10": "HSAMB3----",
+    "name": "Ambulansefag",
+    "url": "https://utdanning.no/utdanning/vgs/hsamb3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/ambulansearbeider",
+    "utdanningsprogram_kode": "HS"
+  },
+  {
+    "programomradekode10": "HSAPO3----",
+    "name": "Apotekteknikk",
+    "url": "https://utdanning.no/utdanning/vgs/hsapo3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/apotektekniker",
+    "utdanningsprogram_kode": "HS"
+  },
+  {
+    "programomradekode10": "HSBUA3----",
+    "name": "Barne- og ungdomsarbeiderfag",
+    "url": "https://utdanning.no/utdanning/vgs/hsbua3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/barne-_og_ungdomsarbeider",
+    "utdanningsprogram_kode": "HS"
+  },
+  {
+    "programomradekode10": "HSFOT3----",
+    "name": "Fotterapi",
+    "url": "https://utdanning.no/utdanning/vgs/hsfot3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/fotterapeut",
+    "utdanningsprogram_kode": "HS"
+  },
+  {
+    "programomradekode10": "HSHEA3----",
+    "name": "Helsearbeiderfag",
+    "url": "https://utdanning.no/utdanning/vgs/hshea3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/personlig_assistent",
+    "utdanningsprogram_kode": "HS"
+  },
+  {
+    "programomradekode10": "HSHSE3----",
+    "name": "Helsesekret\u00e6r",
+    "url": "https://utdanning.no/utdanning/vgs/hshse3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/helsesekretaer",
+    "utdanningsprogram_kode": "HS"
+  },
+  {
+    "programomradekode10": "HSHUD3----",
+    "name": "Hudpleie",
+    "url": "https://utdanning.no/utdanning/vgs/hshud3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/hudpleier",
+    "utdanningsprogram_kode": "HS"
+  },
+  {
+    "programomradekode10": "HSORT3----",
+    "name": "Ortopediteknikkfag",
+    "url": "https://utdanning.no/utdanning/vgs/hsort3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/ortopeditekniker",
+    "utdanningsprogram_kode": "HS"
+  },
+  {
+    "programomradekode10": "HSPOR3----",
+    "name": "Port\u00f8rfag",
+    "url": "https://utdanning.no/utdanning/vgs/hspor3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/portor",
+    "utdanningsprogram_kode": "HS"
+  },
+  {
+    "programomradekode10": "HSTAN3----",
+    "name": "Tannhelsesekret\u00e6r",
+    "url": "https://utdanning.no/utdanning/vgs/hstan3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/tannhelsesekretaer",
+    "utdanningsprogram_kode": "HS"
+  },
+  {
+    "programomradekode10": "IMIHP3----",
+    "name": "Innholdsproduksjonsfaget",
+    "url": "https://utdanning.no/utdanning/vgs/imihp3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/innholdsprodusent",
+    "utdanningsprogram_kode": "IM"
+  },
+  {
+    "programomradekode10": "IMITD3----",
+    "name": "IT-driftsfaget",
+    "url": "https://utdanning.no/utdanning/vgs/imitd3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/it-administrator",
+    "utdanningsprogram_kode": "IM"
+  },
+  {
+    "programomradekode10": "IMIUV3----",
+    "name": "IT-utviklerfaget",
+    "url": "https://utdanning.no/utdanning/vgs/imiuv3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/it-utvikler_fagbrev",
+    "utdanningsprogram_kode": "IM"
+  },
+  {
+    "programomradekode10": "IMMDF3----",
+    "name": "Mediedesign",
+    "url": "https://utdanning.no/utdanning/vgs/immdf3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/mediedesigner",
+    "utdanningsprogram_kode": "IM"
+  },
+  {
+    "programomradekode10": "IMMET3----",
+    "name": "Medieteknikkfaget",
+    "url": "https://utdanning.no/utdanning/vgs/immet3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/medietekniker",
+    "utdanningsprogram_kode": "IM"
+  },
+  {
+    "programomradekode10": "NAAKV3----",
+    "name": "Akvakulturfag",
+    "url": "https://utdanning.no/utdanning/vgs/naakv3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/fagoperator_akvakultur_fiskeoppdretter",
+    "utdanningsprogram_kode": "NA"
+  },
+  {
+    "programomradekode10": "NADYR3----",
+    "name": "Dyrefaget",
+    "url": "https://utdanning.no/utdanning/vgs/nadyr3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/dyrefagarbeider",
+    "utdanningsprogram_kode": "NA"
+  },
+  {
+    "programomradekode10": "NAFFA3----",
+    "name": "Fiske og fangst",
+    "url": "https://utdanning.no/utdanning/vgs/naffa3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/basnettmann",
+    "utdanningsprogram_kode": "NA"
+  },
+  {
+    "programomradekode10": "NAGAR3----",
+    "name": "Gartnerfaget",
+    "url": "https://utdanning.no/utdanning/vgs/nagar3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/gartner",
+    "utdanningsprogram_kode": "NA"
+  },
+  {
+    "programomradekode10": "NAHAV3----",
+    "name": "Havbruksteknikkfaget",
+    "url": "https://utdanning.no/utdanning/vgs/nahav3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/havbrukstekniker",
+    "utdanningsprogram_kode": "NA"
+  },
+  {
+    "programomradekode10": "NAHST3----",
+    "name": "Hestefag",
+    "url": "https://utdanning.no/utdanning/vgs/nahst3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/hestefaglaert",
+    "utdanningsprogram_kode": "NA"
+  },
+  {
+    "programomradekode10": "NAHVS3----",
+    "name": "Hovslagerfag",
+    "url": "https://utdanning.no/utdanning/vgs/nahvs3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/hovslager",
+    "utdanningsprogram_kode": "NA"
+  },
+  {
+    "programomradekode10": "NALBR3----",
+    "name": "Landbruk",
+    "url": "https://utdanning.no/utdanning/vgs/nalbr3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/agronom",
+    "utdanningsprogram_kode": "NA"
+  },
+  {
+    "programomradekode10": "NAREI3----",
+    "name": "Reindriftsfag",
+    "url": "https://utdanning.no/utdanning/vgs/narei3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/reindriftsutover",
+    "utdanningsprogram_kode": "NA"
+  },
+  {
+    "programomradekode10": "NASKF3----",
+    "name": "Skogfag",
+    "url": "https://utdanning.no/utdanning/vgs/naskf3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/skogsoperator",
+    "utdanningsprogram_kode": "NA"
+  },
+  {
+    "programomradekode10": "NANAB3----",
+    "name": "Studieforberedende naturbruk",
+    "url": "https://utdanning.no/utdanning/vgs/nanab3----",
+    "yrkesbeskrivelse_url": null,
+    "utdanningsprogram_kode": "NA"
+  },
+  {
+    "programomradekode10": "RMBAK3----",
+    "name": "Bakerfag",
+    "url": "https://utdanning.no/utdanning/vgs/rmbak3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/baker",
+    "utdanningsprogram_kode": "RM"
+  },
+  {
+    "programomradekode10": "RMEKF3----",
+    "name": "Ern\u00e6ringskokkfaget",
+    "url": "https://utdanning.no/utdanning/vgs/rmekf3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/ernaeringskokk",
+    "utdanningsprogram_kode": "RM"
+  },
+  {
+    "programomradekode10": "RMFVF3----",
+    "name": "Ferskvarehandlerfaget",
+    "url": "https://utdanning.no/utdanning/vgs/rmfvf3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/ferskvarehandler",
+    "utdanningsprogram_kode": "RM"
+  },
+  {
+    "programomradekode10": "RMIMP3----",
+    "name": "Industriell matproduksjon",
+    "url": "https://utdanning.no/utdanning/vgs/rmimp3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/fagarbeider_industriell_matproduksjon",
+    "utdanningsprogram_kode": "RM"
+  },
+  {
+    "programomradekode10": "RMKSK3----",
+    "name": "Kj\u00f8ttskj\u00e6rerfag",
+    "url": "https://utdanning.no/utdanning/vgs/rmksk3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/kjottskjaerer",
+    "utdanningsprogram_kode": "RM"
+  },
+  {
+    "programomradekode10": "RMKOK3----",
+    "name": "Kokkfag",
+    "url": "https://utdanning.no/utdanning/vgs/rmkok3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/kokk",
+    "utdanningsprogram_kode": "RM"
+  },
+  {
+    "programomradekode10": "RMKON3----",
+    "name": "Konditorfag",
+    "url": "https://utdanning.no/utdanning/vgs/rmkon3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/konditor",
+    "utdanningsprogram_kode": "RM"
+  },
+  {
+    "programomradekode10": "RMPMF3----",
+    "name": "P\u00f8lsemakerfag",
+    "url": "https://utdanning.no/utdanning/vgs/rmpmf3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/polsemaker",
+    "utdanningsprogram_kode": "RM"
+  },
+  {
+    "programomradekode10": "RMSER3----",
+    "name": "Servit\u00f8rfag",
+    "url": "https://utdanning.no/utdanning/vgs/rmser3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/bartender",
+    "utdanningsprogram_kode": "RM"
+  },
+  {
+    "programomradekode10": "RMSMP3----",
+    "name": "Sj\u00f8matproduksjon",
+    "url": "https://utdanning.no/utdanning/vgs/rmsmp3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/fagarbeider_sjomatproduksjon",
+    "utdanningsprogram_kode": "RM"
+  },
+  {
+    "programomradekode10": "RMSLF3----",
+    "name": "Slakterfag",
+    "url": "https://utdanning.no/utdanning/vgs/rmslf3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/slakter",
+    "utdanningsprogram_kode": "RM"
+  },
+  {
+    "programomradekode10": "SRRLV3----",
+    "name": "Reiselivsfaget",
+    "url": "https://utdanning.no/utdanning/vgs/srrlv3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/guide",
+    "utdanningsprogram_kode": "SR"
+  },
+  {
+    "programomradekode10": "SRSLG3----",
+    "name": "Salgsfag",
+    "url": "https://utdanning.no/utdanning/vgs/srslg3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/bilselger",
+    "utdanningsprogram_kode": "SR"
+  },
+  {
+    "programomradekode10": "SRSOA3----",
+    "name": "Service- og administrasjonsfaget ",
+    "url": "https://utdanning.no/utdanning/vgs/srsoa3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/service-_og_administrasjonsmedarbeider",
+    "utdanningsprogram_kode": "SR"
+  },
+  {
+    "programomradekode10": "SRSIK3----",
+    "name": "Sikkerhetsfag",
+    "url": "https://utdanning.no/utdanning/vgs/srsik3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/vekter",
+    "utdanningsprogram_kode": "SR"
+  },
+  {
+    "programomradekode10": "TPALU3----",
+    "name": "Aluminiumskonstruksjonsfag",
+    "url": "https://utdanning.no/utdanning/vgs/tpalu3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/aluminiumskonstruktor",
+    "utdanningsprogram_kode": "TP"
+  },
+  {
+    "programomradekode10": "TPBMK3----",
+    "name": "Bilfaget, lette kj\u00f8ret\u00f8y",
+    "url": "https://utdanning.no/utdanning/vgs/tpbmk3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/bilmekaniker_lette_kjoretoy",
+    "utdanningsprogram_kode": "TP"
+  },
+  {
+    "programomradekode10": "TPBTK3----",
+    "name": "Bilfaget, tunge kj\u00f8ret\u00f8y",
+    "url": "https://utdanning.no/utdanning/vgs/tpbtk3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/bilmekaniker_tunge_kjoretoy",
+    "utdanningsprogram_kode": "TP"
+  },
+  {
+    "programomradekode10": "TPBLA3----",
+    "name": "Billakkererfag",
+    "url": "https://utdanning.no/utdanning/vgs/tpbla3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/billakkerer",
+    "utdanningsprogram_kode": "TP"
+  },
+  {
+    "programomradekode10": "TPBIP3----",
+    "name": "Bilpleiefaget",
+    "url": "https://utdanning.no/utdanning/vgs/tpbip3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/bilpleier",
+    "utdanningsprogram_kode": "TP"
+  },
+  {
+    "programomradekode10": "TPBSK3----",
+    "name": "Bilskadefag",
+    "url": "https://utdanning.no/utdanning/vgs/tpbsk3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/bilskadereparator",
+    "utdanningsprogram_kode": "TP"
+  },
+  {
+    "programomradekode10": "TPBOR3----",
+    "name": "Boreoperat\u00f8rfag",
+    "url": "https://utdanning.no/utdanning/vgs/tpbor3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/bore-_og_vedlikeholdsoperator",
+    "utdanningsprogram_kode": "TP"
+  },
+  {
+    "programomradekode10": "TPBRE3----",
+    "name": "Br\u00f8nnfaget, elektriske kabeloperasjoner",
+    "url": "https://utdanning.no/utdanning/vgs/tpbre3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/bronnoperator_elektriske_kabeloperasjoner",
+    "utdanningsprogram_kode": "TP"
+  },
+  {
+    "programomradekode10": "TPBRH3----",
+    "name": "Br\u00f8nnfaget, havbunnsinstallasjoner",
+    "url": "https://utdanning.no/utdanning/vgs/tpbrh3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/bronnoperator_havbunnsinstallasjoner",
+    "utdanningsprogram_kode": "TP"
+  },
+  {
+    "programomradekode10": "TPBKO3----",
+    "name": "Br\u00f8nnfaget, komplettering",
+    "url": "https://utdanning.no/utdanning/vgs/tpbko3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/bronnoperator_komplettering",
+    "utdanningsprogram_kode": "TP"
+  },
+  {
+    "programomradekode10": "TPBKV3----",
+    "name": "Br\u00f8nnfaget, kveiler\u00f8roperasjoner",
+    "url": "https://utdanning.no/utdanning/vgs/tpbkv3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/bronnoperator_kveileror",
+    "utdanningsprogram_kode": "TP"
+  },
+  {
+    "programomradekode10": "TPBRM3----",
+    "name": "Br\u00f8nnfaget, mekaniske kabeloperasjoner",
+    "url": "https://utdanning.no/utdanning/vgs/tpbrm3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/bronnoperator_mekaniske_kabeloperasjoner",
+    "utdanningsprogram_kode": "TP"
+  },
+  {
+    "programomradekode10": "TPBRS3----",
+    "name": "Br\u00f8nnfaget, sementering",
+    "url": "https://utdanning.no/utdanning/vgs/tpbrs3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/bronnoperator_sementering",
+    "utdanningsprogram_kode": "TP"
+  },
+  {
+    "programomradekode10": "TPBMF3----",
+    "name": "B\u00f8rsemakerfag",
+    "url": "https://utdanning.no/utdanning/vgs/tpbmf3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/borsemaker",
+    "utdanningsprogram_kode": "TP"
+  },
+  {
+    "programomradekode10": "TPKAR3----",
+    "name": "Chassisp\u00e5byggerfag",
+    "url": "https://utdanning.no/utdanning/vgs/tpkar3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/chassispabygger",
+    "utdanningsprogram_kode": "TP"
+  },
+  {
+    "programomradekode10": "TPCNC3----",
+    "name": "CNC-maskineringsfag",
+    "url": "https://utdanning.no/utdanning/vgs/tpcnc3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/cnc-operator",
+    "utdanningsprogram_kode": "TP"
+  },
+  {
+    "programomradekode10": "TPDKO3----",
+    "name": "Dimensjonskontrollfag",
+    "url": "https://utdanning.no/utdanning/vgs/tpdko3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/dimensjonskontrollor",
+    "utdanningsprogram_kode": "TP"
+  },
+  {
+    "programomradekode10": "TPFMK3----",
+    "name": "Finmekanikerfag",
+    "url": "https://utdanning.no/utdanning/vgs/tpfmk3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/finmekaniker",
+    "utdanningsprogram_kode": "TP"
+  },
+  {
+    "programomradekode10": "TPGVF3----",
+    "name": "Gjenvinningsfaget",
+    "url": "https://utdanning.no/utdanning/vgs/tpgvf3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/gjenvinningsoperator",
+    "utdanningsprogram_kode": "TP"
+  },
+  {
+    "programomradekode10": "TPHJU3----",
+    "name": "Hjulutrustningsfag",
+    "url": "https://utdanning.no/utdanning/vgs/tphju3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/hjulutrustningsreparator",
+    "utdanningsprogram_kode": "TP"
+  },
+  {
+    "programomradekode10": "TPIOV3----",
+    "name": "Industriell overflatebehandling",
+    "url": "https://utdanning.no/utdanning/vgs/tpiov3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/industriell_overflatebehandler",
+    "utdanningsprogram_kode": "TP"
+  },
+  {
+    "programomradekode10": "TPIME3----",
+    "name": "Industrimekanikerfag",
+    "url": "https://utdanning.no/utdanning/vgs/tpime3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/industrimekaniker",
+    "utdanningsprogram_kode": "TP"
+  },
+  {
+    "programomradekode10": "TPIMO3----",
+    "name": "Industrimont\u00f8rfag",
+    "url": "https://utdanning.no/utdanning/vgs/tpimo3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/industrimontor",
+    "utdanningsprogram_kode": "TP"
+  },
+  {
+    "programomradekode10": "TPIOM3----",
+    "name": "Industrioppm\u00e5lingsfag",
+    "url": "https://utdanning.no/utdanning/vgs/tpiom3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/industrioppmaler",
+    "utdanningsprogram_kode": "TP"
+  },
+  {
+    "programomradekode10": "TPIRL3----",
+    "name": "Industrir\u00f8rleggerfag",
+    "url": "https://utdanning.no/utdanning/vgs/tpirl3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/industrirorlegger",
+    "utdanningsprogram_kode": "TP"
+  },
+  {
+    "programomradekode10": "TPISN3----",
+    "name": "Industrisnekkerfag",
+    "url": "https://utdanning.no/utdanning/vgs/tpisn3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/industrisnekker",
+    "utdanningsprogram_kode": "TP"
+  },
+  {
+    "programomradekode10": "TPITA3----",
+    "name": "Industritapetsererfag",
+    "url": "https://utdanning.no/utdanning/vgs/tpita3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/industritapetserer",
+    "utdanningsprogram_kode": "TP"
+  },
+  {
+    "programomradekode10": "TPITF3----",
+    "name": "Industritekstilfaget",
+    "url": "https://utdanning.no/utdanning/vgs/tpitf3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/fagoperator_i_industritekstilfaget",
+    "utdanningsprogram_kode": "TP"
+  },
+  {
+    "programomradekode10": "TPKJP3----",
+    "name": "Kjemiprosessfag",
+    "url": "https://utdanning.no/utdanning/vgs/tpkjp3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/fagoperator_i_kjemisk_prosessindustri_prosesstekniker",
+    "utdanningsprogram_kode": "TP"
+  },
+  {
+    "programomradekode10": "TPKLO3----",
+    "name": "Kran- og l\u00f8fteoperasjonsfag",
+    "url": "https://utdanning.no/utdanning/vgs/tpklo3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/fagoperator_kran-_og_lofteoperasjoner_kranforer",
+    "utdanningsprogram_kode": "TP"
+  },
+  {
+    "programomradekode10": "TPLAB3----",
+    "name": "Laboratoriefag",
+    "url": "https://utdanning.no/utdanning/vgs/tplab3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/laborant",
+    "utdanningsprogram_kode": "TP"
+  },
+  {
+    "programomradekode10": "TPLMM3----",
+    "name": "Landbruksmaskinmekanikerfag",
+    "url": "https://utdanning.no/utdanning/vgs/tplmm3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/landbruksmaskinmekaniker",
+    "utdanningsprogram_kode": "TP"
+  },
+  {
+    "programomradekode10": "TPLOG3----",
+    "name": "Logistikkfag",
+    "url": "https://utdanning.no/utdanning/vgs/tplog3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/logistikkoperator",
+    "utdanningsprogram_kode": "TP"
+  },
+  {
+    "programomradekode10": "TPMTS3----",
+    "name": "Matrosfag",
+    "url": "https://utdanning.no/utdanning/vgs/tpmts3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/matros",
+    "utdanningsprogram_kode": "TP"
+  },
+  {
+    "programomradekode10": "TPMOB3----",
+    "name": "Modellbyggerfag",
+    "url": "https://utdanning.no/utdanning/vgs/tpmob3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/modellbygger",
+    "utdanningsprogram_kode": "TP"
+  },
+  {
+    "programomradekode10": "TPMME3----",
+    "name": "Motormekanikerfag",
+    "url": "https://utdanning.no/utdanning/vgs/tpmme3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/motormekaniker",
+    "utdanningsprogram_kode": "TP"
+  },
+  {
+    "programomradekode10": "TPMSY3----",
+    "name": "Motorsykkelfag",
+    "url": "https://utdanning.no/utdanning/vgs/tpmsy3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/motorsykkelmekaniker",
+    "utdanningsprogram_kode": "TP"
+  },
+  {
+    "programomradekode10": "TPNDT3----",
+    "name": "NDT-kontroll\u00f8rfag",
+    "url": "https://utdanning.no/utdanning/vgs/tpndt3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/ndt-kontrollor",
+    "utdanningsprogram_kode": "TP"
+  },
+  {
+    "programomradekode10": "TPPLF3----",
+    "name": "Plastfaget",
+    "url": "https://utdanning.no/utdanning/vgs/tpplf3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/fagoperator_i_plastfag",
+    "utdanningsprogram_kode": "TP"
+  },
+  {
+    "programomradekode10": "TPPLA3----",
+    "name": "Platearbeiderfag",
+    "url": "https://utdanning.no/utdanning/vgs/tppla3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/platearbeider",
+    "utdanningsprogram_kode": "TP"
+  },
+  {
+    "programomradekode10": "TPPOM3----",
+    "name": "Polymerkomposittfag",
+    "url": "https://utdanning.no/utdanning/vgs/tppom3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/fagoperator_i_polymerkompositt_herdeplast",
+    "utdanningsprogram_kode": "TP"
+  },
+  {
+    "programomradekode10": "TPPRT3----",
+    "name": "Produksjonsteknikkfag",
+    "url": "https://utdanning.no/utdanning/vgs/tpprt3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/fagoperator_i_produksjonsteknikk",
+    "utdanningsprogram_kode": "TP"
+  },
+  {
+    "programomradekode10": "TPRSD3----",
+    "name": "Reservedelsfag",
+    "url": "https://utdanning.no/utdanning/vgs/tprsd3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/reservedelsekspeditor",
+    "utdanningsprogram_kode": "TP"
+  },
+  {
+    "programomradekode10": "TPSGR3----",
+    "name": "Serigrafifag",
+    "url": "https://utdanning.no/utdanning/vgs/tpsgr3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/serigraf",
+    "utdanningsprogram_kode": "TP"
+  },
+  {
+    "programomradekode10": "TPSMK3----",
+    "name": "Skipsmotormekanikerfag",
+    "url": "https://utdanning.no/utdanning/vgs/tpsmk3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/skipsmotormekaniker",
+    "utdanningsprogram_kode": "TP"
+  },
+  {
+    "programomradekode10": "TPSVE3----",
+    "name": "Sveisefag",
+    "url": "https://utdanning.no/utdanning/vgs/tpsve3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/sveiser",
+    "utdanningsprogram_kode": "TP"
+  },
+  {
+    "programomradekode10": "TPSYM3----",
+    "name": "Sykkelmekanikerfaget",
+    "url": "https://utdanning.no/utdanning/vgs/tpsym3----",
+    "yrkesbeskrivelse_url": null,
+    "utdanningsprogram_kode": "TP"
+  },
+  {
+    "programomradekode10": "TPTSR3----",
+    "name": "Tekstilrensfag",
+    "url": "https://utdanning.no/utdanning/vgs/tptsr3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/tekstilrenser",
+    "utdanningsprogram_kode": "TP"
+  },
+  {
+    "programomradekode10": "TPTLM3----",
+    "name": "Truck- og liftmekanikerfaget",
+    "url": "https://utdanning.no/utdanning/vgs/tptlm3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/truck-_og_liftmekaniker",
+    "utdanningsprogram_kode": "TP"
+  },
+  {
+    "programomradekode10": "TPVAF3----",
+    "name": "Vaskerifaget",
+    "url": "https://utdanning.no/utdanning/vgs/tpvaf3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/vaskerioperator",
+    "utdanningsprogram_kode": "TP"
+  },
+  {
+    "programomradekode10": "TPVER3----",
+    "name": "Verkt\u00f8ymakerfag",
+    "url": "https://utdanning.no/utdanning/vgs/tpver3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/verktoymaker",
+    "utdanningsprogram_kode": "TP"
+  },
+  {
+    "programomradekode10": "TPYRK3----",
+    "name": "Yrkessj\u00e5f\u00f8rfag",
+    "url": "https://utdanning.no/utdanning/vgs/tpyrk3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/bussjafor",
+    "utdanningsprogram_kode": "TP"
+  },
+  {
+    "programomradekode10": "ELDRF3----",
+    "name": "Droneoperat\u00f8rfag",
+    "url": "https://utdanning.no/utdanning/vgs/eldrf3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/yrker/beskrivelse/droneoperator",
+    "utdanningsprogram_kode": "EL"
+  },
+  {
+    "programomradekode10": "TPGPT3----",
+    "name": "Grafisk produksjonsteknikk",
+    "url": "https://utdanning.no/utdanning/vgs/tpgpt3----",
+    "yrkesbeskrivelse_url": "https://utdanning.no/node/4038454",
+    "utdanningsprogram_kode": "TP"
+  }
+]

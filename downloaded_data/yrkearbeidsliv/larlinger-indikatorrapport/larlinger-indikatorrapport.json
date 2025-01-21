@@ -1,0 +1,2508 @@
+{
+  "@context": "/contexts/LarlingerIndikatorrapport",
+  "@id": "/yrkearbeidsliv/larlinger-indikatorrapport",
+  "@type": "hydra:Collection",
+  "hydra:totalItems": 151200,
+  "hydra:member": [
+    {
+      "@id": "/larlinger_indikatorrapports/31",
+      "@type": "LarlingerIndikatorrapport",
+      "id": 31,
+      "fylkenr": [
+        "55"
+      ],
+      "fylkenavn": "Troms",
+      "kommunenr": [
+        "5503"
+      ],
+      "kommunenavn": "Harstad",
+      "stillinger": [
+        2
+      ],
+      "aarsverk": [
+        2
+      ],
+      "ekstrahjelp": [
+        0
+      ],
+      "larlinger_faget": [
+        12
+      ],
+      "larlingtetthet": null,
+      "godkjente_bedr": [
+        4
+      ],
+      "utlopte_bedr": [
+        2
+      ],
+      "bedr_med_larling": [
+        4
+      ],
+      "bedr_med_larling_3aar": [
+        0
+      ],
+      "potensielle_bedr1": [
+        0
+      ],
+      "potensielle_bedr2": [
+        0
+      ],
+      "yrke_nid": [
+        395976
+      ],
+      "yrke_tittel": [
+        "Skipper p\u00e5 fiskefart\u00f8y"
+      ],
+      "yrke_uno_id": [
+        "y_fiskeskipper"
+      ],
+      "yrke_alias_url": [
+        "/yrker/beskrivelse/skipper_pa_fiskefartoy"
+      ],
+      "studiebeskrivelse_nid": [
+        398682
+      ],
+      "studiebeskrivelse_tittel": [
+        "Matrosfag"
+      ],
+      "studiebeskrivelse_uno_id": [
+        "u_matrosfag"
+      ],
+      "studiebeskrivelse_alias_url": [
+        "/utdanningsoversikt/matrosfag"
+      ],
+      "programomradekode6": [
+        "TPMTS3"
+      ],
+      "nivaa": "kommune",
+      "yrkeskode_styrk98": [
+        6411105,
+        6411127,
+        6411124
+      ]
+    },
+    {
+      "@id": "/larlinger_indikatorrapports/63",
+      "@type": "LarlingerIndikatorrapport",
+      "id": 63,
+      "fylkenr": [
+        "55"
+      ],
+      "fylkenavn": "Troms",
+      "kommunenr": [
+        "5503"
+      ],
+      "kommunenavn": "Harstad",
+      "stillinger": [
+        2
+      ],
+      "aarsverk": [
+        2
+      ],
+      "ekstrahjelp": [
+        0
+      ],
+      "larlinger_faget": [
+        9
+      ],
+      "larlingtetthet": null,
+      "godkjente_bedr": [
+        5
+      ],
+      "utlopte_bedr": [
+        1
+      ],
+      "bedr_med_larling": [
+        5
+      ],
+      "bedr_med_larling_3aar": [
+        0
+      ],
+      "potensielle_bedr1": [
+        0
+      ],
+      "potensielle_bedr2": [
+        0
+      ],
+      "yrke_nid": [
+        396244
+      ],
+      "yrke_tittel": [
+        "IT-administrator"
+      ],
+      "yrke_uno_id": [
+        "y_itadministrator"
+      ],
+      "yrke_alias_url": [
+        "/yrker/beskrivelse/it-administrator"
+      ],
+      "studiebeskrivelse_nid": [
+        3980060
+      ],
+      "studiebeskrivelse_tittel": [
+        "IT-driftsfaget"
+      ],
+      "studiebeskrivelse_uno_id": [
+        "u_itdriftsfaget"
+      ],
+      "studiebeskrivelse_alias_url": [
+        "/utdanningsoversikt/it-driftsfaget"
+      ],
+      "programomradekode6": [
+        "IMITD3"
+      ],
+      "nivaa": "kommune",
+      "yrkeskode_styrk98": [
+        3120128,
+        2130166,
+        2130103,
+        2130101
+      ]
+    },
+    {
+      "@id": "/larlinger_indikatorrapports/96",
+      "@type": "LarlingerIndikatorrapport",
+      "id": 96,
+      "fylkenr": [
+        "46"
+      ],
+      "fylkenavn": "Vestland",
+      "kommunenr": [
+        "4643"
+      ],
+      "kommunenavn": "\u00c5rdal",
+      "stillinger": [
+        2
+      ],
+      "aarsverk": [
+        2
+      ],
+      "ekstrahjelp": [
+        0
+      ],
+      "larlinger_faget": [
+        0
+      ],
+      "larlingtetthet": [
+        0
+      ],
+      "godkjente_bedr": [
+        1
+      ],
+      "utlopte_bedr": [
+        0
+      ],
+      "bedr_med_larling": [
+        0
+      ],
+      "bedr_med_larling_3aar": [
+        0
+      ],
+      "potensielle_bedr1": [
+        0
+      ],
+      "potensielle_bedr2": [
+        1
+      ],
+      "yrke_nid": [
+        396000
+      ],
+      "yrke_tittel": [
+        "Tak- og membrantekker"
+      ],
+      "yrke_uno_id": [
+        "y_taktekker"
+      ],
+      "yrke_alias_url": [
+        "/yrker/beskrivelse/tak-_og_membrantekker"
+      ],
+      "studiebeskrivelse_nid": [
+        398735
+      ],
+      "studiebeskrivelse_tittel": [
+        "Tak- og membrantekkerfaget"
+      ],
+      "studiebeskrivelse_uno_id": [
+        "u_taktekkerfag"
+      ],
+      "studiebeskrivelse_alias_url": [
+        "/utdanningsoversikt/tak-_og_membrantekkerfaget"
+      ],
+      "programomradekode6": [
+        "BATAK3"
+      ],
+      "nivaa": "kommune",
+      "yrkeskode_styrk98": [
+        7131101,
+        7131106,
+        7131105,
+        7131104,
+        7131102
+      ]
+    },
+    {
+      "@id": "/larlinger_indikatorrapports/128",
+      "@type": "LarlingerIndikatorrapport",
+      "id": 128,
+      "fylkenr": [
+        "46"
+      ],
+      "fylkenavn": "Vestland",
+      "kommunenr": [
+        "4639"
+      ],
+      "kommunenavn": "Vik",
+      "stillinger": [
+        2
+      ],
+      "aarsverk": [
+        2
+      ],
+      "ekstrahjelp": [
+        0
+      ],
+      "larlinger_faget": [
+        0
+      ],
+      "larlingtetthet": null,
+      "godkjente_bedr": [
+        1
+      ],
+      "utlopte_bedr": [
+        1
+      ],
+      "bedr_med_larling": [
+        0
+      ],
+      "bedr_med_larling_3aar": [
+        0
+      ],
+      "potensielle_bedr1": [
+        0
+      ],
+      "potensielle_bedr2": [
+        0
+      ],
+      "yrke_nid": [
+        395996
+      ],
+      "yrke_tittel": [
+        "Sveiser"
+      ],
+      "yrke_uno_id": [
+        "y_sveiser"
+      ],
+      "yrke_alias_url": [
+        "/yrker/beskrivelse/sveiser"
+      ],
+      "studiebeskrivelse_nid": [
+        398732
+      ],
+      "studiebeskrivelse_tittel": [
+        "Sveisefag"
+      ],
+      "studiebeskrivelse_uno_id": [
+        "u_sveisefag"
+      ],
+      "studiebeskrivelse_alias_url": [
+        "/utdanningsoversikt/sveisefag"
+      ],
+      "programomradekode6": [
+        "TPSVE3"
+      ],
+      "nivaa": "kommune",
+      "yrkeskode_styrk98": [
+        7212108,
+        7212113,
+        8281105,
+        8281101,
+        7212119,
+        7212118,
+        7212117,
+        7212112,
+        7212110,
+        7212107,
+        7212103,
+        7212121
+      ]
+    },
+    {
+      "@id": "/larlinger_indikatorrapports/161",
+      "@type": "LarlingerIndikatorrapport",
+      "id": 161,
+      "fylkenr": [
+        "18"
+      ],
+      "fylkenavn": "Nordland",
+      "kommunenr": [
+        "1871"
+      ],
+      "kommunenavn": "And\u00f8y",
+      "stillinger": [
+        2
+      ],
+      "aarsverk": [
+        2
+      ],
+      "ekstrahjelp": [
+        0
+      ],
+      "larlinger_faget": [
+        0
+      ],
+      "larlingtetthet": [
+        0
+      ],
+      "godkjente_bedr": [
+        1
+      ],
+      "utlopte_bedr": [
+        0
+      ],
+      "bedr_med_larling": [
+        0
+      ],
+      "bedr_med_larling_3aar": [
+        0
+      ],
+      "potensielle_bedr1": [
+        0
+      ],
+      "potensielle_bedr2": [
+        1
+      ],
+      "yrke_nid": [
+        396072
+      ],
+      "yrke_tittel": [
+        "Landbruksmaskinmekaniker"
+      ],
+      "yrke_uno_id": [
+        "y_landbruk_mek"
+      ],
+      "yrke_alias_url": [
+        "/yrker/beskrivelse/landbruksmaskinmekaniker"
+      ],
+      "studiebeskrivelse_nid": [
+        398676
+      ],
+      "studiebeskrivelse_tittel": [
+        "Landbruksmaskinmekanikerfag"
+      ],
+      "studiebeskrivelse_uno_id": [
+        "u_landbruksmaskin"
+      ],
+      "studiebeskrivelse_alias_url": [
+        "/utdanningsoversikt/landbruksmaskinmekanikerfag"
+      ],
+      "programomradekode6": [
+        "TPLMM3"
+      ],
+      "nivaa": "kommune",
+      "yrkeskode_styrk98": [
+        7233102,
+        7233108,
+        7233107,
+        7233104
+      ]
+    },
+    {
+      "@id": "/larlinger_indikatorrapports/194",
+      "@type": "LarlingerIndikatorrapport",
+      "id": 194,
+      "fylkenr": [
+        "11"
+      ],
+      "fylkenavn": "Rogaland",
+      "kommunenr": [
+        "1120"
+      ],
+      "kommunenavn": "Klepp",
+      "stillinger": [
+        12
+      ],
+      "aarsverk": [
+        12
+      ],
+      "ekstrahjelp": [
+        0
+      ],
+      "larlinger_faget": [
+        1
+      ],
+      "larlingtetthet": [
+        0
+      ],
+      "godkjente_bedr": [
+        3
+      ],
+      "utlopte_bedr": [
+        1
+      ],
+      "bedr_med_larling": [
+        1
+      ],
+      "bedr_med_larling_3aar": [
+        2
+      ],
+      "potensielle_bedr1": [
+        3
+      ],
+      "potensielle_bedr2": [
+        5
+      ],
+      "yrke_nid": [
+        396060
+      ],
+      "yrke_tittel": [
+        "Bilskadereparat\u00f8r"
+      ],
+      "yrke_uno_id": [
+        "y_bilskadereparator"
+      ],
+      "yrke_alias_url": [
+        "/yrker/beskrivelse/bilskadereparator"
+      ],
+      "studiebeskrivelse_nid": [
+        398581
+      ],
+      "studiebeskrivelse_tittel": [
+        "Bilskadefag"
+      ],
+      "studiebeskrivelse_uno_id": [
+        "u_bilskadefag"
+      ],
+      "studiebeskrivelse_alias_url": [
+        "/utdanningsoversikt/bilskadefag"
+      ],
+      "programomradekode6": [
+        "TPBSK3"
+      ],
+      "nivaa": "kommune",
+      "yrkeskode_styrk98": [
+        7217114,
+        7217113,
+        7217111,
+        7217110,
+        7217109,
+        7217107,
+        7217106,
+        7217105,
+        7217104,
+        7217103,
+        7217102,
+        7217101
+      ]
+    },
+    {
+      "@id": "/larlinger_indikatorrapports/226",
+      "@type": "LarlingerIndikatorrapport",
+      "id": 226,
+      "fylkenr": [
+        "46"
+      ],
+      "fylkenavn": "Vestland",
+      "kommunenr": [
+        "4613"
+      ],
+      "kommunenavn": "B\u00f8mlo",
+      "stillinger": [
+        2
+      ],
+      "aarsverk": [
+        2
+      ],
+      "ekstrahjelp": [
+        0
+      ],
+      "larlinger_faget": [
+        0
+      ],
+      "larlingtetthet": null,
+      "godkjente_bedr": [
+        1
+      ],
+      "utlopte_bedr": [
+        1
+      ],
+      "bedr_med_larling": [
+        0
+      ],
+      "bedr_med_larling_3aar": [
+        1
+      ],
+      "potensielle_bedr1": [
+        0
+      ],
+      "potensielle_bedr2": [
+        0
+      ],
+      "yrke_nid": [
+        3962619
+      ],
+      "yrke_tittel": [
+        "Bilberger"
+      ],
+      "yrke_uno_id": [
+        "y_bilberger"
+      ],
+      "yrke_alias_url": [
+        "/yrker/beskrivelse/bilberger"
+      ],
+      "studiebeskrivelse_nid": [
+        398755
+      ],
+      "studiebeskrivelse_tittel": [
+        "Yrkessj\u00e5f\u00f8rfag"
+      ],
+      "studiebeskrivelse_uno_id": [
+        "u_yrkessjaforfag"
+      ],
+      "studiebeskrivelse_alias_url": [
+        "/utdanningsoversikt/yrkessjaforfag"
+      ],
+      "programomradekode6": [
+        "TPYRK3"
+      ],
+      "nivaa": "kommune",
+      "yrkeskode_styrk98": [
+        8323111
+      ]
+    },
+    {
+      "@id": "/larlinger_indikatorrapports/258",
+      "@type": "LarlingerIndikatorrapport",
+      "id": 258,
+      "fylkenr": [
+        "46"
+      ],
+      "fylkenavn": "Vestland",
+      "kommunenr": [
+        "4624"
+      ],
+      "kommunenavn": "Bj\u00f8rnafjorden",
+      "stillinger": [
+        2
+      ],
+      "aarsverk": [
+        2
+      ],
+      "ekstrahjelp": [
+        0
+      ],
+      "larlinger_faget": [
+        0
+      ],
+      "larlingtetthet": null,
+      "godkjente_bedr": [
+        1
+      ],
+      "utlopte_bedr": [
+        2
+      ],
+      "bedr_med_larling": [
+        0
+      ],
+      "bedr_med_larling_3aar": [
+        0
+      ],
+      "potensielle_bedr1": [
+        0
+      ],
+      "potensielle_bedr2": [
+        0
+      ],
+      "yrke_nid": [
+        3962619
+      ],
+      "yrke_tittel": [
+        "Bilberger"
+      ],
+      "yrke_uno_id": [
+        "y_bilberger"
+      ],
+      "yrke_alias_url": [
+        "/yrker/beskrivelse/bilberger"
+      ],
+      "studiebeskrivelse_nid": [
+        398755
+      ],
+      "studiebeskrivelse_tittel": [
+        "Yrkessj\u00e5f\u00f8rfag"
+      ],
+      "studiebeskrivelse_uno_id": [
+        "u_yrkessjaforfag"
+      ],
+      "studiebeskrivelse_alias_url": [
+        "/utdanningsoversikt/yrkessjaforfag"
+      ],
+      "programomradekode6": [
+        "SSYRK3"
+      ],
+      "nivaa": "kommune",
+      "yrkeskode_styrk98": [
+        8323111
+      ]
+    },
+    {
+      "@id": "/larlinger_indikatorrapports/290",
+      "@type": "LarlingerIndikatorrapport",
+      "id": 290,
+      "fylkenr": [
+        "46"
+      ],
+      "fylkenavn": "Vestland",
+      "kommunenr": [
+        "4649"
+      ],
+      "kommunenavn": "Stad",
+      "stillinger": [
+        2
+      ],
+      "aarsverk": [
+        2
+      ],
+      "ekstrahjelp": [
+        0
+      ],
+      "larlinger_faget": [
+        22
+      ],
+      "larlingtetthet": null,
+      "godkjente_bedr": [
+        4
+      ],
+      "utlopte_bedr": [
+        3
+      ],
+      "bedr_med_larling": [
+        4
+      ],
+      "bedr_med_larling_3aar": [
+        0
+      ],
+      "potensielle_bedr1": [
+        0
+      ],
+      "potensielle_bedr2": [
+        0
+      ],
+      "yrke_nid": [
+        395793
+      ],
+      "yrke_tittel": [
+        "Bas/Nettmann"
+      ],
+      "yrke_uno_id": [
+        "y_basnettmann"
+      ],
+      "yrke_alias_url": [
+        "/yrker/beskrivelse/basnettmann"
+      ],
+      "studiebeskrivelse_nid": [
+        398612
+      ],
+      "studiebeskrivelse_tittel": [
+        "Fiske og fangst"
+      ],
+      "studiebeskrivelse_uno_id": [
+        "u_fiske_fangst"
+      ],
+      "studiebeskrivelse_alias_url": [
+        "/utdanningsoversikt/fiske_og_fangst"
+      ],
+      "programomradekode6": [
+        "NAFFA3"
+      ],
+      "nivaa": "kommune",
+      "yrkeskode_styrk98": [
+        6411126,
+        6411113,
+        6411109
+      ]
+    },
+    {
+      "@id": "/larlinger_indikatorrapports/321",
+      "@type": "LarlingerIndikatorrapport",
+      "id": 321,
+      "fylkenr": [
+        "46"
+      ],
+      "fylkenavn": "Vestland",
+      "kommunenr": [
+        "4649"
+      ],
+      "kommunenavn": "Stad",
+      "stillinger": [
+        2
+      ],
+      "aarsverk": [
+        2
+      ],
+      "ekstrahjelp": [
+        0
+      ],
+      "larlinger_faget": [
+        22
+      ],
+      "larlingtetthet": null,
+      "godkjente_bedr": [
+        4
+      ],
+      "utlopte_bedr": [
+        3
+      ],
+      "bedr_med_larling": [
+        4
+      ],
+      "bedr_med_larling_3aar": [
+        0
+      ],
+      "potensielle_bedr1": [
+        0
+      ],
+      "potensielle_bedr2": [
+        0
+      ],
+      "yrke_nid": [
+        396241
+      ],
+      "yrke_tittel": [
+        "Fabrikksjef, fiske"
+      ],
+      "yrke_uno_id": [
+        "y_fabrikksjef_fiske"
+      ],
+      "yrke_alias_url": [
+        "/yrker/beskrivelse/fabrikksjef_fiske"
+      ],
+      "studiebeskrivelse_nid": [
+        398612
+      ],
+      "studiebeskrivelse_tittel": [
+        "Fiske og fangst"
+      ],
+      "studiebeskrivelse_uno_id": [
+        "u_fiske_fangst"
+      ],
+      "studiebeskrivelse_alias_url": [
+        "/utdanningsoversikt/fiske_og_fangst"
+      ],
+      "programomradekode6": [
+        "NAFFA3"
+      ],
+      "nivaa": "kommune",
+      "yrkeskode_styrk98": null
+    },
+    {
+      "@id": "/larlinger_indikatorrapports/353",
+      "@type": "LarlingerIndikatorrapport",
+      "id": 353,
+      "fylkenr": [
+        "11"
+      ],
+      "fylkenavn": "Rogaland",
+      "kommunenr": [
+        "1133"
+      ],
+      "kommunenavn": "Hjelmeland",
+      "stillinger": [
+        2
+      ],
+      "aarsverk": [
+        2
+      ],
+      "ekstrahjelp": [
+        0
+      ],
+      "larlinger_faget": [
+        1
+      ],
+      "larlingtetthet": null,
+      "godkjente_bedr": [
+        1
+      ],
+      "utlopte_bedr": [
+        0
+      ],
+      "bedr_med_larling": [
+        1
+      ],
+      "bedr_med_larling_3aar": [
+        0
+      ],
+      "potensielle_bedr1": [
+        0
+      ],
+      "potensielle_bedr2": [
+        0
+      ],
+      "yrke_nid": [
+        396051
+      ],
+      "yrke_tittel": [
+        "Ern\u00e6ringskokk"
+      ],
+      "yrke_uno_id": [
+        "y_institusjonskokk"
+      ],
+      "yrke_alias_url": [
+        "/yrker/beskrivelse/ernaeringskokk"
+      ],
+      "studiebeskrivelse_nid": [
+        3980075
+      ],
+      "studiebeskrivelse_tittel": [
+        "Ern\u00e6ringskokkfaget"
+      ],
+      "studiebeskrivelse_uno_id": [
+        "u_ernaeringskokk"
+      ],
+      "studiebeskrivelse_alias_url": [
+        "/utdanningsoversikt/ernaeringskokkfaget"
+      ],
+      "programomradekode6": [
+        "RMEKF3"
+      ],
+      "nivaa": "kommune",
+      "yrkeskode_styrk98": [
+        5122131,
+        5122105
+      ]
+    },
+    {
+      "@id": "/larlinger_indikatorrapports/386",
+      "@type": "LarlingerIndikatorrapport",
+      "id": 386,
+      "fylkenr": [
+        "11"
+      ],
+      "fylkenavn": "Rogaland",
+      "kommunenr": [
+        "1133"
+      ],
+      "kommunenavn": "Hjelmeland",
+      "stillinger": [
+        2
+      ],
+      "aarsverk": [
+        2
+      ],
+      "ekstrahjelp": [
+        0
+      ],
+      "larlinger_faget": [
+        1
+      ],
+      "larlingtetthet": [
+        0.01
+      ],
+      "godkjente_bedr": [
+        1
+      ],
+      "utlopte_bedr": [
+        0
+      ],
+      "bedr_med_larling": [
+        1
+      ],
+      "bedr_med_larling_3aar": [
+        0
+      ],
+      "potensielle_bedr1": [
+        0
+      ],
+      "potensielle_bedr2": [
+        0
+      ],
+      "yrke_nid": [
+        3962576
+      ],
+      "yrke_tittel": [
+        "Kj\u00f8kkensjef"
+      ],
+      "yrke_uno_id": [
+        "y_kjokkensjef"
+      ],
+      "yrke_alias_url": [
+        "/yrker/beskrivelse/kjokkensjef"
+      ],
+      "studiebeskrivelse_nid": [
+        3980075
+      ],
+      "studiebeskrivelse_tittel": [
+        "Ern\u00e6ringskokkfaget"
+      ],
+      "studiebeskrivelse_uno_id": [
+        "u_ernaeringskokk"
+      ],
+      "studiebeskrivelse_alias_url": [
+        "/utdanningsoversikt/ernaeringskokkfaget"
+      ],
+      "programomradekode6": [
+        "RMEKF3"
+      ],
+      "nivaa": "kommune",
+      "yrkeskode_styrk98": [
+        1224112,
+        5122109,
+        5122127,
+        5122111,
+        5122107,
+        5122101,
+        5122118,
+        5122104,
+        1224105,
+        1224110
+      ]
+    },
+    {
+      "@id": "/larlinger_indikatorrapports/419",
+      "@type": "LarlingerIndikatorrapport",
+      "id": 419,
+      "fylkenr": [
+        "18"
+      ],
+      "fylkenavn": "Nordland",
+      "kommunenr": [
+        "1832"
+      ],
+      "kommunenavn": "Hemnes",
+      "stillinger": [
+        11
+      ],
+      "aarsverk": [
+        5.32
+      ],
+      "ekstrahjelp": [
+        0
+      ],
+      "larlinger_faget": [
+        2
+      ],
+      "larlingtetthet": [
+        0
+      ],
+      "godkjente_bedr": [
+        1
+      ],
+      "utlopte_bedr": [
+        0
+      ],
+      "bedr_med_larling": [
+        1
+      ],
+      "bedr_med_larling_3aar": [
+        0
+      ],
+      "potensielle_bedr1": [
+        1
+      ],
+      "potensielle_bedr2": [
+        2
+      ],
+      "yrke_nid": [
+        396223
+      ],
+      "yrke_tittel": [
+        "Hjemmehjelp"
+      ],
+      "yrke_uno_id": [
+        "y_hjemmehjelp"
+      ],
+      "yrke_alias_url": [
+        "/yrker/beskrivelse/hjemmehjelp"
+      ],
+      "studiebeskrivelse_nid": [
+        398633
+      ],
+      "studiebeskrivelse_tittel": [
+        "Helsearbeiderfag"
+      ],
+      "studiebeskrivelse_uno_id": [
+        "u_helsearbeiderfag"
+      ],
+      "studiebeskrivelse_alias_url": [
+        "/utdanningsoversikt/helsearbeiderfag"
+      ],
+      "programomradekode6": [
+        "HSHEA3"
+      ],
+      "nivaa": "kommune",
+      "yrkeskode_styrk98": [
+        5133101,
+        5133107,
+        5133106,
+        5133104,
+        5133103,
+        5133102,
+        1228112
+      ]
+    },
+    {
+      "@id": "/larlinger_indikatorrapports/452",
+      "@type": "LarlingerIndikatorrapport",
+      "id": 452,
+      "fylkenr": [
+        "33"
+      ],
+      "fylkenavn": "Buskerud",
+      "kommunenr": [
+        "3314"
+      ],
+      "kommunenavn": "\u00d8vre Eiker",
+      "stillinger": [
+        2
+      ],
+      "aarsverk": [
+        2
+      ],
+      "ekstrahjelp": [
+        0
+      ],
+      "larlinger_faget": [
+        0
+      ],
+      "larlingtetthet": [
+        0
+      ],
+      "godkjente_bedr": [
+        0
+      ],
+      "utlopte_bedr": [
+        0
+      ],
+      "bedr_med_larling": [
+        0
+      ],
+      "bedr_med_larling_3aar": [
+        0
+      ],
+      "potensielle_bedr1": [
+        0
+      ],
+      "potensielle_bedr2": [
+        0
+      ],
+      "yrke_nid": [
+        395834
+      ],
+      "yrke_tittel": [
+        "Hudpleier"
+      ],
+      "yrke_uno_id": [
+        "y_hudpleier"
+      ],
+      "yrke_alias_url": [
+        "/yrker/beskrivelse/hudpleier"
+      ],
+      "studiebeskrivelse_nid": [
+        398639
+      ],
+      "studiebeskrivelse_tittel": [
+        "Hudpleie"
+      ],
+      "studiebeskrivelse_uno_id": [
+        "u_hudpleie"
+      ],
+      "studiebeskrivelse_alias_url": [
+        "/utdanningsoversikt/hudpleie"
+      ],
+      "programomradekode6": [
+        "HSHUD3"
+      ],
+      "nivaa": "kommune",
+      "yrkeskode_styrk98": [
+        5141104,
+        5141113
+      ]
+    },
+    {
+      "@id": "/larlinger_indikatorrapports/484",
+      "@type": "LarlingerIndikatorrapport",
+      "id": 484,
+      "fylkenr": [
+        "39"
+      ],
+      "fylkenavn": "Vestfold",
+      "kommunenr": [
+        "3911"
+      ],
+      "kommunenavn": "F\u00e6rder",
+      "stillinger": [
+        2
+      ],
+      "aarsverk": [
+        2
+      ],
+      "ekstrahjelp": [
+        0
+      ],
+      "larlinger_faget": [
+        0
+      ],
+      "larlingtetthet": null,
+      "godkjente_bedr": [
+        0
+      ],
+      "utlopte_bedr": [
+        0
+      ],
+      "bedr_med_larling": [
+        0
+      ],
+      "bedr_med_larling_3aar": [
+        0
+      ],
+      "potensielle_bedr1": [
+        0
+      ],
+      "potensielle_bedr2": [
+        0
+      ],
+      "yrke_nid": [
+        396034
+      ],
+      "yrke_tittel": [
+        "L\u00e5sesmed"
+      ],
+      "yrke_uno_id": [
+        "y_lasesmed"
+      ],
+      "yrke_alias_url": [
+        "/yrker/beskrivelse/lasesmed"
+      ],
+      "studiebeskrivelse_nid": [
+        398679
+      ],
+      "studiebeskrivelse_tittel": [
+        "L\u00e5sesmedfag"
+      ],
+      "studiebeskrivelse_uno_id": [
+        "u_lasesmedfag"
+      ],
+      "studiebeskrivelse_alias_url": [
+        "/utdanningsoversikt/lasesmedfag"
+      ],
+      "programomradekode6": [
+        "ELLSM3"
+      ],
+      "nivaa": "kommune",
+      "yrkeskode_styrk98": [
+        7222103,
+        7222110,
+        7222109,
+        7222106,
+        7222104
+      ]
+    },
+    {
+      "@id": "/larlinger_indikatorrapports/516",
+      "@type": "LarlingerIndikatorrapport",
+      "id": 516,
+      "fylkenr": [
+        "55"
+      ],
+      "fylkenavn": "Troms",
+      "kommunenr": [
+        "5532"
+      ],
+      "kommunenavn": "Balsfjord",
+      "stillinger": [
+        2
+      ],
+      "aarsverk": [
+        2
+      ],
+      "ekstrahjelp": [
+        0
+      ],
+      "larlinger_faget": [
+        0
+      ],
+      "larlingtetthet": null,
+      "godkjente_bedr": [
+        1
+      ],
+      "utlopte_bedr": [
+        0
+      ],
+      "bedr_med_larling": [
+        0
+      ],
+      "bedr_med_larling_3aar": [
+        0
+      ],
+      "potensielle_bedr1": [
+        0
+      ],
+      "potensielle_bedr2": [
+        0
+      ],
+      "yrke_nid": [
+        396061
+      ],
+      "yrke_tittel": [
+        "Fjell- og bergverksarbeider"
+      ],
+      "yrke_uno_id": [
+        "y_fjell_bergverk"
+      ],
+      "yrke_alias_url": [
+        "/yrker/beskrivelse/fjell-_og_bergverksarbeider"
+      ],
+      "studiebeskrivelse_nid": [
+        398613
+      ],
+      "studiebeskrivelse_tittel": [
+        "Fjell- og bergverksfag"
+      ],
+      "studiebeskrivelse_uno_id": [
+        "u_fjell_bergverksfag"
+      ],
+      "studiebeskrivelse_alias_url": [
+        "/utdanningsoversikt/fjell-_og_bergverksfag"
+      ],
+      "programomradekode6": [
+        "BAFJE3"
+      ],
+      "nivaa": "kommune",
+      "yrkeskode_styrk98": [
+        7127115,
+        8111111,
+        8111109,
+        8111108,
+        8111105,
+        8111104,
+        8111102,
+        7127114,
+        7127113,
+        7127111,
+        7127109,
+        7127108,
+        7127104,
+        7127107,
+        7127106,
+        7110111,
+        7110103,
+        7110101,
+        1222127,
+        1222122,
+        7127112,
+        7127105
+      ]
+    },
+    {
+      "@id": "/larlinger_indikatorrapports/549",
+      "@type": "LarlingerIndikatorrapport",
+      "id": 549,
+      "fylkenr": [
+        "55"
+      ],
+      "fylkenavn": "Troms",
+      "kommunenr": [
+        "5532"
+      ],
+      "kommunenavn": "Balsfjord",
+      "stillinger": [
+        2
+      ],
+      "aarsverk": [
+        2
+      ],
+      "ekstrahjelp": [
+        0
+      ],
+      "larlinger_faget": [
+        0
+      ],
+      "larlingtetthet": [
+        0
+      ],
+      "godkjente_bedr": [
+        0
+      ],
+      "utlopte_bedr": [
+        0
+      ],
+      "bedr_med_larling": [
+        0
+      ],
+      "bedr_med_larling_3aar": [
+        0
+      ],
+      "potensielle_bedr1": [
+        0
+      ],
+      "potensielle_bedr2": [
+        2
+      ],
+      "yrke_nid": [
+        3947252
+      ],
+      "yrke_tittel": [
+        "Bilpleier"
+      ],
+      "yrke_uno_id": [
+        "y_bilklargjorer"
+      ],
+      "yrke_alias_url": [
+        "/yrker/beskrivelse/bilpleier"
+      ],
+      "studiebeskrivelse_nid": [
+        3980096
+      ],
+      "studiebeskrivelse_tittel": [
+        "Bilpleiefaget"
+      ],
+      "studiebeskrivelse_uno_id": [
+        "u_bilpleiefaget"
+      ],
+      "studiebeskrivelse_alias_url": [
+        "/utdanningsoversikt/bilpleiefaget"
+      ],
+      "programomradekode6": [
+        "TPBIP3"
+      ],
+      "nivaa": "kommune",
+      "yrkeskode_styrk98": [
+        9142107,
+        9142109,
+        9142108,
+        9142106,
+        9142105,
+        9142104,
+        9142103,
+        9142102,
+        9142101,
+        7231128,
+        7231106
+      ]
+    },
+    {
+      "@id": "/larlinger_indikatorrapports/581",
+      "@type": "LarlingerIndikatorrapport",
+      "id": 581,
+      "fylkenr": [
+        "33"
+      ],
+      "fylkenavn": "Buskerud",
+      "kommunenr": [
+        "3316"
+      ],
+      "kommunenavn": "Modum",
+      "stillinger": [
+        2
+      ],
+      "aarsverk": [
+        2
+      ],
+      "ekstrahjelp": [
+        0
+      ],
+      "larlinger_faget": [
+        0
+      ],
+      "larlingtetthet": null,
+      "godkjente_bedr": [
+        3
+      ],
+      "utlopte_bedr": [
+        3
+      ],
+      "bedr_med_larling": [
+        0
+      ],
+      "bedr_med_larling_3aar": [
+        2
+      ],
+      "potensielle_bedr1": [
+        0
+      ],
+      "potensielle_bedr2": [
+        0
+      ],
+      "yrke_nid": [
+        3962619
+      ],
+      "yrke_tittel": [
+        "Bilberger"
+      ],
+      "yrke_uno_id": [
+        "y_bilberger"
+      ],
+      "yrke_alias_url": [
+        "/yrker/beskrivelse/bilberger"
+      ],
+      "studiebeskrivelse_nid": [
+        398578
+      ],
+      "studiebeskrivelse_tittel": [
+        "Bilfaget, lette kj\u00f8ret\u00f8y"
+      ],
+      "studiebeskrivelse_uno_id": [
+        "u_bilmek_lett"
+      ],
+      "studiebeskrivelse_alias_url": [
+        "/utdanningsoversikt/bilfaget_lette_kjoretoy"
+      ],
+      "programomradekode6": [
+        "TPBMK3"
+      ],
+      "nivaa": "kommune",
+      "yrkeskode_styrk98": [
+        8323111
+      ]
+    },
+    {
+      "@id": "/larlinger_indikatorrapports/613",
+      "@type": "LarlingerIndikatorrapport",
+      "id": 613,
+      "fylkenr": [
+        "50"
+      ],
+      "fylkenavn": "Tr\u00f8ndelag",
+      "kommunenr": [
+        "5042"
+      ],
+      "kommunenavn": "Lierne",
+      "stillinger": [
+        2
+      ],
+      "aarsverk": [
+        2
+      ],
+      "ekstrahjelp": [
+        0
+      ],
+      "larlinger_faget": [
+        0
+      ],
+      "larlingtetthet": null,
+      "godkjente_bedr": [
+        0
+      ],
+      "utlopte_bedr": [
+        0
+      ],
+      "bedr_med_larling": [
+        0
+      ],
+      "bedr_med_larling_3aar": [
+        0
+      ],
+      "potensielle_bedr1": [
+        0
+      ],
+      "potensielle_bedr2": [
+        0
+      ],
+      "yrke_nid": [
+        396064
+      ],
+      "yrke_tittel": [
+        "Hestefagl\u00e6rt"
+      ],
+      "yrke_uno_id": [
+        "y_hestefaglart"
+      ],
+      "yrke_alias_url": [
+        "/yrker/beskrivelse/hestefaglaert"
+      ],
+      "studiebeskrivelse_nid": [
+        398636
+      ],
+      "studiebeskrivelse_tittel": [
+        "Hestefag"
+      ],
+      "studiebeskrivelse_uno_id": [
+        "u_hestefag"
+      ],
+      "studiebeskrivelse_alias_url": [
+        "/utdanningsoversikt/hestefag_0"
+      ],
+      "programomradekode6": [
+        "NAHST3"
+      ],
+      "nivaa": "kommune",
+      "yrkeskode_styrk98": [
+        6129112,
+        9210119,
+        9210118,
+        9210113,
+        9210110,
+        6129111,
+        6121130,
+        6121129,
+        6121120,
+        3475117,
+        3475108,
+        3475114,
+        3475118,
+        3475135,
+        3475136,
+        9151110
+      ]
+    },
+    {
+      "@id": "/larlinger_indikatorrapports/646",
+      "@type": "LarlingerIndikatorrapport",
+      "id": 646,
+      "fylkenr": [
+        "42"
+      ],
+      "fylkenavn": "Agder",
+      "kommunenr": [
+        "4204"
+      ],
+      "kommunenavn": "Kristiansand",
+      "stillinger": [
+        6
+      ],
+      "aarsverk": [
+        6
+      ],
+      "ekstrahjelp": [
+        0
+      ],
+      "larlinger_faget": [
+        0
+      ],
+      "larlingtetthet": [
+        0
+      ],
+      "godkjente_bedr": [
+        0
+      ],
+      "utlopte_bedr": [
+        1
+      ],
+      "bedr_med_larling": [
+        0
+      ],
+      "bedr_med_larling_3aar": [
+        0
+      ],
+      "potensielle_bedr1": [
+        1
+      ],
+      "potensielle_bedr2": [
+        3
+      ],
+      "yrke_nid": [
+        395790
+      ],
+      "yrke_tittel": [
+        "Brannforebygger"
+      ],
+      "yrke_uno_id": [
+        "y_feier"
+      ],
+      "yrke_alias_url": [
+        "/yrker/beskrivelse/brannforebygger"
+      ],
+      "studiebeskrivelse_nid": [
+        398609
+      ],
+      "studiebeskrivelse_tittel": [
+        "brannforebyggerfaget"
+      ],
+      "studiebeskrivelse_uno_id": [
+        "u_brannforebyggerfag"
+      ],
+      "studiebeskrivelse_alias_url": [
+        "/utdanningsoversikt/brannforebyggerfaget"
+      ],
+      "programomradekode6": [
+        "BABFB3"
+      ],
+      "nivaa": "kommune",
+      "yrkeskode_styrk98": [
+        7144112,
+        7144101,
+        7144110,
+        7144109,
+        7144107,
+        7144106,
+        7144105,
+        7144104,
+        7144103,
+        7144102
+      ]
+    },
+    {
+      "@id": "/larlinger_indikatorrapports/678",
+      "@type": "LarlingerIndikatorrapport",
+      "id": 678,
+      "fylkenr": [
+        "15"
+      ],
+      "fylkenavn": "M\u00f8re og Romsdal",
+      "kommunenr": [
+        "1580"
+      ],
+      "kommunenavn": "Haram",
+      "stillinger": [
+        2
+      ],
+      "aarsverk": [
+        2
+      ],
+      "ekstrahjelp": [
+        0
+      ],
+      "larlinger_faget": [
+        4
+      ],
+      "larlingtetthet": null,
+      "godkjente_bedr": [
+        3
+      ],
+      "utlopte_bedr": [
+        0
+      ],
+      "bedr_med_larling": [
+        3
+      ],
+      "bedr_med_larling_3aar": [
+        0
+      ],
+      "potensielle_bedr1": [
+        0
+      ],
+      "potensielle_bedr2": [
+        0
+      ],
+      "yrke_nid": [
+        395911
+      ],
+      "yrke_tittel": [
+        "Skipsmotormekaniker"
+      ],
+      "yrke_uno_id": [
+        "y_skipsmotormekaniker"
+      ],
+      "yrke_alias_url": [
+        "/yrker/beskrivelse/skipsmotormekaniker"
+      ],
+      "studiebeskrivelse_nid": [
+        398688
+      ],
+      "studiebeskrivelse_tittel": [
+        "Skipsmotormekanikerfag"
+      ],
+      "studiebeskrivelse_uno_id": [
+        "u_motormannfag"
+      ],
+      "studiebeskrivelse_alias_url": [
+        "/utdanningsoversikt/skipsmotormekanikerfag"
+      ],
+      "programomradekode6": [
+        "TPSMK3"
+      ],
+      "nivaa": "kommune",
+      "yrkeskode_styrk98": [
+        8342111,
+        8342105,
+        8342101,
+        8113114
+      ]
+    },
+    {
+      "@id": "/larlinger_indikatorrapports/711",
+      "@type": "LarlingerIndikatorrapport",
+      "id": 711,
+      "fylkenr": [
+        "15"
+      ],
+      "fylkenavn": "M\u00f8re og Romsdal",
+      "kommunenr": [
+        "1580"
+      ],
+      "kommunenavn": "Haram",
+      "stillinger": [
+        15
+      ],
+      "aarsverk": [
+        15
+      ],
+      "ekstrahjelp": [
+        0
+      ],
+      "larlinger_faget": [
+        4
+      ],
+      "larlingtetthet": [
+        0
+      ],
+      "godkjente_bedr": [
+        3
+      ],
+      "utlopte_bedr": [
+        0
+      ],
+      "bedr_med_larling": [
+        3
+      ],
+      "bedr_med_larling_3aar": [
+        0
+      ],
+      "potensielle_bedr1": [
+        1
+      ],
+      "potensielle_bedr2": [
+        2
+      ],
+      "yrke_nid": [
+        396188
+      ],
+      "yrke_tittel": [
+        "Maskinist"
+      ],
+      "yrke_uno_id": [
+        "y_maskinist"
+      ],
+      "yrke_alias_url": [
+        "/yrker/beskrivelse/maskinist"
+      ],
+      "studiebeskrivelse_nid": [
+        398688
+      ],
+      "studiebeskrivelse_tittel": [
+        "Skipsmotormekanikerfag"
+      ],
+      "studiebeskrivelse_uno_id": [
+        "u_motormannfag"
+      ],
+      "studiebeskrivelse_alias_url": [
+        "/utdanningsoversikt/skipsmotormekanikerfag"
+      ],
+      "programomradekode6": [
+        "TPSMK3"
+      ],
+      "nivaa": "kommune",
+      "yrkeskode_styrk98": [
+        8342104,
+        8162118,
+        8162117,
+        8162115,
+        8162109,
+        8162107,
+        8162102,
+        5163139,
+        3141115,
+        3141112,
+        3141110,
+        3141109,
+        3141107,
+        3141106,
+        3141105,
+        3141104,
+        3141103,
+        3141102,
+        3141101,
+        8342103
+      ]
+    },
+    {
+      "@id": "/larlinger_indikatorrapports/743",
+      "@type": "LarlingerIndikatorrapport",
+      "id": 743,
+      "fylkenr": [
+        "15"
+      ],
+      "fylkenavn": "M\u00f8re og Romsdal",
+      "kommunenr": [
+        "1580"
+      ],
+      "kommunenavn": "Haram",
+      "stillinger": [
+        2
+      ],
+      "aarsverk": [
+        2
+      ],
+      "ekstrahjelp": [
+        0
+      ],
+      "larlinger_faget": [
+        4
+      ],
+      "larlingtetthet": null,
+      "godkjente_bedr": [
+        3
+      ],
+      "utlopte_bedr": [
+        0
+      ],
+      "bedr_med_larling": [
+        3
+      ],
+      "bedr_med_larling_3aar": [
+        0
+      ],
+      "potensielle_bedr1": [
+        0
+      ],
+      "potensielle_bedr2": [
+        0
+      ],
+      "yrke_nid": [
+        396208
+      ],
+      "yrke_tittel": [
+        "Maskinsjef"
+      ],
+      "yrke_uno_id": [
+        "y_maskinsjef"
+      ],
+      "yrke_alias_url": [
+        "/yrker/beskrivelse/maskinsjef"
+      ],
+      "studiebeskrivelse_nid": [
+        398688
+      ],
+      "studiebeskrivelse_tittel": [
+        "Skipsmotormekanikerfag"
+      ],
+      "studiebeskrivelse_uno_id": [
+        "u_motormannfag"
+      ],
+      "studiebeskrivelse_alias_url": [
+        "/utdanningsoversikt/skipsmotormekanikerfag"
+      ],
+      "programomradekode6": [
+        "TPSMK3"
+      ],
+      "nivaa": "kommune",
+      "yrkeskode_styrk98": [
+        3141113,
+        3141114,
+        1225151,
+        3152103
+      ]
+    },
+    {
+      "@id": "/larlinger_indikatorrapports/775",
+      "@type": "LarlingerIndikatorrapport",
+      "id": 775,
+      "fylkenr": [
+        "15"
+      ],
+      "fylkenavn": "M\u00f8re og Romsdal",
+      "kommunenr": [
+        "1580"
+      ],
+      "kommunenavn": "Haram",
+      "stillinger": [
+        2
+      ],
+      "aarsverk": [
+        2
+      ],
+      "ekstrahjelp": [
+        0
+      ],
+      "larlinger_faget": [
+        4
+      ],
+      "larlingtetthet": null,
+      "godkjente_bedr": [
+        3
+      ],
+      "utlopte_bedr": [
+        0
+      ],
+      "bedr_med_larling": [
+        3
+      ],
+      "bedr_med_larling_3aar": [
+        0
+      ],
+      "potensielle_bedr1": [
+        0
+      ],
+      "potensielle_bedr2": [
+        0
+      ],
+      "yrke_nid": [
+        396237
+      ],
+      "yrke_tittel": [
+        "Kaptein"
+      ],
+      "yrke_uno_id": [
+        "y_kaptein"
+      ],
+      "yrke_alias_url": [
+        "/yrker/beskrivelse/kaptein"
+      ],
+      "studiebeskrivelse_nid": [
+        398688
+      ],
+      "studiebeskrivelse_tittel": [
+        "Skipsmotormekanikerfag"
+      ],
+      "studiebeskrivelse_uno_id": [
+        "u_motormannfag"
+      ],
+      "studiebeskrivelse_alias_url": [
+        "/utdanningsoversikt/skipsmotormekanikerfag"
+      ],
+      "programomradekode6": [
+        "TPSMK3"
+      ],
+      "nivaa": "kommune",
+      "yrkeskode_styrk98": [
+        3142121,
+        3142113,
+        5139125,
+        3142123,
+        3142105
+      ]
+    },
+    {
+      "@id": "/larlinger_indikatorrapports/808",
+      "@type": "LarlingerIndikatorrapport",
+      "id": 808,
+      "fylkenr": [
+        "11"
+      ],
+      "fylkenavn": "Rogaland",
+      "kommunenr": [
+        "1127"
+      ],
+      "kommunenavn": "Randaberg",
+      "stillinger": [
+        2
+      ],
+      "aarsverk": [
+        2
+      ],
+      "ekstrahjelp": [
+        0
+      ],
+      "larlinger_faget": [
+        0
+      ],
+      "larlingtetthet": [
+        0
+      ],
+      "godkjente_bedr": [
+        2
+      ],
+      "utlopte_bedr": [
+        3
+      ],
+      "bedr_med_larling": [
+        0
+      ],
+      "bedr_med_larling_3aar": [
+        1
+      ],
+      "potensielle_bedr1": [
+        0
+      ],
+      "potensielle_bedr2": [
+        0
+      ],
+      "yrke_nid": [
+        395753
+      ],
+      "yrke_tittel": [
+        "Bilselger"
+      ],
+      "yrke_uno_id": [
+        "y_bilselger"
+      ],
+      "yrke_alias_url": [
+        "/yrker/beskrivelse/bilselger"
+      ],
+      "studiebeskrivelse_nid": [
+        398712
+      ],
+      "studiebeskrivelse_tittel": [
+        "Salgsfag"
+      ],
+      "studiebeskrivelse_uno_id": [
+        "u_salgsfag"
+      ],
+      "studiebeskrivelse_alias_url": [
+        "/utdanningsoversikt/salgsfag"
+      ],
+      "programomradekode6": [
+        "SSSLG3"
+      ],
+      "nivaa": "kommune",
+      "yrkeskode_styrk98": [
+        5221103
+      ]
+    },
+    {
+      "@id": "/larlinger_indikatorrapports/840",
+      "@type": "LarlingerIndikatorrapport",
+      "id": 840,
+      "fylkenr": [
+        "11"
+      ],
+      "fylkenavn": "Rogaland",
+      "kommunenr": [
+        "1127"
+      ],
+      "kommunenavn": "Randaberg",
+      "stillinger": [
+        2
+      ],
+      "aarsverk": [
+        2
+      ],
+      "ekstrahjelp": [
+        0
+      ],
+      "larlinger_faget": [
+        0
+      ],
+      "larlingtetthet": null,
+      "godkjente_bedr": [
+        2
+      ],
+      "utlopte_bedr": [
+        3
+      ],
+      "bedr_med_larling": [
+        0
+      ],
+      "bedr_med_larling_3aar": [
+        1
+      ],
+      "potensielle_bedr1": [
+        0
+      ],
+      "potensielle_bedr2": [
+        0
+      ],
+      "yrke_nid": [
+        395762
+      ],
+      "yrke_tittel": [
+        "Bokhandler"
+      ],
+      "yrke_uno_id": [
+        "y_bokhandler"
+      ],
+      "yrke_alias_url": [
+        "/yrker/beskrivelse/bokhandler"
+      ],
+      "studiebeskrivelse_nid": [
+        398712
+      ],
+      "studiebeskrivelse_tittel": [
+        "Salgsfag"
+      ],
+      "studiebeskrivelse_uno_id": [
+        "u_salgsfag"
+      ],
+      "studiebeskrivelse_alias_url": [
+        "/utdanningsoversikt/salgsfag"
+      ],
+      "programomradekode6": [
+        "SSSLG3"
+      ],
+      "nivaa": "kommune",
+      "yrkeskode_styrk98": [
+        5221123,
+        5221117,
+        5221106,
+        5221105
+      ]
+    },
+    {
+      "@id": "/larlinger_indikatorrapports/872",
+      "@type": "LarlingerIndikatorrapport",
+      "id": 872,
+      "fylkenr": [
+        "11"
+      ],
+      "fylkenavn": "Rogaland",
+      "kommunenr": [
+        "1127"
+      ],
+      "kommunenavn": "Randaberg",
+      "stillinger": [
+        2
+      ],
+      "aarsverk": [
+        2
+      ],
+      "ekstrahjelp": [
+        0
+      ],
+      "larlinger_faget": [
+        0
+      ],
+      "larlingtetthet": null,
+      "godkjente_bedr": [
+        2
+      ],
+      "utlopte_bedr": [
+        3
+      ],
+      "bedr_med_larling": [
+        0
+      ],
+      "bedr_med_larling_3aar": [
+        1
+      ],
+      "potensielle_bedr1": [
+        0
+      ],
+      "potensielle_bedr2": [
+        0
+      ],
+      "yrke_nid": [
+        3962573
+      ],
+      "yrke_tittel": [
+        "Telefonselger"
+      ],
+      "yrke_uno_id": [
+        "y_telefonselger"
+      ],
+      "yrke_alias_url": [
+        "/yrker/beskrivelse/telefonselger"
+      ],
+      "studiebeskrivelse_nid": [
+        398712
+      ],
+      "studiebeskrivelse_tittel": [
+        "Salgsfag"
+      ],
+      "studiebeskrivelse_uno_id": [
+        "u_salgsfag"
+      ],
+      "studiebeskrivelse_alias_url": [
+        "/utdanningsoversikt/salgsfag"
+      ],
+      "programomradekode6": [
+        "SSSLG3"
+      ],
+      "nivaa": "kommune",
+      "yrkeskode_styrk98": [
+        5223113,
+        5223123,
+        5223115,
+        5223110,
+        5223106,
+        5223101,
+        5223101,
+        5223123,
+        5223115,
+        5223110
+      ]
+    },
+    {
+      "@id": "/larlinger_indikatorrapports/905",
+      "@type": "LarlingerIndikatorrapport",
+      "id": 905,
+      "fylkenr": [
+        "11"
+      ],
+      "fylkenavn": "Rogaland",
+      "kommunenr": [
+        "1127"
+      ],
+      "kommunenavn": "Randaberg",
+      "stillinger": [
+        2
+      ],
+      "aarsverk": [
+        2
+      ],
+      "ekstrahjelp": [
+        0
+      ],
+      "larlinger_faget": [
+        0
+      ],
+      "larlingtetthet": [
+        0
+      ],
+      "godkjente_bedr": [
+        2
+      ],
+      "utlopte_bedr": [
+        3
+      ],
+      "bedr_med_larling": [
+        0
+      ],
+      "bedr_med_larling_3aar": [
+        1
+      ],
+      "potensielle_bedr1": [
+        0
+      ],
+      "potensielle_bedr2": [
+        0
+      ],
+      "yrke_nid": [
+        3964332
+      ],
+      "yrke_tittel": [
+        "Arrangementsplanlegger"
+      ],
+      "yrke_uno_id": [
+        "y_arrangement"
+      ],
+      "yrke_alias_url": [
+        "/yrker/beskrivelse/arrangementsplanlegger"
+      ],
+      "studiebeskrivelse_nid": [
+        398712
+      ],
+      "studiebeskrivelse_tittel": [
+        "Salgsfag"
+      ],
+      "studiebeskrivelse_uno_id": [
+        "u_salgsfag"
+      ],
+      "studiebeskrivelse_alias_url": [
+        "/utdanningsoversikt/salgsfag"
+      ],
+      "programomradekode6": [
+        "SSSLG3"
+      ],
+      "nivaa": "kommune",
+      "yrkeskode_styrk98": [
+        4113128,
+        4113129,
+        4113130,
+        4113121,
+        4113120,
+        4113119,
+        4113118,
+        4222116,
+        3431128,
+        3431127,
+        3349126,
+        1229130,
+        1229124,
+        1229123,
+        4222117,
+        5223125
+      ]
+    },
+    {
+      "@id": "/larlinger_indikatorrapports/938",
+      "@type": "LarlingerIndikatorrapport",
+      "id": 938,
+      "fylkenr": [
+        "46"
+      ],
+      "fylkenavn": "Vestland",
+      "kommunenr": [
+        "4651"
+      ],
+      "kommunenavn": "Stryn",
+      "stillinger": [
+        7
+      ],
+      "aarsverk": [
+        5.3
+      ],
+      "ekstrahjelp": [
+        0
+      ],
+      "larlinger_faget": [
+        0
+      ],
+      "larlingtetthet": [
+        0
+      ],
+      "godkjente_bedr": [
+        0
+      ],
+      "utlopte_bedr": [
+        3
+      ],
+      "bedr_med_larling": [
+        0
+      ],
+      "bedr_med_larling_3aar": [
+        0
+      ],
+      "potensielle_bedr1": [
+        1
+      ],
+      "potensielle_bedr2": [
+        5
+      ],
+      "yrke_nid": [
+        396048
+      ],
+      "yrke_tittel": [
+        "IKT-servicemedarbeider"
+      ],
+      "yrke_uno_id": [
+        "y_ikt_service"
+      ],
+      "yrke_alias_url": [
+        "/yrker/beskrivelse/ikt-servicemedarbeider"
+      ],
+      "studiebeskrivelse_nid": [
+        398685
+      ],
+      "studiebeskrivelse_tittel": [
+        "IKT-servicefag"
+      ],
+      "studiebeskrivelse_uno_id": [
+        "u_iktservicefag"
+      ],
+      "studiebeskrivelse_alias_url": [
+        "/utdanningsoversikt/ikt-servicefag"
+      ],
+      "programomradekode6": [
+        "SSISF3"
+      ],
+      "nivaa": "kommune",
+      "yrkeskode_styrk98": [
+        3120137,
+        3120136,
+        3120135,
+        3120132,
+        3120130,
+        3120126,
+        3120124,
+        3120123,
+        3120121,
+        3120110,
+        2130136,
+        2130112
+      ]
+    },
+    {
+      "@id": "/larlinger_indikatorrapports/971",
+      "@type": "LarlingerIndikatorrapport",
+      "id": 971,
+      "fylkenr": [
+        "46"
+      ],
+      "fylkenavn": "Vestland",
+      "kommunenr": [
+        "4651"
+      ],
+      "kommunenavn": "Stryn",
+      "stillinger": [
+        2
+      ],
+      "aarsverk": [
+        2
+      ],
+      "ekstrahjelp": [
+        0
+      ],
+      "larlinger_faget": [
+        0
+      ],
+      "larlingtetthet": [
+        0
+      ],
+      "godkjente_bedr": [
+        0
+      ],
+      "utlopte_bedr": [
+        3
+      ],
+      "bedr_med_larling": [
+        0
+      ],
+      "bedr_med_larling_3aar": [
+        0
+      ],
+      "potensielle_bedr1": [
+        0
+      ],
+      "potensielle_bedr2": [
+        0
+      ],
+      "yrke_nid": [
+        396244
+      ],
+      "yrke_tittel": [
+        "IT-administrator"
+      ],
+      "yrke_uno_id": [
+        "y_itadministrator"
+      ],
+      "yrke_alias_url": [
+        "/yrker/beskrivelse/it-administrator"
+      ],
+      "studiebeskrivelse_nid": [
+        3980060
+      ],
+      "studiebeskrivelse_tittel": [
+        "IT-driftsfaget"
+      ],
+      "studiebeskrivelse_uno_id": [
+        "u_itdriftsfaget"
+      ],
+      "studiebeskrivelse_alias_url": [
+        "/utdanningsoversikt/it-driftsfaget"
+      ],
+      "programomradekode6": [
+        "SSISF3"
+      ],
+      "nivaa": "kommune",
+      "yrkeskode_styrk98": [
+        3120128,
+        2130166,
+        2130103,
+        2130101
+      ]
+    }
+  ],
+  "hydra:view": {
+    "@id": "/yrkearbeidsliv/larlinger-indikatorrapport?page=1",
+    "@type": "hydra:PartialCollectionView",
+    "hydra:first": "/yrkearbeidsliv/larlinger-indikatorrapport?page=1",
+    "hydra:last": "/yrkearbeidsliv/larlinger-indikatorrapport?page=5040",
+    "hydra:next": "/yrkearbeidsliv/larlinger-indikatorrapport?page=2"
+  },
+  "hydra:search": {
+    "@type": "hydra:IriTemplate",
+    "hydra:template": "/yrkearbeidsliv/larlinger-indikatorrapport{?uno_id,programomradekode6,kommunenr,yrke_nid,fylkenr}",
+    "hydra:variableRepresentation": "BasicRepresentation",
+    "hydra:mapping": [
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "uno_id",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "programomradekode6",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "kommunenr",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "yrke_nid",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "fylkenr",
+        "property": null,
+        "required": false
+      }
+    ]
+  }
+}

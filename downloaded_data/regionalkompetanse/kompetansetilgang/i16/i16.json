@@ -1,0 +1,50 @@
+{
+  "data": [],
+  "facets": {
+    "fylkenr": {
+      "00": 9,
+      "03": 9,
+      "11": 9,
+      "13": 9,
+      "15": 9,
+      "18": 9,
+      "30": 9,
+      "34": 9,
+      "38": 9,
+      "42": 9,
+      "46": 9,
+      "50": 9,
+      "54": 9,
+      "88": 9
+    },
+    "aldersgruppe": [],
+    "regionstype": {
+      "F": 117,
+      "L": 9
+    },
+    "dato": {
+      "2015": 14,
+      "2016": 14,
+      "2017": 14,
+      "2018": 14,
+      "2019": 14,
+      "2020": 14,
+      "2021": 14,
+      "2022": 14,
+      "2023": 14
+    }
+  },
+  "aggregates": {
+    "agg_total": [],
+    "agg_regioner": []
+  },
+  "meta": {
+    "sources": [
+      {
+        "sourcename": "Statistisk Sentralbyr\u00e5, tabell 13259.",
+        "sourceurl": "https://www.ssb.no/statbank/table/13259",
+        "updated": "14.02.2024"
+      }
+    ]
+  }
+}

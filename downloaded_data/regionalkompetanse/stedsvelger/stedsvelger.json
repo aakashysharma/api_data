@@ -1,0 +1,2914 @@
+[
+  {
+    "regionkode": "03",
+    "regionnavn": "Oslo",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "0301",
+    "regionnavn": "Oslo",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "11",
+    "regionnavn": "Rogaland",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1101",
+    "regionnavn": "Eigersund",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1103",
+    "regionnavn": "Stavanger",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1106",
+    "regionnavn": "Haugesund",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1108",
+    "regionnavn": "Sandnes",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1111",
+    "regionnavn": "Sokndal",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1112",
+    "regionnavn": "Lund",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1114",
+    "regionnavn": "Bjerkreim",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1119",
+    "regionnavn": "H\u00e5",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1120",
+    "regionnavn": "Klepp",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1121",
+    "regionnavn": "Time",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1122",
+    "regionnavn": "Gjesdal",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1124",
+    "regionnavn": "Sola",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1127",
+    "regionnavn": "Randaberg",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1130",
+    "regionnavn": "Strand",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1133",
+    "regionnavn": "Hjelmeland",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1134",
+    "regionnavn": "Suldal",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1135",
+    "regionnavn": "Sauda",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1144",
+    "regionnavn": "Kvits\u00f8y",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1145",
+    "regionnavn": "Bokn",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1146",
+    "regionnavn": "Tysv\u00e6r",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1149",
+    "regionnavn": "Karm\u00f8y",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1151",
+    "regionnavn": "Utsira",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1160",
+    "regionnavn": "Vindafjord",
+    "gyldig_fra": "2006-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "15",
+    "regionnavn": "M\u00f8re og Romsdal",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1505",
+    "regionnavn": "Kristiansund",
+    "gyldig_fra": "2008-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1506",
+    "regionnavn": "Molde",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1508",
+    "regionnavn": "\u00c5lesund",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1511",
+    "regionnavn": "Vanylven",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1514",
+    "regionnavn": "Sande",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1515",
+    "regionnavn": "Her\u00f8y",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1516",
+    "regionnavn": "Ulstein",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1517",
+    "regionnavn": "Hareid",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1520",
+    "regionnavn": "\u00d8rsta",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1525",
+    "regionnavn": "Stranda",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1528",
+    "regionnavn": "Sykkylven",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1531",
+    "regionnavn": "Sula",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1532",
+    "regionnavn": "Giske",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1535",
+    "regionnavn": "Vestnes",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1539",
+    "regionnavn": "Rauma",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1547",
+    "regionnavn": "Aukra",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1554",
+    "regionnavn": "Aver\u00f8y",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1557",
+    "regionnavn": "Gjemnes",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1560",
+    "regionnavn": "Tingvoll",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1563",
+    "regionnavn": "Sunndal",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1566",
+    "regionnavn": "Surnadal",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1573",
+    "regionnavn": "Sm\u00f8la",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1576",
+    "regionnavn": "Aure",
+    "gyldig_fra": "2006-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1577",
+    "regionnavn": "Volda",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1578",
+    "regionnavn": "Fjord",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1579",
+    "regionnavn": "Hustadvika",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1580",
+    "regionnavn": "Haram",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "18",
+    "regionnavn": "Nordland",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1804",
+    "regionnavn": "Bod\u00f8",
+    "gyldig_fra": "2005-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1806",
+    "regionnavn": "Narvik",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1811",
+    "regionnavn": "Bindal",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1812",
+    "regionnavn": "S\u00f8mna",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1813",
+    "regionnavn": "Br\u00f8nn\u00f8y",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1815",
+    "regionnavn": "Vega",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1816",
+    "regionnavn": "Vevelstad",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1818",
+    "regionnavn": "Her\u00f8y",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1820",
+    "regionnavn": "Alstahaug",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1822",
+    "regionnavn": "Leirfjord",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1824",
+    "regionnavn": "Vefsn",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1825",
+    "regionnavn": "Grane",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1826",
+    "regionnavn": "Hattfjelldal",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1827",
+    "regionnavn": "D\u00f8nna",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1828",
+    "regionnavn": "Nesna",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1832",
+    "regionnavn": "Hemnes",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1833",
+    "regionnavn": "Rana",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1834",
+    "regionnavn": "Lur\u00f8y",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1835",
+    "regionnavn": "Tr\u00e6na",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1836",
+    "regionnavn": "R\u00f8d\u00f8y",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1837",
+    "regionnavn": "Mel\u00f8y",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1838",
+    "regionnavn": "Gildesk\u00e5l",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1839",
+    "regionnavn": "Beiarn",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1840",
+    "regionnavn": "Saltdal",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1841",
+    "regionnavn": "Fauske",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1845",
+    "regionnavn": "S\u00f8rfold",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1848",
+    "regionnavn": "Steigen",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1851",
+    "regionnavn": "L\u00f8dingen",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1853",
+    "regionnavn": "Evenes",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1856",
+    "regionnavn": "R\u00f8st",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1857",
+    "regionnavn": "V\u00e6r\u00f8y",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1859",
+    "regionnavn": "Flakstad",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1860",
+    "regionnavn": "Vestv\u00e5g\u00f8y",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1865",
+    "regionnavn": "V\u00e5gan",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1866",
+    "regionnavn": "Hadsel",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1867",
+    "regionnavn": "B\u00f8",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1868",
+    "regionnavn": "\u00d8ksnes",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1870",
+    "regionnavn": "Sortland",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1871",
+    "regionnavn": "And\u00f8y",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1874",
+    "regionnavn": "Moskenes",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "1875",
+    "regionnavn": "Hamar\u00f8y",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "21",
+    "regionnavn": "Svalbard",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "2100",
+    "regionnavn": "Svalbard",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "2101",
+    "regionnavn": "Colesbukta",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "2102",
+    "regionnavn": "Pyramiden",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "2103",
+    "regionnavn": "Van Mijenfjorden",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "2104",
+    "regionnavn": "Nordenski\u00f6ld Land nasjonalpark",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "2105",
+    "regionnavn": "Isfjorden",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "2107",
+    "regionnavn": "Nordre Isfjorden nasjonalpark",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "2108",
+    "regionnavn": "Kongsfjorden",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "2109",
+    "regionnavn": "Forlandet nasjonalpark",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "2110",
+    "regionnavn": "Wijdefjorden",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "2111",
+    "regionnavn": "Longyearbyen",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "2112",
+    "regionnavn": "Ny-\u00c5lesund",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "2113",
+    "regionnavn": "Barentsburg",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "2114",
+    "regionnavn": "S\u00f8r-Spitsbergen nasjonalpark",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "2115",
+    "regionnavn": "Sveagruva",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "2116",
+    "regionnavn": "Indre Wijdefjorden nasjonalpark",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "2118",
+    "regionnavn": "Nordaust-Svalbard naturreservat",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "2119",
+    "regionnavn": "S\u00f8raust-Svalbard naturreservat",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "2121",
+    "regionnavn": "Bj\u00f8rn\u00f8ya",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "2131",
+    "regionnavn": "Hopen",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "2199",
+    "regionnavn": "Svalbard, uspesifisert",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "22",
+    "regionnavn": "Jan Mayen",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "2211",
+    "regionnavn": "Jan Mayen",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "23",
+    "regionnavn": "Kontinentalsokkelen",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "2311",
+    "regionnavn": "Sokkelen syd for 62 N",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "2321",
+    "regionnavn": "Sokkelen nord for 62 N",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "2399",
+    "regionnavn": "Sokkelen, uspesifisert",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "24",
+    "regionnavn": "Luftrommet",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "2411",
+    "regionnavn": "Luftrom under og lik 1000moh",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "2412",
+    "regionnavn": "Luftrom over 1000moh",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "2499",
+    "regionnavn": "Luftrom uspesifisert",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "25",
+    "regionnavn": "Utlandet",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "2511",
+    "regionnavn": "Norske ambassader i utlandet",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "2599",
+    "regionnavn": "Utlandet, uspesifisert",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "26",
+    "regionnavn": "Havomr\u00e5der",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "2611",
+    "regionnavn": "Havomr\u00e5der innenfor sokkelen",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "2612",
+    "regionnavn": "Havomr\u00e5der utenfor sokkelen",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "2699",
+    "regionnavn": "Havomr\u00e5der, uspesifisert",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "27",
+    "regionnavn": "Norske biland",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "2799",
+    "regionnavn": "Bouvet\u00f8ya, Peter I \u00d8y og Dronning Maud Land",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "28",
+    "regionnavn": "Ekstrafylke",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "31",
+    "regionnavn": "\u00d8stfold",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "2023-12-30T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3101",
+    "regionnavn": "Halden",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3103",
+    "regionnavn": "Moss",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3105",
+    "regionnavn": "Sarpsborg",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3107",
+    "regionnavn": "Fredrikstad",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3110",
+    "regionnavn": "Hvaler",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3112",
+    "regionnavn": "R\u00e5de",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3114",
+    "regionnavn": "V\u00e5ler",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3116",
+    "regionnavn": "Skiptvet",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3118",
+    "regionnavn": "Indre \u00d8stfold",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3120",
+    "regionnavn": "Rakkestad",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3122",
+    "regionnavn": "Marker",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3124",
+    "regionnavn": "Aremark",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "32",
+    "regionnavn": "Akershus",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "2023-12-30T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3201",
+    "regionnavn": "B\u00e6rum",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3203",
+    "regionnavn": "Asker",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3205",
+    "regionnavn": "Lillestr\u00f8m",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3207",
+    "regionnavn": "Nordre Follo",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3209",
+    "regionnavn": "Ullensaker",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3212",
+    "regionnavn": "Nesodden",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3214",
+    "regionnavn": "Frogn",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3216",
+    "regionnavn": "Vestby",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3218",
+    "regionnavn": "\u00c5s",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3220",
+    "regionnavn": "Enebakk",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3222",
+    "regionnavn": "L\u00f8renskog",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3224",
+    "regionnavn": "R\u00e6lingen",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3226",
+    "regionnavn": "Aurskog-H\u00f8land",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3228",
+    "regionnavn": "Nes",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3230",
+    "regionnavn": "Gjerdrum",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3232",
+    "regionnavn": "Nittedal",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3234",
+    "regionnavn": "Lunner",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3236",
+    "regionnavn": "Jevnaker",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3238",
+    "regionnavn": "Nannestad",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3240",
+    "regionnavn": "Eidsvoll",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3242",
+    "regionnavn": "Hurdal",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "33",
+    "regionnavn": "Buskerud",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "2023-12-30T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3301",
+    "regionnavn": "Drammen",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3303",
+    "regionnavn": "Kongsberg",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3305",
+    "regionnavn": "Ringerike",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3310",
+    "regionnavn": "Hole",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3312",
+    "regionnavn": "Lier",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3314",
+    "regionnavn": "\u00d8vre Eiker",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3316",
+    "regionnavn": "Modum",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3318",
+    "regionnavn": "Kr\u00f8dsherad",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3320",
+    "regionnavn": "Fl\u00e5",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3322",
+    "regionnavn": "Nesbyen",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3324",
+    "regionnavn": "Gol",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3326",
+    "regionnavn": "Hemsedal",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3328",
+    "regionnavn": "\u00c5l",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3330",
+    "regionnavn": "Hol",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3332",
+    "regionnavn": "Sigdal",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3334",
+    "regionnavn": "Flesberg",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3336",
+    "regionnavn": "Rollag",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3338",
+    "regionnavn": "Nore og Uvdal",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "34",
+    "regionnavn": "Innlandet",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3401",
+    "regionnavn": "Kongsvinger",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3403",
+    "regionnavn": "Hamar",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3405",
+    "regionnavn": "Lillehammer",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3407",
+    "regionnavn": "Gj\u00f8vik",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3411",
+    "regionnavn": "Ringsaker",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3412",
+    "regionnavn": "L\u00f8ten",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3413",
+    "regionnavn": "Stange",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3414",
+    "regionnavn": "Nord-Odal",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3415",
+    "regionnavn": "S\u00f8r-Odal",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3416",
+    "regionnavn": "Eidskog",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3417",
+    "regionnavn": "Grue",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3418",
+    "regionnavn": "\u00c5snes",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3419",
+    "regionnavn": "V\u00e5ler",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3420",
+    "regionnavn": "Elverum",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3421",
+    "regionnavn": "Trysil",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3422",
+    "regionnavn": "\u00c5mot",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3423",
+    "regionnavn": "Stor-Elvdal",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3424",
+    "regionnavn": "Rendalen",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3425",
+    "regionnavn": "Engerdal",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3426",
+    "regionnavn": "Tolga",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3427",
+    "regionnavn": "Tynset",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3428",
+    "regionnavn": "Alvdal",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3429",
+    "regionnavn": "Folldal",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3430",
+    "regionnavn": "Os",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3431",
+    "regionnavn": "Dovre",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3432",
+    "regionnavn": "Lesja",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3433",
+    "regionnavn": "Skj\u00e5k",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3434",
+    "regionnavn": "Lom",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3435",
+    "regionnavn": "V\u00e5g\u00e5",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3436",
+    "regionnavn": "Nord-Fron",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3437",
+    "regionnavn": "Sel",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3438",
+    "regionnavn": "S\u00f8r-Fron",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3439",
+    "regionnavn": "Ringebu",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3440",
+    "regionnavn": "\u00d8yer",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3441",
+    "regionnavn": "Gausdal",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3442",
+    "regionnavn": "\u00d8stre Toten",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3443",
+    "regionnavn": "Vestre Toten",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3446",
+    "regionnavn": "Gran",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3447",
+    "regionnavn": "S\u00f8ndre Land",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3448",
+    "regionnavn": "Nordre Land",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3449",
+    "regionnavn": "S\u00f8r-Aurdal",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3450",
+    "regionnavn": "Etnedal",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3451",
+    "regionnavn": "Nord-Aurdal",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3452",
+    "regionnavn": "Vestre Slidre",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3453",
+    "regionnavn": "\u00d8ystre Slidre",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3454",
+    "regionnavn": "Vang",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "39",
+    "regionnavn": "Vestfold",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "2023-12-30T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3901",
+    "regionnavn": "Horten",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3903",
+    "regionnavn": "Holmestrand",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3905",
+    "regionnavn": "T\u00f8nsberg",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3907",
+    "regionnavn": "Sandefjord",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3909",
+    "regionnavn": "Larvik",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "3911",
+    "regionnavn": "F\u00e6rder",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "40",
+    "regionnavn": "Telemark",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "2023-12-30T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4001",
+    "regionnavn": "Porsgrunn",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4003",
+    "regionnavn": "Skien",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4005",
+    "regionnavn": "Notodden",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4010",
+    "regionnavn": "Siljan",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4012",
+    "regionnavn": "Bamble",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4014",
+    "regionnavn": "Krager\u00f8",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4016",
+    "regionnavn": "Drangedal",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4018",
+    "regionnavn": "Nome",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4020",
+    "regionnavn": "Midt-Telemark",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4022",
+    "regionnavn": "Seljord",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4024",
+    "regionnavn": "Hjartdal",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4026",
+    "regionnavn": "Tinn",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4028",
+    "regionnavn": "Kviteseid",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4030",
+    "regionnavn": "Nissedal",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4032",
+    "regionnavn": "Fyresdal",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4034",
+    "regionnavn": "Tokke",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4036",
+    "regionnavn": "Vinje",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "42",
+    "regionnavn": "Agder",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4201",
+    "regionnavn": "Ris\u00f8r",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4202",
+    "regionnavn": "Grimstad",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4203",
+    "regionnavn": "Arendal",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4204",
+    "regionnavn": "Kristiansand",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4205",
+    "regionnavn": "Lindesnes",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4206",
+    "regionnavn": "Farsund",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4207",
+    "regionnavn": "Flekkefjord",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4211",
+    "regionnavn": "Gjerstad",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4212",
+    "regionnavn": "Veg\u00e5rshei",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4213",
+    "regionnavn": "Tvedestrand",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4214",
+    "regionnavn": "Froland",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4215",
+    "regionnavn": "Lillesand",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4216",
+    "regionnavn": "Birkenes",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4217",
+    "regionnavn": "\u00c5mli",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4218",
+    "regionnavn": "Iveland",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4219",
+    "regionnavn": "Evje og Hornnes",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4220",
+    "regionnavn": "Bygland",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4221",
+    "regionnavn": "Valle",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4222",
+    "regionnavn": "Bykle",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4223",
+    "regionnavn": "Vennesla",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4224",
+    "regionnavn": "\u00c5seral",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4225",
+    "regionnavn": "Lyngdal",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4226",
+    "regionnavn": "H\u00e6gebostad",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4227",
+    "regionnavn": "Kvinesdal",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4228",
+    "regionnavn": "Sirdal",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "46",
+    "regionnavn": "Vestland",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4601",
+    "regionnavn": "Bergen",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4602",
+    "regionnavn": "Kinn",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4611",
+    "regionnavn": "Etne",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4612",
+    "regionnavn": "Sveio",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4613",
+    "regionnavn": "B\u00f8mlo",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4614",
+    "regionnavn": "Stord",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4615",
+    "regionnavn": "Fitjar",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4616",
+    "regionnavn": "Tysnes",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4617",
+    "regionnavn": "Kvinnherad",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4618",
+    "regionnavn": "Ullensvang",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4619",
+    "regionnavn": "Eidfjord",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4620",
+    "regionnavn": "Ulvik",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4621",
+    "regionnavn": "Voss",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4622",
+    "regionnavn": "Kvam",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4623",
+    "regionnavn": "Samnanger",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4624",
+    "regionnavn": "Bj\u00f8rnafjorden",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4625",
+    "regionnavn": "Austevoll",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4626",
+    "regionnavn": "\u00d8ygarden",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4627",
+    "regionnavn": "Ask\u00f8y",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4628",
+    "regionnavn": "Vaksdal",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4629",
+    "regionnavn": "Modalen",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4630",
+    "regionnavn": "Oster\u00f8y",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4631",
+    "regionnavn": "Alver",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4632",
+    "regionnavn": "Austrheim",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4633",
+    "regionnavn": "Fedje",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4634",
+    "regionnavn": "Masfjorden",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4635",
+    "regionnavn": "Gulen",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4636",
+    "regionnavn": "Solund",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4637",
+    "regionnavn": "Hyllestad",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4638",
+    "regionnavn": "H\u00f8yanger",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4639",
+    "regionnavn": "Vik",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4640",
+    "regionnavn": "Sogndal",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4641",
+    "regionnavn": "Aurland",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4642",
+    "regionnavn": "L\u00e6rdal",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4643",
+    "regionnavn": "\u00c5rdal",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4644",
+    "regionnavn": "Luster",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4645",
+    "regionnavn": "Askvoll",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4646",
+    "regionnavn": "Fjaler",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4647",
+    "regionnavn": "Sunnfjord",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4648",
+    "regionnavn": "Bremanger",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4649",
+    "regionnavn": "Stad",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4650",
+    "regionnavn": "Gloppen",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "4651",
+    "regionnavn": "Stryn",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "50",
+    "regionnavn": "Tr\u00f8ndelag",
+    "gyldig_fra": "2018-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5001",
+    "regionnavn": "Trondheim",
+    "gyldig_fra": "2018-01-01T00:00:00Z",
+    "gyldig_til": "2019-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5006",
+    "regionnavn": "Steinkjer",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5007",
+    "regionnavn": "Namsos",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5014",
+    "regionnavn": "Fr\u00f8ya",
+    "gyldig_fra": "2018-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5020",
+    "regionnavn": "Osen",
+    "gyldig_fra": "2018-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5021",
+    "regionnavn": "Oppdal",
+    "gyldig_fra": "2018-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5022",
+    "regionnavn": "Rennebu",
+    "gyldig_fra": "2018-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5025",
+    "regionnavn": "R\u00f8ros",
+    "gyldig_fra": "2018-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5026",
+    "regionnavn": "Holt\u00e5len",
+    "gyldig_fra": "2018-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5027",
+    "regionnavn": "Midtre Gauldal",
+    "gyldig_fra": "2018-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5028",
+    "regionnavn": "Melhus",
+    "gyldig_fra": "2018-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5029",
+    "regionnavn": "Skaun",
+    "gyldig_fra": "2018-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5031",
+    "regionnavn": "Malvik",
+    "gyldig_fra": "2018-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5032",
+    "regionnavn": "Selbu",
+    "gyldig_fra": "2018-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5033",
+    "regionnavn": "Tydal",
+    "gyldig_fra": "2018-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5034",
+    "regionnavn": "Mer\u00e5ker",
+    "gyldig_fra": "2018-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5035",
+    "regionnavn": "Stj\u00f8rdal",
+    "gyldig_fra": "2018-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5036",
+    "regionnavn": "Frosta",
+    "gyldig_fra": "2018-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5037",
+    "regionnavn": "Levanger",
+    "gyldig_fra": "2018-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5038",
+    "regionnavn": "Verdal",
+    "gyldig_fra": "2018-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5041",
+    "regionnavn": "Sn\u00e5sa",
+    "gyldig_fra": "2018-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5042",
+    "regionnavn": "Lierne",
+    "gyldig_fra": "2018-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5043",
+    "regionnavn": "R\u00f8yrvik",
+    "gyldig_fra": "2018-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5044",
+    "regionnavn": "Namsskogan",
+    "gyldig_fra": "2018-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5045",
+    "regionnavn": "Grong",
+    "gyldig_fra": "2018-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5046",
+    "regionnavn": "H\u00f8ylandet",
+    "gyldig_fra": "2018-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5047",
+    "regionnavn": "Overhalla",
+    "gyldig_fra": "2018-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5049",
+    "regionnavn": "Flatanger",
+    "gyldig_fra": "2018-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5052",
+    "regionnavn": "Leka",
+    "gyldig_fra": "2018-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5053",
+    "regionnavn": "Inder\u00f8y",
+    "gyldig_fra": "2018-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5054",
+    "regionnavn": "Indre Fosen",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5055",
+    "regionnavn": "Heim",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5056",
+    "regionnavn": "Hitra",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5057",
+    "regionnavn": "\u00d8rland",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5058",
+    "regionnavn": "\u00c5fjord",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5059",
+    "regionnavn": "Orkland",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5060",
+    "regionnavn": "N\u00e6r\u00f8ysund",
+    "gyldig_fra": "2020-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5061",
+    "regionnavn": "Rindal",
+    "gyldig_fra": "2019-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "55",
+    "regionnavn": "Troms",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5501",
+    "regionnavn": "Troms\u00f8",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5503",
+    "regionnavn": "Harstad",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5510",
+    "regionnavn": "Kv\u00e6fjord",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5512",
+    "regionnavn": "Tjeldsund",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5514",
+    "regionnavn": "Ibestad",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5516",
+    "regionnavn": "Gratangen",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5518",
+    "regionnavn": "Lavangen",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5520",
+    "regionnavn": "Bardu",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5522",
+    "regionnavn": "Salangen",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5524",
+    "regionnavn": "M\u00e5lselv",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5526",
+    "regionnavn": "S\u00f8rreisa",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5528",
+    "regionnavn": "Dyr\u00f8y",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5530",
+    "regionnavn": "Senja",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5532",
+    "regionnavn": "Balsfjord",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5534",
+    "regionnavn": "Karls\u00f8y",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5536",
+    "regionnavn": "Lyngen",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5538",
+    "regionnavn": "Storfjord",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5540",
+    "regionnavn": "K\u00e5fjord",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5542",
+    "regionnavn": "Skjerv\u00f8y",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5544",
+    "regionnavn": "Nordreisa",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5546",
+    "regionnavn": "Kv\u00e6nangen",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "56",
+    "regionnavn": "Finnmark",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5601",
+    "regionnavn": "Alta",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5603",
+    "regionnavn": "Hammerfest",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5605",
+    "regionnavn": "S\u00f8r-Varanger",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5607",
+    "regionnavn": "Vads\u00f8",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5610",
+    "regionnavn": "Karasjok",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5612",
+    "regionnavn": "Kautokeino",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5614",
+    "regionnavn": "Loppa",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5616",
+    "regionnavn": "Hasvik",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5618",
+    "regionnavn": "M\u00e5s\u00f8y",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5620",
+    "regionnavn": "Nordkapp",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5622",
+    "regionnavn": "Porsanger",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5624",
+    "regionnavn": "Lebesby",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5626",
+    "regionnavn": "Gamvik",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5628",
+    "regionnavn": "Tana",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5630",
+    "regionnavn": "Berlev\u00e5g",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5632",
+    "regionnavn": "B\u00e5tsfjord",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5634",
+    "regionnavn": "Vard\u00f8",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "5636",
+    "regionnavn": "Nesseby",
+    "gyldig_fra": "2024-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "99",
+    "regionnavn": "Uoppgitt",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  },
+  {
+    "regionkode": "9999",
+    "regionnavn": "Uoppgitt",
+    "gyldig_fra": "1970-01-01T00:00:00Z",
+    "gyldig_til": "9999-12-31T23:59:59Z",
+    "gyldig": true
+  }
+]

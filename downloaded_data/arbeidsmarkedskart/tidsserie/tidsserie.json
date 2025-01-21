@@ -1,0 +1,364 @@
+{
+  "@context": "/contexts/Tidsserie",
+  "@id": "/arbeidsmarkedskart/tidsserie",
+  "@type": "hydra:Collection",
+  "hydra:totalItems": 4215,
+  "hydra:member": [
+    {
+      "kommunenavn": "Ullensvang",
+      "fylkenavn": "Vestland",
+      "antall_aarsverk": 4796,
+      "kommunenr": "4618",
+      "dato": "2018-10-01T00:00:00.000000Z",
+      "id": "tiddserie_4618_2018-10-01",
+      "region": "kommune",
+      "fylkenr": "46",
+      "antall_ansatte": 6502
+    },
+    {
+      "kommunenavn": "Ullensvang",
+      "fylkenavn": "Vestland",
+      "antall_aarsverk": 5022,
+      "kommunenr": "4618",
+      "dato": "2019-10-01T00:00:00.000000Z",
+      "id": "tiddserie_4618_2019-10-01",
+      "region": "kommune",
+      "fylkenr": "46",
+      "antall_ansatte": 6783
+    },
+    {
+      "kommunenavn": "Eidfjord",
+      "fylkenavn": "Vestland",
+      "antall_aarsverk": 430,
+      "kommunenr": "4619",
+      "dato": "2016-10-01T00:00:00.000000Z",
+      "id": "tiddserie_4619_2016-10-01",
+      "region": "kommune",
+      "fylkenr": "46",
+      "antall_ansatte": 575
+    },
+    {
+      "kommunenavn": "Eidfjord",
+      "fylkenavn": "Vestland",
+      "antall_aarsverk": 445,
+      "kommunenr": "4619",
+      "dato": "2017-10-01T00:00:00.000000Z",
+      "id": "tiddserie_4619_2017-10-01",
+      "region": "kommune",
+      "fylkenr": "46",
+      "antall_ansatte": 609
+    },
+    {
+      "kommunenavn": "Eidfjord",
+      "fylkenavn": "Vestland",
+      "antall_aarsverk": 423,
+      "kommunenr": "4619",
+      "dato": "2018-10-01T00:00:00.000000Z",
+      "id": "tiddserie_4619_2018-10-01",
+      "region": "kommune",
+      "fylkenr": "46",
+      "antall_ansatte": 586
+    },
+    {
+      "kommunenavn": "Eidfjord",
+      "fylkenavn": "Vestland",
+      "antall_aarsverk": 461,
+      "kommunenr": "4619",
+      "dato": "2019-10-01T00:00:00.000000Z",
+      "id": "tiddserie_4619_2019-10-01",
+      "region": "kommune",
+      "fylkenr": "46",
+      "antall_ansatte": 629
+    },
+    {
+      "kommunenavn": "Eidfjord",
+      "fylkenavn": "Vestland",
+      "antall_aarsverk": 449,
+      "kommunenr": "4619",
+      "dato": "2020-10-01T00:00:00.000000Z",
+      "id": "tiddserie_4619_2020-10-01",
+      "region": "kommune",
+      "fylkenr": "46",
+      "antall_ansatte": 620
+    },
+    {
+      "kommunenavn": "Eidfjord",
+      "fylkenavn": "Vestland",
+      "antall_aarsverk": 491,
+      "kommunenr": "4619",
+      "dato": "2021-10-01T00:00:00.000000Z",
+      "id": "tiddserie_4619_2021-10-01",
+      "region": "kommune",
+      "fylkenr": "46",
+      "antall_ansatte": 675
+    },
+    {
+      "kommunenavn": "Eidfjord",
+      "fylkenavn": "Vestland",
+      "antall_aarsverk": 559,
+      "kommunenr": "4619",
+      "dato": "2022-10-01T00:00:00.000000Z",
+      "id": "tiddserie_4619_2022-10-01",
+      "region": "kommune",
+      "fylkenr": "46",
+      "antall_ansatte": 742
+    },
+    {
+      "kommunenavn": "Eidfjord",
+      "fylkenavn": "Vestland",
+      "antall_aarsverk": 543,
+      "kommunenr": "4619",
+      "dato": "2023-10-01T00:00:00.000000Z",
+      "id": "tiddserie_4619_2023-10-01",
+      "region": "kommune",
+      "fylkenr": "46",
+      "antall_ansatte": 774
+    },
+    {
+      "kommunenavn": "Ulvik",
+      "fylkenavn": "Vestland",
+      "antall_aarsverk": 504,
+      "kommunenr": "4620",
+      "dato": "2016-10-01T00:00:00.000000Z",
+      "id": "tiddserie_4620_2016-10-01",
+      "region": "kommune",
+      "fylkenr": "46",
+      "antall_ansatte": 686
+    },
+    {
+      "kommunenavn": "Ulvik",
+      "fylkenavn": "Vestland",
+      "antall_aarsverk": 467,
+      "kommunenr": "4620",
+      "dato": "2017-10-01T00:00:00.000000Z",
+      "id": "tiddserie_4620_2017-10-01",
+      "region": "kommune",
+      "fylkenr": "46",
+      "antall_ansatte": 670
+    },
+    {
+      "kommunenavn": "Ulvik",
+      "fylkenavn": "Vestland",
+      "antall_aarsverk": 441,
+      "kommunenr": "4620",
+      "dato": "2018-10-01T00:00:00.000000Z",
+      "id": "tiddserie_4620_2018-10-01",
+      "region": "kommune",
+      "fylkenr": "46",
+      "antall_ansatte": 613
+    },
+    {
+      "kommunenavn": "Ulvik",
+      "fylkenavn": "Vestland",
+      "antall_aarsverk": 405,
+      "kommunenr": "4620",
+      "dato": "2019-10-01T00:00:00.000000Z",
+      "id": "tiddserie_4620_2019-10-01",
+      "region": "kommune",
+      "fylkenr": "46",
+      "antall_ansatte": 558
+    },
+    {
+      "kommunenavn": "Ulvik",
+      "fylkenavn": "Vestland",
+      "antall_aarsverk": 329,
+      "kommunenr": "4620",
+      "dato": "2020-10-01T00:00:00.000000Z",
+      "id": "tiddserie_4620_2020-10-01",
+      "region": "kommune",
+      "fylkenr": "46",
+      "antall_ansatte": 466
+    },
+    {
+      "kommunenavn": "Ulvik",
+      "fylkenavn": "Vestland",
+      "antall_aarsverk": 369,
+      "kommunenr": "4620",
+      "dato": "2021-10-01T00:00:00.000000Z",
+      "id": "tiddserie_4620_2021-10-01",
+      "region": "kommune",
+      "fylkenr": "46",
+      "antall_ansatte": 507
+    },
+    {
+      "kommunenavn": "Ulvik",
+      "fylkenavn": "Vestland",
+      "antall_aarsverk": 421,
+      "kommunenr": "4620",
+      "dato": "2022-10-01T00:00:00.000000Z",
+      "id": "tiddserie_4620_2022-10-01",
+      "region": "kommune",
+      "fylkenr": "46",
+      "antall_ansatte": 574
+    },
+    {
+      "kommunenavn": "Ulvik",
+      "fylkenavn": "Vestland",
+      "antall_aarsverk": 443,
+      "kommunenr": "4620",
+      "dato": "2023-10-01T00:00:00.000000Z",
+      "id": "tiddserie_4620_2023-10-01",
+      "region": "kommune",
+      "fylkenr": "46",
+      "antall_ansatte": 598
+    },
+    {
+      "kommunenavn": "Kvam",
+      "fylkenavn": "Vestland",
+      "antall_aarsverk": 3415,
+      "kommunenr": "4622",
+      "dato": "2016-10-01T00:00:00.000000Z",
+      "id": "tiddserie_4622_2016-10-01",
+      "region": "kommune",
+      "fylkenr": "46",
+      "antall_ansatte": 5073
+    },
+    {
+      "kommunenavn": "Kvam",
+      "fylkenavn": "Vestland",
+      "antall_aarsverk": 3354,
+      "kommunenr": "4622",
+      "dato": "2017-10-01T00:00:00.000000Z",
+      "id": "tiddserie_4622_2017-10-01",
+      "region": "kommune",
+      "fylkenr": "46",
+      "antall_ansatte": 5054
+    },
+    {
+      "kommunenavn": "Kvam",
+      "fylkenavn": "Vestland",
+      "antall_aarsverk": 3331,
+      "kommunenr": "4622",
+      "dato": "2018-10-01T00:00:00.000000Z",
+      "id": "tiddserie_4622_2018-10-01",
+      "region": "kommune",
+      "fylkenr": "46",
+      "antall_ansatte": 4981
+    },
+    {
+      "kommunenavn": "Kvam",
+      "fylkenavn": "Vestland",
+      "antall_aarsverk": 3340,
+      "kommunenr": "4622",
+      "dato": "2019-10-01T00:00:00.000000Z",
+      "id": "tiddserie_4622_2019-10-01",
+      "region": "kommune",
+      "fylkenr": "46",
+      "antall_ansatte": 5048
+    },
+    {
+      "kommunenavn": "Kvam",
+      "fylkenavn": "Vestland",
+      "antall_aarsverk": 3237,
+      "kommunenr": "4622",
+      "dato": "2020-10-01T00:00:00.000000Z",
+      "id": "tiddserie_4622_2020-10-01",
+      "region": "kommune",
+      "fylkenr": "46",
+      "antall_ansatte": 5019
+    },
+    {
+      "kommunenavn": "Kvam",
+      "fylkenavn": "Vestland",
+      "antall_aarsverk": 3354,
+      "kommunenr": "4622",
+      "dato": "2021-10-01T00:00:00.000000Z",
+      "id": "tiddserie_4622_2021-10-01",
+      "region": "kommune",
+      "fylkenr": "46",
+      "antall_ansatte": 5359
+    },
+    {
+      "kommunenavn": "Kvam",
+      "fylkenavn": "Vestland",
+      "antall_aarsverk": 3329,
+      "kommunenr": "4622",
+      "dato": "2022-10-01T00:00:00.000000Z",
+      "id": "tiddserie_4622_2022-10-01",
+      "region": "kommune",
+      "fylkenr": "46",
+      "antall_ansatte": 5415
+    },
+    {
+      "kommunenavn": "Kvam",
+      "fylkenavn": "Vestland",
+      "antall_aarsverk": 3224,
+      "kommunenr": "4622",
+      "dato": "2023-10-01T00:00:00.000000Z",
+      "id": "tiddserie_4622_2023-10-01",
+      "region": "kommune",
+      "fylkenr": "46",
+      "antall_ansatte": 5005
+    },
+    {
+      "kommunenavn": "Samnanger",
+      "fylkenavn": "Vestland",
+      "antall_aarsverk": 460,
+      "kommunenr": "4623",
+      "dato": "2016-10-01T00:00:00.000000Z",
+      "id": "tiddserie_4623_2016-10-01",
+      "region": "kommune",
+      "fylkenr": "46",
+      "antall_ansatte": 815
+    },
+    {
+      "kommunenavn": "Samnanger",
+      "fylkenavn": "Vestland",
+      "antall_aarsverk": 427,
+      "kommunenr": "4623",
+      "dato": "2017-10-01T00:00:00.000000Z",
+      "id": "tiddserie_4623_2017-10-01",
+      "region": "kommune",
+      "fylkenr": "46",
+      "antall_ansatte": 795
+    },
+    {
+      "kommunenavn": "Samnanger",
+      "fylkenavn": "Vestland",
+      "antall_aarsverk": 429,
+      "kommunenr": "4623",
+      "dato": "2018-10-01T00:00:00.000000Z",
+      "id": "tiddserie_4623_2018-10-01",
+      "region": "kommune",
+      "fylkenr": "46",
+      "antall_ansatte": 796
+    },
+    {
+      "kommunenavn": "Samnanger",
+      "fylkenavn": "Vestland",
+      "antall_aarsverk": 435,
+      "kommunenr": "4623",
+      "dato": "2019-10-01T00:00:00.000000Z",
+      "id": "tiddserie_4623_2019-10-01",
+      "region": "kommune",
+      "fylkenr": "46",
+      "antall_ansatte": 818
+    }
+  ],
+  "hydra:view": {
+    "@id": "/arbeidsmarkedskart/tidsserie?page=1",
+    "@type": "hydra:PartialCollectionView",
+    "hydra:first": "/arbeidsmarkedskart/tidsserie?page=1",
+    "hydra:last": "/arbeidsmarkedskart/tidsserie?page=141",
+    "hydra:next": "/arbeidsmarkedskart/tidsserie?page=2"
+  },
+  "hydra:search": {
+    "@type": "hydra:IriTemplate",
+    "hydra:template": "/arbeidsmarkedskart/tidsserie{?kommune,fylke}",
+    "hydra:variableRepresentation": "BasicRepresentation",
+    "hydra:mapping": [
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "kommune",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "fylke",
+        "property": null,
+        "required": false
+      }
+    ]
+  }
+}

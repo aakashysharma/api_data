@@ -1,0 +1,3792 @@
+{
+  "@context": "/contexts/PotensielleLarebedrifter",
+  "@id": "/yrkearbeidsliv/potensielle-larebedrifter",
+  "@type": "hydra:Collection",
+  "hydra:totalItems": 631565,
+  "hydra:member": [
+    {
+      "@id": "/potensielle_larebedrifters/0",
+      "@type": "PotensielleLarebedrifter",
+      "id": 0,
+      "orgnr": [
+        914879299
+      ],
+      "hovedenhet": [
+        983096905
+      ],
+      "navn": [
+        "0-100"
+      ],
+      "fylkenr": [
+        "31"
+      ],
+      "fylkenavn": "\u00d8stfold",
+      "kommunenr": [
+        "3105"
+      ],
+      "kommunenavn": "Sarpsborg",
+      "stillinger": [
+        2
+      ],
+      "aarsverk": [
+        2
+      ],
+      "vikarstillinger": [
+        0
+      ],
+      "programomradekode6": [
+        "SRSLG3"
+      ],
+      "telefon_virksomhet": null,
+      "mobil_virksomhet": null,
+      "url_virksomhet": null,
+      "besoksadr_virksomhet": null,
+      "postnr_virksomhet": null,
+      "poststed_virksomhet": null,
+      "studiebeskrivelse_nid": [
+        398712
+      ],
+      "studiebeskrivelse_tittel": [
+        "Salgsfag"
+      ],
+      "programomradekode10": [
+        "SRSLG3----"
+      ],
+      "yrke_nid": [
+        395767
+      ],
+      "yrke_tittel": [
+        "Butikkmedarbeider"
+      ],
+      "yrkeskode_styrk98": [
+        5221138,
+        5221162,
+        5221157,
+        5221156,
+        5221155,
+        5221154,
+        5221153,
+        5221152,
+        5221151,
+        5221149,
+        5221147,
+        5221146,
+        5221145,
+        5221144,
+        5221143,
+        5221142,
+        5221141,
+        5221140,
+        5221139,
+        5221137,
+        5221136,
+        5221135,
+        5221133,
+        5221132,
+        5221131,
+        5221130,
+        5221129,
+        5221127,
+        5221126,
+        5221124,
+        5221123,
+        5221122,
+        5221121,
+        5221120,
+        5221119,
+        5221118,
+        5221107,
+        5221117,
+        5221116,
+        5221114,
+        5221111,
+        5221110,
+        5221106,
+        5221105,
+        5221102,
+        5221101,
+        1314109,
+        1314108,
+        1314106,
+        1314105,
+        1314104,
+        1314102,
+        1224121,
+        1224109,
+        1210206,
+        1210200,
+        1210197,
+        1210134,
+        1210127,
+        1210106,
+        5221104
+      ],
+      "larebedrift_faget": "Underlagt godkjent",
+      "larebedrift_annet_fag": "Underlagt godkjent i annet fag",
+      "larlinger_faget": [
+        0
+      ],
+      "larlinger_totalt": [
+        0
+      ],
+      "medlem_ok_faget": "Underlagt medlem av OK i faget",
+      "navn_daglig_leder": "Tholstrup, Lars N\u00f8rgaard (for NULL TIL HUNDRE AS)",
+      "adresse_daglig_leder": "Hartmanns Vei 17 F",
+      "postnr_daglig_leder": "0284",
+      "poststed_daglig_leder": "OSLO",
+      "land_daglig_leder": "NO"
+    },
+    {
+      "@id": "/potensielle_larebedrifters/1",
+      "@type": "PotensielleLarebedrifter",
+      "id": 1,
+      "orgnr": [
+        914879299
+      ],
+      "hovedenhet": [
+        983096905
+      ],
+      "navn": [
+        "0-100"
+      ],
+      "fylkenr": [
+        "31"
+      ],
+      "fylkenavn": "\u00d8stfold",
+      "kommunenr": [
+        "3105"
+      ],
+      "kommunenavn": "Sarpsborg",
+      "stillinger": [
+        2
+      ],
+      "aarsverk": [
+        2
+      ],
+      "vikarstillinger": [
+        0
+      ],
+      "programomradekode6": [
+        "SSSLG3"
+      ],
+      "telefon_virksomhet": null,
+      "mobil_virksomhet": null,
+      "url_virksomhet": null,
+      "besoksadr_virksomhet": null,
+      "postnr_virksomhet": null,
+      "poststed_virksomhet": null,
+      "studiebeskrivelse_nid": [
+        398712
+      ],
+      "studiebeskrivelse_tittel": [
+        "Salgsfag"
+      ],
+      "programomradekode10": [
+        "SSSLG3----"
+      ],
+      "yrke_nid": [
+        395767
+      ],
+      "yrke_tittel": [
+        "Butikkmedarbeider"
+      ],
+      "yrkeskode_styrk98": [
+        5221138,
+        5221162,
+        5221157,
+        5221156,
+        5221155,
+        5221154,
+        5221153,
+        5221152,
+        5221151,
+        5221149,
+        5221147,
+        5221146,
+        5221145,
+        5221144,
+        5221143,
+        5221142,
+        5221141,
+        5221140,
+        5221139,
+        5221137,
+        5221136,
+        5221135,
+        5221133,
+        5221132,
+        5221131,
+        5221130,
+        5221129,
+        5221127,
+        5221126,
+        5221124,
+        5221123,
+        5221122,
+        5221121,
+        5221120,
+        5221119,
+        5221118,
+        5221107,
+        5221117,
+        5221116,
+        5221114,
+        5221111,
+        5221110,
+        5221106,
+        5221105,
+        5221102,
+        5221101,
+        1314109,
+        1314108,
+        1314106,
+        1314105,
+        1314104,
+        1314102,
+        1224121,
+        1224109,
+        1210206,
+        1210200,
+        1210197,
+        1210134,
+        1210127,
+        1210106,
+        5221104
+      ],
+      "larebedrift_faget": "Underlagt godkjent",
+      "larebedrift_annet_fag": "Underlagt godkjent i annet fag",
+      "larlinger_faget": [
+        0
+      ],
+      "larlinger_totalt": [
+        0
+      ],
+      "medlem_ok_faget": "Underlagt medlem av OK i faget",
+      "navn_daglig_leder": "Tholstrup, Lars N\u00f8rgaard (for NULL TIL HUNDRE AS)",
+      "adresse_daglig_leder": "Hartmanns Vei 17 F",
+      "postnr_daglig_leder": "0284",
+      "poststed_daglig_leder": "OSLO",
+      "land_daglig_leder": "NO"
+    },
+    {
+      "@id": "/potensielle_larebedrifters/2",
+      "@type": "PotensielleLarebedrifter",
+      "id": 2,
+      "orgnr": [
+        914879299
+      ],
+      "hovedenhet": [
+        983096905
+      ],
+      "navn": [
+        "0-100"
+      ],
+      "fylkenr": [
+        "31"
+      ],
+      "fylkenavn": "\u00d8stfold",
+      "kommunenr": [
+        "3105"
+      ],
+      "kommunenavn": "Sarpsborg",
+      "stillinger": [
+        2
+      ],
+      "aarsverk": [
+        2
+      ],
+      "vikarstillinger": [
+        0
+      ],
+      "programomradekode6": [
+        "SRSLG3"
+      ],
+      "telefon_virksomhet": null,
+      "mobil_virksomhet": null,
+      "url_virksomhet": null,
+      "besoksadr_virksomhet": null,
+      "postnr_virksomhet": null,
+      "poststed_virksomhet": null,
+      "studiebeskrivelse_nid": [
+        398712
+      ],
+      "studiebeskrivelse_tittel": [
+        "Salgsfag"
+      ],
+      "programomradekode10": [
+        "SRSLG3----"
+      ],
+      "yrke_nid": [
+        395753
+      ],
+      "yrke_tittel": [
+        "Bilselger"
+      ],
+      "yrkeskode_styrk98": [
+        5221103
+      ],
+      "larebedrift_faget": "Underlagt godkjent",
+      "larebedrift_annet_fag": "Underlagt godkjent i annet fag",
+      "larlinger_faget": [
+        0
+      ],
+      "larlinger_totalt": [
+        0
+      ],
+      "medlem_ok_faget": "Underlagt medlem av OK i faget",
+      "navn_daglig_leder": "Tholstrup, Lars N\u00f8rgaard (for NULL TIL HUNDRE AS)",
+      "adresse_daglig_leder": "Hartmanns Vei 17 F",
+      "postnr_daglig_leder": "0284",
+      "poststed_daglig_leder": "OSLO",
+      "land_daglig_leder": "NO"
+    },
+    {
+      "@id": "/potensielle_larebedrifters/3",
+      "@type": "PotensielleLarebedrifter",
+      "id": 3,
+      "orgnr": [
+        914879299
+      ],
+      "hovedenhet": [
+        983096905
+      ],
+      "navn": [
+        "0-100"
+      ],
+      "fylkenr": [
+        "31"
+      ],
+      "fylkenavn": "\u00d8stfold",
+      "kommunenr": [
+        "3105"
+      ],
+      "kommunenavn": "Sarpsborg",
+      "stillinger": [
+        2
+      ],
+      "aarsverk": [
+        2
+      ],
+      "vikarstillinger": [
+        0
+      ],
+      "programomradekode6": [
+        "SSSLG3"
+      ],
+      "telefon_virksomhet": null,
+      "mobil_virksomhet": null,
+      "url_virksomhet": null,
+      "besoksadr_virksomhet": null,
+      "postnr_virksomhet": null,
+      "poststed_virksomhet": null,
+      "studiebeskrivelse_nid": [
+        398712
+      ],
+      "studiebeskrivelse_tittel": [
+        "Salgsfag"
+      ],
+      "programomradekode10": [
+        "SSSLG3----"
+      ],
+      "yrke_nid": [
+        396030
+      ],
+      "yrke_tittel": [
+        "Salgsmedarbeider"
+      ],
+      "yrkeskode_styrk98": [
+        5224108,
+        5224106,
+        5224105,
+        5224103,
+        5224102,
+        5224101,
+        5223123,
+        5223122,
+        5223121,
+        5223120,
+        5223119,
+        5223117,
+        5223116,
+        5223115,
+        5223114,
+        5223113,
+        5223112,
+        5223111,
+        5223110,
+        5223109,
+        5223108,
+        5223107,
+        5223106,
+        5223103,
+        5223102,
+        5223101,
+        5221157,
+        5221156,
+        5221155,
+        5221152,
+        5221149,
+        5221147,
+        5221145,
+        5221143,
+        5221142,
+        5221140,
+        5221138,
+        5221132,
+        5221131,
+        5221130,
+        5221129,
+        5221128,
+        5221126,
+        5221125,
+        5221124,
+        5221123,
+        5221122,
+        5221121,
+        5221119,
+        5221118,
+        5221117,
+        5221114,
+        5221113,
+        5221111,
+        5221110,
+        5221109,
+        5221108,
+        5221107,
+        5221106,
+        5221105,
+        5221103,
+        4221107,
+        4211105,
+        4211102,
+        3431116,
+        3423103,
+        3419128,
+        3415140,
+        3415139,
+        3415137,
+        3415135,
+        3415134,
+        3415133,
+        3415132,
+        3415131,
+        3415130,
+        3415128,
+        3415125,
+        3415124,
+        3415123,
+        3415120,
+        3415118,
+        3415117,
+        3415116,
+        3415115,
+        3415114,
+        3415112,
+        3415111,
+        3415110,
+        3415108,
+        3415102,
+        1233105,
+        1233104,
+        3419137
+      ],
+      "larebedrift_faget": "Underlagt godkjent",
+      "larebedrift_annet_fag": "Underlagt godkjent i annet fag",
+      "larlinger_faget": [
+        0
+      ],
+      "larlinger_totalt": [
+        0
+      ],
+      "medlem_ok_faget": "Underlagt medlem av OK i faget",
+      "navn_daglig_leder": "Tholstrup, Lars N\u00f8rgaard (for NULL TIL HUNDRE AS)",
+      "adresse_daglig_leder": "Hartmanns Vei 17 F",
+      "postnr_daglig_leder": "0284",
+      "poststed_daglig_leder": "OSLO",
+      "land_daglig_leder": "NO"
+    },
+    {
+      "@id": "/potensielle_larebedrifters/4",
+      "@type": "PotensielleLarebedrifter",
+      "id": 4,
+      "orgnr": [
+        914879299
+      ],
+      "hovedenhet": [
+        983096905
+      ],
+      "navn": [
+        "0-100"
+      ],
+      "fylkenr": [
+        "31"
+      ],
+      "fylkenavn": "\u00d8stfold",
+      "kommunenr": [
+        "3105"
+      ],
+      "kommunenavn": "Sarpsborg",
+      "stillinger": [
+        2
+      ],
+      "aarsverk": [
+        2
+      ],
+      "vikarstillinger": [
+        0
+      ],
+      "programomradekode6": [
+        "SRSLG3"
+      ],
+      "telefon_virksomhet": null,
+      "mobil_virksomhet": null,
+      "url_virksomhet": null,
+      "besoksadr_virksomhet": null,
+      "postnr_virksomhet": null,
+      "poststed_virksomhet": null,
+      "studiebeskrivelse_nid": [
+        398712
+      ],
+      "studiebeskrivelse_tittel": [
+        "Salgsfag"
+      ],
+      "programomradekode10": [
+        "SRSLG3----"
+      ],
+      "yrke_nid": [
+        396030
+      ],
+      "yrke_tittel": [
+        "Salgsmedarbeider"
+      ],
+      "yrkeskode_styrk98": [
+        5224108,
+        5224106,
+        5224105,
+        5224103,
+        5224102,
+        5224101,
+        5223123,
+        5223122,
+        5223121,
+        5223120,
+        5223119,
+        5223117,
+        5223116,
+        5223115,
+        5223114,
+        5223113,
+        5223112,
+        5223111,
+        5223110,
+        5223109,
+        5223108,
+        5223107,
+        5223106,
+        5223103,
+        5223102,
+        5223101,
+        5221157,
+        5221156,
+        5221155,
+        5221152,
+        5221149,
+        5221147,
+        5221145,
+        5221143,
+        5221142,
+        5221140,
+        5221138,
+        5221132,
+        5221131,
+        5221130,
+        5221129,
+        5221128,
+        5221126,
+        5221125,
+        5221124,
+        5221123,
+        5221122,
+        5221121,
+        5221119,
+        5221118,
+        5221117,
+        5221114,
+        5221113,
+        5221111,
+        5221110,
+        5221109,
+        5221108,
+        5221107,
+        5221106,
+        5221105,
+        5221103,
+        4221107,
+        4211105,
+        4211102,
+        3431116,
+        3423103,
+        3419128,
+        3415140,
+        3415139,
+        3415137,
+        3415135,
+        3415134,
+        3415133,
+        3415132,
+        3415131,
+        3415130,
+        3415128,
+        3415125,
+        3415124,
+        3415123,
+        3415120,
+        3415118,
+        3415117,
+        3415116,
+        3415115,
+        3415114,
+        3415112,
+        3415111,
+        3415110,
+        3415108,
+        3415102,
+        1233105,
+        1233104,
+        3419137
+      ],
+      "larebedrift_faget": "Underlagt godkjent",
+      "larebedrift_annet_fag": "Underlagt godkjent i annet fag",
+      "larlinger_faget": [
+        0
+      ],
+      "larlinger_totalt": [
+        0
+      ],
+      "medlem_ok_faget": "Underlagt medlem av OK i faget",
+      "navn_daglig_leder": "Tholstrup, Lars N\u00f8rgaard (for NULL TIL HUNDRE AS)",
+      "adresse_daglig_leder": "Hartmanns Vei 17 F",
+      "postnr_daglig_leder": "0284",
+      "poststed_daglig_leder": "OSLO",
+      "land_daglig_leder": "NO"
+    },
+    {
+      "@id": "/potensielle_larebedrifters/5",
+      "@type": "PotensielleLarebedrifter",
+      "id": 5,
+      "orgnr": [
+        914879299
+      ],
+      "hovedenhet": [
+        983096905
+      ],
+      "navn": [
+        "0-100"
+      ],
+      "fylkenr": [
+        "31"
+      ],
+      "fylkenavn": "\u00d8stfold",
+      "kommunenr": [
+        "3105"
+      ],
+      "kommunenavn": "Sarpsborg",
+      "stillinger": [
+        2
+      ],
+      "aarsverk": [
+        2
+      ],
+      "vikarstillinger": [
+        0
+      ],
+      "programomradekode6": [
+        "SSSLG3"
+      ],
+      "telefon_virksomhet": null,
+      "mobil_virksomhet": null,
+      "url_virksomhet": null,
+      "besoksadr_virksomhet": null,
+      "postnr_virksomhet": null,
+      "poststed_virksomhet": null,
+      "studiebeskrivelse_nid": [
+        398712
+      ],
+      "studiebeskrivelse_tittel": [
+        "Salgsfag"
+      ],
+      "programomradekode10": [
+        "SSSLG3----"
+      ],
+      "yrke_nid": [
+        395753
+      ],
+      "yrke_tittel": [
+        "Bilselger"
+      ],
+      "yrkeskode_styrk98": [
+        5221103
+      ],
+      "larebedrift_faget": "Underlagt godkjent",
+      "larebedrift_annet_fag": "Underlagt godkjent i annet fag",
+      "larlinger_faget": [
+        0
+      ],
+      "larlinger_totalt": [
+        0
+      ],
+      "medlem_ok_faget": "Underlagt medlem av OK i faget",
+      "navn_daglig_leder": "Tholstrup, Lars N\u00f8rgaard (for NULL TIL HUNDRE AS)",
+      "adresse_daglig_leder": "Hartmanns Vei 17 F",
+      "postnr_daglig_leder": "0284",
+      "poststed_daglig_leder": "OSLO",
+      "land_daglig_leder": "NO"
+    },
+    {
+      "@id": "/potensielle_larebedrifters/6",
+      "@type": "PotensielleLarebedrifter",
+      "id": 6,
+      "orgnr": [
+        978608698
+      ],
+      "hovedenhet": [
+        974794950
+      ],
+      "navn": [
+        "110-SENTRALEN FOR FINNMARK"
+      ],
+      "fylkenr": [
+        "56"
+      ],
+      "fylkenavn": "Finnmark",
+      "kommunenr": [
+        "5605"
+      ],
+      "kommunenavn": "S\u00f8r-Varanger",
+      "stillinger": [
+        2
+      ],
+      "aarsverk": [
+        2
+      ],
+      "vikarstillinger": [
+        0
+      ],
+      "programomradekode6": [
+        "HSBUA3"
+      ],
+      "telefon_virksomhet": null,
+      "mobil_virksomhet": null,
+      "url_virksomhet": null,
+      "besoksadr_virksomhet": null,
+      "postnr_virksomhet": null,
+      "poststed_virksomhet": null,
+      "studiebeskrivelse_nid": [
+        398576
+      ],
+      "studiebeskrivelse_tittel": [
+        "Barne- og ungdomsarbeiderfag"
+      ],
+      "programomradekode10": [
+        "HSBUA3----"
+      ],
+      "yrke_nid": [
+        395744
+      ],
+      "yrke_tittel": [
+        "Barne- og ungdomsarbeider"
+      ],
+      "yrkeskode_styrk98": [
+        5132111,
+        5131133,
+        5131132,
+        5131131,
+        5131128,
+        5131124,
+        5131121,
+        5131118,
+        5131117,
+        5131113,
+        5131112,
+        5131111,
+        5131110,
+        5131106,
+        5131104,
+        5131102
+      ],
+      "larebedrift_faget": "Underlagt godkjent",
+      "larebedrift_annet_fag": "Underlagt godkjent i annet fag",
+      "larlinger_faget": [
+        0
+      ],
+      "larlinger_totalt": [
+        0
+      ],
+      "medlem_ok_faget": "Underlagt medlem av OK i faget",
+      "navn_daglig_leder": "\u00d8vergaard, Nina Cecilie Bordi (for S\u00d8R-VARANGER KOMMUNE)",
+      "adresse_daglig_leder": "Kr\u00f8keb\u00e6rveien 10",
+      "postnr_daglig_leder": "9912",
+      "poststed_daglig_leder": "HESSENG",
+      "land_daglig_leder": "NO"
+    },
+    {
+      "@id": "/potensielle_larebedrifters/7",
+      "@type": "PotensielleLarebedrifter",
+      "id": 7,
+      "orgnr": [
+        978608698
+      ],
+      "hovedenhet": [
+        974794950
+      ],
+      "navn": [
+        "110-SENTRALEN FOR FINNMARK"
+      ],
+      "fylkenr": [
+        "56"
+      ],
+      "fylkenavn": "Finnmark",
+      "kommunenr": [
+        "5605"
+      ],
+      "kommunenavn": "S\u00f8r-Varanger",
+      "stillinger": [
+        2
+      ],
+      "aarsverk": [
+        2
+      ],
+      "vikarstillinger": [
+        0
+      ],
+      "programomradekode6": [
+        "HSHEA3"
+      ],
+      "telefon_virksomhet": null,
+      "mobil_virksomhet": null,
+      "url_virksomhet": null,
+      "besoksadr_virksomhet": null,
+      "postnr_virksomhet": null,
+      "poststed_virksomhet": null,
+      "studiebeskrivelse_nid": [
+        398633
+      ],
+      "studiebeskrivelse_tittel": [
+        "Helsearbeiderfag"
+      ],
+      "programomradekode10": [
+        "HSHEA3----"
+      ],
+      "yrke_nid": [
+        395826
+      ],
+      "yrke_tittel": [
+        "Helsefagarbeider"
+      ],
+      "yrkeskode_styrk98": [
+        5139146,
+        5132121,
+        5132120,
+        5132119,
+        5132116,
+        5132114,
+        5132113,
+        5132112,
+        5132110,
+        5132108,
+        5132107,
+        5132102,
+        5132101,
+        5131123
+      ],
+      "larebedrift_faget": "Underlagt godkjent",
+      "larebedrift_annet_fag": "Underlagt godkjent i annet fag",
+      "larlinger_faget": [
+        0
+      ],
+      "larlinger_totalt": [
+        0
+      ],
+      "medlem_ok_faget": "Underlagt medlem av OK i faget",
+      "navn_daglig_leder": "\u00d8vergaard, Nina Cecilie Bordi (for S\u00d8R-VARANGER KOMMUNE)",
+      "adresse_daglig_leder": "Kr\u00f8keb\u00e6rveien 10",
+      "postnr_daglig_leder": "9912",
+      "poststed_daglig_leder": "HESSENG",
+      "land_daglig_leder": "NO"
+    },
+    {
+      "@id": "/potensielle_larebedrifters/8",
+      "@type": "PotensielleLarebedrifter",
+      "id": 8,
+      "orgnr": [
+        916711557
+      ],
+      "hovedenhet": [
+        916677391
+      ],
+      "navn": [
+        "2 MARINE AS"
+      ],
+      "fylkenr": [
+        "56"
+      ],
+      "fylkenavn": "Finnmark",
+      "kommunenr": [
+        "5620"
+      ],
+      "kommunenavn": "Nordkapp",
+      "stillinger": [
+        2
+      ],
+      "aarsverk": [
+        2
+      ],
+      "vikarstillinger": [
+        0
+      ],
+      "programomradekode6": [
+        "TPMTS3"
+      ],
+      "telefon_virksomhet": null,
+      "mobil_virksomhet": null,
+      "url_virksomhet": null,
+      "besoksadr_virksomhet": null,
+      "postnr_virksomhet": null,
+      "poststed_virksomhet": null,
+      "studiebeskrivelse_nid": [
+        398682
+      ],
+      "studiebeskrivelse_tittel": [
+        "Matrosfag"
+      ],
+      "programomradekode10": [
+        "TPMTS3----"
+      ],
+      "yrke_nid": [
+        396222
+      ],
+      "yrke_tittel": [
+        "Overstyrmann"
+      ],
+      "yrkeskode_styrk98": [
+        3142115
+      ],
+      "larebedrift_faget": "Underlagt godkjent",
+      "larebedrift_annet_fag": "Underlagt godkjent i annet fag",
+      "larlinger_faget": [
+        0
+      ],
+      "larlinger_totalt": [
+        0
+      ],
+      "medlem_ok_faget": "Underlagt medlem av OK i faget",
+      "navn_daglig_leder": "Aspaas-Hagen, Askild (for 2 MARINE AS)",
+      "adresse_daglig_leder": "F\u00e5leslor\u00e5sen 86",
+      "postnr_daglig_leder": "1407",
+      "poststed_daglig_leder": "VINTERBRO",
+      "land_daglig_leder": "NO"
+    },
+    {
+      "@id": "/potensielle_larebedrifters/9",
+      "@type": "PotensielleLarebedrifter",
+      "id": 9,
+      "orgnr": [
+        916711557
+      ],
+      "hovedenhet": [
+        916677391
+      ],
+      "navn": [
+        "2 MARINE AS"
+      ],
+      "fylkenr": [
+        "56"
+      ],
+      "fylkenavn": "Finnmark",
+      "kommunenr": [
+        "5620"
+      ],
+      "kommunenavn": "Nordkapp",
+      "stillinger": [
+        2
+      ],
+      "aarsverk": [
+        2
+      ],
+      "vikarstillinger": [
+        0
+      ],
+      "programomradekode6": [
+        "TPMTS3"
+      ],
+      "telefon_virksomhet": null,
+      "mobil_virksomhet": null,
+      "url_virksomhet": null,
+      "besoksadr_virksomhet": null,
+      "postnr_virksomhet": null,
+      "poststed_virksomhet": null,
+      "studiebeskrivelse_nid": [
+        398682
+      ],
+      "studiebeskrivelse_tittel": [
+        "Matrosfag"
+      ],
+      "programomradekode10": [
+        "TPMTS3----"
+      ],
+      "yrke_nid": [
+        395905
+      ],
+      "yrke_tittel": [
+        "Matros"
+      ],
+      "yrkeskode_styrk98": [
+        8341107,
+        8341106,
+        8341105,
+        8341102,
+        8341104,
+        8341101,
+        3142112
+      ],
+      "larebedrift_faget": "Underlagt godkjent",
+      "larebedrift_annet_fag": "Underlagt godkjent i annet fag",
+      "larlinger_faget": [
+        0
+      ],
+      "larlinger_totalt": [
+        0
+      ],
+      "medlem_ok_faget": "Underlagt medlem av OK i faget",
+      "navn_daglig_leder": "Aspaas-Hagen, Askild (for 2 MARINE AS)",
+      "adresse_daglig_leder": "F\u00e5leslor\u00e5sen 86",
+      "postnr_daglig_leder": "1407",
+      "poststed_daglig_leder": "VINTERBRO",
+      "land_daglig_leder": "NO"
+    },
+    {
+      "@id": "/potensielle_larebedrifters/10",
+      "@type": "PotensielleLarebedrifter",
+      "id": 10,
+      "orgnr": [
+        916711557
+      ],
+      "hovedenhet": [
+        916677391
+      ],
+      "navn": [
+        "2 MARINE AS"
+      ],
+      "fylkenr": [
+        "56"
+      ],
+      "fylkenavn": "Finnmark",
+      "kommunenr": [
+        "5620"
+      ],
+      "kommunenavn": "Nordkapp",
+      "stillinger": [
+        2
+      ],
+      "aarsverk": [
+        2
+      ],
+      "vikarstillinger": [
+        0
+      ],
+      "programomradekode6": [
+        "TPSMK3"
+      ],
+      "telefon_virksomhet": null,
+      "mobil_virksomhet": null,
+      "url_virksomhet": null,
+      "besoksadr_virksomhet": null,
+      "postnr_virksomhet": null,
+      "poststed_virksomhet": null,
+      "studiebeskrivelse_nid": [
+        398688
+      ],
+      "studiebeskrivelse_tittel": [
+        "Skipsmotormekanikerfag"
+      ],
+      "programomradekode10": [
+        "TPSMK3----"
+      ],
+      "yrke_nid": [
+        395911
+      ],
+      "yrke_tittel": [
+        "Skipsmotormekaniker"
+      ],
+      "yrkeskode_styrk98": [
+        8342111,
+        8342105,
+        8342101,
+        8113114
+      ],
+      "larebedrift_faget": "Underlagt godkjent",
+      "larebedrift_annet_fag": "Underlagt godkjent i annet fag",
+      "larlinger_faget": [
+        0
+      ],
+      "larlinger_totalt": [
+        0
+      ],
+      "medlem_ok_faget": "Underlagt medlem av OK i faget",
+      "navn_daglig_leder": "Aspaas-Hagen, Askild (for 2 MARINE AS)",
+      "adresse_daglig_leder": "F\u00e5leslor\u00e5sen 86",
+      "postnr_daglig_leder": "1407",
+      "poststed_daglig_leder": "VINTERBRO",
+      "land_daglig_leder": "NO"
+    },
+    {
+      "@id": "/potensielle_larebedrifters/11",
+      "@type": "PotensielleLarebedrifter",
+      "id": 11,
+      "orgnr": [
+        988537179
+      ],
+      "hovedenhet": [
+        988487155
+      ],
+      "navn": [
+        "2 ROM OG KJ\u00d8KKEN"
+      ],
+      "fylkenr": [
+        "50"
+      ],
+      "fylkenavn": "Tr\u00f8ndelag",
+      "kommunenr": [
+        "5001"
+      ],
+      "kommunenavn": "Trondheim",
+      "stillinger": [
+        2
+      ],
+      "aarsverk": [
+        2
+      ],
+      "vikarstillinger": [
+        0
+      ],
+      "programomradekode6": [
+        "RMKOK3"
+      ],
+      "telefon_virksomhet": null,
+      "mobil_virksomhet": null,
+      "url_virksomhet": null,
+      "besoksadr_virksomhet": null,
+      "postnr_virksomhet": null,
+      "poststed_virksomhet": null,
+      "studiebeskrivelse_nid": [
+        398666
+      ],
+      "studiebeskrivelse_tittel": [
+        "Kokkfag"
+      ],
+      "programomradekode10": [
+        "RMKOK3----"
+      ],
+      "yrke_nid": [
+        3962576
+      ],
+      "yrke_tittel": [
+        "Kj\u00f8kkensjef"
+      ],
+      "yrkeskode_styrk98": [
+        1224112,
+        5122109,
+        5122127,
+        5122111,
+        5122107,
+        5122101,
+        5122118,
+        5122104,
+        1224105,
+        1224110
+      ],
+      "larebedrift_faget": "Underlagt godkjent",
+      "larebedrift_annet_fag": "Underlagt godkjent i annet fag",
+      "larlinger_faget": [
+        0
+      ],
+      "larlinger_totalt": [
+        0
+      ],
+      "medlem_ok_faget": null,
+      "navn_daglig_leder": "Hildonen, Roar (for BRASSERI CAVA AS)",
+      "adresse_daglig_leder": "Utsiravegen 10 B",
+      "postnr_daglig_leder": "7045",
+      "poststed_daglig_leder": "TRONDHEIM",
+      "land_daglig_leder": "NO"
+    },
+    {
+      "@id": "/potensielle_larebedrifters/12",
+      "@type": "PotensielleLarebedrifter",
+      "id": 12,
+      "orgnr": [
+        988537179
+      ],
+      "hovedenhet": [
+        988487155
+      ],
+      "navn": [
+        "2 ROM OG KJ\u00d8KKEN"
+      ],
+      "fylkenr": [
+        "50"
+      ],
+      "fylkenavn": "Tr\u00f8ndelag",
+      "kommunenr": [
+        "5001"
+      ],
+      "kommunenavn": "Trondheim",
+      "stillinger": [
+        24
+      ],
+      "aarsverk": [
+        14
+      ],
+      "vikarstillinger": [
+        0
+      ],
+      "programomradekode6": [
+        "RMSER3"
+      ],
+      "telefon_virksomhet": null,
+      "mobil_virksomhet": null,
+      "url_virksomhet": null,
+      "besoksadr_virksomhet": null,
+      "postnr_virksomhet": null,
+      "poststed_virksomhet": null,
+      "studiebeskrivelse_nid": [
+        398716
+      ],
+      "studiebeskrivelse_tittel": [
+        "Servit\u00f8rfag"
+      ],
+      "programomradekode10": [
+        "RMSER3----"
+      ],
+      "yrke_nid": [
+        395972
+      ],
+      "yrke_tittel": [
+        "Servit\u00f8r"
+      ],
+      "yrkeskode_styrk98": [
+        9133105,
+        5123125,
+        5123124,
+        5123123,
+        5123122,
+        5123121,
+        5123118,
+        5123117,
+        5123116,
+        5123113,
+        5123111,
+        5123109,
+        5123107,
+        5123106,
+        5123104,
+        5123103
+      ],
+      "larebedrift_faget": "Underlagt godkjent",
+      "larebedrift_annet_fag": "Underlagt godkjent i annet fag",
+      "larlinger_faget": [
+        0
+      ],
+      "larlinger_totalt": [
+        0
+      ],
+      "medlem_ok_faget": null,
+      "navn_daglig_leder": "Hildonen, Roar (for BRASSERI CAVA AS)",
+      "adresse_daglig_leder": "Utsiravegen 10 B",
+      "postnr_daglig_leder": "7045",
+      "poststed_daglig_leder": "TRONDHEIM",
+      "land_daglig_leder": "NO"
+    },
+    {
+      "@id": "/potensielle_larebedrifters/13",
+      "@type": "PotensielleLarebedrifter",
+      "id": 13,
+      "orgnr": [
+        988537179
+      ],
+      "hovedenhet": [
+        988487155
+      ],
+      "navn": [
+        "2 ROM OG KJ\u00d8KKEN"
+      ],
+      "fylkenr": [
+        "50"
+      ],
+      "fylkenavn": "Tr\u00f8ndelag",
+      "kommunenr": [
+        "5001"
+      ],
+      "kommunenavn": "Trondheim",
+      "stillinger": [
+        9
+      ],
+      "aarsverk": [
+        8.1
+      ],
+      "vikarstillinger": [
+        0
+      ],
+      "programomradekode6": [
+        "RMKOK3"
+      ],
+      "telefon_virksomhet": null,
+      "mobil_virksomhet": null,
+      "url_virksomhet": null,
+      "besoksadr_virksomhet": null,
+      "postnr_virksomhet": null,
+      "poststed_virksomhet": null,
+      "studiebeskrivelse_nid": [
+        398666
+      ],
+      "studiebeskrivelse_tittel": [
+        "Kokkfag"
+      ],
+      "programomradekode10": [
+        "RMKOK3----"
+      ],
+      "yrke_nid": [
+        395712
+      ],
+      "yrke_tittel": [
+        "Kokk"
+      ],
+      "yrkeskode_styrk98": [
+        5122129,
+        5122128,
+        5122126,
+        5122123,
+        5122121,
+        5122119,
+        5122118,
+        5122116,
+        5122114,
+        5122110,
+        5122108,
+        5122104,
+        5122103,
+        5122102
+      ],
+      "larebedrift_faget": "Underlagt godkjent",
+      "larebedrift_annet_fag": "Underlagt godkjent i annet fag",
+      "larlinger_faget": [
+        0
+      ],
+      "larlinger_totalt": [
+        0
+      ],
+      "medlem_ok_faget": null,
+      "navn_daglig_leder": "Hildonen, Roar (for BRASSERI CAVA AS)",
+      "adresse_daglig_leder": "Utsiravegen 10 B",
+      "postnr_daglig_leder": "7045",
+      "poststed_daglig_leder": "TRONDHEIM",
+      "land_daglig_leder": "NO"
+    },
+    {
+      "@id": "/potensielle_larebedrifters/14",
+      "@type": "PotensielleLarebedrifter",
+      "id": 14,
+      "orgnr": [
+        974118858
+      ],
+      "hovedenhet": [
+        919742356
+      ],
+      "navn": [
+        "3B-FIBREGLASS NORWAY AS"
+      ],
+      "fylkenr": [
+        "42"
+      ],
+      "fylkenavn": "Agder",
+      "kommunenr": [
+        "4216"
+      ],
+      "kommunenavn": "Birkenes",
+      "stillinger": [
+        2
+      ],
+      "aarsverk": [
+        2
+      ],
+      "vikarstillinger": [
+        0
+      ],
+      "programomradekode6": [
+        "TPKJP3"
+      ],
+      "telefon_virksomhet": null,
+      "mobil_virksomhet": null,
+      "url_virksomhet": null,
+      "besoksadr_virksomhet": null,
+      "postnr_virksomhet": null,
+      "poststed_virksomhet": null,
+      "studiebeskrivelse_nid": [
+        398663
+      ],
+      "studiebeskrivelse_tittel": [
+        "Kjemiprosessfag"
+      ],
+      "programomradekode10": [
+        "TPKJP3----"
+      ],
+      "yrke_nid": [
+        396209
+      ],
+      "yrke_tittel": [
+        "Prosessingeni\u00f8r"
+      ],
+      "yrkeskode_styrk98": [
+        3116170,
+        3116111,
+        3113141,
+        3115117,
+        3115111
+      ],
+      "larebedrift_faget": "Underlagt godkjent",
+      "larebedrift_annet_fag": "Underlagt godkjent i annet fag",
+      "larlinger_faget": [
+        0
+      ],
+      "larlinger_totalt": [
+        0
+      ],
+      "medlem_ok_faget": "Underlagt medlem av OK i faget",
+      "navn_daglig_leder": null,
+      "adresse_daglig_leder": null,
+      "postnr_daglig_leder": null,
+      "poststed_daglig_leder": null,
+      "land_daglig_leder": null
+    },
+    {
+      "@id": "/potensielle_larebedrifters/15",
+      "@type": "PotensielleLarebedrifter",
+      "id": 15,
+      "orgnr": [
+        974118858
+      ],
+      "hovedenhet": [
+        919742356
+      ],
+      "navn": [
+        "3B-FIBREGLASS NORWAY AS"
+      ],
+      "fylkenr": [
+        "42"
+      ],
+      "fylkenavn": "Agder",
+      "kommunenr": [
+        "4216"
+      ],
+      "kommunenavn": "Birkenes",
+      "stillinger": [
+        11
+      ],
+      "aarsverk": [
+        11
+      ],
+      "vikarstillinger": [
+        2
+      ],
+      "programomradekode6": [
+        "TPIME3"
+      ],
+      "telefon_virksomhet": null,
+      "mobil_virksomhet": null,
+      "url_virksomhet": null,
+      "besoksadr_virksomhet": null,
+      "postnr_virksomhet": null,
+      "poststed_virksomhet": null,
+      "studiebeskrivelse_nid": [
+        398647
+      ],
+      "studiebeskrivelse_tittel": [
+        "Industrimekanikerfag"
+      ],
+      "programomradekode10": [
+        "TPIME3----"
+      ],
+      "yrke_nid": [
+        395842
+      ],
+      "yrke_tittel": [
+        "Industrimekaniker"
+      ],
+      "yrkeskode_styrk98": [
+        7237124,
+        7237123,
+        7237122,
+        7237121,
+        7237120,
+        7237119,
+        7237118,
+        7237116,
+        7237115,
+        7237114,
+        7237112,
+        7237111,
+        7237110,
+        7237109,
+        7237107,
+        7237106,
+        7237105,
+        7237102,
+        7237101
+      ],
+      "larebedrift_faget": "Underlagt godkjent",
+      "larebedrift_annet_fag": "Underlagt godkjent i annet fag",
+      "larlinger_faget": [
+        0
+      ],
+      "larlinger_totalt": [
+        0
+      ],
+      "medlem_ok_faget": "Underlagt medlem av OK i faget",
+      "navn_daglig_leder": null,
+      "adresse_daglig_leder": null,
+      "postnr_daglig_leder": null,
+      "poststed_daglig_leder": null,
+      "land_daglig_leder": null
+    },
+    {
+      "@id": "/potensielle_larebedrifters/16",
+      "@type": "PotensielleLarebedrifter",
+      "id": 16,
+      "orgnr": [
+        974118858
+      ],
+      "hovedenhet": [
+        919742356
+      ],
+      "navn": [
+        "3B-FIBREGLASS NORWAY AS"
+      ],
+      "fylkenr": [
+        "42"
+      ],
+      "fylkenavn": "Agder",
+      "kommunenr": [
+        "4216"
+      ],
+      "kommunenavn": "Birkenes",
+      "stillinger": [
+        5
+      ],
+      "aarsverk": [
+        5
+      ],
+      "vikarstillinger": [
+        0
+      ],
+      "programomradekode6": [
+        "ELELE3"
+      ],
+      "telefon_virksomhet": null,
+      "mobil_virksomhet": null,
+      "url_virksomhet": null,
+      "besoksadr_virksomhet": null,
+      "postnr_virksomhet": null,
+      "poststed_virksomhet": null,
+      "studiebeskrivelse_nid": [
+        398605
+      ],
+      "studiebeskrivelse_tittel": [
+        "Elektrikerfag"
+      ],
+      "programomradekode10": [
+        "ELELE3----"
+      ],
+      "yrke_nid": [
+        395782
+      ],
+      "yrke_tittel": [
+        "Elektriker"
+      ],
+      "yrkeskode_styrk98": [
+        7241101,
+        7241122,
+        7241136,
+        7241132,
+        7241135,
+        7241142,
+        7241148,
+        7241144,
+        7241139
+      ],
+      "larebedrift_faget": "Underlagt godkjent",
+      "larebedrift_annet_fag": "Underlagt godkjent i annet fag",
+      "larlinger_faget": [
+        0
+      ],
+      "larlinger_totalt": [
+        0
+      ],
+      "medlem_ok_faget": "Underlagt medlem av OK i faget",
+      "navn_daglig_leder": null,
+      "adresse_daglig_leder": null,
+      "postnr_daglig_leder": null,
+      "poststed_daglig_leder": null,
+      "land_daglig_leder": null
+    },
+    {
+      "@id": "/potensielle_larebedrifters/17",
+      "@type": "PotensielleLarebedrifter",
+      "id": 17,
+      "orgnr": [
+        974118858
+      ],
+      "hovedenhet": [
+        919742356
+      ],
+      "navn": [
+        "3B-FIBREGLASS NORWAY AS"
+      ],
+      "fylkenr": [
+        "42"
+      ],
+      "fylkenavn": "Agder",
+      "kommunenr": [
+        "4216"
+      ],
+      "kommunenavn": "Birkenes",
+      "stillinger": [
+        28
+      ],
+      "aarsverk": [
+        27.59
+      ],
+      "vikarstillinger": [
+        0
+      ],
+      "programomradekode6": [
+        "TPKJP3"
+      ],
+      "telefon_virksomhet": null,
+      "mobil_virksomhet": null,
+      "url_virksomhet": null,
+      "besoksadr_virksomhet": null,
+      "postnr_virksomhet": null,
+      "poststed_virksomhet": null,
+      "studiebeskrivelse_nid": [
+        398663
+      ],
+      "studiebeskrivelse_tittel": [
+        "Kjemiprosessfag"
+      ],
+      "programomradekode10": [
+        "TPKJP3----"
+      ],
+      "yrke_nid": [
+        395947
+      ],
+      "yrke_tittel": [
+        "Fagoperat\u00f8r i kjemisk prosessindustri (Prosesstekniker)"
+      ],
+      "yrkeskode_styrk98": [
+        9320109,
+        8229109,
+        8229107,
+        8159144,
+        8159143,
+        8159138,
+        8159133,
+        8159128,
+        8159127,
+        8159126,
+        8159125,
+        8159124,
+        8159123,
+        8159121,
+        8159120,
+        8159119,
+        8159117,
+        8159114,
+        8159112,
+        8159110,
+        8159109,
+        8159104,
+        8159103,
+        8159101,
+        8151108,
+        8151107,
+        8151106,
+        8151104,
+        8122103,
+        8121109,
+        3115112,
+        8121102
+      ],
+      "larebedrift_faget": "Underlagt godkjent",
+      "larebedrift_annet_fag": "Underlagt godkjent i annet fag",
+      "larlinger_faget": [
+        0
+      ],
+      "larlinger_totalt": [
+        0
+      ],
+      "medlem_ok_faget": "Underlagt medlem av OK i faget",
+      "navn_daglig_leder": null,
+      "adresse_daglig_leder": null,
+      "postnr_daglig_leder": null,
+      "poststed_daglig_leder": null,
+      "land_daglig_leder": null
+    },
+    {
+      "@id": "/potensielle_larebedrifters/18",
+      "@type": "PotensielleLarebedrifter",
+      "id": 18,
+      "orgnr": [
+        974118858
+      ],
+      "hovedenhet": [
+        919742356
+      ],
+      "navn": [
+        "3B-FIBREGLASS NORWAY AS"
+      ],
+      "fylkenr": [
+        "42"
+      ],
+      "fylkenavn": "Agder",
+      "kommunenr": [
+        "4216"
+      ],
+      "kommunenavn": "Birkenes",
+      "stillinger": [
+        276
+      ],
+      "aarsverk": [
+        181.79
+      ],
+      "vikarstillinger": [
+        6
+      ],
+      "programomradekode6": [
+        "TPPRT3"
+      ],
+      "telefon_virksomhet": null,
+      "mobil_virksomhet": null,
+      "url_virksomhet": null,
+      "besoksadr_virksomhet": null,
+      "postnr_virksomhet": null,
+      "poststed_virksomhet": null,
+      "studiebeskrivelse_nid": [
+        398703
+      ],
+      "studiebeskrivelse_tittel": [
+        "Produksjonsteknikkfag"
+      ],
+      "programomradekode10": [
+        "TPPRT3----"
+      ],
+      "yrke_nid": [
+        417295
+      ],
+      "yrke_tittel": [
+        "Fagoperat\u00f8r i produksjonsteknikk"
+      ],
+      "yrkeskode_styrk98": [
+        8282110,
+        8282109,
+        8282107,
+        8282106,
+        8282104,
+        8282101,
+        8279122,
+        8279121,
+        8279120,
+        8279119,
+        8279117,
+        8279116,
+        8279115,
+        8279114,
+        8279113,
+        8279112,
+        8279111,
+        8279110,
+        8279107,
+        8279106,
+        8279105,
+        8279104,
+        8279103,
+        8279102,
+        8279101,
+        8276120,
+        8276119,
+        8276114,
+        8276113,
+        8276112,
+        8276111,
+        8276110,
+        8276109,
+        8276107,
+        8276106,
+        8276105,
+        8276104,
+        8276103,
+        8276102,
+        8276101,
+        8275115,
+        8275114,
+        8275113,
+        8275111,
+        8275110,
+        8275109,
+        8275108,
+        8275106,
+        8275105,
+        8275104,
+        8275103,
+        8275102,
+        8275101,
+        8274119,
+        8273122,
+        8273121,
+        8273120,
+        8273119,
+        8273118,
+        8273116,
+        8273115,
+        8273114,
+        8273113,
+        8273112,
+        8273111,
+        8273109,
+        8273108,
+        8273107,
+        8273106,
+        8273105,
+        8273104,
+        8273103,
+        8273102,
+        8273101,
+        8272117,
+        8272115,
+        8272112,
+        8272111,
+        8272110,
+        8272109,
+        8272107,
+        8272106,
+        8272105,
+        8272104,
+        8272103,
+        8272102,
+        8272101,
+        8271113,
+        8271108,
+        8271106,
+        8267117,
+        8267116,
+        8267115,
+        8267114,
+        8267113,
+        8267112,
+        8267111,
+        8267110,
+        8267109,
+        8267108,
+        8267107,
+        8267105,
+        8267104,
+        8267103,
+        8267102,
+        8267101,
+        8264116,
+        8264108,
+        8264107,
+        8253106,
+        8253104,
+        8253103,
+        8253102,
+        8253101,
+        8229111,
+        8229110,
+        8229109,
+        8229107,
+        8229106,
+        8229105,
+        8229104,
+        8229103,
+        8229102,
+        8229101,
+        8225105,
+        8225103,
+        8225102,
+        8225101,
+        8224123,
+        8224122,
+        8224121,
+        8224120,
+        8224119,
+        8224118,
+        8224117,
+        8224116,
+        8224115,
+        8224113,
+        8224112,
+        8224110,
+        8224109,
+        8224108,
+        8224107,
+        8224106,
+        8224105,
+        8224104,
+        8224103,
+        8224102,
+        8224101,
+        8223117,
+        8223116,
+        8223115,
+        8223114,
+        8223113,
+        8223112,
+        8223111,
+        8223110,
+        8223109,
+        8223107,
+        8223106,
+        8223105,
+        8223104,
+        8223103,
+        8223102,
+        8223101,
+        8222103,
+        8222102,
+        8222101,
+        8221106,
+        8221105,
+        8221104,
+        8221102,
+        8221101,
+        8214112,
+        8214111,
+        8214110,
+        8214109,
+        8214107,
+        8214105,
+        8214104,
+        8214103,
+        8214102,
+        8214101,
+        8211121,
+        8211120,
+        8211119,
+        8211118,
+        8211117,
+        8211116,
+        8211115,
+        8211114,
+        8211113,
+        8211112,
+        8211111,
+        8211110,
+        8211109,
+        8211108,
+        8211107,
+        8211105,
+        8211104,
+        8211103,
+        8211102,
+        8211101,
+        8159148,
+        8159147,
+        8159144,
+        8159143,
+        8159142,
+        8159141,
+        8159140,
+        8159139,
+        8159138,
+        8159137,
+        8159135,
+        8159134,
+        8159133,
+        8159132,
+        8159131,
+        8159130,
+        8159129,
+        8159128,
+        8159127,
+        8159126,
+        8159125,
+        8159124,
+        8159123,
+        8159122,
+        8159121,
+        8159120,
+        8159119,
+        8159118,
+        8159117,
+        8159116,
+        8159115,
+        8159114,
+        8159113,
+        8159112,
+        8159111,
+        8159110,
+        8159109,
+        8159108,
+        8159107,
+        8159106,
+        8159105,
+        8159104,
+        8159103,
+        8159102,
+        8159101,
+        8143110,
+        8143109,
+        8143108,
+        8143106,
+        8143105,
+        8143104,
+        8143103,
+        8143102,
+        8143101,
+        8142148,
+        8142147,
+        8142146,
+        8142145,
+        8142144,
+        8142143,
+        8142142,
+        8142141,
+        8142140,
+        8142139,
+        8142138,
+        8142137,
+        8142136,
+        8142135,
+        8142134,
+        8142133,
+        8142132,
+        8142131,
+        8142130,
+        8142129,
+        8142128,
+        8142124,
+        8142123,
+        8142122,
+        8142121,
+        8142120,
+        8142119,
+        8142118,
+        8142117,
+        8142116,
+        8142115,
+        8142114,
+        8142113,
+        8142112,
+        8142111,
+        8142110,
+        8142109,
+        8142107,
+        8142106,
+        8142105,
+        8142104,
+        8142103,
+        8142102,
+        8142101,
+        8141138,
+        8141136,
+        8141135,
+        8141134,
+        8141133,
+        8141132,
+        8141130,
+        8141129,
+        8141128,
+        8141127,
+        8141125,
+        8141124,
+        8141123,
+        8141122,
+        8141121,
+        8141120,
+        8141119,
+        8141118,
+        8141117,
+        8141116,
+        8141115,
+        8141114,
+        8141113,
+        8141112,
+        8141111,
+        8141110,
+        8141109,
+        8141108,
+        8141107,
+        8141106,
+        8141105,
+        8141104,
+        8141103,
+        8141102,
+        8141101,
+        8139108,
+        8139107,
+        8139106,
+        8139105,
+        8139104,
+        8139103,
+        8139102,
+        8139101,
+        8132113,
+        8132112,
+        8132111,
+        8132110,
+        8132109,
+        8132108,
+        8132106,
+        8132105,
+        8132104,
+        8132103,
+        8132102,
+        8132101,
+        8131122,
+        8131116,
+        8131115,
+        8131114,
+        8131108,
+        8131104,
+        8131103,
+        7237122,
+        7237121,
+        7237120,
+        7237119,
+        7237118,
+        7237117,
+        7237116,
+        7237115,
+        7237114,
+        7237113,
+        7237112,
+        7237111,
+        7237110,
+        7237109,
+        7237107,
+        7237106,
+        7237105,
+        7237104,
+        7237103,
+        7237102,
+        7237101,
+        3119153,
+        3119152,
+        3119151,
+        3119150,
+        3119146,
+        3119138,
+        3119131,
+        3119129,
+        3119128,
+        3119126,
+        3119123,
+        3119122,
+        3119116,
+        3119115,
+        3119114,
+        3119106,
+        3119105,
+        3116163,
+        3116146,
+        3116141,
+        3116138,
+        3116137,
+        3116127,
+        2149117,
+        2149115,
+        2149114,
+        2149113,
+        2149112,
+        2149111,
+        2149110,
+        2149109,
+        1221121,
+        1221119,
+        1221118,
+        1221117
+      ],
+      "larebedrift_faget": "Underlagt godkjent",
+      "larebedrift_annet_fag": "Underlagt godkjent i annet fag",
+      "larlinger_faget": [
+        0
+      ],
+      "larlinger_totalt": [
+        0
+      ],
+      "medlem_ok_faget": "Underlagt medlem av OK i faget",
+      "navn_daglig_leder": null,
+      "adresse_daglig_leder": null,
+      "postnr_daglig_leder": null,
+      "poststed_daglig_leder": null,
+      "land_daglig_leder": null
+    },
+    {
+      "@id": "/potensielle_larebedrifters/19",
+      "@type": "PotensielleLarebedrifter",
+      "id": 19,
+      "orgnr": [
+        976140737
+      ],
+      "hovedenhet": [
+        990935556
+      ],
+      "navn": [
+        "7-ELEVEN 7051 DRAMMEN"
+      ],
+      "fylkenr": [
+        "33"
+      ],
+      "fylkenavn": "Buskerud",
+      "kommunenr": [
+        "3301"
+      ],
+      "kommunenavn": "Drammen",
+      "stillinger": [
+        2
+      ],
+      "aarsverk": [
+        2
+      ],
+      "vikarstillinger": [
+        0
+      ],
+      "programomradekode6": [
+        "SRSLG3"
+      ],
+      "telefon_virksomhet": null,
+      "mobil_virksomhet": null,
+      "url_virksomhet": null,
+      "besoksadr_virksomhet": null,
+      "postnr_virksomhet": null,
+      "poststed_virksomhet": null,
+      "studiebeskrivelse_nid": [
+        398712
+      ],
+      "studiebeskrivelse_tittel": [
+        "Salgsfag"
+      ],
+      "programomradekode10": [
+        "SRSLG3----"
+      ],
+      "yrke_nid": [
+        3962572
+      ],
+      "yrke_tittel": [
+        "Butikksjef"
+      ],
+      "yrkeskode_styrk98": [
+        1314108,
+        1314102,
+        1233105,
+        1224121,
+        1210197,
+        1210106
+      ],
+      "larebedrift_faget": "Underlagt godkjent",
+      "larebedrift_annet_fag": "Underlagt godkjent i annet fag",
+      "larlinger_faget": [
+        0
+      ],
+      "larlinger_totalt": [
+        0
+      ],
+      "medlem_ok_faget": null,
+      "navn_daglig_leder": null,
+      "adresse_daglig_leder": null,
+      "postnr_daglig_leder": null,
+      "poststed_daglig_leder": null,
+      "land_daglig_leder": null
+    },
+    {
+      "@id": "/potensielle_larebedrifters/20",
+      "@type": "PotensielleLarebedrifter",
+      "id": 20,
+      "orgnr": [
+        976140737
+      ],
+      "hovedenhet": [
+        990935556
+      ],
+      "navn": [
+        "7-ELEVEN 7051 DRAMMEN"
+      ],
+      "fylkenr": [
+        "33"
+      ],
+      "fylkenavn": "Buskerud",
+      "kommunenr": [
+        "3301"
+      ],
+      "kommunenavn": "Drammen",
+      "stillinger": [
+        2
+      ],
+      "aarsverk": [
+        2
+      ],
+      "vikarstillinger": [
+        0
+      ],
+      "programomradekode6": [
+        "SSSLG3"
+      ],
+      "telefon_virksomhet": null,
+      "mobil_virksomhet": null,
+      "url_virksomhet": null,
+      "besoksadr_virksomhet": null,
+      "postnr_virksomhet": null,
+      "poststed_virksomhet": null,
+      "studiebeskrivelse_nid": [
+        398712
+      ],
+      "studiebeskrivelse_tittel": [
+        "Salgsfag"
+      ],
+      "programomradekode10": [
+        "SSSLG3----"
+      ],
+      "yrke_nid": [
+        3962572
+      ],
+      "yrke_tittel": [
+        "Butikksjef"
+      ],
+      "yrkeskode_styrk98": [
+        1314108,
+        1314102,
+        1233105,
+        1224121,
+        1210197,
+        1210106
+      ],
+      "larebedrift_faget": "Underlagt godkjent",
+      "larebedrift_annet_fag": "Underlagt godkjent i annet fag",
+      "larlinger_faget": [
+        0
+      ],
+      "larlinger_totalt": [
+        0
+      ],
+      "medlem_ok_faget": null,
+      "navn_daglig_leder": null,
+      "adresse_daglig_leder": null,
+      "postnr_daglig_leder": null,
+      "poststed_daglig_leder": null,
+      "land_daglig_leder": null
+    },
+    {
+      "@id": "/potensielle_larebedrifters/21",
+      "@type": "PotensielleLarebedrifter",
+      "id": 21,
+      "orgnr": [
+        976140737
+      ],
+      "hovedenhet": [
+        990935556
+      ],
+      "navn": [
+        "7-ELEVEN 7051 DRAMMEN"
+      ],
+      "fylkenr": [
+        "33"
+      ],
+      "fylkenavn": "Buskerud",
+      "kommunenr": [
+        "3301"
+      ],
+      "kommunenavn": "Drammen",
+      "stillinger": [
+        8
+      ],
+      "aarsverk": [
+        2
+      ],
+      "vikarstillinger": [
+        0
+      ],
+      "programomradekode6": [
+        "SSSLG3"
+      ],
+      "telefon_virksomhet": null,
+      "mobil_virksomhet": null,
+      "url_virksomhet": null,
+      "besoksadr_virksomhet": null,
+      "postnr_virksomhet": null,
+      "poststed_virksomhet": null,
+      "studiebeskrivelse_nid": [
+        398712
+      ],
+      "studiebeskrivelse_tittel": [
+        "Salgsfag"
+      ],
+      "programomradekode10": [
+        "SSSLG3----"
+      ],
+      "yrke_nid": [
+        395767
+      ],
+      "yrke_tittel": [
+        "Butikkmedarbeider"
+      ],
+      "yrkeskode_styrk98": [
+        5221138,
+        5221162,
+        5221157,
+        5221156,
+        5221155,
+        5221154,
+        5221153,
+        5221152,
+        5221151,
+        5221149,
+        5221147,
+        5221146,
+        5221145,
+        5221144,
+        5221143,
+        5221142,
+        5221141,
+        5221140,
+        5221139,
+        5221137,
+        5221136,
+        5221135,
+        5221133,
+        5221132,
+        5221131,
+        5221130,
+        5221129,
+        5221127,
+        5221126,
+        5221124,
+        5221123,
+        5221122,
+        5221121,
+        5221120,
+        5221119,
+        5221118,
+        5221107,
+        5221117,
+        5221116,
+        5221114,
+        5221111,
+        5221110,
+        5221106,
+        5221105,
+        5221102,
+        5221101,
+        1314109,
+        1314108,
+        1314106,
+        1314105,
+        1314104,
+        1314102,
+        1224121,
+        1224109,
+        1210206,
+        1210200,
+        1210197,
+        1210134,
+        1210127,
+        1210106,
+        5221104
+      ],
+      "larebedrift_faget": "Underlagt godkjent",
+      "larebedrift_annet_fag": "Underlagt godkjent i annet fag",
+      "larlinger_faget": [
+        0
+      ],
+      "larlinger_totalt": [
+        0
+      ],
+      "medlem_ok_faget": null,
+      "navn_daglig_leder": null,
+      "adresse_daglig_leder": null,
+      "postnr_daglig_leder": null,
+      "poststed_daglig_leder": null,
+      "land_daglig_leder": null
+    },
+    {
+      "@id": "/potensielle_larebedrifters/22",
+      "@type": "PotensielleLarebedrifter",
+      "id": 22,
+      "orgnr": [
+        976140737
+      ],
+      "hovedenhet": [
+        990935556
+      ],
+      "navn": [
+        "7-ELEVEN 7051 DRAMMEN"
+      ],
+      "fylkenr": [
+        "33"
+      ],
+      "fylkenavn": "Buskerud",
+      "kommunenr": [
+        "3301"
+      ],
+      "kommunenavn": "Drammen",
+      "stillinger": [
+        7
+      ],
+      "aarsverk": [
+        2
+      ],
+      "vikarstillinger": [
+        0
+      ],
+      "programomradekode6": [
+        "SRSLG3"
+      ],
+      "telefon_virksomhet": null,
+      "mobil_virksomhet": null,
+      "url_virksomhet": null,
+      "besoksadr_virksomhet": null,
+      "postnr_virksomhet": null,
+      "poststed_virksomhet": null,
+      "studiebeskrivelse_nid": [
+        398712
+      ],
+      "studiebeskrivelse_tittel": [
+        "Salgsfag"
+      ],
+      "programomradekode10": [
+        "SRSLG3----"
+      ],
+      "yrke_nid": [
+        396030
+      ],
+      "yrke_tittel": [
+        "Salgsmedarbeider"
+      ],
+      "yrkeskode_styrk98": [
+        5224108,
+        5224106,
+        5224105,
+        5224103,
+        5224102,
+        5224101,
+        5223123,
+        5223122,
+        5223121,
+        5223120,
+        5223119,
+        5223117,
+        5223116,
+        5223115,
+        5223114,
+        5223113,
+        5223112,
+        5223111,
+        5223110,
+        5223109,
+        5223108,
+        5223107,
+        5223106,
+        5223103,
+        5223102,
+        5223101,
+        5221157,
+        5221156,
+        5221155,
+        5221152,
+        5221149,
+        5221147,
+        5221145,
+        5221143,
+        5221142,
+        5221140,
+        5221138,
+        5221132,
+        5221131,
+        5221130,
+        5221129,
+        5221128,
+        5221126,
+        5221125,
+        5221124,
+        5221123,
+        5221122,
+        5221121,
+        5221119,
+        5221118,
+        5221117,
+        5221114,
+        5221113,
+        5221111,
+        5221110,
+        5221109,
+        5221108,
+        5221107,
+        5221106,
+        5221105,
+        5221103,
+        4221107,
+        4211105,
+        4211102,
+        3431116,
+        3423103,
+        3419128,
+        3415140,
+        3415139,
+        3415137,
+        3415135,
+        3415134,
+        3415133,
+        3415132,
+        3415131,
+        3415130,
+        3415128,
+        3415125,
+        3415124,
+        3415123,
+        3415120,
+        3415118,
+        3415117,
+        3415116,
+        3415115,
+        3415114,
+        3415112,
+        3415111,
+        3415110,
+        3415108,
+        3415102,
+        1233105,
+        1233104,
+        3419137
+      ],
+      "larebedrift_faget": "Underlagt godkjent",
+      "larebedrift_annet_fag": "Underlagt godkjent i annet fag",
+      "larlinger_faget": [
+        0
+      ],
+      "larlinger_totalt": [
+        0
+      ],
+      "medlem_ok_faget": null,
+      "navn_daglig_leder": null,
+      "adresse_daglig_leder": null,
+      "postnr_daglig_leder": null,
+      "poststed_daglig_leder": null,
+      "land_daglig_leder": null
+    },
+    {
+      "@id": "/potensielle_larebedrifters/23",
+      "@type": "PotensielleLarebedrifter",
+      "id": 23,
+      "orgnr": [
+        976140737
+      ],
+      "hovedenhet": [
+        990935556
+      ],
+      "navn": [
+        "7-ELEVEN 7051 DRAMMEN"
+      ],
+      "fylkenr": [
+        "33"
+      ],
+      "fylkenavn": "Buskerud",
+      "kommunenr": [
+        "3301"
+      ],
+      "kommunenavn": "Drammen",
+      "stillinger": [
+        7
+      ],
+      "aarsverk": [
+        2
+      ],
+      "vikarstillinger": [
+        0
+      ],
+      "programomradekode6": [
+        "SSSLG3"
+      ],
+      "telefon_virksomhet": null,
+      "mobil_virksomhet": null,
+      "url_virksomhet": null,
+      "besoksadr_virksomhet": null,
+      "postnr_virksomhet": null,
+      "poststed_virksomhet": null,
+      "studiebeskrivelse_nid": [
+        398712
+      ],
+      "studiebeskrivelse_tittel": [
+        "Salgsfag"
+      ],
+      "programomradekode10": [
+        "SSSLG3----"
+      ],
+      "yrke_nid": [
+        396030
+      ],
+      "yrke_tittel": [
+        "Salgsmedarbeider"
+      ],
+      "yrkeskode_styrk98": [
+        5224108,
+        5224106,
+        5224105,
+        5224103,
+        5224102,
+        5224101,
+        5223123,
+        5223122,
+        5223121,
+        5223120,
+        5223119,
+        5223117,
+        5223116,
+        5223115,
+        5223114,
+        5223113,
+        5223112,
+        5223111,
+        5223110,
+        5223109,
+        5223108,
+        5223107,
+        5223106,
+        5223103,
+        5223102,
+        5223101,
+        5221157,
+        5221156,
+        5221155,
+        5221152,
+        5221149,
+        5221147,
+        5221145,
+        5221143,
+        5221142,
+        5221140,
+        5221138,
+        5221132,
+        5221131,
+        5221130,
+        5221129,
+        5221128,
+        5221126,
+        5221125,
+        5221124,
+        5221123,
+        5221122,
+        5221121,
+        5221119,
+        5221118,
+        5221117,
+        5221114,
+        5221113,
+        5221111,
+        5221110,
+        5221109,
+        5221108,
+        5221107,
+        5221106,
+        5221105,
+        5221103,
+        4221107,
+        4211105,
+        4211102,
+        3431116,
+        3423103,
+        3419128,
+        3415140,
+        3415139,
+        3415137,
+        3415135,
+        3415134,
+        3415133,
+        3415132,
+        3415131,
+        3415130,
+        3415128,
+        3415125,
+        3415124,
+        3415123,
+        3415120,
+        3415118,
+        3415117,
+        3415116,
+        3415115,
+        3415114,
+        3415112,
+        3415111,
+        3415110,
+        3415108,
+        3415102,
+        1233105,
+        1233104,
+        3419137
+      ],
+      "larebedrift_faget": "Underlagt godkjent",
+      "larebedrift_annet_fag": "Underlagt godkjent i annet fag",
+      "larlinger_faget": [
+        0
+      ],
+      "larlinger_totalt": [
+        0
+      ],
+      "medlem_ok_faget": null,
+      "navn_daglig_leder": null,
+      "adresse_daglig_leder": null,
+      "postnr_daglig_leder": null,
+      "poststed_daglig_leder": null,
+      "land_daglig_leder": null
+    },
+    {
+      "@id": "/potensielle_larebedrifters/24",
+      "@type": "PotensielleLarebedrifter",
+      "id": 24,
+      "orgnr": [
+        976140737
+      ],
+      "hovedenhet": [
+        990935556
+      ],
+      "navn": [
+        "7-ELEVEN 7051 DRAMMEN"
+      ],
+      "fylkenr": [
+        "33"
+      ],
+      "fylkenavn": "Buskerud",
+      "kommunenr": [
+        "3301"
+      ],
+      "kommunenavn": "Drammen",
+      "stillinger": [
+        8
+      ],
+      "aarsverk": [
+        2
+      ],
+      "vikarstillinger": [
+        0
+      ],
+      "programomradekode6": [
+        "SRSLG3"
+      ],
+      "telefon_virksomhet": null,
+      "mobil_virksomhet": null,
+      "url_virksomhet": null,
+      "besoksadr_virksomhet": null,
+      "postnr_virksomhet": null,
+      "poststed_virksomhet": null,
+      "studiebeskrivelse_nid": [
+        398712
+      ],
+      "studiebeskrivelse_tittel": [
+        "Salgsfag"
+      ],
+      "programomradekode10": [
+        "SRSLG3----"
+      ],
+      "yrke_nid": [
+        395767
+      ],
+      "yrke_tittel": [
+        "Butikkmedarbeider"
+      ],
+      "yrkeskode_styrk98": [
+        5221138,
+        5221162,
+        5221157,
+        5221156,
+        5221155,
+        5221154,
+        5221153,
+        5221152,
+        5221151,
+        5221149,
+        5221147,
+        5221146,
+        5221145,
+        5221144,
+        5221143,
+        5221142,
+        5221141,
+        5221140,
+        5221139,
+        5221137,
+        5221136,
+        5221135,
+        5221133,
+        5221132,
+        5221131,
+        5221130,
+        5221129,
+        5221127,
+        5221126,
+        5221124,
+        5221123,
+        5221122,
+        5221121,
+        5221120,
+        5221119,
+        5221118,
+        5221107,
+        5221117,
+        5221116,
+        5221114,
+        5221111,
+        5221110,
+        5221106,
+        5221105,
+        5221102,
+        5221101,
+        1314109,
+        1314108,
+        1314106,
+        1314105,
+        1314104,
+        1314102,
+        1224121,
+        1224109,
+        1210206,
+        1210200,
+        1210197,
+        1210134,
+        1210127,
+        1210106,
+        5221104
+      ],
+      "larebedrift_faget": "Underlagt godkjent",
+      "larebedrift_annet_fag": "Underlagt godkjent i annet fag",
+      "larlinger_faget": [
+        0
+      ],
+      "larlinger_totalt": [
+        0
+      ],
+      "medlem_ok_faget": null,
+      "navn_daglig_leder": null,
+      "adresse_daglig_leder": null,
+      "postnr_daglig_leder": null,
+      "poststed_daglig_leder": null,
+      "land_daglig_leder": null
+    },
+    {
+      "@id": "/potensielle_larebedrifters/25",
+      "@type": "PotensielleLarebedrifter",
+      "id": 25,
+      "orgnr": [
+        976085116
+      ],
+      "hovedenhet": [
+        927383438
+      ],
+      "navn": [
+        "7-ELEVEN 7054 SCHOUS PLASS"
+      ],
+      "fylkenr": [
+        "03"
+      ],
+      "fylkenavn": "Oslo",
+      "kommunenr": [
+        "0301"
+      ],
+      "kommunenavn": "Oslo",
+      "stillinger": [
+        8
+      ],
+      "aarsverk": [
+        2
+      ],
+      "vikarstillinger": [
+        2
+      ],
+      "programomradekode6": [
+        "SRSLG3"
+      ],
+      "telefon_virksomhet": null,
+      "mobil_virksomhet": null,
+      "url_virksomhet": null,
+      "besoksadr_virksomhet": null,
+      "postnr_virksomhet": null,
+      "poststed_virksomhet": null,
+      "studiebeskrivelse_nid": [
+        398712
+      ],
+      "studiebeskrivelse_tittel": [
+        "Salgsfag"
+      ],
+      "programomradekode10": [
+        "SRSLG3----"
+      ],
+      "yrke_nid": [
+        396030
+      ],
+      "yrke_tittel": [
+        "Salgsmedarbeider"
+      ],
+      "yrkeskode_styrk98": [
+        5224108,
+        5224106,
+        5224105,
+        5224103,
+        5224102,
+        5224101,
+        5223123,
+        5223122,
+        5223121,
+        5223120,
+        5223119,
+        5223117,
+        5223116,
+        5223115,
+        5223114,
+        5223113,
+        5223112,
+        5223111,
+        5223110,
+        5223109,
+        5223108,
+        5223107,
+        5223106,
+        5223103,
+        5223102,
+        5223101,
+        5221157,
+        5221156,
+        5221155,
+        5221152,
+        5221149,
+        5221147,
+        5221145,
+        5221143,
+        5221142,
+        5221140,
+        5221138,
+        5221132,
+        5221131,
+        5221130,
+        5221129,
+        5221128,
+        5221126,
+        5221125,
+        5221124,
+        5221123,
+        5221122,
+        5221121,
+        5221119,
+        5221118,
+        5221117,
+        5221114,
+        5221113,
+        5221111,
+        5221110,
+        5221109,
+        5221108,
+        5221107,
+        5221106,
+        5221105,
+        5221103,
+        4221107,
+        4211105,
+        4211102,
+        3431116,
+        3423103,
+        3419128,
+        3415140,
+        3415139,
+        3415137,
+        3415135,
+        3415134,
+        3415133,
+        3415132,
+        3415131,
+        3415130,
+        3415128,
+        3415125,
+        3415124,
+        3415123,
+        3415120,
+        3415118,
+        3415117,
+        3415116,
+        3415115,
+        3415114,
+        3415112,
+        3415111,
+        3415110,
+        3415108,
+        3415102,
+        1233105,
+        1233104,
+        3419137
+      ],
+      "larebedrift_faget": "Underlagt godkjent",
+      "larebedrift_annet_fag": "Underlagt godkjent i annet fag",
+      "larlinger_faget": [
+        0
+      ],
+      "larlinger_totalt": [
+        0
+      ],
+      "medlem_ok_faget": "Underlagt medlem av OK i faget",
+      "navn_daglig_leder": "Agnihotri, Vipan Kumar (for KIOSKDRIFT VIPAN KUMAR AGNIHOTRI AS)",
+      "adresse_daglig_leder": "Berglyveien 28 G",
+      "postnr_daglig_leder": "1262",
+      "poststed_daglig_leder": "OSLO",
+      "land_daglig_leder": "NO"
+    },
+    {
+      "@id": "/potensielle_larebedrifters/26",
+      "@type": "PotensielleLarebedrifter",
+      "id": 26,
+      "orgnr": [
+        976085116
+      ],
+      "hovedenhet": [
+        927383438
+      ],
+      "navn": [
+        "7-ELEVEN 7054 SCHOUS PLASS"
+      ],
+      "fylkenr": [
+        "03"
+      ],
+      "fylkenavn": "Oslo",
+      "kommunenr": [
+        "0301"
+      ],
+      "kommunenavn": "Oslo",
+      "stillinger": [
+        8
+      ],
+      "aarsverk": [
+        2
+      ],
+      "vikarstillinger": [
+        2
+      ],
+      "programomradekode6": [
+        "SSSLG3"
+      ],
+      "telefon_virksomhet": null,
+      "mobil_virksomhet": null,
+      "url_virksomhet": null,
+      "besoksadr_virksomhet": null,
+      "postnr_virksomhet": null,
+      "poststed_virksomhet": null,
+      "studiebeskrivelse_nid": [
+        398712
+      ],
+      "studiebeskrivelse_tittel": [
+        "Salgsfag"
+      ],
+      "programomradekode10": [
+        "SSSLG3----"
+      ],
+      "yrke_nid": [
+        396030
+      ],
+      "yrke_tittel": [
+        "Salgsmedarbeider"
+      ],
+      "yrkeskode_styrk98": [
+        5224108,
+        5224106,
+        5224105,
+        5224103,
+        5224102,
+        5224101,
+        5223123,
+        5223122,
+        5223121,
+        5223120,
+        5223119,
+        5223117,
+        5223116,
+        5223115,
+        5223114,
+        5223113,
+        5223112,
+        5223111,
+        5223110,
+        5223109,
+        5223108,
+        5223107,
+        5223106,
+        5223103,
+        5223102,
+        5223101,
+        5221157,
+        5221156,
+        5221155,
+        5221152,
+        5221149,
+        5221147,
+        5221145,
+        5221143,
+        5221142,
+        5221140,
+        5221138,
+        5221132,
+        5221131,
+        5221130,
+        5221129,
+        5221128,
+        5221126,
+        5221125,
+        5221124,
+        5221123,
+        5221122,
+        5221121,
+        5221119,
+        5221118,
+        5221117,
+        5221114,
+        5221113,
+        5221111,
+        5221110,
+        5221109,
+        5221108,
+        5221107,
+        5221106,
+        5221105,
+        5221103,
+        4221107,
+        4211105,
+        4211102,
+        3431116,
+        3423103,
+        3419128,
+        3415140,
+        3415139,
+        3415137,
+        3415135,
+        3415134,
+        3415133,
+        3415132,
+        3415131,
+        3415130,
+        3415128,
+        3415125,
+        3415124,
+        3415123,
+        3415120,
+        3415118,
+        3415117,
+        3415116,
+        3415115,
+        3415114,
+        3415112,
+        3415111,
+        3415110,
+        3415108,
+        3415102,
+        1233105,
+        1233104,
+        3419137
+      ],
+      "larebedrift_faget": "Underlagt godkjent",
+      "larebedrift_annet_fag": "Underlagt godkjent i annet fag",
+      "larlinger_faget": [
+        0
+      ],
+      "larlinger_totalt": [
+        0
+      ],
+      "medlem_ok_faget": "Underlagt medlem av OK i faget",
+      "navn_daglig_leder": "Agnihotri, Vipan Kumar (for KIOSKDRIFT VIPAN KUMAR AGNIHOTRI AS)",
+      "adresse_daglig_leder": "Berglyveien 28 G",
+      "postnr_daglig_leder": "1262",
+      "poststed_daglig_leder": "OSLO",
+      "land_daglig_leder": "NO"
+    },
+    {
+      "@id": "/potensielle_larebedrifters/27",
+      "@type": "PotensielleLarebedrifter",
+      "id": 27,
+      "orgnr": [
+        976085116
+      ],
+      "hovedenhet": [
+        927383438
+      ],
+      "navn": [
+        "7-ELEVEN 7054 SCHOUS PLASS"
+      ],
+      "fylkenr": [
+        "03"
+      ],
+      "fylkenavn": "Oslo",
+      "kommunenr": [
+        "0301"
+      ],
+      "kommunenavn": "Oslo",
+      "stillinger": [
+        10
+      ],
+      "aarsverk": [
+        2
+      ],
+      "vikarstillinger": [
+        2
+      ],
+      "programomradekode6": [
+        "SRSLG3"
+      ],
+      "telefon_virksomhet": null,
+      "mobil_virksomhet": null,
+      "url_virksomhet": null,
+      "besoksadr_virksomhet": null,
+      "postnr_virksomhet": null,
+      "poststed_virksomhet": null,
+      "studiebeskrivelse_nid": [
+        398712
+      ],
+      "studiebeskrivelse_tittel": [
+        "Salgsfag"
+      ],
+      "programomradekode10": [
+        "SRSLG3----"
+      ],
+      "yrke_nid": [
+        395767
+      ],
+      "yrke_tittel": [
+        "Butikkmedarbeider"
+      ],
+      "yrkeskode_styrk98": [
+        5221138,
+        5221162,
+        5221157,
+        5221156,
+        5221155,
+        5221154,
+        5221153,
+        5221152,
+        5221151,
+        5221149,
+        5221147,
+        5221146,
+        5221145,
+        5221144,
+        5221143,
+        5221142,
+        5221141,
+        5221140,
+        5221139,
+        5221137,
+        5221136,
+        5221135,
+        5221133,
+        5221132,
+        5221131,
+        5221130,
+        5221129,
+        5221127,
+        5221126,
+        5221124,
+        5221123,
+        5221122,
+        5221121,
+        5221120,
+        5221119,
+        5221118,
+        5221107,
+        5221117,
+        5221116,
+        5221114,
+        5221111,
+        5221110,
+        5221106,
+        5221105,
+        5221102,
+        5221101,
+        1314109,
+        1314108,
+        1314106,
+        1314105,
+        1314104,
+        1314102,
+        1224121,
+        1224109,
+        1210206,
+        1210200,
+        1210197,
+        1210134,
+        1210127,
+        1210106,
+        5221104
+      ],
+      "larebedrift_faget": "Underlagt godkjent",
+      "larebedrift_annet_fag": "Underlagt godkjent i annet fag",
+      "larlinger_faget": [
+        0
+      ],
+      "larlinger_totalt": [
+        0
+      ],
+      "medlem_ok_faget": "Underlagt medlem av OK i faget",
+      "navn_daglig_leder": "Agnihotri, Vipan Kumar (for KIOSKDRIFT VIPAN KUMAR AGNIHOTRI AS)",
+      "adresse_daglig_leder": "Berglyveien 28 G",
+      "postnr_daglig_leder": "1262",
+      "poststed_daglig_leder": "OSLO",
+      "land_daglig_leder": "NO"
+    },
+    {
+      "@id": "/potensielle_larebedrifters/28",
+      "@type": "PotensielleLarebedrifter",
+      "id": 28,
+      "orgnr": [
+        976085116
+      ],
+      "hovedenhet": [
+        927383438
+      ],
+      "navn": [
+        "7-ELEVEN 7054 SCHOUS PLASS"
+      ],
+      "fylkenr": [
+        "03"
+      ],
+      "fylkenavn": "Oslo",
+      "kommunenr": [
+        "0301"
+      ],
+      "kommunenavn": "Oslo",
+      "stillinger": [
+        10
+      ],
+      "aarsverk": [
+        2
+      ],
+      "vikarstillinger": [
+        2
+      ],
+      "programomradekode6": [
+        "SSSLG3"
+      ],
+      "telefon_virksomhet": null,
+      "mobil_virksomhet": null,
+      "url_virksomhet": null,
+      "besoksadr_virksomhet": null,
+      "postnr_virksomhet": null,
+      "poststed_virksomhet": null,
+      "studiebeskrivelse_nid": [
+        398712
+      ],
+      "studiebeskrivelse_tittel": [
+        "Salgsfag"
+      ],
+      "programomradekode10": [
+        "SSSLG3----"
+      ],
+      "yrke_nid": [
+        395767
+      ],
+      "yrke_tittel": [
+        "Butikkmedarbeider"
+      ],
+      "yrkeskode_styrk98": [
+        5221138,
+        5221162,
+        5221157,
+        5221156,
+        5221155,
+        5221154,
+        5221153,
+        5221152,
+        5221151,
+        5221149,
+        5221147,
+        5221146,
+        5221145,
+        5221144,
+        5221143,
+        5221142,
+        5221141,
+        5221140,
+        5221139,
+        5221137,
+        5221136,
+        5221135,
+        5221133,
+        5221132,
+        5221131,
+        5221130,
+        5221129,
+        5221127,
+        5221126,
+        5221124,
+        5221123,
+        5221122,
+        5221121,
+        5221120,
+        5221119,
+        5221118,
+        5221107,
+        5221117,
+        5221116,
+        5221114,
+        5221111,
+        5221110,
+        5221106,
+        5221105,
+        5221102,
+        5221101,
+        1314109,
+        1314108,
+        1314106,
+        1314105,
+        1314104,
+        1314102,
+        1224121,
+        1224109,
+        1210206,
+        1210200,
+        1210197,
+        1210134,
+        1210127,
+        1210106,
+        5221104
+      ],
+      "larebedrift_faget": "Underlagt godkjent",
+      "larebedrift_annet_fag": "Underlagt godkjent i annet fag",
+      "larlinger_faget": [
+        0
+      ],
+      "larlinger_totalt": [
+        0
+      ],
+      "medlem_ok_faget": "Underlagt medlem av OK i faget",
+      "navn_daglig_leder": "Agnihotri, Vipan Kumar (for KIOSKDRIFT VIPAN KUMAR AGNIHOTRI AS)",
+      "adresse_daglig_leder": "Berglyveien 28 G",
+      "postnr_daglig_leder": "1262",
+      "poststed_daglig_leder": "OSLO",
+      "land_daglig_leder": "NO"
+    },
+    {
+      "@id": "/potensielle_larebedrifters/29",
+      "@type": "PotensielleLarebedrifter",
+      "id": 29,
+      "orgnr": [
+        983788076
+      ],
+      "hovedenhet": [
+        927383438
+      ],
+      "navn": [
+        "7-ELEVEN 7065 OLAF RYES PLASS OSLO"
+      ],
+      "fylkenr": [
+        "03"
+      ],
+      "fylkenavn": "Oslo",
+      "kommunenr": [
+        "0301"
+      ],
+      "kommunenavn": "Oslo",
+      "stillinger": [
+        11
+      ],
+      "aarsverk": [
+        2
+      ],
+      "vikarstillinger": [
+        2
+      ],
+      "programomradekode6": [
+        "SSSLG3"
+      ],
+      "telefon_virksomhet": null,
+      "mobil_virksomhet": null,
+      "url_virksomhet": null,
+      "besoksadr_virksomhet": null,
+      "postnr_virksomhet": null,
+      "poststed_virksomhet": null,
+      "studiebeskrivelse_nid": [
+        398712
+      ],
+      "studiebeskrivelse_tittel": [
+        "Salgsfag"
+      ],
+      "programomradekode10": [
+        "SSSLG3----"
+      ],
+      "yrke_nid": [
+        396030
+      ],
+      "yrke_tittel": [
+        "Salgsmedarbeider"
+      ],
+      "yrkeskode_styrk98": [
+        5224108,
+        5224106,
+        5224105,
+        5224103,
+        5224102,
+        5224101,
+        5223123,
+        5223122,
+        5223121,
+        5223120,
+        5223119,
+        5223117,
+        5223116,
+        5223115,
+        5223114,
+        5223113,
+        5223112,
+        5223111,
+        5223110,
+        5223109,
+        5223108,
+        5223107,
+        5223106,
+        5223103,
+        5223102,
+        5223101,
+        5221157,
+        5221156,
+        5221155,
+        5221152,
+        5221149,
+        5221147,
+        5221145,
+        5221143,
+        5221142,
+        5221140,
+        5221138,
+        5221132,
+        5221131,
+        5221130,
+        5221129,
+        5221128,
+        5221126,
+        5221125,
+        5221124,
+        5221123,
+        5221122,
+        5221121,
+        5221119,
+        5221118,
+        5221117,
+        5221114,
+        5221113,
+        5221111,
+        5221110,
+        5221109,
+        5221108,
+        5221107,
+        5221106,
+        5221105,
+        5221103,
+        4221107,
+        4211105,
+        4211102,
+        3431116,
+        3423103,
+        3419128,
+        3415140,
+        3415139,
+        3415137,
+        3415135,
+        3415134,
+        3415133,
+        3415132,
+        3415131,
+        3415130,
+        3415128,
+        3415125,
+        3415124,
+        3415123,
+        3415120,
+        3415118,
+        3415117,
+        3415116,
+        3415115,
+        3415114,
+        3415112,
+        3415111,
+        3415110,
+        3415108,
+        3415102,
+        1233105,
+        1233104,
+        3419137
+      ],
+      "larebedrift_faget": "Underlagt godkjent",
+      "larebedrift_annet_fag": "Underlagt godkjent i annet fag",
+      "larlinger_faget": [
+        0
+      ],
+      "larlinger_totalt": [
+        0
+      ],
+      "medlem_ok_faget": "Underlagt medlem av OK i faget",
+      "navn_daglig_leder": "Agnihotri, Vipan Kumar (for KIOSKDRIFT VIPAN KUMAR AGNIHOTRI AS)",
+      "adresse_daglig_leder": "Berglyveien 28 G",
+      "postnr_daglig_leder": "1262",
+      "poststed_daglig_leder": "OSLO",
+      "land_daglig_leder": "NO"
+    }
+  ],
+  "hydra:view": {
+    "@id": "/yrkearbeidsliv/potensielle-larebedrifter?page=1",
+    "@type": "hydra:PartialCollectionView",
+    "hydra:first": "/yrkearbeidsliv/potensielle-larebedrifter?page=1",
+    "hydra:last": "/yrkearbeidsliv/potensielle-larebedrifter?page=21053",
+    "hydra:next": "/yrkearbeidsliv/potensielle-larebedrifter?page=2"
+  },
+  "hydra:search": {
+    "@type": "hydra:IriTemplate",
+    "hydra:template": "/yrkearbeidsliv/potensielle-larebedrifter{?uno_id,programomradekode6,fylkenr,kommunenr,yrkeskode_styrk98,sort}",
+    "hydra:variableRepresentation": "BasicRepresentation",
+    "hydra:mapping": [
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "uno_id",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "programomradekode6",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "fylkenr",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "kommunenr",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "yrkeskode_styrk98",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "sort",
+        "property": null,
+        "required": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,4675 @@
+{
+  "@context": "/contexts/Bedrifter_ikke_godkjente",
+  "@id": "/finnlarebedrift/bedrifter_ikke_godkjente",
+  "@type": "hydra:Collection",
+  "hydra:totalItems": 9139239,
+  "hydra:member": [
+    {
+      "@id": "/bedrifter_ikke_godkjentes/813310422",
+      "@type": "Bedrifter_ikke_godkjente",
+      "id": "813310422",
+      "forradrkommnavn": "Oslo",
+      "leaf_node": 1,
+      "path": "1.virksomhet",
+      "hovedenhet_navn": "OSLO KOMMUNE UTDANNINGSETATEN",
+      "orgnr": "813310422",
+      "forradrkommnr": "0301",
+      "navn": "AKTIVITETSSKOLEN L\u00d8REN",
+      "forradrfylkenavn": "Oslo",
+      "organisasjonsform_tittel": "Underenhet til n\u00e6ringsdrivende og offentlig forvaltning",
+      "sektorkode": "0",
+      "postadresse": "Postboks 6127, Etterstad",
+      "leaf_and_parent_vigo_godkjenninger_m_larling": null,
+      "hovedenhet": "976820037",
+      "leaf_and_parent_vigo_uten_godkjenninger": [
+        "HSBUA2",
+        "HSHEA3",
+        "DHDHV1",
+        "HSBUA3",
+        "HSHSF1",
+        "STUSP1",
+        "HSHEA2",
+        "HSAMB2"
+      ],
+      "ppostnr": "0602",
+      "tilbyr_arbeidskrafttjenester": false,
+      "forradrpostnr": "0580",
+      "ppoststed": "OSLO",
+      "forradrfylkenr": "03",
+      "bedriftens_aarsverk": 41.65,
+      "forradrland": "Norge",
+      "forradrpoststed": "OSLO",
+      "telefon": [
+        "23 46 70 70"
+      ],
+      "organisasjonsform_kode": "BEDR",
+      "lopende_kontrakter_totalt": 0,
+      "leaf_and_parent_medlem_opplaringskontor_orgnavn": null,
+      "ppostland": "Norge",
+      "ansatte_totalt": 71,
+      "antall_stillinger": 0,
+      "forretningsadr": "\u00d8kern torgvei 4",
+      "latlng_1_coordinate": 10.8025,
+      "parent_orgnumbers": [
+        "958935420",
+        "974767597",
+        "976820037"
+      ],
+      "parent_vigo_contracts": 2,
+      "leaf_and_parent_medlem_opplaringskontor_orgnr": null,
+      "latlng_0_coordinate": 59.9316,
+      "programomradekode6_med_ansatte": [
+        "HSBUA2",
+        "HSBUA3",
+        "HSHEA2",
+        "HSHEA3",
+        "HSHSF1"
+      ],
+      "parent_godkjenninger": null,
+      "yrke_aarsverk": null,
+      "children_orgnumbers": null,
+      "vigo_navn_opplaringskontor": null,
+      "vigo_orgnr": null,
+      "godkjenning_url": null,
+      "godkjenning_beskrivelse": null,
+      "leaf_and_parent_vigo_godkjenninger_utlopte": null,
+      "children_orgnames": null,
+      "yrke_orgnr": null,
+      "leaf_and_parent_vigo_godkjenninger_u_larling": null,
+      "vigo_forradrfylkenr": null,
+      "forelder_avstand": null,
+      "avtale_yff_skole_navn": null,
+      "godkjenning_registernavn": null,
+      "vigo_fylkenr": null,
+      "url": [
+        "utdanningsetaten.oslo.kommune.no"
+      ],
+      "avtale_yff_avtale_nid": null,
+      "vigo_programomradekode6": null,
+      "vigo_programomradekode5": null,
+      "avtale_yff_sluttkompetanse_navn": null,
+      "vigo_lopenr": null,
+      "rolle_person": null,
+      "yrke_nid": null,
+      "yrke_programomradekode6_hovedlop": null,
+      "avtale_yff_orgnr": null,
+      "forelder_orgnr": null,
+      "rolle": null,
+      "avtale_yff_skole_nid": null,
+      "vigo_forradrfylkenavn": null,
+      "mobil": null,
+      "leaf_godkjenninger": null,
+      "yrkeskode_styrk98_programomradekode6_hovedlop": null,
+      "yrkeskode_styrk98": [
+        "2512105",
+        "3320104",
+        "3460114",
+        "3460118",
+        "5131106",
+        "5131110",
+        "5131113",
+        "5131115",
+        "5131116",
+        "5131125",
+        "5131128"
+      ],
+      "avtale_yff_programomradekode6": null,
+      "vigo_godkjent_til_dato": null,
+      "godkjenning_godkjenner": null,
+      "forelder_navn": null,
+      "vigo_programomrade_tittel": null,
+      "vigo_sum_kontrakter": null,
+      "rolle_person_poststed": null,
+      "leaf_and_parent_avtaler_yff": null,
+      "aarsverk": null,
+      "godkjenninger": null,
+      "children_distances": null,
+      "sektorkode_tittel": null,
+      "vigo_fylkenavn": null,
+      "vigo_orgnr_opplaringskontor": null,
+      "medlemsbedrifter_larlinger_totalt": 0,
+      "_other_data": {
+        "descendants_grand_total": 0,
+        "lpg_har_laereplassgaranti": false,
+        "naringskode_nace": [
+          "Q",
+          "88",
+          "88.9",
+          "88.91",
+          "88.913"
+        ],
+        "naringskode_nace_tittel": [
+          "Skolefritidsordninger"
+        ],
+        "navn_suggest_no": [
+          "AKTIVITETSSKOLEN L\u00d8REN"
+        ],
+        "navn_suggest_edge_no": [
+          "AKTIVITETSSKOLEN L\u00d8REN"
+        ],
+        "navn_suggest_ngram_no": [
+          "AKTIVITETSSKOLEN L\u00d8REN"
+        ],
+        "navn_s_no": "AKTIVITETSSKOLEN L\u00d8REN",
+        "parent_distances": [
+          "3",
+          "2",
+          "1"
+        ],
+        "parent_orgnames": [
+          "OSLO KOMMUNE",
+          "OSLO KOMMUNE, BYR\u00c5DSAVDELING FOR UTDANNING",
+          "OSLO KOMMUNE UTDANNINGSETATEN"
+        ],
+        "top_parent_organisasjonsform_kode": "KOMM",
+        "top_parent_organisasjonsform_tittel": "Kommune",
+        "update_hash": "2388186366b6a7bc954d1f89fdba5fcb",
+        "yrkeskode_styrk98_tittel_str": [
+          "KONSULENT (PERSONAL)",
+          "SKOLEFRITIDSLEDER",
+          "MILJ\u00d8TERAPEUT (VEILEDNING)",
+          "MILJ\u00d8TERAPEUT (BEHANDLING)",
+          "BARNE- OG UNGDOMSARBEIDER",
+          "MILJ\u00d8ARBEIDER (BARNE- OG UNGDOMSARBEID)",
+          "ARBEIDSLEDER (BARNE- OG UNGDOMSARBEID)",
+          "ASSISTENT (SKOLEFRITIDSORDNING)",
+          "SKOLEFRITIDSASSISTENT",
+          "SKOLEASSISTENT",
+          "L\u00c6RLING (BARNE- OG UNGDOMSARBEID)"
+        ],
+        "_version_": 1821785453430308864,
+        "funksjon": "finnlarebedrift"
+      },
+      "_child_documents": [
+        {
+          "forelder_avstand": 3,
+          "forelder_navn": "OSLO KOMMUNE",
+          "forelder_orgnr": "958935420",
+          "id": "813310422_958935420",
+          "path": "2.virksomhet.forelder",
+          "_version_": 1821785453430308864
+        },
+        {
+          "forelder_avstand": 2,
+          "forelder_navn": "OSLO KOMMUNE, BYR\u00c5DSAVDELING FOR UTDANNING",
+          "forelder_orgnr": "974767597",
+          "id": "813310422_974767597",
+          "path": "2.virksomhet.forelder",
+          "_version_": 1821785453430308864
+        },
+        {
+          "forelder_avstand": 1,
+          "forelder_navn": "OSLO KOMMUNE UTDANNINGSETATEN",
+          "forelder_orgnr": "976820037",
+          "id": "813310422_976820037",
+          "path": "2.virksomhet.forelder",
+          "_version_": 1821785453430308864
+        }
+      ]
+    },
+    {
+      "@id": "/bedrifter_ikke_godkjentes/821596572",
+      "@type": "Bedrifter_ikke_godkjente",
+      "id": "821596572",
+      "forradrkommnavn": "Oslo",
+      "leaf_node": 0,
+      "path": "1.virksomhet",
+      "hovedenhet_navn": null,
+      "orgnr": "821596572",
+      "forradrkommnr": "0301",
+      "navn": "NORGES SKIFORBUND",
+      "forradrfylkenavn": "Oslo",
+      "organisasjonsform_tittel": "Forening/lag/innretning",
+      "sektorkode": "7000",
+      "postadresse": null,
+      "leaf_and_parent_vigo_godkjenninger_m_larling": null,
+      "hovedenhet": "0",
+      "leaf_and_parent_vigo_uten_godkjenninger": null,
+      "ppostnr": "0840",
+      "tilbyr_arbeidskrafttjenester": false,
+      "forradrpostnr": "0855",
+      "ppoststed": "OSLO",
+      "forradrfylkenr": "03",
+      "bedriftens_aarsverk": 0,
+      "forradrland": "Norge",
+      "forradrpoststed": "OSLO",
+      "telefon": [
+        "21 02 90 00"
+      ],
+      "organisasjonsform_kode": "FLI",
+      "lopende_kontrakter_totalt": 0,
+      "leaf_and_parent_medlem_opplaringskontor_orgnavn": null,
+      "ppostland": "Norge",
+      "ansatte_totalt": 148,
+      "antall_stillinger": 0,
+      "forretningsadr": "Sognsveien 75 B1",
+      "latlng_1_coordinate": 10.7321,
+      "parent_orgnumbers": null,
+      "parent_vigo_contracts": 0,
+      "leaf_and_parent_medlem_opplaringskontor_orgnr": null,
+      "latlng_0_coordinate": 59.9472,
+      "programomradekode6_med_ansatte": null,
+      "parent_godkjenninger": null,
+      "yrke_aarsverk": null,
+      "children_orgnumbers": [
+        "974126729"
+      ],
+      "vigo_navn_opplaringskontor": null,
+      "vigo_orgnr": null,
+      "godkjenning_url": null,
+      "godkjenning_beskrivelse": null,
+      "leaf_and_parent_vigo_godkjenninger_utlopte": null,
+      "children_orgnames": [
+        "NORGES SKIFORBUND"
+      ],
+      "yrke_orgnr": null,
+      "leaf_and_parent_vigo_godkjenninger_u_larling": null,
+      "vigo_forradrfylkenr": null,
+      "forelder_avstand": null,
+      "avtale_yff_skole_navn": null,
+      "godkjenning_registernavn": null,
+      "vigo_fylkenr": null,
+      "url": [
+        "www.skiforbundet.no"
+      ],
+      "avtale_yff_avtale_nid": null,
+      "vigo_programomradekode6": null,
+      "vigo_programomradekode5": null,
+      "avtale_yff_sluttkompetanse_navn": null,
+      "vigo_lopenr": null,
+      "rolle_person": null,
+      "yrke_nid": null,
+      "yrke_programomradekode6_hovedlop": null,
+      "avtale_yff_orgnr": null,
+      "forelder_orgnr": null,
+      "rolle": null,
+      "avtale_yff_skole_nid": null,
+      "vigo_forradrfylkenavn": null,
+      "mobil": null,
+      "leaf_godkjenninger": null,
+      "yrkeskode_styrk98_programomradekode6_hovedlop": null,
+      "yrkeskode_styrk98": null,
+      "avtale_yff_programomradekode6": null,
+      "vigo_godkjent_til_dato": null,
+      "godkjenning_godkjenner": null,
+      "forelder_navn": null,
+      "vigo_programomrade_tittel": null,
+      "vigo_sum_kontrakter": null,
+      "rolle_person_poststed": null,
+      "leaf_and_parent_avtaler_yff": null,
+      "aarsverk": null,
+      "godkjenninger": null,
+      "children_distances": [
+        "1"
+      ],
+      "sektorkode_tittel": null,
+      "vigo_fylkenavn": null,
+      "vigo_orgnr_opplaringskontor": null,
+      "medlemsbedrifter_larlinger_totalt": 0,
+      "_other_data": {
+        "children_grandchildren_count": [
+          "0"
+        ],
+        "descendants_grand_total": 1,
+        "lpg_har_laereplassgaranti": false,
+        "naringskode_nace": [
+          "R",
+          "93",
+          "93.1",
+          "93.12",
+          "93.120"
+        ],
+        "naringskode_nace_tittel": [
+          "Idrettslag og -klubber"
+        ],
+        "navn_suggest_no": [
+          "NORGES SKIFORBUND"
+        ],
+        "navn_suggest_edge_no": [
+          "NORGES SKIFORBUND"
+        ],
+        "navn_suggest_ngram_no": [
+          "NORGES SKIFORBUND"
+        ],
+        "navn_s_no": "NORGES SKIFORBUND",
+        "parent_bedriftens_aarsverk": 136.75,
+        "parent_lopende_kontrakter_totalt": 0,
+        "top_parent_organisasjonsform_kode": "FLI",
+        "top_parent_organisasjonsform_tittel": "Forening/lag/innretning",
+        "update_hash": "0656cb5c4e26fdbd0ff4c031ebf28df6",
+        "_version_": 1821785454838546432,
+        "funksjon": "finnlarebedrift"
+      },
+      "_child_documents": [
+        {
+          "id": "821596572_1",
+          "path": "2.virksomhet.roller",
+          "rolle": "Daglig leder",
+          "rolle_person": "Keul, Ola",
+          "rolle_person_poststed": "0874 OSLO",
+          "_version_": 1821785454838546432
+        },
+        {
+          "id": "821596572_2",
+          "path": "2.virksomhet.roller",
+          "rolle": "Styrets leder",
+          "rolle_person": "Dyrhaug, Tove Moe",
+          "rolle_person_poststed": "7590 TYDAL",
+          "_version_": 1821785454838546432
+        },
+        {
+          "id": "821596572_3",
+          "path": "2.virksomhet.roller",
+          "rolle": "Nestleder",
+          "rolle_person": "Schaanning, Aage Elmenhorst",
+          "rolle_person_poststed": "1362 HOSLE",
+          "_version_": 1821785454838546432
+        },
+        {
+          "id": "821596572_4",
+          "path": "2.virksomhet.roller",
+          "rolle": "Styremedlem",
+          "rolle_person": "Karlsen, Sveinung",
+          "rolle_person_poststed": "9414 HARSTAD",
+          "_version_": 1821785454838546432
+        },
+        {
+          "id": "821596572_5",
+          "path": "2.virksomhet.roller",
+          "rolle": "Styremedlem",
+          "rolle_person": "Alveberg, Isabella Sabine",
+          "rolle_person_poststed": "1369 STABEKK",
+          "_version_": 1821785454838546432
+        },
+        {
+          "id": "821596572_6",
+          "path": "2.virksomhet.roller",
+          "rolle": "Styremedlem",
+          "rolle_person": "Fossheim, Edgar Andreas",
+          "rolle_person_poststed": "2070 R\u00c5HOLT",
+          "_version_": 1821785454838546432
+        },
+        {
+          "id": "821596572_7",
+          "path": "2.virksomhet.roller",
+          "rolle": "Styremedlem",
+          "rolle_person": "Enstad, Anne Cathrine",
+          "rolle_person_poststed": "2669 BJORLI",
+          "_version_": 1821785454838546432
+        },
+        {
+          "id": "821596572_8",
+          "path": "2.virksomhet.roller",
+          "rolle": "Styremedlem",
+          "rolle_person": "T\u00f8ndel, Merete",
+          "rolle_person_poststed": "1337 SANDVIKA",
+          "_version_": 1821785454838546432
+        },
+        {
+          "id": "821596572_9",
+          "path": "2.virksomhet.roller",
+          "rolle": "Styremedlem",
+          "rolle_person": "Skogstad, Torbj\u00f8rn Helge",
+          "rolle_person_poststed": "9055 MEISTERVIK",
+          "_version_": 1821785454838546432
+        },
+        {
+          "id": "821596572_10",
+          "path": "2.virksomhet.roller",
+          "rolle": "Styremedlem",
+          "rolle_person": "Tamburstuen, \u00d8ystein",
+          "rolle_person_poststed": "1338 SANDVIKA",
+          "_version_": 1821785454838546432
+        },
+        {
+          "id": "821596572_11",
+          "path": "2.virksomhet.roller",
+          "rolle": "Styremedlem",
+          "rolle_person": "Olsbakk, Henning Flaa",
+          "rolle_person_poststed": "1481 HAGAN",
+          "_version_": 1821785454838546432
+        },
+        {
+          "id": "821596572_12",
+          "path": "2.virksomhet.roller",
+          "rolle": "Styremedlem",
+          "rolle_person": "Sletvold, Mari Kvaale",
+          "rolle_person_poststed": "7048 TRONDHEIM",
+          "_version_": 1821785454838546432
+        },
+        {
+          "id": "821596572_13",
+          "path": "2.virksomhet.roller",
+          "rolle": "Styremedlem",
+          "rolle_person": "Helno, Sverre",
+          "rolle_person_poststed": "0273 OSLO",
+          "_version_": 1821785454838546432
+        },
+        {
+          "id": "821596572_14",
+          "path": "2.virksomhet.roller",
+          "rolle": "Styremedlem",
+          "rolle_person": "Korsen, Stine Aaseth",
+          "rolle_person_poststed": "0755 OSLO",
+          "_version_": 1821785454838546432
+        },
+        {
+          "id": "821596572_15",
+          "path": "2.virksomhet.roller",
+          "rolle": "Styremedlem",
+          "rolle_person": "Evjen, Ola",
+          "rolle_person_poststed": "7024 TRONDHEIM",
+          "_version_": 1821785454838546432
+        },
+        {
+          "id": "821596572_16",
+          "path": "2.virksomhet.roller",
+          "rolle": "Revisor",
+          "rolle_person": "DELOITTE AS",
+          "rolle_person_poststed": "0191 OSLO",
+          "_version_": 1821785454838546432
+        }
+      ]
+    },
+    {
+      "@id": "/bedrifter_ikke_godkjentes/825499962",
+      "@type": "Bedrifter_ikke_godkjente",
+      "id": "825499962",
+      "forradrkommnavn": "Oslo",
+      "leaf_node": 0,
+      "path": "1.virksomhet",
+      "hovedenhet_navn": null,
+      "orgnr": "825499962",
+      "forradrkommnr": "0301",
+      "navn": "SULT S4 AS",
+      "forradrfylkenavn": "Oslo",
+      "organisasjonsform_tittel": "Aksjeselskap",
+      "sektorkode": "2100",
+      "postadresse": "Parkveien 29",
+      "leaf_and_parent_vigo_godkjenninger_m_larling": null,
+      "hovedenhet": "0",
+      "leaf_and_parent_vigo_uten_godkjenninger": null,
+      "ppostnr": "0350",
+      "tilbyr_arbeidskrafttjenester": false,
+      "forradrpostnr": "0287",
+      "ppoststed": "OSLO",
+      "forradrfylkenr": "03",
+      "bedriftens_aarsverk": 0,
+      "forradrland": "Norge",
+      "forradrpoststed": "OSLO",
+      "telefon": [
+        "67 10 99 70"
+      ],
+      "organisasjonsform_kode": "AS",
+      "lopende_kontrakter_totalt": 0,
+      "leaf_and_parent_medlem_opplaringskontor_orgnavn": null,
+      "ppostland": "Norge",
+      "ansatte_totalt": 106,
+      "antall_stillinger": 0,
+      "forretningsadr": "Villa Grande\nHuk aveny 56",
+      "latlng_1_coordinate": 10.6837,
+      "parent_orgnumbers": null,
+      "parent_vigo_contracts": 0,
+      "leaf_and_parent_medlem_opplaringskontor_orgnr": null,
+      "latlng_0_coordinate": 59.904,
+      "programomradekode6_med_ansatte": null,
+      "parent_godkjenninger": null,
+      "yrke_aarsverk": null,
+      "children_orgnumbers": [
+        "925527726"
+      ],
+      "vigo_navn_opplaringskontor": null,
+      "vigo_orgnr": null,
+      "godkjenning_url": null,
+      "godkjenning_beskrivelse": null,
+      "leaf_and_parent_vigo_godkjenninger_utlopte": null,
+      "children_orgnames": [
+        "SULT S4 AS"
+      ],
+      "yrke_orgnr": null,
+      "leaf_and_parent_vigo_godkjenninger_u_larling": null,
+      "vigo_forradrfylkenr": null,
+      "forelder_avstand": null,
+      "avtale_yff_skole_navn": null,
+      "godkjenning_registernavn": null,
+      "vigo_fylkenr": null,
+      "url": [
+        "www.sult.no"
+      ],
+      "avtale_yff_avtale_nid": null,
+      "vigo_programomradekode6": null,
+      "vigo_programomradekode5": null,
+      "avtale_yff_sluttkompetanse_navn": null,
+      "vigo_lopenr": null,
+      "rolle_person": null,
+      "yrke_nid": null,
+      "yrke_programomradekode6_hovedlop": null,
+      "avtale_yff_orgnr": null,
+      "forelder_orgnr": null,
+      "rolle": null,
+      "avtale_yff_skole_nid": null,
+      "vigo_forradrfylkenavn": null,
+      "mobil": null,
+      "leaf_godkjenninger": null,
+      "yrkeskode_styrk98_programomradekode6_hovedlop": null,
+      "yrkeskode_styrk98": null,
+      "avtale_yff_programomradekode6": null,
+      "vigo_godkjent_til_dato": null,
+      "godkjenning_godkjenner": null,
+      "forelder_navn": null,
+      "vigo_programomrade_tittel": null,
+      "vigo_sum_kontrakter": null,
+      "rolle_person_poststed": null,
+      "leaf_and_parent_avtaler_yff": null,
+      "aarsverk": null,
+      "godkjenninger": null,
+      "children_distances": [
+        "1"
+      ],
+      "sektorkode_tittel": null,
+      "vigo_fylkenavn": null,
+      "vigo_orgnr_opplaringskontor": null,
+      "medlemsbedrifter_larlinger_totalt": 0,
+      "_other_data": {
+        "children_grandchildren_count": [
+          "0"
+        ],
+        "descendants_grand_total": 1,
+        "lpg_har_laereplassgaranti": false,
+        "naringskode_nace": [
+          "I",
+          "56",
+          "56.1",
+          "56.10",
+          "56.101"
+        ],
+        "naringskode_nace_tittel": [
+          "Drift av restauranter og kafeer"
+        ],
+        "navn_suggest_no": [
+          "SULT S4 AS"
+        ],
+        "navn_suggest_edge_no": [
+          "SULT S4 AS"
+        ],
+        "navn_suggest_ngram_no": [
+          "SULT S4 AS"
+        ],
+        "navn_s_no": "SULT S4 AS",
+        "parent_bedriftens_aarsverk": 140,
+        "parent_lopende_kontrakter_totalt": 0,
+        "top_parent_organisasjonsform_kode": "AS",
+        "top_parent_organisasjonsform_tittel": "Aksjeselskap",
+        "update_hash": "aa455e14e9ba3fcede7afe4ddbdee0dd",
+        "_version_": 1821239554164654082,
+        "funksjon": "finnlarebedrift"
+      },
+      "_child_documents": [
+        {
+          "id": "825499962_1",
+          "path": "2.virksomhet.roller",
+          "rolle": "Daglig leder",
+          "rolle_person": "Rojahn, Philip Vincent",
+          "rolle_person_poststed": "0272 OSLO",
+          "_version_": 1821239554164654082
+        },
+        {
+          "id": "825499962_2",
+          "path": "2.virksomhet.roller",
+          "rolle": "Styrets leder",
+          "rolle_person": "Gilen, Tommy",
+          "rolle_person_poststed": "0253 OSLO",
+          "_version_": 1821239554164654082
+        },
+        {
+          "id": "825499962_3",
+          "path": "2.virksomhet.roller",
+          "rolle": "Regnskapsf\u00f8rer",
+          "rolle_person": "AIDER AS",
+          "rolle_person_poststed": "0162 OSLO",
+          "_version_": 1821239554164654082
+        },
+        {
+          "id": "825499962_4",
+          "path": "2.virksomhet.roller",
+          "rolle": "Revisor",
+          "rolle_person": "TR\u00d8IM REGNSKAP OG REVISJON AS",
+          "rolle_person_poststed": "4187 OMBO",
+          "_version_": 1821239554164654082
+        }
+      ]
+    },
+    {
+      "@id": "/bedrifter_ikke_godkjentes/850147582",
+      "@type": "Bedrifter_ikke_godkjente",
+      "id": "850147582",
+      "forradrkommnavn": "Oslo",
+      "leaf_node": 0,
+      "path": "1.virksomhet",
+      "hovedenhet_navn": null,
+      "orgnr": "850147582",
+      "forradrkommnr": "0301",
+      "navn": "SONY MUSIC ENTERTAINMENT NORWAY AS",
+      "forradrfylkenavn": "Oslo",
+      "organisasjonsform_tittel": "Aksjeselskap",
+      "sektorkode": "2100",
+      "postadresse": null,
+      "leaf_and_parent_vigo_godkjenninger_m_larling": null,
+      "hovedenhet": "0",
+      "leaf_and_parent_vigo_uten_godkjenninger": null,
+      "ppostnr": null,
+      "tilbyr_arbeidskrafttjenester": false,
+      "forradrpostnr": "0151",
+      "ppoststed": null,
+      "forradrfylkenr": "03",
+      "bedriftens_aarsverk": 0,
+      "forradrland": "Norge",
+      "forradrpoststed": "OSLO",
+      "telefon": [
+        "22 88 00 00"
+      ],
+      "organisasjonsform_kode": "AS",
+      "lopende_kontrakter_totalt": 0,
+      "leaf_and_parent_medlem_opplaringskontor_orgnavn": null,
+      "ppostland": null,
+      "ansatte_totalt": 52,
+      "antall_stillinger": 0,
+      "forretningsadr": "Grev Wedels plass 9",
+      "latlng_1_coordinate": 10.7444,
+      "parent_orgnumbers": null,
+      "parent_vigo_contracts": 0,
+      "leaf_and_parent_medlem_opplaringskontor_orgnr": null,
+      "latlng_0_coordinate": 59.9075,
+      "programomradekode6_med_ansatte": null,
+      "parent_godkjenninger": null,
+      "yrke_aarsverk": null,
+      "children_orgnumbers": [
+        "972151610"
+      ],
+      "vigo_navn_opplaringskontor": null,
+      "vigo_orgnr": null,
+      "godkjenning_url": null,
+      "godkjenning_beskrivelse": null,
+      "leaf_and_parent_vigo_godkjenninger_utlopte": null,
+      "children_orgnames": [
+        "SONY MUSIC ENTERTAINMENT NORWAY AS"
+      ],
+      "yrke_orgnr": null,
+      "leaf_and_parent_vigo_godkjenninger_u_larling": null,
+      "vigo_forradrfylkenr": null,
+      "forelder_avstand": null,
+      "avtale_yff_skole_navn": null,
+      "godkjenning_registernavn": null,
+      "vigo_fylkenr": null,
+      "url": null,
+      "avtale_yff_avtale_nid": null,
+      "vigo_programomradekode6": null,
+      "vigo_programomradekode5": null,
+      "avtale_yff_sluttkompetanse_navn": null,
+      "vigo_lopenr": null,
+      "rolle_person": null,
+      "yrke_nid": null,
+      "yrke_programomradekode6_hovedlop": null,
+      "avtale_yff_orgnr": null,
+      "forelder_orgnr": null,
+      "rolle": null,
+      "avtale_yff_skole_nid": null,
+      "vigo_forradrfylkenavn": null,
+      "mobil": null,
+      "leaf_godkjenninger": null,
+      "yrkeskode_styrk98_programomradekode6_hovedlop": null,
+      "yrkeskode_styrk98": null,
+      "avtale_yff_programomradekode6": null,
+      "vigo_godkjent_til_dato": null,
+      "godkjenning_godkjenner": null,
+      "forelder_navn": null,
+      "vigo_programomrade_tittel": null,
+      "vigo_sum_kontrakter": null,
+      "rolle_person_poststed": null,
+      "leaf_and_parent_avtaler_yff": null,
+      "aarsverk": null,
+      "godkjenninger": null,
+      "children_distances": [
+        "1"
+      ],
+      "sektorkode_tittel": null,
+      "vigo_fylkenavn": null,
+      "vigo_orgnr_opplaringskontor": null,
+      "medlemsbedrifter_larlinger_totalt": 0,
+      "_other_data": {
+        "children_grandchildren_count": [
+          "0"
+        ],
+        "descendants_grand_total": 1,
+        "lpg_har_laereplassgaranti": false,
+        "naringskode_nace": [
+          "J",
+          "63",
+          "63.1",
+          "63.11",
+          "63.110"
+        ],
+        "naringskode_nace_tittel": [
+          "Databehandling, datalagring og tilknyttede tjenester"
+        ],
+        "navn_suggest_no": [
+          "SONY MUSIC ENTERTAINMENT NORWAY AS"
+        ],
+        "navn_suggest_edge_no": [
+          "SONY MUSIC ENTERTAINMENT NORWAY AS"
+        ],
+        "navn_suggest_ngram_no": [
+          "SONY MUSIC ENTERTAINMENT NORWAY AS"
+        ],
+        "navn_s_no": "SONY MUSIC ENTERTAINMENT NORWAY AS",
+        "parent_bedriftens_aarsverk": 51.4,
+        "parent_lopende_kontrakter_totalt": 0,
+        "top_parent_organisasjonsform_kode": "AS",
+        "top_parent_organisasjonsform_tittel": "Aksjeselskap",
+        "update_hash": "c683e3fb8980e41f5cdeed3ccf98ed68",
+        "_version_": 1821239562562699264,
+        "funksjon": "finnlarebedrift"
+      },
+      "_child_documents": [
+        {
+          "id": "850147582_1",
+          "path": "2.virksomhet.roller",
+          "rolle": "Daglig leder",
+          "rolle_person": "Midtveit, Lena Ingeborg",
+          "rolle_person_poststed": "1368 STABEKK",
+          "_version_": 1821239562562699264
+        },
+        {
+          "id": "850147582_2",
+          "path": "2.virksomhet.roller",
+          "rolle": "Styrets leder",
+          "rolle_person": "Swidler, Julie Greifer",
+          "rolle_person_poststed": "0000 Blank",
+          "_version_": 1821239562562699264
+        },
+        {
+          "id": "850147582_3",
+          "path": "2.virksomhet.roller",
+          "rolle": "Styremedlem",
+          "rolle_person": "Krokan, Erling Vargas",
+          "rolle_person_poststed": "2019 SKEDSMOKORSET",
+          "_version_": 1821239562562699264
+        },
+        {
+          "id": "850147582_4",
+          "path": "2.virksomhet.roller",
+          "rolle": "Styremedlem",
+          "rolle_person": "Midtveit, Lena Ingeborg",
+          "rolle_person_poststed": "1368 STABEKK",
+          "_version_": 1821239562562699264
+        },
+        {
+          "id": "850147582_5",
+          "path": "2.virksomhet.roller",
+          "rolle": "Revisor",
+          "rolle_person": "NITSCHKE AS",
+          "rolle_person_poststed": "1366 LYSAKER",
+          "_version_": 1821239562562699264
+        }
+      ]
+    },
+    {
+      "@id": "/bedrifter_ikke_godkjentes/871498032",
+      "@type": "Bedrifter_ikke_godkjente",
+      "id": "871498032",
+      "forradrkommnavn": "Oslo",
+      "leaf_node": 0,
+      "path": "1.virksomhet",
+      "hovedenhet_navn": null,
+      "orgnr": "871498032",
+      "forradrkommnr": "0301",
+      "navn": "KASANA ABDUL RAUF",
+      "forradrfylkenavn": "Oslo",
+      "organisasjonsform_tittel": "Enkeltpersonforetak",
+      "sektorkode": "8200",
+      "postadresse": null,
+      "leaf_and_parent_vigo_godkjenninger_m_larling": null,
+      "hovedenhet": "0",
+      "leaf_and_parent_vigo_uten_godkjenninger": null,
+      "ppostnr": null,
+      "tilbyr_arbeidskrafttjenester": false,
+      "forradrpostnr": "1285",
+      "ppoststed": null,
+      "forradrfylkenr": "03",
+      "bedriftens_aarsverk": 0,
+      "forradrland": "Norge",
+      "forradrpoststed": "OSLO",
+      "telefon": null,
+      "organisasjonsform_kode": "ENK",
+      "lopende_kontrakter_totalt": 0,
+      "leaf_and_parent_medlem_opplaringskontor_orgnavn": null,
+      "ppostland": null,
+      "ansatte_totalt": 143,
+      "antall_stillinger": 0,
+      "forretningsadr": "Dalssvingen 27B",
+      "latlng_1_coordinate": 10.8405,
+      "parent_orgnumbers": null,
+      "parent_vigo_contracts": 0,
+      "leaf_and_parent_medlem_opplaringskontor_orgnr": null,
+      "latlng_0_coordinate": 59.8523,
+      "programomradekode6_med_ansatte": null,
+      "parent_godkjenninger": null,
+      "yrke_aarsverk": null,
+      "children_orgnumbers": [
+        "973495461"
+      ],
+      "vigo_navn_opplaringskontor": null,
+      "vigo_orgnr": null,
+      "godkjenning_url": null,
+      "godkjenning_beskrivelse": null,
+      "leaf_and_parent_vigo_godkjenninger_utlopte": null,
+      "children_orgnames": [
+        "KASANA ABDUL RAUF"
+      ],
+      "yrke_orgnr": null,
+      "leaf_and_parent_vigo_godkjenninger_u_larling": null,
+      "vigo_forradrfylkenr": null,
+      "forelder_avstand": null,
+      "avtale_yff_skole_navn": null,
+      "godkjenning_registernavn": null,
+      "vigo_fylkenr": null,
+      "url": null,
+      "avtale_yff_avtale_nid": null,
+      "vigo_programomradekode6": null,
+      "vigo_programomradekode5": null,
+      "avtale_yff_sluttkompetanse_navn": null,
+      "vigo_lopenr": null,
+      "rolle_person": null,
+      "yrke_nid": null,
+      "yrke_programomradekode6_hovedlop": null,
+      "avtale_yff_orgnr": null,
+      "forelder_orgnr": null,
+      "rolle": null,
+      "avtale_yff_skole_nid": null,
+      "vigo_forradrfylkenavn": null,
+      "mobil": [
+        "93000993"
+      ],
+      "leaf_godkjenninger": null,
+      "yrkeskode_styrk98_programomradekode6_hovedlop": null,
+      "yrkeskode_styrk98": null,
+      "avtale_yff_programomradekode6": null,
+      "vigo_godkjent_til_dato": null,
+      "godkjenning_godkjenner": null,
+      "forelder_navn": null,
+      "vigo_programomrade_tittel": null,
+      "vigo_sum_kontrakter": null,
+      "rolle_person_poststed": null,
+      "leaf_and_parent_avtaler_yff": null,
+      "aarsverk": null,
+      "godkjenninger": null,
+      "children_distances": [
+        "1"
+      ],
+      "sektorkode_tittel": null,
+      "vigo_fylkenavn": null,
+      "vigo_orgnr_opplaringskontor": null,
+      "medlemsbedrifter_larlinger_totalt": 0,
+      "_other_data": {
+        "children_grandchildren_count": [
+          "0"
+        ],
+        "descendants_grand_total": 1,
+        "lpg_har_laereplassgaranti": false,
+        "naringskode_nace": [
+          "H",
+          "49",
+          "49.3",
+          "49.32",
+          "49.320"
+        ],
+        "naringskode_nace_tittel": [
+          "Drosjebiltransport"
+        ],
+        "navn_suggest_no": [
+          "KASANA ABDUL RAUF"
+        ],
+        "navn_suggest_edge_no": [
+          "KASANA ABDUL RAUF"
+        ],
+        "navn_suggest_ngram_no": [
+          "KASANA ABDUL RAUF"
+        ],
+        "navn_s_no": "KASANA ABDUL RAUF",
+        "parent_bedriftens_aarsverk": 116.9,
+        "parent_lopende_kontrakter_totalt": 0,
+        "top_parent_organisasjonsform_kode": "ENK",
+        "top_parent_organisasjonsform_tittel": "Enkeltpersonforetak",
+        "update_hash": "44604203218e99cfb5be90e4baca5857",
+        "_version_": 1818427161139216384,
+        "funksjon": "finnlarebedrift"
+      },
+      "_child_documents": [
+        {
+          "id": "871498032_1",
+          "path": "2.virksomhet.roller",
+          "rolle": "Innehaver",
+          "rolle_person": "Kasana, Abdul Rauf",
+          "rolle_person_poststed": "1285 OSLO",
+          "_version_": 1818427161139216384
+        },
+        {
+          "id": "871498032_2",
+          "path": "2.virksomhet.roller",
+          "rolle": "Daglig leder",
+          "rolle_person": "Kasana, Mohammad Usman",
+          "rolle_person_poststed": "1285 OSLO",
+          "_version_": 1818427161139216384
+        },
+        {
+          "id": "871498032_3",
+          "path": "2.virksomhet.roller",
+          "rolle": "Regnskapsf\u00f8rer",
+          "rolle_person": "TAXIREGNSKAP AS",
+          "rolle_person_poststed": "1184 OSLO",
+          "_version_": 1818427161139216384
+        }
+      ]
+    },
+    {
+      "@id": "/bedrifter_ikke_godkjentes/873100222",
+      "@type": "Bedrifter_ikke_godkjente",
+      "id": "873100222",
+      "forradrkommnavn": "Oslo",
+      "leaf_node": 1,
+      "path": "1.virksomhet",
+      "hovedenhet_navn": "NERLIENS MESZANSKY AS",
+      "orgnr": "873100222",
+      "forradrkommnr": "0301",
+      "navn": "NERLIENS MESZANSKY AS",
+      "forradrfylkenavn": "Oslo",
+      "organisasjonsform_tittel": "Underenhet til n\u00e6ringsdrivende og offentlig forvaltning",
+      "sektorkode": "0",
+      "postadresse": "Postboks 158  \u00d8kern",
+      "leaf_and_parent_vigo_godkjenninger_m_larling": null,
+      "hovedenhet": "914553695",
+      "leaf_and_parent_vigo_uten_godkjenninger": [
+        "ELDAT3",
+        "DHMED1",
+        "TPPOK2",
+        "IMIHP3",
+        "MKMED1",
+        "SRSRL2",
+        "ELELE1",
+        "ELDEL2",
+        "STUSP1",
+        "IMMED2",
+        "MKMED2",
+        "SSTRL2",
+        "SRSSH2",
+        "DHMED2",
+        "SRSOA3",
+        "IMIKM1",
+        "SRSLG3",
+        "TPPRT3",
+        "SSSSA1",
+        "TPTOL2",
+        "SSKAD3",
+        "TPTIP1",
+        "TPPIN2",
+        "SRSSR1",
+        "TPLOG3",
+        "SSSSS2"
+      ],
+      "ppostnr": "0509",
+      "tilbyr_arbeidskrafttjenester": false,
+      "forradrpostnr": "0579",
+      "ppoststed": "OSLO",
+      "forradrfylkenr": "03",
+      "bedriftens_aarsverk": 56.11,
+      "forradrland": "Norge",
+      "forradrpoststed": "OSLO",
+      "telefon": [
+        "22 66 65 00"
+      ],
+      "organisasjonsform_kode": "BEDR",
+      "lopende_kontrakter_totalt": 0,
+      "leaf_and_parent_medlem_opplaringskontor_orgnavn": null,
+      "ppostland": "Norge",
+      "ansatte_totalt": 56,
+      "antall_stillinger": 0,
+      "forretningsadr": "\u00d8kernveien 121",
+      "latlng_1_coordinate": 10.8001,
+      "parent_orgnumbers": [
+        "914553695"
+      ],
+      "parent_vigo_contracts": 0,
+      "leaf_and_parent_medlem_opplaringskontor_orgnr": null,
+      "latlng_0_coordinate": 59.9266,
+      "programomradekode6_med_ansatte": [
+        "DHMED1",
+        "DHMED2",
+        "ELDAT3",
+        "ELDEL2",
+        "ELELE1",
+        "IMIHP3",
+        "IMIKM1",
+        "IMMED2",
+        "MKMED1",
+        "MKMED2",
+        "SRSLG3",
+        "SRSOA3",
+        "SRSRL2",
+        "SRSSH2",
+        "SRSSR1",
+        "SSKAD3",
+        "SSSSA1",
+        "SSSSS2",
+        "SSTRL2",
+        "TPLOG3",
+        "TPPIN2",
+        "TPPOK2",
+        "TPPRT3",
+        "TPTIP1",
+        "TPTOL2"
+      ],
+      "parent_godkjenninger": null,
+      "yrke_aarsverk": null,
+      "children_orgnumbers": null,
+      "vigo_navn_opplaringskontor": null,
+      "vigo_orgnr": null,
+      "godkjenning_url": null,
+      "godkjenning_beskrivelse": null,
+      "leaf_and_parent_vigo_godkjenninger_utlopte": null,
+      "children_orgnames": null,
+      "yrke_orgnr": null,
+      "leaf_and_parent_vigo_godkjenninger_u_larling": null,
+      "vigo_forradrfylkenr": null,
+      "forelder_avstand": null,
+      "avtale_yff_skole_navn": null,
+      "godkjenning_registernavn": null,
+      "vigo_fylkenr": null,
+      "url": [
+        "www.nmas.no"
+      ],
+      "avtale_yff_avtale_nid": null,
+      "vigo_programomradekode6": null,
+      "vigo_programomradekode5": null,
+      "avtale_yff_sluttkompetanse_navn": null,
+      "vigo_lopenr": null,
+      "rolle_person": null,
+      "yrke_nid": null,
+      "yrke_programomradekode6_hovedlop": null,
+      "avtale_yff_orgnr": null,
+      "forelder_orgnr": null,
+      "rolle": null,
+      "avtale_yff_skole_nid": null,
+      "vigo_forradrfylkenavn": null,
+      "mobil": null,
+      "leaf_godkjenninger": null,
+      "yrkeskode_styrk98_programomradekode6_hovedlop": null,
+      "yrkeskode_styrk98": [
+        "1231130",
+        "1233104",
+        "1234104",
+        "1234106",
+        "1235105",
+        "2146123",
+        "2512142",
+        "3115104",
+        "3119122",
+        "3119123",
+        "3152124",
+        "3411127",
+        "3415116",
+        "3415120",
+        "3415128",
+        "3415130",
+        "3415135",
+        "3416102",
+        "3419102",
+        "3419107",
+        "3419118",
+        "4114101",
+        "4114115",
+        "4121107",
+        "4131111",
+        "4131122",
+        "5223122",
+        "7241154"
+      ],
+      "avtale_yff_programomradekode6": null,
+      "vigo_godkjent_til_dato": null,
+      "godkjenning_godkjenner": null,
+      "forelder_navn": null,
+      "vigo_programomrade_tittel": null,
+      "vigo_sum_kontrakter": null,
+      "rolle_person_poststed": null,
+      "leaf_and_parent_avtaler_yff": null,
+      "aarsverk": null,
+      "godkjenninger": null,
+      "children_distances": null,
+      "sektorkode_tittel": null,
+      "vigo_fylkenavn": null,
+      "vigo_orgnr_opplaringskontor": null,
+      "medlemsbedrifter_larlinger_totalt": 0,
+      "_other_data": {
+        "descendants_grand_total": 0,
+        "lpg_har_laereplassgaranti": false,
+        "naringskode_nace": [
+          "G",
+          "46",
+          "46.4",
+          "46.46",
+          "46.460"
+        ],
+        "naringskode_nace_tittel": [
+          "Engroshandel med sykepleie- og apotekvarer"
+        ],
+        "navn_suggest_no": [
+          "NERLIENS MESZANSKY AS"
+        ],
+        "navn_suggest_edge_no": [
+          "NERLIENS MESZANSKY AS"
+        ],
+        "navn_suggest_ngram_no": [
+          "NERLIENS MESZANSKY AS"
+        ],
+        "navn_s_no": "NERLIENS MESZANSKY AS",
+        "parent_distances": [
+          "1"
+        ],
+        "parent_orgnames": [
+          "NERLIENS MESZANSKY AS"
+        ],
+        "top_parent_organisasjonsform_kode": "AS",
+        "top_parent_organisasjonsform_tittel": "Aksjeselskap",
+        "update_hash": "cc37c06eb7ea41df699003fb99eac8e0",
+        "yrkeskode_styrk98_tittel_str": [
+          "\u00d8KONOMISJEF",
+          "SALGSDIREKT\u00d8R",
+          "MARKETINGSJEF",
+          "PRODUKTSJEF",
+          "LAGERSJEF",
+          "PRODUKTUTVIKLER (KJEMI)",
+          "HR-LEDER",
+          "SERVICEINGENI\u00d8R (KJEMI)",
+          "SERVICEINGENI\u00d8R (\u00d8VRIG TEKNISK VIRKSOMHET)",
+          "SERVICETEKNIKER (\u00d8VRIG TEKNISK VIRKSOMHET)",
+          "KVALITETSKONSULENT",
+          "PORTEF\u00d8LJESELGER",
+          "SALGSMEDARBEIDER",
+          "SALGSKONSULENT",
+          "SERVICE MANAGER",
+          "SALGSSPESIALIST",
+          "SALGSLEDER",
+          "INNKJ\u00d8PER",
+          "MARKEDSF\u00d8RINGSASSISTENT",
+          "MARKEDSSEKRET\u00c6R",
+          "MARKEDSKOORDINATOR",
+          "KONTORMEDARBEIDER (TEKSTBEHANDLING)",
+          "ORDREMOTTAKER",
+          "REGNSKAPSANSVARLIG",
+          "LAGERMEDARBEIDER",
+          "LAGERARBEIDER",
+          "PRODUKTSPESIALIST (SALG)",
+          "SERVICEKOORDINATOR (KONTORMASKINER)"
+        ],
+        "_version_": 1821785521205018624,
+        "funksjon": "finnlarebedrift"
+      },
+      "_child_documents": [
+        {
+          "id": "914553695_daglig_leder_arvet",
+          "path": "2.virksomhet.roller",
+          "rolle": "Daglig leder",
+          "rolle_person": "Bjerke, Nina Nielsen",
+          "rolle_person_poststed": "1364 FORNEBU",
+          "_version_": 1821785521205018624
+        },
+        {
+          "forelder_avstand": 1,
+          "forelder_navn": "NERLIENS MESZANSKY AS",
+          "forelder_orgnr": "914553695",
+          "id": "873100222_914553695",
+          "path": "2.virksomhet.forelder",
+          "_version_": 1821785521205018624
+        }
+      ]
+    },
+    {
+      "@id": "/bedrifter_ikke_godkjentes/873130822",
+      "@type": "Bedrifter_ikke_godkjente",
+      "id": "873130822",
+      "forradrkommnavn": "Trondheim",
+      "leaf_node": 1,
+      "path": "1.virksomhet",
+      "hovedenhet_navn": "WIST LAST & BUSS AS",
+      "orgnr": "873130822",
+      "forradrkommnr": "5001",
+      "navn": "WIST AVDTRONDHEIM",
+      "forradrfylkenavn": "Tr\u00f8ndelag",
+      "organisasjonsform_tittel": "Underenhet til n\u00e6ringsdrivende og offentlig forvaltning",
+      "sektorkode": "0",
+      "postadresse": null,
+      "leaf_and_parent_vigo_godkjenninger_m_larling": null,
+      "hovedenhet": "958315120",
+      "leaf_and_parent_vigo_uten_godkjenninger": [
+        "TPBLA3",
+        "TPBTK3",
+        "SSRLV2",
+        "BABAT1",
+        "TPHJU3",
+        "TPKAR3",
+        "SRSRL2",
+        "ELELE1",
+        "STUSP1",
+        "SRRLV3",
+        "TPBLK2",
+        "BABDR3",
+        "SSTRL2",
+        "SRSSH2",
+        "SRSOA3",
+        "TPAMK2",
+        "SRSLG3",
+        "TPTOL2",
+        "SSSSA1",
+        "TPBSK3",
+        "TPKJT2",
+        "TPTIP1",
+        "SRSSR1",
+        "TPBMK3",
+        "NANAB1",
+        "TPLOG3",
+        "SSSSS2",
+        "TPRSD3"
+      ],
+      "ppostnr": null,
+      "tilbyr_arbeidskrafttjenester": false,
+      "forradrpostnr": "7093",
+      "ppoststed": null,
+      "forradrfylkenr": "50",
+      "bedriftens_aarsverk": 217.9,
+      "forradrland": "Norge",
+      "forradrpoststed": "TILLER",
+      "telefon": [
+        "72 88 25 00"
+      ],
+      "organisasjonsform_kode": "BEDR",
+      "lopende_kontrakter_totalt": 0,
+      "leaf_and_parent_medlem_opplaringskontor_orgnavn": null,
+      "ppostland": null,
+      "ansatte_totalt": 114,
+      "antall_stillinger": 0,
+      "forretningsadr": "Sandmoflata 4",
+      "latlng_1_coordinate": 10.3583,
+      "parent_orgnumbers": [
+        "958315120"
+      ],
+      "parent_vigo_contracts": 10,
+      "leaf_and_parent_medlem_opplaringskontor_orgnr": null,
+      "latlng_0_coordinate": 63.3305,
+      "programomradekode6_med_ansatte": [
+        "BABAT1",
+        "BABDR3",
+        "SRRLV3",
+        "SRSLG3",
+        "SRSOA3",
+        "SRSRL2",
+        "SRSSH2",
+        "SRSSR1",
+        "SSRLV2",
+        "SSSSA1",
+        "SSSSS2",
+        "SSTRL2",
+        "TPBLA3",
+        "TPBLK2",
+        "TPBMK3",
+        "TPBSK3",
+        "TPBTK3",
+        "TPHJU3",
+        "TPKAR3",
+        "TPKJT2",
+        "TPLOG3",
+        "TPRSD3",
+        "TPTIP1",
+        "TPTOL2"
+      ],
+      "parent_godkjenninger": null,
+      "yrke_aarsverk": null,
+      "children_orgnumbers": null,
+      "vigo_navn_opplaringskontor": null,
+      "vigo_orgnr": null,
+      "godkjenning_url": null,
+      "godkjenning_beskrivelse": null,
+      "leaf_and_parent_vigo_godkjenninger_utlopte": null,
+      "children_orgnames": null,
+      "yrke_orgnr": null,
+      "leaf_and_parent_vigo_godkjenninger_u_larling": null,
+      "vigo_forradrfylkenr": null,
+      "forelder_avstand": null,
+      "avtale_yff_skole_navn": null,
+      "godkjenning_registernavn": null,
+      "vigo_fylkenr": null,
+      "url": [
+        "www.wistlastbuss.com"
+      ],
+      "avtale_yff_avtale_nid": null,
+      "vigo_programomradekode6": null,
+      "vigo_programomradekode5": null,
+      "avtale_yff_sluttkompetanse_navn": null,
+      "vigo_lopenr": null,
+      "rolle_person": null,
+      "yrke_nid": null,
+      "yrke_programomradekode6_hovedlop": null,
+      "avtale_yff_orgnr": null,
+      "forelder_orgnr": null,
+      "rolle": null,
+      "avtale_yff_skole_nid": null,
+      "vigo_forradrfylkenavn": null,
+      "mobil": null,
+      "leaf_godkjenninger": [
+        "Godkjent kj\u00f8ret\u00f8yverksted"
+      ],
+      "yrkeskode_styrk98_programomradekode6_hovedlop": null,
+      "yrkeskode_styrk98": [
+        "1210203",
+        "1224125",
+        "1226139",
+        "1231130",
+        "1236101",
+        "2512142",
+        "2541113",
+        "2541116",
+        "3415116",
+        "3419128",
+        "3431129",
+        "4121106",
+        "4121115",
+        "4132113",
+        "4132116",
+        "4222118",
+        "5163111",
+        "5163121",
+        "5163122",
+        "5221103",
+        "5221115",
+        "7142101",
+        "7142117",
+        "7217101",
+        "7217103",
+        "7231103",
+        "7231114",
+        "7231115",
+        "7231121",
+        "7231122",
+        "7231123",
+        "7231126",
+        "9310101",
+        "9320101"
+      ],
+      "avtale_yff_programomradekode6": null,
+      "vigo_godkjent_til_dato": null,
+      "godkjenning_godkjenner": null,
+      "forelder_navn": null,
+      "vigo_programomrade_tittel": null,
+      "vigo_sum_kontrakter": null,
+      "rolle_person_poststed": null,
+      "leaf_and_parent_avtaler_yff": null,
+      "aarsverk": null,
+      "godkjenninger": [
+        "Godkjent kj\u00f8ret\u00f8yverksted"
+      ],
+      "children_distances": null,
+      "sektorkode_tittel": null,
+      "vigo_fylkenavn": null,
+      "vigo_orgnr_opplaringskontor": null,
+      "medlemsbedrifter_larlinger_totalt": 0,
+      "_other_data": {
+        "descendants_grand_total": 0,
+        "lpg_har_laereplassgaranti": false,
+        "naringskode_nace": [
+          "G",
+          "45",
+          "45.2",
+          "45.20",
+          "45.200"
+        ],
+        "naringskode_nace_tittel": [
+          "Vedlikehold og reparasjon av motorvogner, unntatt motorsykler"
+        ],
+        "navn_suggest_no": [
+          "WIST AVDTRONDHEIM"
+        ],
+        "navn_suggest_edge_no": [
+          "WIST AVDTRONDHEIM"
+        ],
+        "navn_suggest_ngram_no": [
+          "WIST AVDTRONDHEIM"
+        ],
+        "navn_s_no": "WIST AVDTRONDHEIM",
+        "parent_distances": [
+          "1"
+        ],
+        "parent_orgnames": [
+          "WIST LAST & BUSS AS"
+        ],
+        "top_parent_organisasjonsform_kode": "AS",
+        "top_parent_organisasjonsform_tittel": "Aksjeselskap",
+        "update_hash": "9e9ef0356c6548f6ae78dcd37d78c101",
+        "yrkeskode_styrk98_tittel_str": [
+          "DAGLIG LEDER (\u00d8VERSTE LEDER I BEDRIFT MED OVER 9 ANSATTE)",
+          "SERVICESJEF (BILFORHANDLER)",
+          "AVDELINGSLEDER (ANNEN FORRETNINGSMESSIG TJENESTEYTING)",
+          "\u00d8KONOMISJEF",
+          "DATASJEF",
+          "HR-LEDER",
+          "BUSINESS CONTROLLER",
+          "KONTROLLER (REGNSKAP)",
+          "SALGSMEDARBEIDER",
+          "SALGSSEKRET\u00c6R",
+          "ADMINISTRASJONSMEDARBEIDER",
+          "\u00d8KONOMIMEDARBEIDER",
+          "REGNSKAPSMEDARBEIDER",
+          "LOGISTIKKANSVARLIG",
+          "L\u00c6RLING (LOGISTIKK)",
+          "KUNDEMOTTAKER (BILVERKSTED)",
+          "DRIFTSLEDER (VAKTMESTER)",
+          "VAKTMESTER",
+          "VAKTMESTERASSISTENT",
+          "BILSELGER",
+          "RESERVEDELSEKSPEDIT\u00d8R",
+          "BILLAKKERER",
+          "L\u00c6RLING (OVERFLATEBEHANDLING OG LAKKERING)",
+          "BILOPPRETTER",
+          "KAROSSERIMEKANIKER",
+          "LASTEBILMEKANIKER",
+          "BILVERKSTEDSMEDARBEIDER",
+          "VERKSTEDARBEIDER (BIL)",
+          "FAGARBEIDER (BILMEKANIKER)",
+          "L\u00c6RLING (BILMEKANIKER)",
+          "FORMANN (BILMEKANIKER)",
+          "MEKANIKER (BIL)",
+          "HJELPEARBEIDER (ANLEGG)",
+          "HJELPEARBEIDER (INDUSTRI)"
+        ],
+        "_version_": 1821785521534271489,
+        "funksjon": "finnlarebedrift"
+      },
+      "_child_documents": [
+        {
+          "godkjenning_beskrivelse": "Arbeid p\u00e5 alkol\u00e5s (installasjon, avinstallasjon, reparasjon og service p\u00e5 alkol\u00e5s som ikke foretas hos kj\u00f8ret\u00f8yfabrikant)",
+          "godkjenning_godkjenner": "Statens vegvesen",
+          "godkjenning_registernavn": "Verkstedregisteret",
+          "godkjenning_url": [
+            "https://www.vegvesen.no/kjoretoy/Eie+og+vedlikeholde/finn-godkjent-verksted"
+          ],
+          "id": "873130822_vrk_fc0c2faddf17c2c587e301668eca38ac",
+          "path": "2.virksomhet.annen_godkjenning",
+          "_version_": 1821785521534271489
+        },
+        {
+          "godkjenning_beskrivelse": "Bilverksted 01( 3500kg unntatt motorsykkel, moped, og traktor)",
+          "godkjenning_godkjenner": "Statens vegvesen",
+          "godkjenning_registernavn": "Verkstedregisteret",
+          "godkjenning_url": [
+            "https://www.vegvesen.no/kjoretoy/Eie+og+vedlikeholde/finn-godkjent-verksted"
+          ],
+          "id": "873130822_vrk_f6b9e1c858a4ea38d757dd6f16eaa03a",
+          "path": "2.virksomhet.annen_godkjenning",
+          "_version_": 1821785521534271489
+        },
+        {
+          "godkjenning_beskrivelse": "Bilverksted 02 (fra 3501 til og med 7500 kg, unntatt motorsykkel, moped, og traktor)",
+          "godkjenning_godkjenner": "Statens vegvesen",
+          "godkjenning_registernavn": "Verkstedregisteret",
+          "godkjenning_url": [
+            "https://www.vegvesen.no/kjoretoy/Eie+og+vedlikeholde/finn-godkjent-verksted"
+          ],
+          "id": "873130822_vrk_84609ba95d7cd32648dd9d1cc69f8069",
+          "path": "2.virksomhet.annen_godkjenning",
+          "_version_": 1821785521534271489
+        },
+        {
+          "godkjenning_beskrivelse": "Bilverksted 03 (over 7500 kg, unntatt motorsykkel, moped, og traktor)",
+          "godkjenning_godkjenner": "Statens vegvesen",
+          "godkjenning_registernavn": "Verkstedregisteret",
+          "godkjenning_url": [
+            "https://www.vegvesen.no/kjoretoy/Eie+og+vedlikeholde/finn-godkjent-verksted"
+          ],
+          "id": "873130822_vrk_d2041f91ad568f477cd09a49bc542db2",
+          "path": "2.virksomhet.annen_godkjenning",
+          "_version_": 1821785521534271489
+        },
+        {
+          "godkjenning_beskrivelse": "Fartskriververksted (installere, aktivere, kalibrere, etterpr\u00f8ve, kontrollere og reparere fartskrivere og tilh\u00f8rende komponenter)",
+          "godkjenning_godkjenner": "Statens vegvesen",
+          "godkjenning_registernavn": "Verkstedregisteret",
+          "godkjenning_url": [
+            "https://www.vegvesen.no/kjoretoy/Eie+og+vedlikeholde/finn-godkjent-verksted"
+          ],
+          "id": "873130822_vrk_dd14c4c2001f8b7c6a9cae094c8334fb",
+          "path": "2.virksomhet.annen_godkjenning",
+          "_version_": 1821785521534271489
+        },
+        {
+          "godkjenning_beskrivelse": "Kontrollorgan 04 (kontrollorgan for periodisk kontroll av alle kj\u00f8ret\u00f8y, med unntak av traktor)",
+          "godkjenning_godkjenner": "Statens vegvesen",
+          "godkjenning_registernavn": "Verkstedregisteret",
+          "godkjenning_url": [
+            "https://www.vegvesen.no/kjoretoy/Eie+og+vedlikeholde/finn-godkjent-verksted"
+          ],
+          "id": "873130822_vrk_ac0df8708f71aa392726d59477a12992",
+          "path": "2.virksomhet.annen_godkjenning",
+          "_version_": 1821785521534271489
+        },
+        {
+          "godkjenning_beskrivelse": "P\u00e5byggerverksted (p\u00e5byggings-, oppbyggings- og ombyggingsarbeid p\u00e5 kj\u00f8ret\u00f8y i samsvar med kj\u00f8ret\u00f8yfabrikantens anvisninger)",
+          "godkjenning_godkjenner": "Statens vegvesen",
+          "godkjenning_registernavn": "Verkstedregisteret",
+          "godkjenning_url": [
+            "https://www.vegvesen.no/kjoretoy/Eie+og+vedlikeholde/finn-godkjent-verksted"
+          ],
+          "id": "873130822_vrk_b00a3f1bc7502ccb93a8462a9a3782d2",
+          "path": "2.virksomhet.annen_godkjenning",
+          "_version_": 1821785521534271489
+        },
+        {
+          "godkjenning_beskrivelse": "Skadeverksted 02 (verksted som kan tilby alle skadereparasjoner, inkludert omfattende skader)",
+          "godkjenning_godkjenner": "Statens vegvesen",
+          "godkjenning_registernavn": "Verkstedregisteret",
+          "godkjenning_url": [
+            "https://www.vegvesen.no/kjoretoy/Eie+og+vedlikeholde/finn-godkjent-verksted"
+          ],
+          "id": "873130822_vrk_c791a0f7be41f58a008d93f75c385a88",
+          "path": "2.virksomhet.annen_godkjenning",
+          "_version_": 1821785521534271489
+        },
+        {
+          "godkjenning_beskrivelse": "Traktorverksted (arbeid p\u00e5 traktor og motorredskap som er konstruert for en hastighet p\u00e5 50 km/h eller mer, tilhenger til traktor eller motorredskap samt tilhengere med p\u00e5l\u00f8psbremseanlegg)",
+          "godkjenning_godkjenner": "Statens vegvesen",
+          "godkjenning_registernavn": "Verkstedregisteret",
+          "godkjenning_url": [
+            "https://www.vegvesen.no/kjoretoy/Eie+og+vedlikeholde/finn-godkjent-verksted"
+          ],
+          "id": "873130822_vrk_886702073033a74da412a06d141d28f1",
+          "path": "2.virksomhet.annen_godkjenning",
+          "_version_": 1821785521534271489
+        },
+        {
+          "forelder_avstand": 1,
+          "forelder_navn": "WIST LAST & BUSS AS",
+          "forelder_orgnr": "958315120",
+          "id": "873130822_958315120",
+          "path": "2.virksomhet.forelder",
+          "_version_": 1821785521534271489
+        }
+      ]
+    },
+    {
+      "@id": "/bedrifter_ikke_godkjentes/873173092",
+      "@type": "Bedrifter_ikke_godkjente",
+      "id": "873173092",
+      "forradrkommnavn": "Aver\u00f8y",
+      "leaf_node": 1,
+      "path": "1.virksomhet",
+      "hovedenhet_navn": "BETONMAST R\u00d8SAND AS",
+      "orgnr": "873173092",
+      "forradrkommnr": "1554",
+      "navn": "BETONMAST R\u00d8SAND AS",
+      "forradrfylkenavn": "M\u00f8re og Romsdal",
+      "organisasjonsform_tittel": "Underenhet til n\u00e6ringsdrivende og offentlig forvaltning",
+      "sektorkode": "0",
+      "postadresse": null,
+      "leaf_and_parent_vigo_godkjenninger_m_larling": [
+        "BATMF3",
+        "BABAT1",
+        "BATMF2"
+      ],
+      "hovedenhet": "918510532",
+      "leaf_and_parent_vigo_uten_godkjenninger": [
+        "BABMO2",
+        "TPTIP1",
+        "BAAMF3",
+        "BAVOA3",
+        "STUSP1",
+        "BAANL2",
+        "BABYG2"
+      ],
+      "ppostnr": null,
+      "tilbyr_arbeidskrafttjenester": false,
+      "forradrpostnr": "6530",
+      "ppoststed": null,
+      "forradrfylkenr": "15",
+      "bedriftens_aarsverk": 66.2,
+      "forradrland": "Norge",
+      "forradrpoststed": "AVER\u00d8Y",
+      "telefon": [
+        "71 51 79 00"
+      ],
+      "organisasjonsform_kode": "BEDR",
+      "lopende_kontrakter_totalt": 0,
+      "leaf_and_parent_medlem_opplaringskontor_orgnavn": [
+        "BYGGOPP OPPL\u00c6RINGSKONTORET FOR BYGG- OG ANLEGGSTEKNIKK M\u00d8RE OG ROMSDAL"
+      ],
+      "ppostland": null,
+      "ansatte_totalt": 66,
+      "antall_stillinger": 0,
+      "forretningsadr": "N\u00e6ringsveien 18",
+      "latlng_1_coordinate": 7.64652,
+      "parent_orgnumbers": [
+        "918510532"
+      ],
+      "parent_vigo_contracts": 6,
+      "leaf_and_parent_medlem_opplaringskontor_orgnr": [
+        "977072972"
+      ],
+      "latlng_0_coordinate": 63.0681,
+      "programomradekode6_med_ansatte": [
+        "BAAMF3",
+        "BAANL2",
+        "BABAT1",
+        "BABET3",
+        "BABMO2",
+        "BABYG2",
+        "BATMF2",
+        "BATMF3",
+        "BAVOA3"
+      ],
+      "parent_godkjenninger": [
+        "Sentralt godkjent"
+      ],
+      "yrke_aarsverk": null,
+      "children_orgnumbers": null,
+      "vigo_navn_opplaringskontor": null,
+      "vigo_orgnr": null,
+      "godkjenning_url": null,
+      "godkjenning_beskrivelse": null,
+      "leaf_and_parent_vigo_godkjenninger_utlopte": [
+        "BABMO2",
+        "BABET3"
+      ],
+      "children_orgnames": null,
+      "yrke_orgnr": null,
+      "leaf_and_parent_vigo_godkjenninger_u_larling": null,
+      "vigo_forradrfylkenr": null,
+      "forelder_avstand": null,
+      "avtale_yff_skole_navn": null,
+      "godkjenning_registernavn": null,
+      "vigo_fylkenr": null,
+      "url": null,
+      "avtale_yff_avtale_nid": null,
+      "vigo_programomradekode6": null,
+      "vigo_programomradekode5": null,
+      "avtale_yff_sluttkompetanse_navn": null,
+      "vigo_lopenr": null,
+      "rolle_person": null,
+      "yrke_nid": null,
+      "yrke_programomradekode6_hovedlop": null,
+      "avtale_yff_orgnr": null,
+      "forelder_orgnr": null,
+      "rolle": null,
+      "avtale_yff_skole_nid": null,
+      "vigo_forradrfylkenavn": null,
+      "mobil": null,
+      "leaf_godkjenninger": null,
+      "yrkeskode_styrk98_programomradekode6_hovedlop": null,
+      "yrkeskode_styrk98": [
+        "1210203",
+        "1237108",
+        "2142108",
+        "2512142",
+        "3111106",
+        "3152129",
+        "3432117",
+        "7122101",
+        "7122105",
+        "7125107",
+        "7126108",
+        "9310102"
+      ],
+      "avtale_yff_programomradekode6": null,
+      "vigo_godkjent_til_dato": null,
+      "godkjenning_godkjenner": null,
+      "forelder_navn": null,
+      "vigo_programomrade_tittel": null,
+      "vigo_sum_kontrakter": null,
+      "rolle_person_poststed": null,
+      "leaf_and_parent_avtaler_yff": null,
+      "aarsverk": null,
+      "godkjenninger": [
+        "Sentralt godkjent"
+      ],
+      "children_distances": null,
+      "sektorkode_tittel": null,
+      "vigo_fylkenavn": null,
+      "vigo_orgnr_opplaringskontor": null,
+      "medlemsbedrifter_larlinger_totalt": 0,
+      "_other_data": {
+        "descendants_grand_total": 0,
+        "lpg_har_laereplassgaranti": false,
+        "naringskode_nace": [
+          "F",
+          "41",
+          "41.2",
+          "41.20",
+          "41.200"
+        ],
+        "naringskode_nace_tittel": [
+          "Oppf\u00f8ring av bygninger"
+        ],
+        "navn_suggest_no": [
+          "BETONMAST R\u00d8SAND AS"
+        ],
+        "navn_suggest_edge_no": [
+          "BETONMAST R\u00d8SAND AS"
+        ],
+        "navn_suggest_ngram_no": [
+          "BETONMAST R\u00d8SAND AS"
+        ],
+        "navn_s_no": "BETONMAST R\u00d8SAND AS",
+        "parent_distances": [
+          "1"
+        ],
+        "parent_orgnames": [
+          "BETONMAST R\u00d8SAND AS"
+        ],
+        "top_parent_organisasjonsform_kode": "AS",
+        "top_parent_organisasjonsform_tittel": "Aksjeselskap",
+        "update_hash": "b6c321a51c06b7542258fc464c19768f",
+        "yrkeskode_styrk98_tittel_str": [
+          "DAGLIG LEDER (\u00d8VERSTE LEDER I BEDRIFT MED OVER 9 ANSATTE)",
+          "UTVIKLINGSSJEF",
+          "PROSJEKTLEDER (BYGG OG ANLEGG)",
+          "HR-LEDER",
+          "PROSJEKTERINGSINGENI\u00d8R (BYGG OG ANLEGG)",
+          "HMS-LEDER",
+          "KALKULAT\u00d8R",
+          "BETONGARBEIDER",
+          "L\u00c6RLING (BETONG- OG GRUNNARBEID)",
+          "T\u00d8MRER",
+          "ANLEGGSLEDER",
+          "HJELPEARBEIDER (BYGG)"
+        ],
+        "_version_": 1821785521880301568,
+        "parent_vigo_programomradekode6_fylker_BATMF2": [
+          "15"
+        ],
+        "parent_vigo_programomradekode6_fylker_BATMF3": [
+          "15"
+        ],
+        "parent_vigo_programomradekode6_fylker_BABAT1": [
+          "15"
+        ],
+        "funksjon": "finnlarebedrift"
+      },
+      "_child_documents": [
+        {
+          "id": "918510532_daglig_leder_arvet",
+          "path": "2.virksomhet.roller",
+          "rolle": "Daglig leder",
+          "rolle_person": "R\u00f8sand, Eskild",
+          "rolle_person_poststed": "6530 AVER\u00d8Y",
+          "_version_": 1821785521880301568
+        },
+        {
+          "forelder_avstand": 1,
+          "forelder_navn": "BETONMAST R\u00d8SAND AS",
+          "forelder_orgnr": "918510532",
+          "id": "873173092_918510532",
+          "path": "2.virksomhet.forelder",
+          "_version_": 1821785521880301568
+        }
+      ]
+    },
+    {
+      "@id": "/bedrifter_ikke_godkjentes/873183322",
+      "@type": "Bedrifter_ikke_godkjente",
+      "id": "873183322",
+      "forradrkommnavn": "Bod\u00f8",
+      "leaf_node": 1,
+      "path": "1.virksomhet",
+      "hovedenhet_navn": "NORDLANDSBUSS AS",
+      "orgnr": "873183322",
+      "forradrkommnr": "1804",
+      "navn": "NORDLANDSBUSS AS AVD BOD\u00d8",
+      "forradrfylkenavn": "Nordland",
+      "organisasjonsform_tittel": "Underenhet til n\u00e6ringsdrivende og offentlig forvaltning",
+      "sektorkode": "0",
+      "postadresse": null,
+      "leaf_and_parent_vigo_godkjenninger_m_larling": null,
+      "hovedenhet": "979910231",
+      "leaf_and_parent_vigo_uten_godkjenninger": [
+        "BABAT1",
+        "BAROF3",
+        "SRSLG3",
+        "TPYRK3",
+        "TPTOL2",
+        "SSSSA1",
+        "SRSRL2",
+        "ELELE1",
+        "TPKJT2",
+        "SRSSR1",
+        "TPBMK3",
+        "SSTRL2",
+        "STUSP1",
+        "TPTIP1",
+        "SSSSS2"
+      ],
+      "ppostnr": null,
+      "tilbyr_arbeidskrafttjenester": false,
+      "forradrpostnr": "8008",
+      "ppoststed": null,
+      "forradrfylkenr": "18",
+      "bedriftens_aarsverk": 139.45,
+      "forradrland": "Norge",
+      "forradrpoststed": "BOD\u00d8",
+      "telefon": [
+        "75 50 90 10"
+      ],
+      "organisasjonsform_kode": "BEDR",
+      "lopende_kontrakter_totalt": 0,
+      "leaf_and_parent_medlem_opplaringskontor_orgnavn": null,
+      "ppostland": null,
+      "ansatte_totalt": 190,
+      "antall_stillinger": 0,
+      "forretningsadr": "Stormyrveien 3",
+      "latlng_1_coordinate": 14.423,
+      "parent_orgnumbers": [
+        "979910231"
+      ],
+      "parent_vigo_contracts": 0,
+      "leaf_and_parent_medlem_opplaringskontor_orgnr": null,
+      "latlng_0_coordinate": 67.28,
+      "programomradekode6_med_ansatte": [
+        "BABAT1",
+        "BAROF3",
+        "SRSLG3",
+        "SRSRL2",
+        "SRSSR1",
+        "SSSSA1",
+        "SSSSS2",
+        "SSTRL2",
+        "TPBMK3",
+        "TPKJT2",
+        "TPTIP1",
+        "TPTOL2",
+        "TPYRK3"
+      ],
+      "parent_godkjenninger": null,
+      "yrke_aarsverk": null,
+      "children_orgnumbers": null,
+      "vigo_navn_opplaringskontor": null,
+      "vigo_orgnr": null,
+      "godkjenning_url": null,
+      "godkjenning_beskrivelse": null,
+      "leaf_and_parent_vigo_godkjenninger_utlopte": null,
+      "children_orgnames": null,
+      "yrke_orgnr": null,
+      "leaf_and_parent_vigo_godkjenninger_u_larling": null,
+      "vigo_forradrfylkenr": null,
+      "forelder_avstand": null,
+      "avtale_yff_skole_navn": null,
+      "godkjenning_registernavn": null,
+      "vigo_fylkenr": null,
+      "url": null,
+      "avtale_yff_avtale_nid": null,
+      "vigo_programomradekode6": null,
+      "vigo_programomradekode5": null,
+      "avtale_yff_sluttkompetanse_navn": null,
+      "vigo_lopenr": null,
+      "rolle_person": null,
+      "yrke_nid": null,
+      "yrke_programomradekode6_hovedlop": null,
+      "avtale_yff_orgnr": null,
+      "forelder_orgnr": null,
+      "rolle": null,
+      "avtale_yff_skole_nid": null,
+      "vigo_forradrfylkenavn": null,
+      "mobil": null,
+      "leaf_godkjenninger": null,
+      "yrkeskode_styrk98_programomradekode6_hovedlop": null,
+      "yrkeskode_styrk98": [
+        "1227184",
+        "1233105",
+        "1317109",
+        "2141114",
+        "2512142",
+        "2519121",
+        "3152124",
+        "3423110",
+        "3431134",
+        "4133138",
+        "4133145",
+        "7231126",
+        "8322106",
+        "8322108",
+        "9132103",
+        "9132113"
+      ],
+      "avtale_yff_programomradekode6": null,
+      "vigo_godkjent_til_dato": null,
+      "godkjenning_godkjenner": null,
+      "forelder_navn": null,
+      "vigo_programomrade_tittel": null,
+      "vigo_sum_kontrakter": null,
+      "rolle_person_poststed": null,
+      "leaf_and_parent_avtaler_yff": null,
+      "aarsverk": null,
+      "godkjenninger": null,
+      "children_distances": null,
+      "sektorkode_tittel": null,
+      "vigo_fylkenavn": null,
+      "vigo_orgnr_opplaringskontor": null,
+      "medlemsbedrifter_larlinger_totalt": 0,
+      "_other_data": {
+        "descendants_grand_total": 0,
+        "lpg_har_laereplassgaranti": false,
+        "naringskode_nace": [
+          "H",
+          "49",
+          "49.3",
+          "49.31",
+          "49.311"
+        ],
+        "naringskode_nace_tittel": [
+          "Rutebiltransport i by- og forstadsomr\u00e5de"
+        ],
+        "navn_suggest_no": [
+          "NORDLANDSBUSS AS AVD BOD\u00d8"
+        ],
+        "navn_suggest_edge_no": [
+          "NORDLANDSBUSS AS AVD BOD\u00d8"
+        ],
+        "navn_suggest_ngram_no": [
+          "NORDLANDSBUSS AS AVD BOD\u00d8"
+        ],
+        "navn_s_no": "NORDLANDSBUSS AS AVD BOD\u00d8",
+        "parent_distances": [
+          "1"
+        ],
+        "parent_orgnames": [
+          "NORDLANDSBUSS AS"
+        ],
+        "top_parent_organisasjonsform_kode": "AS",
+        "top_parent_organisasjonsform_tittel": "Aksjeselskap",
+        "update_hash": "2905dadb02b66be7c665ca3fdb712f3c",
+        "yrkeskode_styrk98_tittel_str": [
+          "PLANSJEF (OFFENTLIG VIRKSOMHET)",
+          "SALGSSJEF",
+          "LEDER (RENGJ\u00d8RINGSBYR\u00c5 - F\u00c6RRE ENN 10 ANSATTE - PRIVAT VIRKSOMHET)",
+          "TRAFIKKPLANLEGGER",
+          "HR-LEDER",
+          "PROSJEKTKOORDINATOR (FORRETNINGSUTVIKLING)",
+          "KVALITETSKONSULENT",
+          "BEMANNINGSKONSULENT",
+          "DRIFTSSJEF (ADMINISTRASJON)",
+          "TRAFIKKLEDER (PERSONTRAFIKK)",
+          "TRANSPORTLEDER (FORSVARET)",
+          "MEKANIKER (BIL)",
+          "SJ\u00c5F\u00d8R (BUSS)",
+          "BUSSJ\u00c5F\u00d8R",
+          "RENHOLDSARBEIDER",
+          "SERVICEMEDARBEIDER (RENHOLD)"
+        ],
+        "_version_": 1821785521984110592,
+        "funksjon": "finnlarebedrift"
+      },
+      "_child_documents": [
+        {
+          "forelder_avstand": 1,
+          "forelder_navn": "NORDLANDSBUSS AS",
+          "forelder_orgnr": "979910231",
+          "id": "873183322_979910231",
+          "path": "2.virksomhet.forelder",
+          "_version_": 1821785521984110592
+        }
+      ]
+    },
+    {
+      "@id": "/bedrifter_ikke_godkjentes/873255692",
+      "@type": "Bedrifter_ikke_godkjente",
+      "id": "873255692",
+      "forradrkommnavn": "Bergen",
+      "leaf_node": 1,
+      "path": "1.virksomhet",
+      "hovedenhet_navn": "KROKEIDE VIDEREG\u00c5ENDE SKOLE AS",
+      "orgnr": "873255692",
+      "forradrkommnr": "4601",
+      "navn": "KROKEIDE VIDEREG\u00c5ENDE SKOLE AS",
+      "forradrfylkenavn": "Vestland",
+      "organisasjonsform_tittel": "Underenhet til n\u00e6ringsdrivende og offentlig forvaltning",
+      "sektorkode": "0",
+      "postadresse": null,
+      "leaf_and_parent_vigo_godkjenninger_m_larling": [
+        "RMKOK3",
+        "RMKOS2",
+        "RMRMF1"
+      ],
+      "hovedenhet": "980443191",
+      "leaf_and_parent_vigo_uten_godkjenninger": [
+        "BABAT1",
+        "HSBUA2",
+        "DHMED1",
+        "DHDHV1",
+        "SSISF3",
+        "HSBUA3",
+        "STFOR1",
+        "ELELE1",
+        "MKMED1",
+        "STUSP1",
+        "BABDR3",
+        "HSHEA3",
+        "HSHEA2",
+        "MEMOK1",
+        "SSSSA1",
+        "SSKAD3",
+        "TPTIP1",
+        "RMEKF3",
+        "SSSSS2",
+        "KDKDA1",
+        "HSHSF1",
+        "MDMDD1",
+        "NANAB1",
+        "SSISF2",
+        "IDRET1",
+        "HSAMB2"
+      ],
+      "ppostnr": null,
+      "tilbyr_arbeidskrafttjenester": false,
+      "forradrpostnr": "5244",
+      "ppoststed": null,
+      "forradrfylkenr": "46",
+      "bedriftens_aarsverk": 93.68,
+      "forradrland": "Norge",
+      "forradrpoststed": "FANA",
+      "telefon": [
+        "55 10 87 00"
+      ],
+      "organisasjonsform_kode": "BEDR",
+      "lopende_kontrakter_totalt": 0,
+      "leaf_and_parent_medlem_opplaringskontor_orgnavn": [
+        "STIFTELSEN REISELIVETS OPPL\u00c6RINGSSENTER"
+      ],
+      "ppostland": null,
+      "ansatte_totalt": 111,
+      "antall_stillinger": 0,
+      "forretningsadr": "Korsnesvegen 70",
+      "latlng_1_coordinate": 5.28764,
+      "parent_orgnumbers": [
+        "980443191"
+      ],
+      "parent_vigo_contracts": 2,
+      "leaf_and_parent_medlem_opplaringskontor_orgnr": [
+        "968881280"
+      ],
+      "latlng_0_coordinate": 60.2229,
+      "programomradekode6_med_ansatte": [
+        "BABAT1",
+        "BABDR3",
+        "HSBUA2",
+        "HSBUA3",
+        "HSHEA2",
+        "HSHEA3",
+        "HSHSF1",
+        "RMEKF3",
+        "RMKOK3",
+        "RMKOS2",
+        "RMRMF1",
+        "SSISF2",
+        "SSISF3",
+        "SSKAD3",
+        "SSSSA1",
+        "SSSSS2"
+      ],
+      "parent_godkjenninger": null,
+      "yrke_aarsverk": null,
+      "children_orgnumbers": null,
+      "vigo_navn_opplaringskontor": null,
+      "vigo_orgnr": null,
+      "godkjenning_url": null,
+      "godkjenning_beskrivelse": null,
+      "leaf_and_parent_vigo_godkjenninger_utlopte": null,
+      "children_orgnames": null,
+      "yrke_orgnr": null,
+      "leaf_and_parent_vigo_godkjenninger_u_larling": null,
+      "vigo_forradrfylkenr": null,
+      "forelder_avstand": null,
+      "avtale_yff_skole_navn": null,
+      "godkjenning_registernavn": null,
+      "vigo_fylkenr": null,
+      "url": [
+        "www.krokeide.vgs.no"
+      ],
+      "avtale_yff_avtale_nid": null,
+      "vigo_programomradekode6": null,
+      "vigo_programomradekode5": null,
+      "avtale_yff_sluttkompetanse_navn": null,
+      "vigo_lopenr": null,
+      "rolle_person": null,
+      "yrke_nid": null,
+      "yrke_programomradekode6_hovedlop": null,
+      "avtale_yff_orgnr": null,
+      "forelder_orgnr": null,
+      "rolle": null,
+      "avtale_yff_skole_nid": null,
+      "vigo_forradrfylkenavn": null,
+      "mobil": null,
+      "leaf_godkjenninger": null,
+      "yrkeskode_styrk98_programomradekode6_hovedlop": null,
+      "yrkeskode_styrk98": [
+        "1228102",
+        "1228114",
+        "2230107",
+        "2320102",
+        "2320103",
+        "2320104",
+        "2340105",
+        "2352114",
+        "2545110",
+        "3120107",
+        "3231109",
+        "3232101",
+        "3341103",
+        "3431105",
+        "5121105",
+        "5122109",
+        "5122114",
+        "5122120",
+        "5131110",
+        "5131129",
+        "5132101",
+        "5132108",
+        "5163121",
+        "5163130",
+        "9133115"
+      ],
+      "avtale_yff_programomradekode6": null,
+      "vigo_godkjent_til_dato": null,
+      "godkjenning_godkjenner": null,
+      "forelder_navn": null,
+      "vigo_programomrade_tittel": null,
+      "vigo_sum_kontrakter": null,
+      "rolle_person_poststed": null,
+      "leaf_and_parent_avtaler_yff": null,
+      "aarsverk": null,
+      "godkjenninger": null,
+      "children_distances": null,
+      "sektorkode_tittel": null,
+      "vigo_fylkenavn": null,
+      "vigo_orgnr_opplaringskontor": null,
+      "medlemsbedrifter_larlinger_totalt": 0,
+      "_other_data": {
+        "descendants_grand_total": 0,
+        "lpg_har_laereplassgaranti": false,
+        "naringskode_nace": [
+          "P",
+          "85",
+          "85.3",
+          "85.32",
+          "85.320"
+        ],
+        "naringskode_nace_tittel": [
+          "Videreg\u00e5ende oppl\u00e6ring innen tekniske og andre yrkesfaglige studieretninger"
+        ],
+        "navn_suggest_no": [
+          "KROKEIDE VIDEREG\u00c5ENDE SKOLE AS"
+        ],
+        "navn_suggest_edge_no": [
+          "KROKEIDE VIDEREG\u00c5ENDE SKOLE AS"
+        ],
+        "navn_suggest_ngram_no": [
+          "KROKEIDE VIDEREG\u00c5ENDE SKOLE AS"
+        ],
+        "navn_s_no": "KROKEIDE VIDEREG\u00c5ENDE SKOLE AS",
+        "parent_distances": [
+          "1"
+        ],
+        "parent_orgnames": [
+          "KROKEIDE VIDEREG\u00c5ENDE SKOLE AS"
+        ],
+        "top_parent_organisasjonsform_kode": "AS",
+        "top_parent_organisasjonsform_tittel": "Aksjeselskap",
+        "update_hash": "6529a701d2f5bf33a8e721f775c6b70e",
+        "yrkeskode_styrk98_tittel_str": [
+          "REKTOR (OVER 9 ANSATTE)",
+          "AVDELINGSLEDER (UNDERVISNING)",
+          "SPESIALSYKEPLEIER",
+          "L\u00c6RER (VIDEREG\u00c5ENDE SKOLE)",
+          "LEKTOR (I VIDEREG\u00c5ENDE SKOLE)",
+          "ADJUNKT (VIDEREG\u00c5ENDE SKOLE)",
+          "SPESIALPEDAGOG",
+          "UNDERVISNINGSINSPEKT\u00d8R",
+          "PEDAGOGISK-PSYKOLOGISK R\u00c5DGIVER",
+          "KONSULENT (DATA)",
+          "SYKEPLEIER",
+          "MILJ\u00d8TERAPEUT (VERNEPLEIER)",
+          "ADJUNKT (YRKESFAG)",
+          "F\u00d8RSTESEKRET\u00c6R (PRIVAT VIRKSOMHET)",
+          "INTERNATBETJENT",
+          "KJ\u00d8KKENSJEF (F\u00c6RRE ENN 10 ANSATTE)",
+          "KOKK",
+          "L\u00c6RLING (KOKK)",
+          "MILJ\u00d8ARBEIDER (BARNE- OG UNGDOMSARBEID)",
+          "ASSISTENT (SKOLE)",
+          "HJELPEPLEIER",
+          "MILJ\u00d8ARBEIDER (HELSE- OG OMSORG)",
+          "VAKTMESTER",
+          "VEDLIKEHOLDSARBEIDER (VAKTMESTERARBEID)",
+          "KJ\u00d8KKENASSISTENT"
+        ],
+        "_version_": 1821785522275614720,
+        "parent_vigo_programomradekode6_fylker_RMRMF1": [
+          "46"
+        ],
+        "parent_vigo_programomradekode6_fylker_RMKOS2": [
+          "46"
+        ],
+        "parent_vigo_programomradekode6_fylker_RMKOK3": [
+          "46"
+        ],
+        "funksjon": "finnlarebedrift"
+      },
+      "_child_documents": [
+        {
+          "id": "980443191_daglig_leder_arvet",
+          "path": "2.virksomhet.roller",
+          "rolle": "Daglig leder",
+          "rolle_person": "Haugstad, Leif Erik",
+          "rolle_person_poststed": "5221 NESTTUN",
+          "_version_": 1821785522275614720
+        },
+        {
+          "forelder_avstand": 1,
+          "forelder_navn": "KROKEIDE VIDEREG\u00c5ENDE SKOLE AS",
+          "forelder_orgnr": "980443191",
+          "id": "873255692_980443191",
+          "path": "2.virksomhet.forelder",
+          "_version_": 1821785522275614720
+        }
+      ]
+    },
+    {
+      "@id": "/bedrifter_ikke_godkjentes/873761792",
+      "@type": "Bedrifter_ikke_godkjente",
+      "id": "873761792",
+      "forradrkommnavn": "Oslo",
+      "leaf_node": 1,
+      "path": "1.virksomhet",
+      "hovedenhet_navn": "HASLE-L\u00d8REN IDRETTSLAG",
+      "orgnr": "873761792",
+      "forradrkommnr": "0301",
+      "navn": "HASLE-L\u00d8REN IDRETTSLAG",
+      "forradrfylkenavn": "Oslo",
+      "organisasjonsform_tittel": "Underenhet til n\u00e6ringsdrivende og offentlig forvaltning",
+      "sektorkode": "0",
+      "postadresse": "c/o Ishall, Kontor\nSpireaveien 1\n-3",
+      "leaf_and_parent_vigo_godkjenninger_m_larling": null,
+      "hovedenhet": "935538378",
+      "leaf_and_parent_vigo_uten_godkjenninger": [
+        "NANAB1",
+        "BABAT1",
+        "BABDR3"
+      ],
+      "ppostnr": "0580",
+      "tilbyr_arbeidskrafttjenester": false,
+      "forradrpostnr": "0580",
+      "ppoststed": "OSLO",
+      "forradrfylkenr": "03",
+      "bedriftens_aarsverk": 29.89,
+      "forradrland": "Norge",
+      "forradrpoststed": "OSLO",
+      "telefon": null,
+      "organisasjonsform_kode": "BEDR",
+      "lopende_kontrakter_totalt": 0,
+      "leaf_and_parent_medlem_opplaringskontor_orgnavn": null,
+      "ppostland": "Norge",
+      "ansatte_totalt": 109,
+      "antall_stillinger": 0,
+      "forretningsadr": "Spireaveien 3",
+      "latlng_1_coordinate": 10.805,
+      "parent_orgnumbers": [
+        "935538378"
+      ],
+      "parent_vigo_contracts": 0,
+      "leaf_and_parent_medlem_opplaringskontor_orgnr": null,
+      "latlng_0_coordinate": 59.9355,
+      "programomradekode6_med_ansatte": [
+        "BABAT1",
+        "BABDR3"
+      ],
+      "parent_godkjenninger": null,
+      "yrke_aarsverk": null,
+      "children_orgnumbers": null,
+      "vigo_navn_opplaringskontor": null,
+      "vigo_orgnr": null,
+      "godkjenning_url": null,
+      "godkjenning_beskrivelse": null,
+      "leaf_and_parent_vigo_godkjenninger_utlopte": [
+        "NAIAN3"
+      ],
+      "children_orgnames": null,
+      "yrke_orgnr": null,
+      "leaf_and_parent_vigo_godkjenninger_u_larling": null,
+      "vigo_forradrfylkenr": null,
+      "forelder_avstand": null,
+      "avtale_yff_skole_navn": null,
+      "godkjenning_registernavn": null,
+      "vigo_fylkenr": null,
+      "url": [
+        "www.hasle-loren.no"
+      ],
+      "avtale_yff_avtale_nid": null,
+      "vigo_programomradekode6": null,
+      "vigo_programomradekode5": null,
+      "avtale_yff_sluttkompetanse_navn": null,
+      "vigo_lopenr": null,
+      "rolle_person": null,
+      "yrke_nid": null,
+      "yrke_programomradekode6_hovedlop": null,
+      "avtale_yff_orgnr": null,
+      "forelder_orgnr": null,
+      "rolle": null,
+      "avtale_yff_skole_nid": null,
+      "vigo_forradrfylkenavn": null,
+      "mobil": null,
+      "leaf_godkjenninger": null,
+      "yrkeskode_styrk98_programomradekode6_hovedlop": null,
+      "yrkeskode_styrk98": [
+        "1210203",
+        "3475105",
+        "3475120",
+        "3475121",
+        "3475122",
+        "3475127",
+        "3475131",
+        "3475140",
+        "5163111",
+        "5163112",
+        "5163121",
+        "5163122"
+      ],
+      "avtale_yff_programomradekode6": null,
+      "vigo_godkjent_til_dato": null,
+      "godkjenning_godkjenner": null,
+      "forelder_navn": null,
+      "vigo_programomrade_tittel": null,
+      "vigo_sum_kontrakter": null,
+      "rolle_person_poststed": null,
+      "leaf_and_parent_avtaler_yff": null,
+      "aarsverk": null,
+      "godkjenninger": null,
+      "children_distances": null,
+      "sektorkode_tittel": null,
+      "vigo_fylkenavn": null,
+      "vigo_orgnr_opplaringskontor": null,
+      "medlemsbedrifter_larlinger_totalt": 0,
+      "_other_data": {
+        "descendants_grand_total": 0,
+        "lpg_har_laereplassgaranti": false,
+        "naringskode_nace": [
+          "R",
+          "93",
+          "93.1",
+          "93.12",
+          "93.120"
+        ],
+        "naringskode_nace_tittel": [
+          "Idrettslag og -klubber"
+        ],
+        "navn_suggest_no": [
+          "HASLE-L\u00d8REN IDRETTSLAG"
+        ],
+        "navn_suggest_edge_no": [
+          "HASLE-L\u00d8REN IDRETTSLAG"
+        ],
+        "navn_suggest_ngram_no": [
+          "HASLE-L\u00d8REN IDRETTSLAG"
+        ],
+        "navn_s_no": "HASLE-L\u00d8REN IDRETTSLAG",
+        "parent_distances": [
+          "1"
+        ],
+        "parent_orgnames": [
+          "HASLE-L\u00d8REN IDRETTSLAG"
+        ],
+        "top_parent_organisasjonsform_kode": "FLI",
+        "top_parent_organisasjonsform_tittel": "Forening/lag/innretning",
+        "update_hash": "09f623c422993d4e5f725d5ab93e4fa3",
+        "yrkeskode_styrk98_tittel_str": [
+          "DAGLIG LEDER (\u00d8VERSTE LEDER I BEDRIFT MED OVER 9 ANSATTE)",
+          "ISHOCKEYTRENER",
+          "SKIINSTRUKT\u00d8R",
+          "H\u00c5NDBALLTRENER",
+          "FOTBALLTRENER",
+          "DOMMER (IDRETT)",
+          "IDRETTSSEKSJONSLEDER",
+          "SPORTSJEF",
+          "DRIFTSLEDER (VAKTMESTER)",
+          "DRIFTSASSISTENT (VAKTMESTER)",
+          "VAKTMESTER",
+          "VAKTMESTERASSISTENT"
+        ],
+        "_version_": 1821785525055389696,
+        "funksjon": "finnlarebedrift"
+      },
+      "_child_documents": [
+        {
+          "id": "935538378_daglig_leder_arvet",
+          "path": "2.virksomhet.roller",
+          "rolle": "Daglig leder",
+          "rolle_person": "Arntsen, Ole Anders",
+          "rolle_person_poststed": "2052 JESSHEIM",
+          "_version_": 1821785525055389696
+        },
+        {
+          "forelder_avstand": 1,
+          "forelder_navn": "HASLE-L\u00d8REN IDRETTSLAG",
+          "forelder_orgnr": "935538378",
+          "id": "873761792_935538378",
+          "path": "2.virksomhet.forelder",
+          "_version_": 1821785525055389696
+        }
+      ]
+    },
+    {
+      "@id": "/bedrifter_ikke_godkjentes/874560642",
+      "@type": "Bedrifter_ikke_godkjente",
+      "id": "874560642",
+      "forradrkommnavn": "Sarpsborg",
+      "leaf_node": 1,
+      "path": "1.virksomhet",
+      "hovedenhet_navn": "SARPSBORG KOMMUNE TEKNISK ETAT",
+      "orgnr": "874560642",
+      "forradrkommnr": "3105",
+      "navn": "SARPSBORG KOMMUNE TEKNISK ADMINISTRASJON OG PLANLEGGING",
+      "forradrfylkenavn": "\u00d8stfold",
+      "organisasjonsform_tittel": "Underenhet til n\u00e6ringsdrivende og offentlig forvaltning",
+      "sektorkode": "0",
+      "postadresse": "Postboks 237",
+      "leaf_and_parent_vigo_godkjenninger_m_larling": null,
+      "hovedenhet": "974637146",
+      "leaf_and_parent_vigo_uten_godkjenninger": [
+        "BABAT1",
+        "RMRMF1",
+        "DHDHV1",
+        "SSISF3",
+        "STFOR1",
+        "ELELE1",
+        "STUSP1",
+        "BABDR3",
+        "IMIKM1",
+        "NAAID2",
+        "SSSSA1",
+        "MEMOK1",
+        "KDKDA1",
+        "HSHSF1",
+        "IMITK2",
+        "SSISF2",
+        "BAASF3",
+        "DHMED1",
+        "MKMED1",
+        "BAANG3",
+        "BAVOA3",
+        "BAANG2",
+        "SRSSH2",
+        "SRSOA3",
+        "BAANL2",
+        "IMITD3",
+        "SRSSR1",
+        "MDMDD1",
+        "IDRET1",
+        "NANAB1",
+        "TPTIP1",
+        "SSSSS2"
+      ],
+      "ppostnr": "1702",
+      "tilbyr_arbeidskrafttjenester": false,
+      "forradrpostnr": "1706",
+      "ppoststed": "SARPSBORG",
+      "forradrfylkenr": "31",
+      "bedriftens_aarsverk": 73.5,
+      "forradrland": "Norge",
+      "forradrpoststed": "SARPSBORG",
+      "telefon": null,
+      "organisasjonsform_kode": "BEDR",
+      "lopende_kontrakter_totalt": 0,
+      "leaf_and_parent_medlem_opplaringskontor_orgnavn": null,
+      "ppostland": "Norge",
+      "ansatte_totalt": 78,
+      "antall_stillinger": 0,
+      "forretningsadr": "Glengsgata 38",
+      "latlng_1_coordinate": 11.1115,
+      "parent_orgnumbers": [
+        "938801363",
+        "974637146"
+      ],
+      "parent_vigo_contracts": 0,
+      "leaf_and_parent_medlem_opplaringskontor_orgnr": null,
+      "latlng_0_coordinate": 59.2816,
+      "programomradekode6_med_ansatte": [
+        "BAANG2",
+        "BAANG3",
+        "BAANL2",
+        "BAASF3",
+        "BABAT1",
+        "BABDR3",
+        "BAVOA3",
+        "IMIKM1",
+        "IMITD3",
+        "IMITK2",
+        "NAAID2",
+        "NANAB1",
+        "SRSOA3",
+        "SRSSH2",
+        "SRSSR1",
+        "SSISF2",
+        "SSISF3",
+        "SSSSA1",
+        "SSSSS2"
+      ],
+      "parent_godkjenninger": null,
+      "yrke_aarsverk": null,
+      "children_orgnumbers": null,
+      "vigo_navn_opplaringskontor": null,
+      "vigo_orgnr": null,
+      "godkjenning_url": null,
+      "godkjenning_beskrivelse": null,
+      "leaf_and_parent_vigo_godkjenninger_utlopte": null,
+      "children_orgnames": null,
+      "yrke_orgnr": null,
+      "leaf_and_parent_vigo_godkjenninger_u_larling": null,
+      "vigo_forradrfylkenr": null,
+      "forelder_avstand": null,
+      "avtale_yff_skole_navn": null,
+      "godkjenning_registernavn": null,
+      "vigo_fylkenr": null,
+      "url": null,
+      "avtale_yff_avtale_nid": null,
+      "vigo_programomradekode6": null,
+      "vigo_programomradekode5": null,
+      "avtale_yff_sluttkompetanse_navn": null,
+      "vigo_lopenr": null,
+      "rolle_person": null,
+      "yrke_nid": null,
+      "yrke_programomradekode6_hovedlop": null,
+      "avtale_yff_orgnr": null,
+      "forelder_orgnr": null,
+      "rolle": null,
+      "avtale_yff_skole_nid": null,
+      "vigo_forradrfylkenavn": null,
+      "mobil": null,
+      "leaf_godkjenninger": null,
+      "yrkeskode_styrk98_programomradekode6_hovedlop": null,
+      "yrkeskode_styrk98": [
+        "1223111",
+        "1227153",
+        "1227267",
+        "1231126",
+        "2130106",
+        "2411107",
+        "2411114",
+        "2413116",
+        "2419114",
+        "2521106",
+        "3119136",
+        "3119147",
+        "3431122",
+        "5132103",
+        "5163133",
+        "7126104",
+        "7126111",
+        "7129106"
+      ],
+      "avtale_yff_programomradekode6": null,
+      "vigo_godkjent_til_dato": null,
+      "godkjenning_godkjenner": null,
+      "forelder_navn": null,
+      "vigo_programomrade_tittel": null,
+      "vigo_sum_kontrakter": null,
+      "rolle_person_poststed": null,
+      "leaf_and_parent_avtaler_yff": null,
+      "aarsverk": null,
+      "godkjenninger": null,
+      "children_distances": null,
+      "sektorkode_tittel": null,
+      "vigo_fylkenavn": null,
+      "vigo_orgnr_opplaringskontor": null,
+      "medlemsbedrifter_larlinger_totalt": 0,
+      "_other_data": {
+        "descendants_grand_total": 0,
+        "lpg_har_laereplassgaranti": false,
+        "naringskode_nace": [
+          "O",
+          "84",
+          "84.1",
+          "84.13",
+          "84.130"
+        ],
+        "naringskode_nace_tittel": [
+          "Offentlig administrasjon tilknyttet n\u00e6ringsvirksomhet og arbeidsmarked"
+        ],
+        "navn_suggest_no": [
+          "SARPSBORG KOMMUNE TEKNISK ADMINISTRASJON OG PLANLEGGING"
+        ],
+        "navn_suggest_edge_no": [
+          "SARPSBORG KOMMUNE TEKNISK ADMINISTRASJON OG PLANLEGGING"
+        ],
+        "navn_suggest_ngram_no": [
+          "SARPSBORG KOMMUNE TEKNISK ADMINISTRASJON OG PLANLEGGING"
+        ],
+        "navn_s_no": "SARPSBORG KOMMUNE TEKNISK ADMINISTRASJON OG PLANLEGGING",
+        "parent_distances": [
+          "2",
+          "1"
+        ],
+        "parent_orgnames": [
+          "SARPSBORG KOMMUNE",
+          "SARPSBORG KOMMUNE TEKNISK ETAT"
+        ],
+        "top_parent_organisasjonsform_kode": "KOMM",
+        "top_parent_organisasjonsform_tittel": "Kommune",
+        "update_hash": "ec48b2a0c25ad2f182b298cb1ef9c8c8",
+        "yrkeskode_styrk98_tittel_str": [
+          "AVDELINGSLEDER (BYGG OG ANLEGG)",
+          "AVDELINGSLEDER (OFFENTLIG ADMINISTRASJON)",
+          "ENHETSLEDER (PLEIE- OG OMSORG)",
+          "ADMINISTRASJONSSJEF",
+          "R\u00c5DGIVER (DATA)",
+          "R\u00c5DGIVER (\u00d8KONOMI OG SAMFUNNSVITENSKAP, OFFENTLIG ADMINISTRASJON)",
+          "FAGSJEF (SAMFUNNSVITENSKAPELIG UTREDNING, OFFENTLIG ADMINISTRASJON)",
+          "R\u00c5DGIVER (TEKNISK,NATURVITENSKAPELIG UTREDNING, OFF.ADM)",
+          "R\u00c5DGIVER (\u00d8VRIG OFFENTLIG ADMINISTRASJON)",
+          "ADVOKAT",
+          "INGENI\u00d8R (\u00d8VRIG TEKNISK VIRKSOMHET)",
+          "INGENI\u00d8R (KART OG OPPM\u00c5LING)",
+          "SAKSBEHANDLER (KONTORARBEID)",
+          "ARBEIDSLEDER (OMSORGSARBEID)",
+          "TEAMLEDER (DRIFT/VEDLIKEHOLD)",
+          "ANLEGGSARBEIDER",
+          "FAGARBEIDER (VEI- OG ANLEGGSARBEID)",
+          "ANLEGGSGARTNER"
+        ],
+        "_version_": 1821785531358380032,
+        "funksjon": "finnlarebedrift"
+      },
+      "_child_documents": [
+        {
+          "forelder_avstand": 2,
+          "forelder_navn": "SARPSBORG KOMMUNE",
+          "forelder_orgnr": "938801363",
+          "id": "874560642_938801363",
+          "path": "2.virksomhet.forelder",
+          "_version_": 1821785531358380032
+        },
+        {
+          "forelder_avstand": 1,
+          "forelder_navn": "SARPSBORG KOMMUNE TEKNISK ETAT",
+          "forelder_orgnr": "974637146",
+          "id": "874560642_974637146",
+          "path": "2.virksomhet.forelder",
+          "_version_": 1821785531358380032
+        }
+      ]
+    },
+    {
+      "@id": "/bedrifter_ikke_godkjentes/874561002",
+      "@type": "Bedrifter_ikke_godkjente",
+      "id": "874561002",
+      "forradrkommnavn": "Holmestrand",
+      "leaf_node": 1,
+      "path": "1.virksomhet",
+      "hovedenhet_navn": "HOLMESTRAND KOMMUNE HELSE, SOSIAL OG OMSORG",
+      "orgnr": "874561002",
+      "forradrkommnr": "3903",
+      "navn": "SANDE BO- OG BEHANDLINGSSENTER",
+      "forradrfylkenavn": "Vestfold",
+      "organisasjonsform_tittel": "Underenhet til n\u00e6ringsdrivende og offentlig forvaltning",
+      "sektorkode": "0",
+      "postadresse": "Postboks 312",
+      "leaf_and_parent_vigo_godkjenninger_m_larling": null,
+      "hovedenhet": "974640201",
+      "leaf_and_parent_vigo_uten_godkjenninger": [
+        "HSBUA2",
+        "HSHEA3",
+        "DHDHV1",
+        "HSBUA3",
+        "HSHSF1",
+        "STUSP1",
+        "HSHEA2",
+        "HSHES2",
+        "HSAMB2",
+        "HSHSE3"
+      ],
+      "ppostnr": "3081",
+      "tilbyr_arbeidskrafttjenester": false,
+      "forradrpostnr": "3070",
+      "ppoststed": "HOLMESTRAND",
+      "forradrfylkenr": "39",
+      "bedriftens_aarsverk": 93.4,
+      "forradrland": "Norge",
+      "forradrpoststed": "SANDE I VESTFOLD",
+      "telefon": [
+        "33 06 41 00"
+      ],
+      "organisasjonsform_kode": "BEDR",
+      "lopende_kontrakter_totalt": 0,
+      "leaf_and_parent_medlem_opplaringskontor_orgnavn": null,
+      "ppostland": "Norge",
+      "ansatte_totalt": 252,
+      "antall_stillinger": 0,
+      "forretningsadr": "Jernbanegata 25",
+      "latlng_1_coordinate": 10.2083,
+      "parent_orgnumbers": [
+        "917151229",
+        "974640201"
+      ],
+      "parent_vigo_contracts": 0,
+      "leaf_and_parent_medlem_opplaringskontor_orgnr": null,
+      "latlng_0_coordinate": 59.5827,
+      "programomradekode6_med_ansatte": [
+        "HSBUA2",
+        "HSBUA3",
+        "HSHEA2",
+        "HSHEA3",
+        "HSHES2",
+        "HSHSE3",
+        "HSHSF1"
+      ],
+      "parent_godkjenninger": null,
+      "yrke_aarsverk": null,
+      "children_orgnumbers": null,
+      "vigo_navn_opplaringskontor": null,
+      "vigo_orgnr": null,
+      "godkjenning_url": null,
+      "godkjenning_beskrivelse": null,
+      "leaf_and_parent_vigo_godkjenninger_utlopte": null,
+      "children_orgnames": null,
+      "yrke_orgnr": null,
+      "leaf_and_parent_vigo_godkjenninger_u_larling": null,
+      "vigo_forradrfylkenr": null,
+      "forelder_avstand": null,
+      "avtale_yff_skole_navn": null,
+      "godkjenning_registernavn": null,
+      "vigo_fylkenr": null,
+      "url": null,
+      "avtale_yff_avtale_nid": null,
+      "vigo_programomradekode6": null,
+      "vigo_programomradekode5": null,
+      "avtale_yff_sluttkompetanse_navn": null,
+      "vigo_lopenr": null,
+      "rolle_person": null,
+      "yrke_nid": null,
+      "yrke_programomradekode6_hovedlop": null,
+      "avtale_yff_orgnr": null,
+      "forelder_orgnr": null,
+      "rolle": null,
+      "avtale_yff_skole_nid": null,
+      "vigo_forradrfylkenavn": null,
+      "mobil": null,
+      "leaf_godkjenninger": null,
+      "yrkeskode_styrk98_programomradekode6_hovedlop": null,
+      "yrkeskode_styrk98": [
+        "2230107",
+        "3231109",
+        "3232101",
+        "3232102",
+        "5131106",
+        "5132101",
+        "5132102",
+        "5132116",
+        "5132118",
+        "5132119",
+        "5132121",
+        "5135101",
+        "5139105",
+        "5139113"
+      ],
+      "avtale_yff_programomradekode6": null,
+      "vigo_godkjent_til_dato": null,
+      "godkjenning_godkjenner": null,
+      "forelder_navn": null,
+      "vigo_programomrade_tittel": null,
+      "vigo_sum_kontrakter": null,
+      "rolle_person_poststed": null,
+      "leaf_and_parent_avtaler_yff": null,
+      "aarsverk": null,
+      "godkjenninger": null,
+      "children_distances": null,
+      "sektorkode_tittel": null,
+      "vigo_fylkenavn": null,
+      "vigo_orgnr_opplaringskontor": null,
+      "medlemsbedrifter_larlinger_totalt": 0,
+      "_other_data": {
+        "descendants_grand_total": 0,
+        "lpg_har_laereplassgaranti": false,
+        "naringskode_nace": [
+          "Q",
+          "87",
+          "87.1",
+          "87.10",
+          "87.102"
+        ],
+        "naringskode_nace_tittel": [
+          "Somatiske sykehjem"
+        ],
+        "navn_suggest_no": [
+          "SANDE BO- OG BEHANDLINGSSENTER"
+        ],
+        "navn_suggest_edge_no": [
+          "SANDE BO- OG BEHANDLINGSSENTER"
+        ],
+        "navn_suggest_ngram_no": [
+          "SANDE BO- OG BEHANDLINGSSENTER"
+        ],
+        "navn_s_no": "SANDE BO- OG BEHANDLINGSSENTER",
+        "parent_distances": [
+          "2",
+          "1"
+        ],
+        "parent_orgnames": [
+          "HOLMESTRAND KOMMUNE",
+          "HOLMESTRAND KOMMUNE HELSE, SOSIAL OG OMSORG"
+        ],
+        "top_parent_organisasjonsform_kode": "KOMM",
+        "top_parent_organisasjonsform_tittel": "Kommune",
+        "update_hash": "87b8a980ed19451462ed6373c72ec675",
+        "yrkeskode_styrk98_tittel_str": [
+          "SPESIALSYKEPLEIER",
+          "SYKEPLEIER",
+          "MILJ\u00d8TERAPEUT (VERNEPLEIER)",
+          "VERNEPLEIER",
+          "BARNE- OG UNGDOMSARBEIDER",
+          "HJELPEPLEIER",
+          "OMSORGSARBEIDER",
+          "HJELPEPLEIERMEDARBEIDER",
+          "L\u00c6RLING (HELSEFAG)",
+          "HJELPEPLEIER (PSYKISK HELSEARBEID)",
+          "HELSEFAGARBEIDER",
+          "LEGESEKRET\u00c6R",
+          "PLEIEASSISTENT",
+          "PLEIEMEDHJELPER"
+        ],
+        "_version_": 1821785531366768640,
+        "funksjon": "finnlarebedrift"
+      },
+      "_child_documents": [
+        {
+          "forelder_avstand": 2,
+          "forelder_navn": "HOLMESTRAND KOMMUNE",
+          "forelder_orgnr": "917151229",
+          "id": "874561002_917151229",
+          "path": "2.virksomhet.forelder",
+          "_version_": 1821785531366768640
+        },
+        {
+          "forelder_avstand": 1,
+          "forelder_navn": "HOLMESTRAND KOMMUNE HELSE, SOSIAL OG OMSORG",
+          "forelder_orgnr": "974640201",
+          "id": "874561002_974640201",
+          "path": "2.virksomhet.forelder",
+          "_version_": 1821785531366768640
+        }
+      ]
+    },
+    {
+      "@id": "/bedrifter_ikke_godkjentes/874591742",
+      "@type": "Bedrifter_ikke_godkjente",
+      "id": "874591742",
+      "forradrkommnavn": "H\u00f8ylandet",
+      "leaf_node": 1,
+      "path": "1.virksomhet",
+      "hovedenhet_navn": "H\u00d8YLANDET KOMMUNE HELSE OG OMSORG",
+      "orgnr": "874591742",
+      "forradrkommnr": "5046",
+      "navn": "H\u00d8YLANDET SYKEHEIM",
+      "forradrfylkenavn": "Tr\u00f8ndelag",
+      "organisasjonsform_tittel": "Underenhet til n\u00e6ringsdrivende og offentlig forvaltning",
+      "sektorkode": "0",
+      "postadresse": null,
+      "leaf_and_parent_vigo_godkjenninger_m_larling": null,
+      "hovedenhet": "974778076",
+      "leaf_and_parent_vigo_uten_godkjenninger": [
+        "BABAT1",
+        "BAANL2",
+        "HSHEA3",
+        "TPTIP1",
+        "BAVOA3",
+        "HSHSF1",
+        "STUSP1",
+        "BAASF3",
+        "HSHEA2",
+        "HSAMB2"
+      ],
+      "ppostnr": null,
+      "tilbyr_arbeidskrafttjenester": false,
+      "forradrpostnr": "7877",
+      "ppoststed": null,
+      "forradrfylkenr": "50",
+      "bedriftens_aarsverk": 22.69,
+      "forradrland": "Norge",
+      "forradrpoststed": "H\u00d8YLANDET",
+      "telefon": [
+        "74 32 49 10"
+      ],
+      "organisasjonsform_kode": "BEDR",
+      "lopende_kontrakter_totalt": 0,
+      "leaf_and_parent_medlem_opplaringskontor_orgnavn": null,
+      "ppostland": null,
+      "ansatte_totalt": 53,
+      "antall_stillinger": 0,
+      "forretningsadr": "Vargeia 25",
+      "latlng_1_coordinate": 12.2988,
+      "parent_orgnumbers": [
+        "959220476",
+        "974778076"
+      ],
+      "parent_vigo_contracts": 0,
+      "leaf_and_parent_medlem_opplaringskontor_orgnr": null,
+      "latlng_0_coordinate": 64.6285,
+      "programomradekode6_med_ansatte": [
+        "BAANL2",
+        "BAASF3",
+        "BABAT1",
+        "BAVOA3",
+        "HSHEA2",
+        "HSHEA3",
+        "HSHSF1"
+      ],
+      "parent_godkjenninger": null,
+      "yrke_aarsverk": null,
+      "children_orgnumbers": null,
+      "vigo_navn_opplaringskontor": null,
+      "vigo_orgnr": null,
+      "godkjenning_url": null,
+      "godkjenning_beskrivelse": null,
+      "leaf_and_parent_vigo_godkjenninger_utlopte": null,
+      "children_orgnames": null,
+      "yrke_orgnr": null,
+      "leaf_and_parent_vigo_godkjenninger_u_larling": null,
+      "vigo_forradrfylkenr": null,
+      "forelder_avstand": null,
+      "avtale_yff_skole_navn": null,
+      "godkjenning_registernavn": null,
+      "vigo_fylkenr": null,
+      "url": null,
+      "avtale_yff_avtale_nid": null,
+      "vigo_programomradekode6": null,
+      "vigo_programomradekode5": null,
+      "avtale_yff_sluttkompetanse_navn": null,
+      "vigo_lopenr": null,
+      "rolle_person": null,
+      "yrke_nid": null,
+      "yrke_programomradekode6_hovedlop": null,
+      "avtale_yff_orgnr": null,
+      "forelder_orgnr": null,
+      "rolle": null,
+      "avtale_yff_skole_nid": null,
+      "vigo_forradrfylkenavn": null,
+      "mobil": null,
+      "leaf_godkjenninger": null,
+      "yrkeskode_styrk98_programomradekode6_hovedlop": null,
+      "yrkeskode_styrk98": [
+        "1228113",
+        "2230107",
+        "3231109",
+        "3231111",
+        "3232102",
+        "5132101",
+        "5132102",
+        "5132117",
+        "5132121",
+        "5139105",
+        "7126111"
+      ],
+      "avtale_yff_programomradekode6": null,
+      "vigo_godkjent_til_dato": null,
+      "godkjenning_godkjenner": null,
+      "forelder_navn": null,
+      "vigo_programomrade_tittel": null,
+      "vigo_sum_kontrakter": null,
+      "rolle_person_poststed": null,
+      "leaf_and_parent_avtaler_yff": null,
+      "aarsverk": null,
+      "godkjenninger": null,
+      "children_distances": null,
+      "sektorkode_tittel": null,
+      "vigo_fylkenavn": null,
+      "vigo_orgnr_opplaringskontor": null,
+      "medlemsbedrifter_larlinger_totalt": 0,
+      "_other_data": {
+        "descendants_grand_total": 0,
+        "lpg_har_laereplassgaranti": false,
+        "naringskode_nace": [
+          "Q",
+          "87",
+          "87.1",
+          "87.10",
+          "87.102"
+        ],
+        "naringskode_nace_tittel": [
+          "Somatiske sykehjem"
+        ],
+        "navn_suggest_no": [
+          "H\u00d8YLANDET SYKEHEIM"
+        ],
+        "navn_suggest_edge_no": [
+          "H\u00d8YLANDET SYKEHEIM"
+        ],
+        "navn_suggest_ngram_no": [
+          "H\u00d8YLANDET SYKEHEIM"
+        ],
+        "navn_s_no": "H\u00d8YLANDET SYKEHEIM",
+        "parent_distances": [
+          "2",
+          "1"
+        ],
+        "parent_orgnames": [
+          "H\u00d8YLANDET KOMMUNE",
+          "H\u00d8YLANDET KOMMUNE HELSE OG OMSORG"
+        ],
+        "top_parent_organisasjonsform_kode": "KOMM",
+        "top_parent_organisasjonsform_tittel": "Kommune",
+        "update_hash": "c69d9a6cc94210f52117b160fcb387c0",
+        "yrkeskode_styrk98_tittel_str": [
+          "AVDELINGSLEDER (HELSETJENESTER)",
+          "SPESIALSYKEPLEIER",
+          "SYKEPLEIER",
+          "LEDENDE SYKEPLEIER",
+          "VERNEPLEIER",
+          "HJELPEPLEIER",
+          "OMSORGSARBEIDER",
+          "L\u00c6RLING (OMSORGSFAG)",
+          "HELSEFAGARBEIDER",
+          "PLEIEASSISTENT",
+          "FAGARBEIDER (VEI- OG ANLEGGSARBEID)"
+        ],
+        "_version_": 1821785531711750144,
+        "funksjon": "finnlarebedrift"
+      },
+      "_child_documents": [
+        {
+          "forelder_avstand": 2,
+          "forelder_navn": "H\u00d8YLANDET KOMMUNE",
+          "forelder_orgnr": "959220476",
+          "id": "874591742_959220476",
+          "path": "2.virksomhet.forelder",
+          "_version_": 1821785531711750144
+        },
+        {
+          "forelder_avstand": 1,
+          "forelder_navn": "H\u00d8YLANDET KOMMUNE HELSE OG OMSORG",
+          "forelder_orgnr": "974778076",
+          "id": "874591742_974778076",
+          "path": "2.virksomhet.forelder",
+          "_version_": 1821785531711750144
+        }
+      ]
+    },
+    {
+      "@id": "/bedrifter_ikke_godkjentes/874611832",
+      "@type": "Bedrifter_ikke_godkjente",
+      "id": "874611832",
+      "forradrkommnavn": "Stavanger",
+      "leaf_node": 1,
+      "path": "1.virksomhet",
+      "hovedenhet_navn": "STAVANGER KOMMUNE OPPVEKST OG UTDANNING",
+      "orgnr": "874611832",
+      "forradrkommnr": "1103",
+      "navn": "SKEIE SKOLE",
+      "forradrfylkenavn": "Rogaland",
+      "organisasjonsform_tittel": "Underenhet til n\u00e6ringsdrivende og offentlig forvaltning",
+      "sektorkode": "0",
+      "postadresse": "Postboks 8069 Forus",
+      "leaf_and_parent_vigo_godkjenninger_m_larling": null,
+      "hovedenhet": "983518648",
+      "leaf_and_parent_vigo_uten_godkjenninger": [
+        "HSBUA2",
+        "SRSOA3",
+        "HSHEA3",
+        "DHDHV1",
+        "HSBUA3",
+        "SSSSA1",
+        "SRSSR1",
+        "HSAMB2",
+        "HSHSF1",
+        "STUSP1",
+        "HSHEA2",
+        "SSSSS2",
+        "SRSSH2"
+      ],
+      "ppostnr": "4068",
+      "tilbyr_arbeidskrafttjenester": false,
+      "forradrpostnr": "4083",
+      "ppoststed": "STAVANGER",
+      "forradrfylkenr": "11",
+      "bedriftens_aarsverk": 56.07,
+      "forradrland": "Norge",
+      "forradrpoststed": "HUNDV\u00c5G",
+      "telefon": [
+        "04005"
+      ],
+      "organisasjonsform_kode": "BEDR",
+      "lopende_kontrakter_totalt": 0,
+      "leaf_and_parent_medlem_opplaringskontor_orgnavn": null,
+      "ppostland": "Norge",
+      "ansatte_totalt": 67,
+      "antall_stillinger": 0,
+      "forretningsadr": "Terje Vigens vei 1",
+      "latlng_1_coordinate": 5.72701,
+      "parent_orgnumbers": [
+        "964965226",
+        "983518648"
+      ],
+      "parent_vigo_contracts": 0,
+      "leaf_and_parent_medlem_opplaringskontor_orgnr": null,
+      "latlng_0_coordinate": 59.0023,
+      "programomradekode6_med_ansatte": [
+        "HSBUA2",
+        "HSBUA3",
+        "HSHEA2",
+        "HSHEA3",
+        "HSHSF1",
+        "SRSOA3",
+        "SRSSH2",
+        "SRSSR1",
+        "SSSSA1",
+        "SSSSS2"
+      ],
+      "parent_godkjenninger": null,
+      "yrke_aarsverk": null,
+      "children_orgnumbers": null,
+      "vigo_navn_opplaringskontor": null,
+      "vigo_orgnr": null,
+      "godkjenning_url": null,
+      "godkjenning_beskrivelse": null,
+      "leaf_and_parent_vigo_godkjenninger_utlopte": null,
+      "children_orgnames": null,
+      "yrke_orgnr": null,
+      "leaf_and_parent_vigo_godkjenninger_u_larling": null,
+      "vigo_forradrfylkenr": null,
+      "forelder_avstand": null,
+      "avtale_yff_skole_navn": null,
+      "godkjenning_registernavn": null,
+      "vigo_fylkenr": null,
+      "url": null,
+      "avtale_yff_avtale_nid": null,
+      "vigo_programomradekode6": null,
+      "vigo_programomradekode5": null,
+      "avtale_yff_sluttkompetanse_navn": null,
+      "vigo_lopenr": null,
+      "rolle_person": null,
+      "yrke_nid": null,
+      "yrke_programomradekode6_hovedlop": null,
+      "avtale_yff_orgnr": null,
+      "forelder_orgnr": null,
+      "rolle": null,
+      "avtale_yff_skole_nid": null,
+      "vigo_forradrfylkenavn": null,
+      "mobil": null,
+      "leaf_godkjenninger": null,
+      "yrkeskode_styrk98_programomradekode6_hovedlop": null,
+      "yrkeskode_styrk98": [
+        "1228102",
+        "1228114",
+        "2352108",
+        "3310104",
+        "3310112",
+        "3310113",
+        "3310114",
+        "3310115",
+        "3320102",
+        "3431133",
+        "3460118",
+        "5131106",
+        "5131110",
+        "5131125",
+        "5131129"
+      ],
+      "avtale_yff_programomradekode6": null,
+      "vigo_godkjent_til_dato": null,
+      "godkjenning_godkjenner": null,
+      "forelder_navn": null,
+      "vigo_programomrade_tittel": null,
+      "vigo_sum_kontrakter": null,
+      "rolle_person_poststed": null,
+      "leaf_and_parent_avtaler_yff": null,
+      "aarsverk": null,
+      "godkjenninger": null,
+      "children_distances": null,
+      "sektorkode_tittel": null,
+      "vigo_fylkenavn": null,
+      "vigo_orgnr_opplaringskontor": null,
+      "medlemsbedrifter_larlinger_totalt": 0,
+      "_other_data": {
+        "descendants_grand_total": 0,
+        "lpg_har_laereplassgaranti": false,
+        "naringskode_nace": [
+          "P",
+          "85",
+          "85.2",
+          "85.20",
+          "85.201"
+        ],
+        "naringskode_nace_tittel": [
+          "Ordin\u00e6r grunnskoleundervisning"
+        ],
+        "navn_suggest_no": [
+          "SKEIE SKOLE"
+        ],
+        "navn_suggest_edge_no": [
+          "SKEIE SKOLE"
+        ],
+        "navn_suggest_ngram_no": [
+          "SKEIE SKOLE"
+        ],
+        "navn_s_no": "SKEIE SKOLE",
+        "parent_distances": [
+          "2",
+          "1"
+        ],
+        "parent_orgnames": [
+          "STAVANGER KOMMUNE",
+          "STAVANGER KOMMUNE OPPVEKST OG UTDANNING"
+        ],
+        "top_parent_organisasjonsform_kode": "KOMM",
+        "top_parent_organisasjonsform_tittel": "Kommune",
+        "update_hash": "1a1d87aa96f87bada378adf8aab353f2",
+        "yrkeskode_styrk98_tittel_str": [
+          "REKTOR (OVER 9 ANSATTE)",
+          "AVDELINGSLEDER (UNDERVISNING)",
+          "SKOLEINSPEKT\u00d8R",
+          "L\u00c6RER (GRUNNSKOLE)",
+          "ADJUNKT (GRUNNSKOLE)",
+          "L\u00c6RERVIKAR (GRUNNSKOLE)",
+          "LEKTOR (GRUNNSKOLE)",
+          "PEDAGOG (GRUNNSKOLE)",
+          "BARNEHAGEL\u00c6RER",
+          "KONSULENT (KONTORARBEID)",
+          "MILJ\u00d8TERAPEUT (BEHANDLING)",
+          "BARNE- OG UNGDOMSARBEIDER",
+          "MILJ\u00d8ARBEIDER (BARNE- OG UNGDOMSARBEID)",
+          "SKOLEASSISTENT",
+          "ASSISTENT (SKOLE)"
+        ],
+        "_version_": 1821785532414296064,
+        "funksjon": "finnlarebedrift"
+      },
+      "_child_documents": [
+        {
+          "forelder_avstand": 2,
+          "forelder_navn": "STAVANGER KOMMUNE",
+          "forelder_orgnr": "964965226",
+          "id": "874611832_964965226",
+          "path": "2.virksomhet.forelder",
+          "_version_": 1821785532414296064
+        },
+        {
+          "forelder_avstand": 1,
+          "forelder_navn": "STAVANGER KOMMUNE OPPVEKST OG UTDANNING",
+          "forelder_orgnr": "983518648",
+          "id": "874611832_983518648",
+          "path": "2.virksomhet.forelder",
+          "_version_": 1821785532414296064
+        }
+      ]
+    },
+    {
+      "@id": "/bedrifter_ikke_godkjentes/874632902",
+      "@type": "Bedrifter_ikke_godkjente",
+      "id": "874632902",
+      "forradrkommnavn": "Asker",
+      "leaf_node": 1,
+      "path": "1.virksomhet",
+      "hovedenhet_navn": "STIFTELSEN MANIFESTSENTERET",
+      "orgnr": "874632902",
+      "forradrkommnr": "3203",
+      "navn": "STIFTELSEN MANIFESTSENTERET PSYKISK HELSEVERN",
+      "forradrfylkenavn": "Akershus",
+      "organisasjonsform_tittel": "Underenhet til n\u00e6ringsdrivende og offentlig forvaltning",
+      "sektorkode": "0",
+      "postadresse": null,
+      "leaf_and_parent_vigo_godkjenninger_m_larling": null,
+      "hovedenhet": "971517093",
+      "leaf_and_parent_vigo_uten_godkjenninger": [
+        "BABAT1",
+        "HSBUA2",
+        "RMRMF1",
+        "DHDHV1",
+        "HSBUA3",
+        "RMKOS2",
+        "STUSP1",
+        "BABDR3",
+        "SRSSH2",
+        "SRSOA3",
+        "HSHEA3",
+        "RMKOK3",
+        "SSSSA1",
+        "RMEKF3",
+        "SRSSR1",
+        "HSAMB2",
+        "HSHSF1",
+        "NANAB1",
+        "HSHEA2",
+        "SSSSS2"
+      ],
+      "ppostnr": null,
+      "tilbyr_arbeidskrafttjenester": false,
+      "forradrpostnr": "3440",
+      "ppoststed": null,
+      "forradrfylkenr": "32",
+      "bedriftens_aarsverk": 80.32,
+      "forradrland": "Norge",
+      "forradrpoststed": "R\u00d8YKEN",
+      "telefon": [
+        "31 29 76 50"
+      ],
+      "organisasjonsform_kode": "BEDR",
+      "lopende_kontrakter_totalt": 0,
+      "leaf_and_parent_medlem_opplaringskontor_orgnavn": null,
+      "ppostland": null,
+      "ansatte_totalt": 148,
+      "antall_stillinger": 0,
+      "forretningsadr": "Hyggenveien 25",
+      "latlng_1_coordinate": 10.372,
+      "parent_orgnumbers": [
+        "971517093"
+      ],
+      "parent_vigo_contracts": 0,
+      "leaf_and_parent_medlem_opplaringskontor_orgnr": null,
+      "latlng_0_coordinate": 59.7374,
+      "programomradekode6_med_ansatte": [
+        "BABAT1",
+        "BABDR3",
+        "HSBUA2",
+        "HSBUA3",
+        "HSHEA2",
+        "HSHEA3",
+        "HSHSF1",
+        "RMEKF3",
+        "RMKOK3",
+        "RMKOS2",
+        "RMRMF1",
+        "SRSOA3",
+        "SRSSH2",
+        "SRSSR1",
+        "SSSSA1",
+        "SSSSS2"
+      ],
+      "parent_godkjenninger": null,
+      "yrke_aarsverk": null,
+      "children_orgnumbers": null,
+      "vigo_navn_opplaringskontor": null,
+      "vigo_orgnr": null,
+      "godkjenning_url": null,
+      "godkjenning_beskrivelse": null,
+      "leaf_and_parent_vigo_godkjenninger_utlopte": null,
+      "children_orgnames": null,
+      "yrke_orgnr": null,
+      "leaf_and_parent_vigo_godkjenninger_u_larling": null,
+      "vigo_forradrfylkenr": null,
+      "forelder_avstand": null,
+      "avtale_yff_skole_navn": null,
+      "godkjenning_registernavn": null,
+      "vigo_fylkenr": null,
+      "url": null,
+      "avtale_yff_avtale_nid": null,
+      "vigo_programomradekode6": null,
+      "vigo_programomradekode5": null,
+      "avtale_yff_sluttkompetanse_navn": null,
+      "vigo_lopenr": null,
+      "rolle_person": null,
+      "yrke_nid": null,
+      "yrke_programomradekode6_hovedlop": null,
+      "avtale_yff_orgnr": null,
+      "forelder_orgnr": null,
+      "rolle": null,
+      "avtale_yff_skole_nid": null,
+      "vigo_forradrfylkenavn": null,
+      "mobil": null,
+      "leaf_godkjenninger": null,
+      "yrkeskode_styrk98_programomradekode6_hovedlop": null,
+      "yrkeskode_styrk98": [
+        "1228113",
+        "1229106",
+        "2221110",
+        "2221115",
+        "2221116",
+        "2230107",
+        "2230122",
+        "2512120",
+        "2545112",
+        "2545115",
+        "3231109",
+        "3232102",
+        "3232112",
+        "3431129",
+        "3460104",
+        "3460108",
+        "3460114",
+        "3460148",
+        "5122109",
+        "5122114",
+        "5131106",
+        "5132101",
+        "5132108",
+        "5132121",
+        "5139119",
+        "5139157",
+        "5163121",
+        "9133115"
+      ],
+      "avtale_yff_programomradekode6": null,
+      "vigo_godkjent_til_dato": null,
+      "godkjenning_godkjenner": null,
+      "forelder_navn": null,
+      "vigo_programomrade_tittel": null,
+      "vigo_sum_kontrakter": null,
+      "rolle_person_poststed": null,
+      "leaf_and_parent_avtaler_yff": null,
+      "aarsverk": null,
+      "godkjenninger": null,
+      "children_distances": null,
+      "sektorkode_tittel": null,
+      "vigo_fylkenavn": null,
+      "vigo_orgnr_opplaringskontor": null,
+      "medlemsbedrifter_larlinger_totalt": 0,
+      "_other_data": {
+        "descendants_grand_total": 0,
+        "lpg_har_laereplassgaranti": false,
+        "naringskode_nace": [
+          "Q",
+          "86",
+          "86.1",
+          "86.10",
+          "86.104"
+        ],
+        "naringskode_nace_tittel": [
+          "Institusjoner i psykisk helsevern for voksne"
+        ],
+        "navn_suggest_no": [
+          "STIFTELSEN MANIFESTSENTERET PSYKISK HELSEVERN"
+        ],
+        "navn_suggest_edge_no": [
+          "STIFTELSEN MANIFESTSENTERET PSYKISK HELSEVERN"
+        ],
+        "navn_suggest_ngram_no": [
+          "STIFTELSEN MANIFESTSENTERET PSYKISK HELSEVERN"
+        ],
+        "navn_s_no": "STIFTELSEN MANIFESTSENTERET PSYKISK HELSEVERN",
+        "parent_distances": [
+          "1"
+        ],
+        "parent_orgnames": [
+          "STIFTELSEN MANIFESTSENTERET"
+        ],
+        "top_parent_organisasjonsform_kode": "STI",
+        "top_parent_organisasjonsform_tittel": "Stiftelse",
+        "update_hash": "3bbc4a93f8ffa98ec42779028d26ba95",
+        "yrkeskode_styrk98_tittel_str": [
+          "AVDELINGSLEDER (HELSETJENESTER)",
+          "AVDELINGSLEDER (ANNEN SOSIAL OG PERSONLIG TJENESTETRING)",
+          "LEGE",
+          "OVERLEGE",
+          "PSYKIATER",
+          "SPESIALSYKEPLEIER",
+          "PSYKIATRISK SYKEPLEIER",
+          "R\u00c5DGIVER (HR/PERSONAL)",
+          "PSYKOLOGSPESIALIST",
+          "PSYKOLOG",
+          "SYKEPLEIER",
+          "VERNEPLEIER",
+          "VERNEPLEIER (PSYKISK HELSEARBEID)",
+          "ADMINISTRASJONSMEDARBEIDER",
+          "SOSIONOM (MILJ\u00d8ARBEIDER)",
+          "FRITIDSLEDER",
+          "MILJ\u00d8TERAPEUT (VEILEDNING)",
+          "MILJ\u00d8ARBEIDER (SOSIALE FAGFELT)",
+          "KJ\u00d8KKENSJEF (F\u00c6RRE ENN 10 ANSATTE)",
+          "KOKK",
+          "BARNE- OG UNGDOMSARBEIDER",
+          "HJELPEPLEIER",
+          "MILJ\u00d8ARBEIDER (HELSE- OG OMSORG)",
+          "HELSEFAGARBEIDER",
+          "MILJ\u00d8ASSISTENT (HELSE- OG SOSIALTJENESTER)",
+          "PARAMEDISINER (AMBULANSEPERSONELL)",
+          "VAKTMESTER",
+          "KJ\u00d8KKENASSISTENT"
+        ],
+        "_version_": 1821785532689022976,
+        "funksjon": "finnlarebedrift"
+      },
+      "_child_documents": [
+        {
+          "forelder_avstand": 1,
+          "forelder_navn": "STIFTELSEN MANIFESTSENTERET",
+          "forelder_orgnr": "971517093",
+          "id": "874632902_971517093",
+          "path": "2.virksomhet.forelder",
+          "_version_": 1821785532689022976
+        }
+      ]
+    },
+    {
+      "@id": "/bedrifter_ikke_godkjentes/875288482",
+      "@type": "Bedrifter_ikke_godkjente",
+      "id": "875288482",
+      "forradrkommnavn": "Narvik",
+      "leaf_node": 1,
+      "path": "1.virksomhet",
+      "hovedenhet_navn": "NARVIK KOMMUNE",
+      "orgnr": "875288482",
+      "forradrkommnr": "1806",
+      "navn": "BALLANGEN SKOLE",
+      "forradrfylkenavn": "Nordland",
+      "organisasjonsform_tittel": "Underenhet til n\u00e6ringsdrivende og offentlig forvaltning",
+      "sektorkode": "0",
+      "postadresse": null,
+      "leaf_and_parent_vigo_godkjenninger_m_larling": null,
+      "hovedenhet": "959469059",
+      "leaf_and_parent_vigo_uten_godkjenninger": [
+        "HSBUA2",
+        "HSHSF1",
+        "STUSP1",
+        "DHDHV1",
+        "HSBUA3"
+      ],
+      "ppostnr": "8540",
+      "tilbyr_arbeidskrafttjenester": false,
+      "forradrpostnr": "8540",
+      "ppoststed": "BALLANGEN",
+      "forradrfylkenr": "18",
+      "bedriftens_aarsverk": 42.46,
+      "forradrland": "Norge",
+      "forradrpoststed": "BALLANGEN",
+      "telefon": [
+        "76\u00a091\u00a020\u00a000"
+      ],
+      "organisasjonsform_kode": "BEDR",
+      "lopende_kontrakter_totalt": 0,
+      "leaf_and_parent_medlem_opplaringskontor_orgnavn": null,
+      "ppostland": "Norge",
+      "ansatte_totalt": 55,
+      "antall_stillinger": 0,
+      "forretningsadr": "Sykehjemsstien 9",
+      "latlng_1_coordinate": 16.8247,
+      "parent_orgnumbers": [
+        "959469059"
+      ],
+      "parent_vigo_contracts": 21,
+      "leaf_and_parent_medlem_opplaringskontor_orgnr": null,
+      "latlng_0_coordinate": 68.3394,
+      "programomradekode6_med_ansatte": [
+        "HSBUA2",
+        "HSBUA3",
+        "HSHSF1"
+      ],
+      "parent_godkjenninger": null,
+      "yrke_aarsverk": null,
+      "children_orgnumbers": null,
+      "vigo_navn_opplaringskontor": null,
+      "vigo_orgnr": null,
+      "godkjenning_url": null,
+      "godkjenning_beskrivelse": null,
+      "leaf_and_parent_vigo_godkjenninger_utlopte": null,
+      "children_orgnames": null,
+      "yrke_orgnr": null,
+      "leaf_and_parent_vigo_godkjenninger_u_larling": null,
+      "vigo_forradrfylkenr": null,
+      "forelder_avstand": null,
+      "avtale_yff_skole_navn": null,
+      "godkjenning_registernavn": null,
+      "vigo_fylkenr": null,
+      "url": [
+        "www.narvik.kommune.no/"
+      ],
+      "avtale_yff_avtale_nid": null,
+      "vigo_programomradekode6": null,
+      "vigo_programomradekode5": null,
+      "avtale_yff_sluttkompetanse_navn": null,
+      "vigo_lopenr": null,
+      "rolle_person": null,
+      "yrke_nid": null,
+      "yrke_programomradekode6_hovedlop": null,
+      "avtale_yff_orgnr": null,
+      "forelder_orgnr": null,
+      "rolle": null,
+      "avtale_yff_skole_nid": null,
+      "vigo_forradrfylkenavn": null,
+      "mobil": null,
+      "leaf_godkjenninger": null,
+      "yrkeskode_styrk98_programomradekode6_hovedlop": null,
+      "yrkeskode_styrk98": [
+        "1228102",
+        "1228114",
+        "3310104",
+        "3310112",
+        "3310114",
+        "5131106",
+        "5131115",
+        "5131128",
+        "5131129"
+      ],
+      "avtale_yff_programomradekode6": null,
+      "vigo_godkjent_til_dato": null,
+      "godkjenning_godkjenner": null,
+      "forelder_navn": null,
+      "vigo_programomrade_tittel": null,
+      "vigo_sum_kontrakter": null,
+      "rolle_person_poststed": null,
+      "leaf_and_parent_avtaler_yff": null,
+      "aarsverk": null,
+      "godkjenninger": null,
+      "children_distances": null,
+      "sektorkode_tittel": null,
+      "vigo_fylkenavn": null,
+      "vigo_orgnr_opplaringskontor": null,
+      "medlemsbedrifter_larlinger_totalt": 0,
+      "_other_data": {
+        "descendants_grand_total": 0,
+        "lpg_har_laereplassgaranti": false,
+        "naringskode_nace": [
+          "P",
+          "85",
+          "85.2",
+          "85.20",
+          "85.201"
+        ],
+        "naringskode_nace_tittel": [
+          "Ordin\u00e6r grunnskoleundervisning"
+        ],
+        "navn_suggest_no": [
+          "BALLANGEN SKOLE"
+        ],
+        "navn_suggest_edge_no": [
+          "BALLANGEN SKOLE"
+        ],
+        "navn_suggest_ngram_no": [
+          "BALLANGEN SKOLE"
+        ],
+        "navn_s_no": "BALLANGEN SKOLE",
+        "parent_distances": [
+          "1"
+        ],
+        "parent_orgnames": [
+          "NARVIK KOMMUNE"
+        ],
+        "top_parent_organisasjonsform_kode": "KOMM",
+        "top_parent_organisasjonsform_tittel": "Kommune",
+        "update_hash": "4fb41567b1844eab33faac47d73e2150",
+        "yrkeskode_styrk98_tittel_str": [
+          "REKTOR (OVER 9 ANSATTE)",
+          "AVDELINGSLEDER (UNDERVISNING)",
+          "L\u00c6RER (GRUNNSKOLE)",
+          "ADJUNKT (GRUNNSKOLE)",
+          "LEKTOR (GRUNNSKOLE)",
+          "BARNE- OG UNGDOMSARBEIDER",
+          "ASSISTENT (SKOLEFRITIDSORDNING)",
+          "L\u00c6RLING (BARNE- OG UNGDOMSARBEID)",
+          "ASSISTENT (SKOLE)"
+        ],
+        "_version_": 1821785520863182848,
+        "funksjon": "finnlarebedrift"
+      },
+      "_child_documents": [
+        {
+          "forelder_avstand": 1,
+          "forelder_navn": "NARVIK KOMMUNE",
+          "forelder_orgnr": "959469059",
+          "id": "875288482_959469059",
+          "path": "2.virksomhet.forelder",
+          "_version_": 1821785520863182848
+        }
+      ]
+    },
+    {
+      "@id": "/bedrifter_ikke_godkjentes/875939432",
+      "@type": "Bedrifter_ikke_godkjente",
+      "id": "875939432",
+      "forradrkommnavn": "Sola",
+      "leaf_node": 0,
+      "path": "1.virksomhet",
+      "hovedenhet_navn": null,
+      "orgnr": "875939432",
+      "forradrkommnr": "1124",
+      "navn": "SOLA TURN",
+      "forradrfylkenavn": "Rogaland",
+      "organisasjonsform_tittel": "Forening/lag/innretning",
+      "sektorkode": "7000",
+      "postadresse": null,
+      "leaf_and_parent_vigo_godkjenninger_m_larling": null,
+      "hovedenhet": "0",
+      "leaf_and_parent_vigo_uten_godkjenninger": null,
+      "ppostnr": null,
+      "tilbyr_arbeidskrafttjenester": false,
+      "forradrpostnr": "4055",
+      "ppoststed": null,
+      "forradrfylkenr": "11",
+      "bedriftens_aarsverk": 0,
+      "forradrland": "Norge",
+      "forradrpoststed": "SOLA",
+      "telefon": null,
+      "organisasjonsform_kode": "FLI",
+      "lopende_kontrakter_totalt": 0,
+      "leaf_and_parent_medlem_opplaringskontor_orgnavn": null,
+      "ppostland": null,
+      "ansatte_totalt": 85,
+      "antall_stillinger": 0,
+      "forretningsadr": "\u00c5senvegen 68",
+      "latlng_1_coordinate": 5.66529,
+      "parent_orgnumbers": null,
+      "parent_vigo_contracts": 0,
+      "leaf_and_parent_medlem_opplaringskontor_orgnr": null,
+      "latlng_0_coordinate": 58.8925,
+      "programomradekode6_med_ansatte": null,
+      "parent_godkjenninger": null,
+      "yrke_aarsverk": null,
+      "children_orgnumbers": [
+        "975971473"
+      ],
+      "vigo_navn_opplaringskontor": null,
+      "vigo_orgnr": null,
+      "godkjenning_url": null,
+      "godkjenning_beskrivelse": null,
+      "leaf_and_parent_vigo_godkjenninger_utlopte": null,
+      "children_orgnames": [
+        "SOLA TURN"
+      ],
+      "yrke_orgnr": null,
+      "leaf_and_parent_vigo_godkjenninger_u_larling": null,
+      "vigo_forradrfylkenr": null,
+      "forelder_avstand": null,
+      "avtale_yff_skole_navn": null,
+      "godkjenning_registernavn": null,
+      "vigo_fylkenr": null,
+      "url": [
+        "www.solaturn.no"
+      ],
+      "avtale_yff_avtale_nid": null,
+      "vigo_programomradekode6": null,
+      "vigo_programomradekode5": null,
+      "avtale_yff_sluttkompetanse_navn": null,
+      "vigo_lopenr": null,
+      "rolle_person": null,
+      "yrke_nid": null,
+      "yrke_programomradekode6_hovedlop": null,
+      "avtale_yff_orgnr": null,
+      "forelder_orgnr": null,
+      "rolle": null,
+      "avtale_yff_skole_nid": null,
+      "vigo_forradrfylkenavn": null,
+      "mobil": [
+        "46841545"
+      ],
+      "leaf_godkjenninger": null,
+      "yrkeskode_styrk98_programomradekode6_hovedlop": null,
+      "yrkeskode_styrk98": null,
+      "avtale_yff_programomradekode6": null,
+      "vigo_godkjent_til_dato": null,
+      "godkjenning_godkjenner": null,
+      "forelder_navn": null,
+      "vigo_programomrade_tittel": null,
+      "vigo_sum_kontrakter": null,
+      "rolle_person_poststed": null,
+      "leaf_and_parent_avtaler_yff": null,
+      "aarsverk": null,
+      "godkjenninger": null,
+      "children_distances": [
+        "1"
+      ],
+      "sektorkode_tittel": null,
+      "vigo_fylkenavn": null,
+      "vigo_orgnr_opplaringskontor": null,
+      "medlemsbedrifter_larlinger_totalt": 0,
+      "_other_data": {
+        "children_grandchildren_count": [
+          "0"
+        ],
+        "descendants_grand_total": 1,
+        "lpg_har_laereplassgaranti": false,
+        "naringskode_nace": [
+          "R",
+          "93",
+          "93.1",
+          "93.12",
+          "93.120"
+        ],
+        "naringskode_nace_tittel": [
+          "Idrettslag og -klubber"
+        ],
+        "navn_suggest_no": [
+          "SOLA TURN"
+        ],
+        "navn_suggest_edge_no": [
+          "SOLA TURN"
+        ],
+        "navn_suggest_ngram_no": [
+          "SOLA TURN"
+        ],
+        "navn_s_no": "SOLA TURN",
+        "parent_bedriftens_aarsverk": 17.41,
+        "parent_lopende_kontrakter_totalt": 0,
+        "top_parent_organisasjonsform_kode": "FLI",
+        "top_parent_organisasjonsform_tittel": "Forening/lag/innretning",
+        "update_hash": "6fd3fca5ededc9b5a94418f5a8f47688",
+        "_version_": 1821239623277346816,
+        "funksjon": "finnlarebedrift"
+      },
+      "_child_documents": [
+        {
+          "id": "875939432_1",
+          "path": "2.virksomhet.roller",
+          "rolle": "Daglig leder",
+          "rolle_person": "Svarstad, Vetle Aarsvoll",
+          "rolle_person_poststed": "4321 SANDNES",
+          "_version_": 1821239623277346816
+        },
+        {
+          "id": "875939432_2",
+          "path": "2.virksomhet.roller",
+          "rolle": "Styrets leder",
+          "rolle_person": "Machin, Tony Daniel",
+          "rolle_person_poststed": "4044 HAFRSFJORD",
+          "_version_": 1821239623277346816
+        },
+        {
+          "id": "875939432_3",
+          "path": "2.virksomhet.roller",
+          "rolle": "Nestleder",
+          "rolle_person": "R\u00f8d, Anders Torp",
+          "rolle_person_poststed": "4052 R\u00d8YNEBERG",
+          "_version_": 1821239623277346816
+        },
+        {
+          "id": "875939432_4",
+          "path": "2.virksomhet.roller",
+          "rolle": "Styremedlem",
+          "rolle_person": "Petersen, Torarin Holm",
+          "rolle_person_poststed": "4050 SOLA",
+          "_version_": 1821239623277346816
+        },
+        {
+          "id": "875939432_5",
+          "path": "2.virksomhet.roller",
+          "rolle": "Styremedlem",
+          "rolle_person": "J\u00f4hannesd\u00f4ttir, Eva Idsal",
+          "rolle_person_poststed": "4051 SOLA",
+          "_version_": 1821239623277346816
+        },
+        {
+          "id": "875939432_6",
+          "path": "2.virksomhet.roller",
+          "rolle": "Styremedlem",
+          "rolle_person": "Soma, J\u00f8rund Str\u00e5nd",
+          "rolle_person_poststed": "4044 HAFRSFJORD",
+          "_version_": 1821239623277346816
+        },
+        {
+          "id": "875939432_7",
+          "path": "2.virksomhet.roller",
+          "rolle": "Styremedlem",
+          "rolle_person": "Eichner, Siri Aim\u00e9e",
+          "rolle_person_poststed": "4055 SOLA",
+          "_version_": 1821239623277346816
+        },
+        {
+          "id": "875939432_8",
+          "path": "2.virksomhet.roller",
+          "rolle": "Styremedlem",
+          "rolle_person": "Meling, \u00c5sta Elise",
+          "rolle_person_poststed": "4056 TANANGER",
+          "_version_": 1821239623277346816
+        },
+        {
+          "id": "875939432_9",
+          "path": "2.virksomhet.roller",
+          "rolle": "Styremedlem",
+          "rolle_person": "Hatlem, Cathrine",
+          "rolle_person_poststed": "4052 R\u00d8YNEBERG",
+          "_version_": 1821239623277346816
+        },
+        {
+          "id": "875939432_10",
+          "path": "2.virksomhet.roller",
+          "rolle": "Regnskapsf\u00f8rer",
+          "rolle_person": "TOTAL \u00d8KONOMISTYRING \u00c5LG\u00c5RD AS",
+          "rolle_person_poststed": "4331 \u00c5LG\u00c5RD",
+          "_version_": 1821239623277346816
+        },
+        {
+          "id": "875939432_11",
+          "path": "2.virksomhet.roller",
+          "rolle": "Regnskapsf\u00f8rer",
+          "rolle_person": "TOTAL \u00d8KONOMISTYRING SANDNES AS",
+          "rolle_person_poststed": "4331 \u00c5LG\u00c5RD",
+          "_version_": 1821239623277346816
+        },
+        {
+          "id": "875939432_12",
+          "path": "2.virksomhet.roller",
+          "rolle": "Revisor",
+          "rolle_person": "IDS\u00d8 & RAVN\u00c5S REVISJON AS",
+          "rolle_person_poststed": "4313 SANDNES",
+          "_version_": 1821239623277346816
+        }
+      ]
+    },
+    {
+      "@id": "/bedrifter_ikke_godkjentes/875954202",
+      "@type": "Bedrifter_ikke_godkjente",
+      "id": "875954202",
+      "forradrkommnavn": "Oslo",
+      "leaf_node": 1,
+      "path": "1.virksomhet",
+      "hovedenhet_navn": "STIFTELSEN ASTA",
+      "orgnr": "875954202",
+      "forradrkommnr": "0301",
+      "navn": "STIFTELSEN ASTA",
+      "forradrfylkenavn": "Oslo",
+      "organisasjonsform_tittel": "Underenhet til n\u00e6ringsdrivende og offentlig forvaltning",
+      "sektorkode": "0",
+      "postadresse": "Postboks 4013 Ullev\u00e5l Stadion",
+      "leaf_and_parent_vigo_godkjenninger_m_larling": null,
+      "hovedenhet": "975926494",
+      "leaf_and_parent_vigo_uten_godkjenninger": [
+        "SSISF2",
+        "BABAT1",
+        "DHMED1",
+        "RMRMF1",
+        "DHDHV1",
+        "SSISF3",
+        "STFOR1",
+        "ELELE1",
+        "MKMED1",
+        "STUSP1",
+        "IMIUV3",
+        "SRSSH2",
+        "SRSOA3",
+        "IMIKM1",
+        "IMITD3",
+        "SSSSA1",
+        "MEMOK1",
+        "TPTIP1",
+        "SRSSR1",
+        "KDKDA1",
+        "HSHSF1",
+        "MDMDD1",
+        "NANAB1",
+        "IMITK2",
+        "IDRET1",
+        "SSSSS2"
+      ],
+      "ppostnr": "0806",
+      "tilbyr_arbeidskrafttjenester": false,
+      "forradrpostnr": "0862",
+      "ppoststed": "OSLO",
+      "forradrfylkenr": "03",
+      "bedriftens_aarsverk": 52.2,
+      "forradrland": "Norge",
+      "forradrpoststed": "OSLO",
+      "telefon": null,
+      "organisasjonsform_kode": "BEDR",
+      "lopende_kontrakter_totalt": 0,
+      "leaf_and_parent_medlem_opplaringskontor_orgnavn": null,
+      "ppostland": "Norge",
+      "ansatte_totalt": 55,
+      "antall_stillinger": 0,
+      "forretningsadr": "Folke Bernadottes vei 21",
+      "latlng_1_coordinate": 10.7362,
+      "parent_orgnumbers": [
+        "975926494"
+      ],
+      "parent_vigo_contracts": 0,
+      "leaf_and_parent_medlem_opplaringskontor_orgnr": null,
+      "latlng_0_coordinate": 59.9668,
+      "programomradekode6_med_ansatte": [
+        "IMIKM1",
+        "IMITD3",
+        "IMITK2",
+        "IMIUV3",
+        "SRSOA3",
+        "SRSSH2",
+        "SRSSR1",
+        "SSISF2",
+        "SSISF3",
+        "SSSSA1",
+        "SSSSS2"
+      ],
+      "parent_godkjenninger": null,
+      "yrke_aarsverk": null,
+      "children_orgnumbers": null,
+      "vigo_navn_opplaringskontor": null,
+      "vigo_orgnr": null,
+      "godkjenning_url": null,
+      "godkjenning_beskrivelse": null,
+      "leaf_and_parent_vigo_godkjenninger_utlopte": null,
+      "children_orgnames": null,
+      "yrke_orgnr": null,
+      "leaf_and_parent_vigo_godkjenninger_u_larling": null,
+      "vigo_forradrfylkenr": null,
+      "forelder_avstand": null,
+      "avtale_yff_skole_navn": null,
+      "godkjenning_registernavn": null,
+      "vigo_fylkenr": null,
+      "url": [
+        "www.stiftelsen-asta.no"
+      ],
+      "avtale_yff_avtale_nid": null,
+      "vigo_programomradekode6": null,
+      "vigo_programomradekode5": null,
+      "avtale_yff_sluttkompetanse_navn": null,
+      "vigo_lopenr": null,
+      "rolle_person": null,
+      "yrke_nid": null,
+      "yrke_programomradekode6_hovedlop": null,
+      "avtale_yff_orgnr": null,
+      "forelder_orgnr": null,
+      "rolle": null,
+      "avtale_yff_skole_nid": null,
+      "vigo_forradrfylkenavn": null,
+      "mobil": [
+        "901 50 049"
+      ],
+      "leaf_godkjenninger": null,
+      "yrkeskode_styrk98_programomradekode6_hovedlop": null,
+      "yrkeskode_styrk98": [
+        "1210203",
+        "1231126",
+        "1239102",
+        "2130123",
+        "2130151",
+        "2531102",
+        "4141101",
+        "4141112"
+      ],
+      "avtale_yff_programomradekode6": null,
+      "vigo_godkjent_til_dato": null,
+      "godkjenning_godkjenner": null,
+      "forelder_navn": null,
+      "vigo_programomrade_tittel": null,
+      "vigo_sum_kontrakter": null,
+      "rolle_person_poststed": null,
+      "leaf_and_parent_avtaler_yff": null,
+      "aarsverk": null,
+      "godkjenninger": null,
+      "children_distances": null,
+      "sektorkode_tittel": null,
+      "vigo_fylkenavn": null,
+      "vigo_orgnr_opplaringskontor": null,
+      "medlemsbedrifter_larlinger_totalt": 0,
+      "_other_data": {
+        "descendants_grand_total": 0,
+        "lpg_har_laereplassgaranti": false,
+        "naringskode_nace": [
+          "S",
+          "94",
+          "94.9",
+          "94.99",
+          "94.991"
+        ],
+        "naringskode_nace_tittel": [
+          "Aktiviteter i andre interesseorganisasjoner ikke nevnt annet sted"
+        ],
+        "navn_suggest_no": [
+          "STIFTELSEN ASTA"
+        ],
+        "navn_suggest_edge_no": [
+          "STIFTELSEN ASTA"
+        ],
+        "navn_suggest_ngram_no": [
+          "STIFTELSEN ASTA"
+        ],
+        "navn_s_no": "STIFTELSEN ASTA",
+        "parent_distances": [
+          "1"
+        ],
+        "parent_orgnames": [
+          "STIFTELSEN ASTA"
+        ],
+        "top_parent_organisasjonsform_kode": "STI",
+        "top_parent_organisasjonsform_tittel": "Stiftelse",
+        "update_hash": "d482d71fa734891a55fdc555640e681f",
+        "yrkeskode_styrk98_tittel_str": [
+          "DAGLIG LEDER (\u00d8VERSTE LEDER I BEDRIFT MED OVER 9 ANSATTE)",
+          "ADMINISTRASJONSSJEF",
+          "ARKIVSJEF",
+          "IT-KONSULENT",
+          "DATAKONSULENT (PROGRAMMERING)",
+          "ARKIVAR (MUSEUM, OFF.ARKIV. OL.)",
+          "ARKIVMEDARBEIDER",
+          "MEDARBEIDER (ARKIV)"
+        ],
+        "_version_": 1821785521522737152,
+        "funksjon": "finnlarebedrift"
+      },
+      "_child_documents": [
+        {
+          "id": "975926494_daglig_leder_arvet",
+          "path": "2.virksomhet.roller",
+          "rolle": "Daglig leder",
+          "rolle_person": "Sveva, Gisle Kristian",
+          "rolle_person_poststed": "3474 \u00c5ROS",
+          "_version_": 1821785521522737152
+        },
+        {
+          "forelder_avstand": 1,
+          "forelder_navn": "STIFTELSEN ASTA",
+          "forelder_orgnr": "975926494",
+          "id": "875954202_975926494",
+          "path": "2.virksomhet.forelder",
+          "_version_": 1821785521522737152
+        }
+      ]
+    },
+    {
+      "@id": "/bedrifter_ikke_godkjentes/880258222",
+      "@type": "Bedrifter_ikke_godkjente",
+      "id": "880258222",
+      "forradrkommnavn": "Lillehammer",
+      "leaf_node": 1,
+      "path": "1.virksomhet",
+      "hovedenhet_navn": null,
+      "orgnr": "880258222",
+      "forradrkommnr": "3405",
+      "navn": "EIDSIVA BREDB\u00c5ND AS",
+      "forradrfylkenavn": "Innlandet",
+      "organisasjonsform_tittel": "Aksjeselskap",
+      "sektorkode": "1520",
+      "postadresse": "Postboks 224",
+      "leaf_and_parent_vigo_godkjenninger_m_larling": null,
+      "hovedenhet": "0",
+      "leaf_and_parent_vigo_uten_godkjenninger": null,
+      "ppostnr": "2601",
+      "tilbyr_arbeidskrafttjenester": false,
+      "forradrpostnr": "2624",
+      "ppoststed": "LILLEHAMMER",
+      "forradrfylkenr": "34",
+      "bedriftens_aarsverk": 0,
+      "forradrland": "Norge",
+      "forradrpoststed": "LILLEHAMMER",
+      "telefon": [
+        "03370"
+      ],
+      "organisasjonsform_kode": "AS",
+      "lopende_kontrakter_totalt": 0,
+      "leaf_and_parent_medlem_opplaringskontor_orgnavn": null,
+      "ppostland": "Norge",
+      "ansatte_totalt": 168,
+      "antall_stillinger": 0,
+      "forretningsadr": "Vormstuguvegen 40",
+      "latlng_1_coordinate": 10.4183,
+      "parent_orgnumbers": null,
+      "parent_vigo_contracts": 0,
+      "leaf_and_parent_medlem_opplaringskontor_orgnr": null,
+      "latlng_0_coordinate": 61.1512,
+      "programomradekode6_med_ansatte": null,
+      "parent_godkjenninger": null,
+      "yrke_aarsverk": null,
+      "children_orgnumbers": [
+        "987914327",
+        "990052034"
+      ],
+      "vigo_navn_opplaringskontor": null,
+      "vigo_orgnr": null,
+      "godkjenning_url": null,
+      "godkjenning_beskrivelse": null,
+      "leaf_and_parent_vigo_godkjenninger_utlopte": null,
+      "children_orgnames": [
+        "EIDSIVA BREDB\u00c5ND AS AVD HOVEDKONTOR",
+        "EIDSIVA BREDB\u00c5ND AS AVD TYNSET"
+      ],
+      "yrke_orgnr": null,
+      "leaf_and_parent_vigo_godkjenninger_u_larling": null,
+      "vigo_forradrfylkenr": null,
+      "forelder_avstand": null,
+      "avtale_yff_skole_navn": null,
+      "godkjenning_registernavn": null,
+      "vigo_fylkenr": null,
+      "url": [
+        "www.eidsiva.net"
+      ],
+      "avtale_yff_avtale_nid": null,
+      "vigo_programomradekode6": null,
+      "vigo_programomradekode5": null,
+      "avtale_yff_sluttkompetanse_navn": null,
+      "vigo_lopenr": null,
+      "rolle_person": null,
+      "yrke_nid": null,
+      "yrke_programomradekode6_hovedlop": null,
+      "avtale_yff_orgnr": null,
+      "forelder_orgnr": null,
+      "rolle": null,
+      "avtale_yff_skole_nid": null,
+      "vigo_forradrfylkenavn": null,
+      "mobil": null,
+      "leaf_godkjenninger": [
+        "Ekomnettautorisasjon"
+      ],
+      "yrkeskode_styrk98_programomradekode6_hovedlop": null,
+      "yrkeskode_styrk98": null,
+      "avtale_yff_programomradekode6": null,
+      "vigo_godkjent_til_dato": null,
+      "godkjenning_godkjenner": null,
+      "forelder_navn": null,
+      "vigo_programomrade_tittel": null,
+      "vigo_sum_kontrakter": null,
+      "rolle_person_poststed": null,
+      "leaf_and_parent_avtaler_yff": null,
+      "aarsverk": null,
+      "godkjenninger": [
+        "Ekomnettautorisasjon"
+      ],
+      "children_distances": [
+        "1",
+        "1"
+      ],
+      "sektorkode_tittel": null,
+      "vigo_fylkenavn": null,
+      "vigo_orgnr_opplaringskontor": null,
+      "medlemsbedrifter_larlinger_totalt": 0,
+      "_other_data": {
+        "children_grandchildren_count": [
+          "0",
+          "0"
+        ],
+        "descendants_grand_total": 2,
+        "lpg_har_laereplassgaranti": false,
+        "naringskode_nace": [
+          "J",
+          "61",
+          "61.1",
+          "61.10",
+          "61.100"
+        ],
+        "naringskode_nace_tittel": [
+          "Kabelbasert telekommunikasjon"
+        ],
+        "navn_suggest_no": [
+          "EIDSIVA BREDB\u00c5ND AS"
+        ],
+        "navn_suggest_edge_no": [
+          "EIDSIVA BREDB\u00c5ND AS"
+        ],
+        "navn_suggest_ngram_no": [
+          "EIDSIVA BREDB\u00c5ND AS"
+        ],
+        "navn_s_no": "EIDSIVA BREDB\u00c5ND AS",
+        "parent_bedriftens_aarsverk": 154.1,
+        "parent_lopende_kontrakter_totalt": 0,
+        "top_parent_organisasjonsform_kode": "AS",
+        "top_parent_organisasjonsform_tittel": "Aksjeselskap",
+        "update_hash": "35c4cd8681c53fcfb893e4b1d5a3fc5d",
+        "_version_": 1821239614688460800,
+        "funksjon": "finnlarebedrift"
+      },
+      "_child_documents": [
+        {
+          "id": "880258222_1",
+          "path": "2.virksomhet.roller",
+          "rolle": "Daglig leder",
+          "rolle_person": "B\u00f8rke, Ola",
+          "rolle_person_poststed": "2350 NES P\u00c5 HEDMARKEN",
+          "_version_": 1821239614688460800
+        },
+        {
+          "id": "880258222_2",
+          "path": "2.virksomhet.roller",
+          "rolle": "Styrets leder",
+          "rolle_person": "Myrvold, Petter",
+          "rolle_person_poststed": "2615 LILLEHAMMER",
+          "_version_": 1821239614688460800
+        },
+        {
+          "id": "880258222_3",
+          "path": "2.virksomhet.roller",
+          "rolle": "Styremedlem",
+          "rolle_person": "Kolden, Hans Ivar",
+          "rolle_person_poststed": "2680 V\u00c5G\u00c5",
+          "_version_": 1821239614688460800
+        },
+        {
+          "id": "880258222_4",
+          "path": "2.virksomhet.roller",
+          "rolle": "Styremedlem",
+          "rolle_person": "Myhre, Ingvild Ragna",
+          "rolle_person_poststed": "0382 OSLO",
+          "_version_": 1821239614688460800
+        },
+        {
+          "id": "880258222_5",
+          "path": "2.virksomhet.roller",
+          "rolle": "Styremedlem",
+          "rolle_person": "Stangvik, Ron Andre Juul",
+          "rolle_person_poststed": "2611 LILLEHAMMER",
+          "_version_": 1821239614688460800
+        },
+        {
+          "id": "880258222_6",
+          "path": "2.virksomhet.roller",
+          "rolle": "Styremedlem",
+          "rolle_person": "Often, Ivar Muller",
+          "rolle_person_poststed": "2500 TYNSET",
+          "_version_": 1821239614688460800
+        },
+        {
+          "id": "880258222_7",
+          "path": "2.virksomhet.roller",
+          "rolle": "Styremedlem",
+          "rolle_person": "J\u00f8rstad, Tone",
+          "rolle_person_poststed": "1157 OSLO",
+          "_version_": 1821239614688460800
+        },
+        {
+          "id": "880258222_8",
+          "path": "2.virksomhet.roller",
+          "rolle": "Styremedlem",
+          "rolle_person": "Berge, Even",
+          "rolle_person_poststed": "2611 LILLEHAMMER",
+          "_version_": 1821239614688460800
+        },
+        {
+          "id": "880258222_9",
+          "path": "2.virksomhet.roller",
+          "rolle": "Styremedlem",
+          "rolle_person": "Borreb\u00e6k, Elin",
+          "rolle_person_poststed": "1900 FETSUND",
+          "_version_": 1821239614688460800
+        },
+        {
+          "id": "880258222_10",
+          "path": "2.virksomhet.roller",
+          "rolle": "Varamedlem",
+          "rolle_person": "Mikkelsen, Kjartan",
+          "rolle_person_poststed": "2614 LILLEHAMMER",
+          "_version_": 1821239614688460800
+        },
+        {
+          "id": "880258222_11",
+          "path": "2.virksomhet.roller",
+          "rolle": "Varamedlem",
+          "rolle_person": "Farmen, Ole Gunerius",
+          "rolle_person_poststed": "2609 LILLEHAMMER",
+          "_version_": 1821239614688460800
+        },
+        {
+          "id": "880258222_12",
+          "path": "2.virksomhet.roller",
+          "rolle": "Varamedlem",
+          "rolle_person": "Krokeide, Elisabeth",
+          "rolle_person_poststed": "2819 GJ\u00d8VIK",
+          "_version_": 1821239614688460800
+        },
+        {
+          "id": "880258222_13",
+          "path": "2.virksomhet.roller",
+          "rolle": "Varamedlem",
+          "rolle_person": "Finstad, Siw Therese",
+          "rolle_person_poststed": "2619 LILLEHAMMER",
+          "_version_": 1821239614688460800
+        },
+        {
+          "id": "880258222_14",
+          "path": "2.virksomhet.roller",
+          "rolle": "Revisor",
+          "rolle_person": "PRICEWATERHOUSECOOPERS AS",
+          "rolle_person_poststed": "0194 OSLO",
+          "_version_": 1821239614688460800
+        },
+        {
+          "godkjenning_beskrivelse": "Ekomnettautorisasjon",
+          "godkjenning_godkjenner": "Nasjonal kommunikasjonsmyndighet (NKOM)",
+          "godkjenning_registernavn": "Autorisasjonsregisteret",
+          "godkjenning_url": [
+            "https://www.nkom.no/ekom-markedet/liste-over-registrerte-tilbydere"
+          ],
+          "id": "880258222_kom_18e3da87a585b6d1cb00714c7781af6a",
+          "path": "2.virksomhet.annen_godkjenning",
+          "_version_": 1821239614688460800
+        }
+      ]
+    }
+  ],
+  "hydra:view": {
+    "@id": "/finnlarebedrift/bedrifter_ikke_godkjente?page=1",
+    "@type": "hydra:PartialCollectionView",
+    "hydra:first": "/finnlarebedrift/bedrifter_ikke_godkjente?page=1",
+    "hydra:last": "/finnlarebedrift/bedrifter_ikke_godkjente?page=456962",
+    "hydra:next": "/finnlarebedrift/bedrifter_ikke_godkjente?page=2"
+  },
+  "hydra:search": {
+    "@type": "hydra:IriTemplate",
+    "hydra:template": "/finnlarebedrift/bedrifter_ikke_godkjente{?q,larling_ekskluder,aarsverk,opplaring,gk,sted,fag,YFF,larlinger,bedriftsstorrelse,opplaringskontor,ledig_stilling,sort,statlige_etater,fylkeskommuner,kommuner,larlinger_i_valgte_fag,organisasjonsform,laereplassgaranti,q,larling,larling_ekskluder,aarsverk,opplaring,gk,sted,fag,YFF,larlinger,larlinger_i_valgte_fag,bedriftsstorrelse,opplaringskontor,ledig_stilling,ledig_stilling_valgte_fag,sort,statlige_etater,fylkeskommuner,kommuner,organisasjonsform}",
+    "hydra:variableRepresentation": "BasicRepresentation",
+    "hydra:mapping": [
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "q",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "larling_ekskluder",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "aarsverk",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "opplaring",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "gk",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "sted",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "fag",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "YFF",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "larlinger",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "bedriftsstorrelse",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "opplaringskontor",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "ledig_stilling",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "sort",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "statlige_etater",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "fylkeskommuner",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "kommuner",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "larlinger_i_valgte_fag",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "organisasjonsform",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "laereplassgaranti",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "q",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "larling",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "larling_ekskluder",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "aarsverk",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "opplaring",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "gk",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "sted",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "fag",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "YFF",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "larlinger",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "larlinger_i_valgte_fag",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "bedriftsstorrelse",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "opplaringskontor",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "ledig_stilling",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "ledig_stilling_valgte_fag",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "sort",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "statlige_etater",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "fylkeskommuner",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "kommuner",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "organisasjonsform",
+        "property": null,
+        "required": false
+      }
+    ]
+  }
+}

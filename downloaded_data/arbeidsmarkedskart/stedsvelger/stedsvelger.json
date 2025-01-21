@@ -1,0 +1,2201 @@
+[
+  {
+    "fylkenr": "22",
+    "fylkenavn": "Jan Mayen",
+    "fylketype": "EXTRA",
+    "har_videregaende_skoler": false,
+    "har_bedrifter": true,
+    "region": null,
+    "kommuner": [
+      {
+        "kommunenr": "2211",
+        "kommunenavn": "Jan Mayen",
+        "fylkenr": "22"
+      }
+    ]
+  },
+  {
+    "fylkenr": "23",
+    "fylkenavn": "Kontinentalsokkelen",
+    "fylketype": "EXTRA",
+    "har_videregaende_skoler": false,
+    "har_bedrifter": false,
+    "region": null,
+    "kommuner": [
+      {
+        "kommunenr": "2311",
+        "kommunenavn": "Sokkelen syd for 62 N",
+        "fylkenr": "23"
+      },
+      {
+        "kommunenr": "2321",
+        "kommunenavn": "Sokkelen nord for 62 N",
+        "fylkenr": "23"
+      },
+      {
+        "kommunenr": "2399",
+        "kommunenavn": "Sokkelen, uspesifisert",
+        "fylkenr": "23"
+      }
+    ]
+  },
+  {
+    "fylkenr": "24",
+    "fylkenavn": "Luftrommet",
+    "fylketype": "EXTRA",
+    "har_videregaende_skoler": false,
+    "har_bedrifter": false,
+    "region": null,
+    "kommuner": [
+      {
+        "kommunenr": "2411",
+        "kommunenavn": "Luftrom under og lik 1000moh",
+        "fylkenr": "24"
+      },
+      {
+        "kommunenr": "2412",
+        "kommunenavn": "Luftrom over 1000moh",
+        "fylkenr": "24"
+      },
+      {
+        "kommunenr": "2499",
+        "kommunenavn": "Luftrom uspesifisert",
+        "fylkenr": "24"
+      }
+    ]
+  },
+  {
+    "fylkenr": "25",
+    "fylkenavn": "Utlandet",
+    "fylketype": "EXTRA",
+    "har_videregaende_skoler": false,
+    "har_bedrifter": false,
+    "region": null,
+    "kommuner": [
+      {
+        "kommunenr": "2511",
+        "kommunenavn": "Norske ambassader i utlandet",
+        "fylkenr": "25"
+      },
+      {
+        "kommunenr": "2599",
+        "kommunenavn": "Utlandet, uspesifisert",
+        "fylkenr": "25"
+      }
+    ]
+  },
+  {
+    "fylkenr": "26",
+    "fylkenavn": "Havomr\u00e5der",
+    "fylketype": "EXTRA",
+    "har_videregaende_skoler": false,
+    "har_bedrifter": false,
+    "region": null,
+    "kommuner": [
+      {
+        "kommunenr": "2611",
+        "kommunenavn": "Havomr\u00e5der innenfor sokkelen",
+        "fylkenr": "26"
+      },
+      {
+        "kommunenr": "2612",
+        "kommunenavn": "Havomr\u00e5der utenfor sokkelen",
+        "fylkenr": "26"
+      },
+      {
+        "kommunenr": "2699",
+        "kommunenavn": "Havomr\u00e5der, uspesifisert",
+        "fylkenr": "26"
+      }
+    ]
+  },
+  {
+    "fylkenr": "27",
+    "fylkenavn": "Norske biland",
+    "fylketype": "EXTRA",
+    "har_videregaende_skoler": false,
+    "har_bedrifter": false,
+    "region": null,
+    "kommuner": [
+      {
+        "kommunenr": "2799",
+        "kommunenavn": "Bouvet\u00f8ya, Peter I \u00d8y og Dronning Maud Land",
+        "fylkenr": "27"
+      }
+    ]
+  },
+  {
+    "fylkenr": "28",
+    "fylkenavn": "Ekstrafylke",
+    "fylketype": "EXTRA",
+    "har_videregaende_skoler": false,
+    "har_bedrifter": false,
+    "region": null,
+    "kommuner": null
+  },
+  {
+    "fylkenr": "55",
+    "fylkenavn": "Troms",
+    "fylketype": "HOVED",
+    "har_videregaende_skoler": true,
+    "har_bedrifter": true,
+    "region": "Nord-Norge",
+    "kommuner": [
+      {
+        "kommunenr": "5501",
+        "kommunenavn": "Troms\u00f8",
+        "fylkenr": "55"
+      },
+      {
+        "kommunenr": "5503",
+        "kommunenavn": "Harstad",
+        "fylkenr": "55"
+      },
+      {
+        "kommunenr": "5510",
+        "kommunenavn": "Kv\u00e6fjord",
+        "fylkenr": "55"
+      },
+      {
+        "kommunenr": "5512",
+        "kommunenavn": "Tjeldsund",
+        "fylkenr": "55"
+      },
+      {
+        "kommunenr": "5514",
+        "kommunenavn": "Ibestad",
+        "fylkenr": "55"
+      },
+      {
+        "kommunenr": "5516",
+        "kommunenavn": "Gratangen",
+        "fylkenr": "55"
+      },
+      {
+        "kommunenr": "5518",
+        "kommunenavn": "Lavangen",
+        "fylkenr": "55"
+      },
+      {
+        "kommunenr": "5520",
+        "kommunenavn": "Bardu",
+        "fylkenr": "55"
+      },
+      {
+        "kommunenr": "5522",
+        "kommunenavn": "Salangen",
+        "fylkenr": "55"
+      },
+      {
+        "kommunenr": "5524",
+        "kommunenavn": "M\u00e5lselv",
+        "fylkenr": "55"
+      },
+      {
+        "kommunenr": "5526",
+        "kommunenavn": "S\u00f8rreisa",
+        "fylkenr": "55"
+      },
+      {
+        "kommunenr": "5528",
+        "kommunenavn": "Dyr\u00f8y",
+        "fylkenr": "55"
+      },
+      {
+        "kommunenr": "5530",
+        "kommunenavn": "Senja",
+        "fylkenr": "55"
+      },
+      {
+        "kommunenr": "5532",
+        "kommunenavn": "Balsfjord",
+        "fylkenr": "55"
+      },
+      {
+        "kommunenr": "5534",
+        "kommunenavn": "Karls\u00f8y",
+        "fylkenr": "55"
+      },
+      {
+        "kommunenr": "5536",
+        "kommunenavn": "Lyngen",
+        "fylkenr": "55"
+      },
+      {
+        "kommunenr": "5538",
+        "kommunenavn": "Storfjord",
+        "fylkenr": "55"
+      },
+      {
+        "kommunenr": "5540",
+        "kommunenavn": "K\u00e5fjord",
+        "fylkenr": "55"
+      },
+      {
+        "kommunenr": "5542",
+        "kommunenavn": "Skjerv\u00f8y",
+        "fylkenr": "55"
+      },
+      {
+        "kommunenr": "5544",
+        "kommunenavn": "Nordreisa",
+        "fylkenr": "55"
+      },
+      {
+        "kommunenr": "5546",
+        "kommunenavn": "Kv\u00e6nangen",
+        "fylkenr": "55"
+      }
+    ]
+  },
+  {
+    "fylkenr": "11",
+    "fylkenavn": "Rogaland",
+    "fylketype": "HOVED",
+    "har_videregaende_skoler": true,
+    "har_bedrifter": true,
+    "region": "Vestlandet",
+    "kommuner": [
+      {
+        "kommunenr": "1101",
+        "kommunenavn": "Eigersund",
+        "fylkenr": "11"
+      },
+      {
+        "kommunenr": "1103",
+        "kommunenavn": "Stavanger",
+        "fylkenr": "11"
+      },
+      {
+        "kommunenr": "1106",
+        "kommunenavn": "Haugesund",
+        "fylkenr": "11"
+      },
+      {
+        "kommunenr": "1108",
+        "kommunenavn": "Sandnes",
+        "fylkenr": "11"
+      },
+      {
+        "kommunenr": "1111",
+        "kommunenavn": "Sokndal",
+        "fylkenr": "11"
+      },
+      {
+        "kommunenr": "1112",
+        "kommunenavn": "Lund",
+        "fylkenr": "11"
+      },
+      {
+        "kommunenr": "1114",
+        "kommunenavn": "Bjerkreim",
+        "fylkenr": "11"
+      },
+      {
+        "kommunenr": "1119",
+        "kommunenavn": "H\u00e5",
+        "fylkenr": "11"
+      },
+      {
+        "kommunenr": "1120",
+        "kommunenavn": "Klepp",
+        "fylkenr": "11"
+      },
+      {
+        "kommunenr": "1121",
+        "kommunenavn": "Time",
+        "fylkenr": "11"
+      },
+      {
+        "kommunenr": "1122",
+        "kommunenavn": "Gjesdal",
+        "fylkenr": "11"
+      },
+      {
+        "kommunenr": "1124",
+        "kommunenavn": "Sola",
+        "fylkenr": "11"
+      },
+      {
+        "kommunenr": "1127",
+        "kommunenavn": "Randaberg",
+        "fylkenr": "11"
+      },
+      {
+        "kommunenr": "1130",
+        "kommunenavn": "Strand",
+        "fylkenr": "11"
+      },
+      {
+        "kommunenr": "1133",
+        "kommunenavn": "Hjelmeland",
+        "fylkenr": "11"
+      },
+      {
+        "kommunenr": "1134",
+        "kommunenavn": "Suldal",
+        "fylkenr": "11"
+      },
+      {
+        "kommunenr": "1135",
+        "kommunenavn": "Sauda",
+        "fylkenr": "11"
+      },
+      {
+        "kommunenr": "1144",
+        "kommunenavn": "Kvits\u00f8y",
+        "fylkenr": "11"
+      },
+      {
+        "kommunenr": "1145",
+        "kommunenavn": "Bokn",
+        "fylkenr": "11"
+      },
+      {
+        "kommunenr": "1146",
+        "kommunenavn": "Tysv\u00e6r",
+        "fylkenr": "11"
+      },
+      {
+        "kommunenr": "1149",
+        "kommunenavn": "Karm\u00f8y",
+        "fylkenr": "11"
+      },
+      {
+        "kommunenr": "1151",
+        "kommunenavn": "Utsira",
+        "fylkenr": "11"
+      },
+      {
+        "kommunenr": "1160",
+        "kommunenavn": "Vindafjord",
+        "fylkenr": "11"
+      }
+    ]
+  },
+  {
+    "fylkenr": "15",
+    "fylkenavn": "M\u00f8re og Romsdal",
+    "fylketype": "HOVED",
+    "har_videregaende_skoler": true,
+    "har_bedrifter": true,
+    "region": "Vestlandet",
+    "kommuner": [
+      {
+        "kommunenr": "1505",
+        "kommunenavn": "Kristiansund",
+        "fylkenr": "15"
+      },
+      {
+        "kommunenr": "1506",
+        "kommunenavn": "Molde",
+        "fylkenr": "15"
+      },
+      {
+        "kommunenr": "1508",
+        "kommunenavn": "\u00c5lesund",
+        "fylkenr": "15"
+      },
+      {
+        "kommunenr": "1511",
+        "kommunenavn": "Vanylven",
+        "fylkenr": "15"
+      },
+      {
+        "kommunenr": "1514",
+        "kommunenavn": "Sande",
+        "fylkenr": "15"
+      },
+      {
+        "kommunenr": "1515",
+        "kommunenavn": "Her\u00f8y",
+        "fylkenr": "15"
+      },
+      {
+        "kommunenr": "1516",
+        "kommunenavn": "Ulstein",
+        "fylkenr": "15"
+      },
+      {
+        "kommunenr": "1517",
+        "kommunenavn": "Hareid",
+        "fylkenr": "15"
+      },
+      {
+        "kommunenr": "1520",
+        "kommunenavn": "\u00d8rsta",
+        "fylkenr": "15"
+      },
+      {
+        "kommunenr": "1525",
+        "kommunenavn": "Stranda",
+        "fylkenr": "15"
+      },
+      {
+        "kommunenr": "1528",
+        "kommunenavn": "Sykkylven",
+        "fylkenr": "15"
+      },
+      {
+        "kommunenr": "1531",
+        "kommunenavn": "Sula",
+        "fylkenr": "15"
+      },
+      {
+        "kommunenr": "1532",
+        "kommunenavn": "Giske",
+        "fylkenr": "15"
+      },
+      {
+        "kommunenr": "1535",
+        "kommunenavn": "Vestnes",
+        "fylkenr": "15"
+      },
+      {
+        "kommunenr": "1539",
+        "kommunenavn": "Rauma",
+        "fylkenr": "15"
+      },
+      {
+        "kommunenr": "1547",
+        "kommunenavn": "Aukra",
+        "fylkenr": "15"
+      },
+      {
+        "kommunenr": "1554",
+        "kommunenavn": "Aver\u00f8y",
+        "fylkenr": "15"
+      },
+      {
+        "kommunenr": "1557",
+        "kommunenavn": "Gjemnes",
+        "fylkenr": "15"
+      },
+      {
+        "kommunenr": "1560",
+        "kommunenavn": "Tingvoll",
+        "fylkenr": "15"
+      },
+      {
+        "kommunenr": "1563",
+        "kommunenavn": "Sunndal",
+        "fylkenr": "15"
+      },
+      {
+        "kommunenr": "1566",
+        "kommunenavn": "Surnadal",
+        "fylkenr": "15"
+      },
+      {
+        "kommunenr": "1573",
+        "kommunenavn": "Sm\u00f8la",
+        "fylkenr": "15"
+      },
+      {
+        "kommunenr": "1576",
+        "kommunenavn": "Aure",
+        "fylkenr": "15"
+      },
+      {
+        "kommunenr": "1577",
+        "kommunenavn": "Volda",
+        "fylkenr": "15"
+      },
+      {
+        "kommunenr": "1578",
+        "kommunenavn": "Fjord",
+        "fylkenr": "15"
+      },
+      {
+        "kommunenr": "1579",
+        "kommunenavn": "Hustadvika",
+        "fylkenr": "15"
+      },
+      {
+        "kommunenr": "1580",
+        "kommunenavn": "Haram",
+        "fylkenr": "15"
+      }
+    ]
+  },
+  {
+    "fylkenr": "18",
+    "fylkenavn": "Nordland",
+    "fylketype": "HOVED",
+    "har_videregaende_skoler": true,
+    "har_bedrifter": true,
+    "region": "Nord-Norge",
+    "kommuner": [
+      {
+        "kommunenr": "1804",
+        "kommunenavn": "Bod\u00f8",
+        "fylkenr": "18"
+      },
+      {
+        "kommunenr": "1806",
+        "kommunenavn": "Narvik",
+        "fylkenr": "18"
+      },
+      {
+        "kommunenr": "1811",
+        "kommunenavn": "Bindal",
+        "fylkenr": "18"
+      },
+      {
+        "kommunenr": "1812",
+        "kommunenavn": "S\u00f8mna",
+        "fylkenr": "18"
+      },
+      {
+        "kommunenr": "1813",
+        "kommunenavn": "Br\u00f8nn\u00f8y",
+        "fylkenr": "18"
+      },
+      {
+        "kommunenr": "1815",
+        "kommunenavn": "Vega",
+        "fylkenr": "18"
+      },
+      {
+        "kommunenr": "1816",
+        "kommunenavn": "Vevelstad",
+        "fylkenr": "18"
+      },
+      {
+        "kommunenr": "1818",
+        "kommunenavn": "Her\u00f8y",
+        "fylkenr": "18"
+      },
+      {
+        "kommunenr": "1820",
+        "kommunenavn": "Alstahaug",
+        "fylkenr": "18"
+      },
+      {
+        "kommunenr": "1822",
+        "kommunenavn": "Leirfjord",
+        "fylkenr": "18"
+      },
+      {
+        "kommunenr": "1824",
+        "kommunenavn": "Vefsn",
+        "fylkenr": "18"
+      },
+      {
+        "kommunenr": "1825",
+        "kommunenavn": "Grane",
+        "fylkenr": "18"
+      },
+      {
+        "kommunenr": "1826",
+        "kommunenavn": "Hattfjelldal",
+        "fylkenr": "18"
+      },
+      {
+        "kommunenr": "1827",
+        "kommunenavn": "D\u00f8nna",
+        "fylkenr": "18"
+      },
+      {
+        "kommunenr": "1828",
+        "kommunenavn": "Nesna",
+        "fylkenr": "18"
+      },
+      {
+        "kommunenr": "1832",
+        "kommunenavn": "Hemnes",
+        "fylkenr": "18"
+      },
+      {
+        "kommunenr": "1833",
+        "kommunenavn": "Rana",
+        "fylkenr": "18"
+      },
+      {
+        "kommunenr": "1834",
+        "kommunenavn": "Lur\u00f8y",
+        "fylkenr": "18"
+      },
+      {
+        "kommunenr": "1835",
+        "kommunenavn": "Tr\u00e6na",
+        "fylkenr": "18"
+      },
+      {
+        "kommunenr": "1836",
+        "kommunenavn": "R\u00f8d\u00f8y",
+        "fylkenr": "18"
+      },
+      {
+        "kommunenr": "1837",
+        "kommunenavn": "Mel\u00f8y",
+        "fylkenr": "18"
+      },
+      {
+        "kommunenr": "1838",
+        "kommunenavn": "Gildesk\u00e5l",
+        "fylkenr": "18"
+      },
+      {
+        "kommunenr": "1839",
+        "kommunenavn": "Beiarn",
+        "fylkenr": "18"
+      },
+      {
+        "kommunenr": "1840",
+        "kommunenavn": "Saltdal",
+        "fylkenr": "18"
+      },
+      {
+        "kommunenr": "1841",
+        "kommunenavn": "Fauske",
+        "fylkenr": "18"
+      },
+      {
+        "kommunenr": "1845",
+        "kommunenavn": "S\u00f8rfold",
+        "fylkenr": "18"
+      },
+      {
+        "kommunenr": "1848",
+        "kommunenavn": "Steigen",
+        "fylkenr": "18"
+      },
+      {
+        "kommunenr": "1851",
+        "kommunenavn": "L\u00f8dingen",
+        "fylkenr": "18"
+      },
+      {
+        "kommunenr": "1853",
+        "kommunenavn": "Evenes",
+        "fylkenr": "18"
+      },
+      {
+        "kommunenr": "1856",
+        "kommunenavn": "R\u00f8st",
+        "fylkenr": "18"
+      },
+      {
+        "kommunenr": "1857",
+        "kommunenavn": "V\u00e6r\u00f8y",
+        "fylkenr": "18"
+      },
+      {
+        "kommunenr": "1859",
+        "kommunenavn": "Flakstad",
+        "fylkenr": "18"
+      },
+      {
+        "kommunenr": "1860",
+        "kommunenavn": "Vestv\u00e5g\u00f8y",
+        "fylkenr": "18"
+      },
+      {
+        "kommunenr": "1865",
+        "kommunenavn": "V\u00e5gan",
+        "fylkenr": "18"
+      },
+      {
+        "kommunenr": "1866",
+        "kommunenavn": "Hadsel",
+        "fylkenr": "18"
+      },
+      {
+        "kommunenr": "1867",
+        "kommunenavn": "B\u00f8",
+        "fylkenr": "18"
+      },
+      {
+        "kommunenr": "1868",
+        "kommunenavn": "\u00d8ksnes",
+        "fylkenr": "18"
+      },
+      {
+        "kommunenr": "1870",
+        "kommunenavn": "Sortland",
+        "fylkenr": "18"
+      },
+      {
+        "kommunenr": "1871",
+        "kommunenavn": "And\u00f8y",
+        "fylkenr": "18"
+      },
+      {
+        "kommunenr": "1874",
+        "kommunenavn": "Moskenes",
+        "fylkenr": "18"
+      },
+      {
+        "kommunenr": "1875",
+        "kommunenavn": "Hamar\u00f8y",
+        "fylkenr": "18"
+      }
+    ]
+  },
+  {
+    "fylkenr": "21",
+    "fylkenavn": "Svalbard",
+    "fylketype": "EXTRA",
+    "har_videregaende_skoler": true,
+    "har_bedrifter": true,
+    "region": "Nord-Norge",
+    "kommuner": [
+      {
+        "kommunenr": "2100",
+        "kommunenavn": "Svalbard",
+        "fylkenr": "21"
+      },
+      {
+        "kommunenr": "2101",
+        "kommunenavn": "Colesbukta",
+        "fylkenr": "21"
+      },
+      {
+        "kommunenr": "2102",
+        "kommunenavn": "Pyramiden",
+        "fylkenr": "21"
+      },
+      {
+        "kommunenr": "2103",
+        "kommunenavn": "Van Mijenfjorden",
+        "fylkenr": "21"
+      },
+      {
+        "kommunenr": "2104",
+        "kommunenavn": "Nordenski\u00f6ld Land nasjonalpark",
+        "fylkenr": "21"
+      },
+      {
+        "kommunenr": "2105",
+        "kommunenavn": "Isfjorden",
+        "fylkenr": "21"
+      },
+      {
+        "kommunenr": "2107",
+        "kommunenavn": "Nordre Isfjorden nasjonalpark",
+        "fylkenr": "21"
+      },
+      {
+        "kommunenr": "2108",
+        "kommunenavn": "Kongsfjorden",
+        "fylkenr": "21"
+      },
+      {
+        "kommunenr": "2109",
+        "kommunenavn": "Forlandet nasjonalpark",
+        "fylkenr": "21"
+      },
+      {
+        "kommunenr": "2110",
+        "kommunenavn": "Wijdefjorden",
+        "fylkenr": "21"
+      },
+      {
+        "kommunenr": "2111",
+        "kommunenavn": "Longyearbyen",
+        "fylkenr": "21"
+      },
+      {
+        "kommunenr": "2112",
+        "kommunenavn": "Ny-\u00c5lesund",
+        "fylkenr": "21"
+      },
+      {
+        "kommunenr": "2113",
+        "kommunenavn": "Barentsburg",
+        "fylkenr": "21"
+      },
+      {
+        "kommunenr": "2114",
+        "kommunenavn": "S\u00f8r-Spitsbergen nasjonalpark",
+        "fylkenr": "21"
+      },
+      {
+        "kommunenr": "2115",
+        "kommunenavn": "Sveagruva",
+        "fylkenr": "21"
+      },
+      {
+        "kommunenr": "2116",
+        "kommunenavn": "Indre Wijdefjorden nasjonalpark",
+        "fylkenr": "21"
+      },
+      {
+        "kommunenr": "2118",
+        "kommunenavn": "Nordaust-Svalbard naturreservat",
+        "fylkenr": "21"
+      },
+      {
+        "kommunenr": "2119",
+        "kommunenavn": "S\u00f8raust-Svalbard naturreservat",
+        "fylkenr": "21"
+      },
+      {
+        "kommunenr": "2121",
+        "kommunenavn": "Bj\u00f8rn\u00f8ya",
+        "fylkenr": "21"
+      },
+      {
+        "kommunenr": "2131",
+        "kommunenavn": "Hopen",
+        "fylkenr": "21"
+      },
+      {
+        "kommunenr": "2199",
+        "kommunenavn": "Svalbard, uspesifisert",
+        "fylkenr": "21"
+      }
+    ]
+  },
+  {
+    "fylkenr": "31",
+    "fylkenavn": "\u00d8stfold",
+    "fylketype": "HOVED",
+    "har_videregaende_skoler": true,
+    "har_bedrifter": true,
+    "region": "\u00d8stlandet",
+    "kommuner": [
+      {
+        "kommunenr": "3101",
+        "kommunenavn": "Halden",
+        "fylkenr": "31"
+      },
+      {
+        "kommunenr": "3103",
+        "kommunenavn": "Moss",
+        "fylkenr": "31"
+      },
+      {
+        "kommunenr": "3105",
+        "kommunenavn": "Sarpsborg",
+        "fylkenr": "31"
+      },
+      {
+        "kommunenr": "3107",
+        "kommunenavn": "Fredrikstad",
+        "fylkenr": "31"
+      },
+      {
+        "kommunenr": "3110",
+        "kommunenavn": "Hvaler",
+        "fylkenr": "31"
+      },
+      {
+        "kommunenr": "3112",
+        "kommunenavn": "R\u00e5de",
+        "fylkenr": "31"
+      },
+      {
+        "kommunenr": "3114",
+        "kommunenavn": "V\u00e5ler",
+        "fylkenr": "31"
+      },
+      {
+        "kommunenr": "3116",
+        "kommunenavn": "Skiptvet",
+        "fylkenr": "31"
+      },
+      {
+        "kommunenr": "3118",
+        "kommunenavn": "Indre \u00d8stfold",
+        "fylkenr": "31"
+      },
+      {
+        "kommunenr": "3120",
+        "kommunenavn": "Rakkestad",
+        "fylkenr": "31"
+      },
+      {
+        "kommunenr": "3122",
+        "kommunenavn": "Marker",
+        "fylkenr": "31"
+      },
+      {
+        "kommunenr": "3124",
+        "kommunenavn": "Aremark",
+        "fylkenr": "31"
+      }
+    ]
+  },
+  {
+    "fylkenr": "32",
+    "fylkenavn": "Akershus",
+    "fylketype": "HOVED",
+    "har_videregaende_skoler": true,
+    "har_bedrifter": true,
+    "region": "\u00d8stlandet",
+    "kommuner": [
+      {
+        "kommunenr": "3201",
+        "kommunenavn": "B\u00e6rum",
+        "fylkenr": "32"
+      },
+      {
+        "kommunenr": "3203",
+        "kommunenavn": "Asker",
+        "fylkenr": "32"
+      },
+      {
+        "kommunenr": "3205",
+        "kommunenavn": "Lillestr\u00f8m",
+        "fylkenr": "32"
+      },
+      {
+        "kommunenr": "3207",
+        "kommunenavn": "Nordre Follo",
+        "fylkenr": "32"
+      },
+      {
+        "kommunenr": "3209",
+        "kommunenavn": "Ullensaker",
+        "fylkenr": "32"
+      },
+      {
+        "kommunenr": "3212",
+        "kommunenavn": "Nesodden",
+        "fylkenr": "32"
+      },
+      {
+        "kommunenr": "3214",
+        "kommunenavn": "Frogn",
+        "fylkenr": "32"
+      },
+      {
+        "kommunenr": "3216",
+        "kommunenavn": "Vestby",
+        "fylkenr": "32"
+      },
+      {
+        "kommunenr": "3218",
+        "kommunenavn": "\u00c5s",
+        "fylkenr": "32"
+      },
+      {
+        "kommunenr": "3220",
+        "kommunenavn": "Enebakk",
+        "fylkenr": "32"
+      },
+      {
+        "kommunenr": "3222",
+        "kommunenavn": "L\u00f8renskog",
+        "fylkenr": "32"
+      },
+      {
+        "kommunenr": "3224",
+        "kommunenavn": "R\u00e6lingen",
+        "fylkenr": "32"
+      },
+      {
+        "kommunenr": "3226",
+        "kommunenavn": "Aurskog-H\u00f8land",
+        "fylkenr": "32"
+      },
+      {
+        "kommunenr": "3228",
+        "kommunenavn": "Nes",
+        "fylkenr": "32"
+      },
+      {
+        "kommunenr": "3230",
+        "kommunenavn": "Gjerdrum",
+        "fylkenr": "32"
+      },
+      {
+        "kommunenr": "3232",
+        "kommunenavn": "Nittedal",
+        "fylkenr": "32"
+      },
+      {
+        "kommunenr": "3234",
+        "kommunenavn": "Lunner",
+        "fylkenr": "32"
+      },
+      {
+        "kommunenr": "3236",
+        "kommunenavn": "Jevnaker",
+        "fylkenr": "32"
+      },
+      {
+        "kommunenr": "3238",
+        "kommunenavn": "Nannestad",
+        "fylkenr": "32"
+      },
+      {
+        "kommunenr": "3240",
+        "kommunenavn": "Eidsvoll",
+        "fylkenr": "32"
+      },
+      {
+        "kommunenr": "3242",
+        "kommunenavn": "Hurdal",
+        "fylkenr": "32"
+      }
+    ]
+  },
+  {
+    "fylkenr": "33",
+    "fylkenavn": "Buskerud",
+    "fylketype": "HOVED",
+    "har_videregaende_skoler": true,
+    "har_bedrifter": true,
+    "region": "\u00d8stlandet",
+    "kommuner": [
+      {
+        "kommunenr": "3301",
+        "kommunenavn": "Drammen",
+        "fylkenr": "33"
+      },
+      {
+        "kommunenr": "3303",
+        "kommunenavn": "Kongsberg",
+        "fylkenr": "33"
+      },
+      {
+        "kommunenr": "3305",
+        "kommunenavn": "Ringerike",
+        "fylkenr": "33"
+      },
+      {
+        "kommunenr": "3310",
+        "kommunenavn": "Hole",
+        "fylkenr": "33"
+      },
+      {
+        "kommunenr": "3312",
+        "kommunenavn": "Lier",
+        "fylkenr": "33"
+      },
+      {
+        "kommunenr": "3314",
+        "kommunenavn": "\u00d8vre Eiker",
+        "fylkenr": "33"
+      },
+      {
+        "kommunenr": "3316",
+        "kommunenavn": "Modum",
+        "fylkenr": "33"
+      },
+      {
+        "kommunenr": "3318",
+        "kommunenavn": "Kr\u00f8dsherad",
+        "fylkenr": "33"
+      },
+      {
+        "kommunenr": "3320",
+        "kommunenavn": "Fl\u00e5",
+        "fylkenr": "33"
+      },
+      {
+        "kommunenr": "3322",
+        "kommunenavn": "Nesbyen",
+        "fylkenr": "33"
+      },
+      {
+        "kommunenr": "3324",
+        "kommunenavn": "Gol",
+        "fylkenr": "33"
+      },
+      {
+        "kommunenr": "3326",
+        "kommunenavn": "Hemsedal",
+        "fylkenr": "33"
+      },
+      {
+        "kommunenr": "3328",
+        "kommunenavn": "\u00c5l",
+        "fylkenr": "33"
+      },
+      {
+        "kommunenr": "3330",
+        "kommunenavn": "Hol",
+        "fylkenr": "33"
+      },
+      {
+        "kommunenr": "3332",
+        "kommunenavn": "Sigdal",
+        "fylkenr": "33"
+      },
+      {
+        "kommunenr": "3334",
+        "kommunenavn": "Flesberg",
+        "fylkenr": "33"
+      },
+      {
+        "kommunenr": "3336",
+        "kommunenavn": "Rollag",
+        "fylkenr": "33"
+      },
+      {
+        "kommunenr": "3338",
+        "kommunenavn": "Nore og Uvdal",
+        "fylkenr": "33"
+      }
+    ]
+  },
+  {
+    "fylkenr": "34",
+    "fylkenavn": "Innlandet",
+    "fylketype": "HOVED",
+    "har_videregaende_skoler": true,
+    "har_bedrifter": true,
+    "region": "\u00d8stlandet",
+    "kommuner": [
+      {
+        "kommunenr": "3401",
+        "kommunenavn": "Kongsvinger",
+        "fylkenr": "34"
+      },
+      {
+        "kommunenr": "3403",
+        "kommunenavn": "Hamar",
+        "fylkenr": "34"
+      },
+      {
+        "kommunenr": "3405",
+        "kommunenavn": "Lillehammer",
+        "fylkenr": "34"
+      },
+      {
+        "kommunenr": "3407",
+        "kommunenavn": "Gj\u00f8vik",
+        "fylkenr": "34"
+      },
+      {
+        "kommunenr": "3411",
+        "kommunenavn": "Ringsaker",
+        "fylkenr": "34"
+      },
+      {
+        "kommunenr": "3412",
+        "kommunenavn": "L\u00f8ten",
+        "fylkenr": "34"
+      },
+      {
+        "kommunenr": "3413",
+        "kommunenavn": "Stange",
+        "fylkenr": "34"
+      },
+      {
+        "kommunenr": "3414",
+        "kommunenavn": "Nord-Odal",
+        "fylkenr": "34"
+      },
+      {
+        "kommunenr": "3415",
+        "kommunenavn": "S\u00f8r-Odal",
+        "fylkenr": "34"
+      },
+      {
+        "kommunenr": "3416",
+        "kommunenavn": "Eidskog",
+        "fylkenr": "34"
+      },
+      {
+        "kommunenr": "3417",
+        "kommunenavn": "Grue",
+        "fylkenr": "34"
+      },
+      {
+        "kommunenr": "3418",
+        "kommunenavn": "\u00c5snes",
+        "fylkenr": "34"
+      },
+      {
+        "kommunenr": "3419",
+        "kommunenavn": "V\u00e5ler",
+        "fylkenr": "34"
+      },
+      {
+        "kommunenr": "3420",
+        "kommunenavn": "Elverum",
+        "fylkenr": "34"
+      },
+      {
+        "kommunenr": "3421",
+        "kommunenavn": "Trysil",
+        "fylkenr": "34"
+      },
+      {
+        "kommunenr": "3422",
+        "kommunenavn": "\u00c5mot",
+        "fylkenr": "34"
+      },
+      {
+        "kommunenr": "3423",
+        "kommunenavn": "Stor-Elvdal",
+        "fylkenr": "34"
+      },
+      {
+        "kommunenr": "3424",
+        "kommunenavn": "Rendalen",
+        "fylkenr": "34"
+      },
+      {
+        "kommunenr": "3425",
+        "kommunenavn": "Engerdal",
+        "fylkenr": "34"
+      },
+      {
+        "kommunenr": "3426",
+        "kommunenavn": "Tolga",
+        "fylkenr": "34"
+      },
+      {
+        "kommunenr": "3427",
+        "kommunenavn": "Tynset",
+        "fylkenr": "34"
+      },
+      {
+        "kommunenr": "3428",
+        "kommunenavn": "Alvdal",
+        "fylkenr": "34"
+      },
+      {
+        "kommunenr": "3429",
+        "kommunenavn": "Folldal",
+        "fylkenr": "34"
+      },
+      {
+        "kommunenr": "3430",
+        "kommunenavn": "Os",
+        "fylkenr": "34"
+      },
+      {
+        "kommunenr": "3431",
+        "kommunenavn": "Dovre",
+        "fylkenr": "34"
+      },
+      {
+        "kommunenr": "3432",
+        "kommunenavn": "Lesja",
+        "fylkenr": "34"
+      },
+      {
+        "kommunenr": "3433",
+        "kommunenavn": "Skj\u00e5k",
+        "fylkenr": "34"
+      },
+      {
+        "kommunenr": "3434",
+        "kommunenavn": "Lom",
+        "fylkenr": "34"
+      },
+      {
+        "kommunenr": "3435",
+        "kommunenavn": "V\u00e5g\u00e5",
+        "fylkenr": "34"
+      },
+      {
+        "kommunenr": "3436",
+        "kommunenavn": "Nord-Fron",
+        "fylkenr": "34"
+      },
+      {
+        "kommunenr": "3437",
+        "kommunenavn": "Sel",
+        "fylkenr": "34"
+      },
+      {
+        "kommunenr": "3438",
+        "kommunenavn": "S\u00f8r-Fron",
+        "fylkenr": "34"
+      },
+      {
+        "kommunenr": "3439",
+        "kommunenavn": "Ringebu",
+        "fylkenr": "34"
+      },
+      {
+        "kommunenr": "3440",
+        "kommunenavn": "\u00d8yer",
+        "fylkenr": "34"
+      },
+      {
+        "kommunenr": "3441",
+        "kommunenavn": "Gausdal",
+        "fylkenr": "34"
+      },
+      {
+        "kommunenr": "3442",
+        "kommunenavn": "\u00d8stre Toten",
+        "fylkenr": "34"
+      },
+      {
+        "kommunenr": "3443",
+        "kommunenavn": "Vestre Toten",
+        "fylkenr": "34"
+      },
+      {
+        "kommunenr": "3446",
+        "kommunenavn": "Gran",
+        "fylkenr": "34"
+      },
+      {
+        "kommunenr": "3447",
+        "kommunenavn": "S\u00f8ndre Land",
+        "fylkenr": "34"
+      },
+      {
+        "kommunenr": "3448",
+        "kommunenavn": "Nordre Land",
+        "fylkenr": "34"
+      },
+      {
+        "kommunenr": "3449",
+        "kommunenavn": "S\u00f8r-Aurdal",
+        "fylkenr": "34"
+      },
+      {
+        "kommunenr": "3450",
+        "kommunenavn": "Etnedal",
+        "fylkenr": "34"
+      },
+      {
+        "kommunenr": "3451",
+        "kommunenavn": "Nord-Aurdal",
+        "fylkenr": "34"
+      },
+      {
+        "kommunenr": "3452",
+        "kommunenavn": "Vestre Slidre",
+        "fylkenr": "34"
+      },
+      {
+        "kommunenr": "3453",
+        "kommunenavn": "\u00d8ystre Slidre",
+        "fylkenr": "34"
+      },
+      {
+        "kommunenr": "3454",
+        "kommunenavn": "Vang",
+        "fylkenr": "34"
+      }
+    ]
+  },
+  {
+    "fylkenr": "39",
+    "fylkenavn": "Vestfold",
+    "fylketype": "HOVED",
+    "har_videregaende_skoler": true,
+    "har_bedrifter": true,
+    "region": "\u00d8stlandet",
+    "kommuner": [
+      {
+        "kommunenr": "3901",
+        "kommunenavn": "Horten",
+        "fylkenr": "39"
+      },
+      {
+        "kommunenr": "3903",
+        "kommunenavn": "Holmestrand",
+        "fylkenr": "39"
+      },
+      {
+        "kommunenr": "3905",
+        "kommunenavn": "T\u00f8nsberg",
+        "fylkenr": "39"
+      },
+      {
+        "kommunenr": "3907",
+        "kommunenavn": "Sandefjord",
+        "fylkenr": "39"
+      },
+      {
+        "kommunenr": "3909",
+        "kommunenavn": "Larvik",
+        "fylkenr": "39"
+      },
+      {
+        "kommunenr": "3911",
+        "kommunenavn": "F\u00e6rder",
+        "fylkenr": "39"
+      }
+    ]
+  },
+  {
+    "fylkenr": "40",
+    "fylkenavn": "Telemark",
+    "fylketype": "HOVED",
+    "har_videregaende_skoler": true,
+    "har_bedrifter": true,
+    "region": "\u00d8stlandet",
+    "kommuner": [
+      {
+        "kommunenr": "4001",
+        "kommunenavn": "Porsgrunn",
+        "fylkenr": "40"
+      },
+      {
+        "kommunenr": "4003",
+        "kommunenavn": "Skien",
+        "fylkenr": "40"
+      },
+      {
+        "kommunenr": "4005",
+        "kommunenavn": "Notodden",
+        "fylkenr": "40"
+      },
+      {
+        "kommunenr": "4010",
+        "kommunenavn": "Siljan",
+        "fylkenr": "40"
+      },
+      {
+        "kommunenr": "4012",
+        "kommunenavn": "Bamble",
+        "fylkenr": "40"
+      },
+      {
+        "kommunenr": "4014",
+        "kommunenavn": "Krager\u00f8",
+        "fylkenr": "40"
+      },
+      {
+        "kommunenr": "4016",
+        "kommunenavn": "Drangedal",
+        "fylkenr": "40"
+      },
+      {
+        "kommunenr": "4018",
+        "kommunenavn": "Nome",
+        "fylkenr": "40"
+      },
+      {
+        "kommunenr": "4020",
+        "kommunenavn": "Midt-Telemark",
+        "fylkenr": "40"
+      },
+      {
+        "kommunenr": "4022",
+        "kommunenavn": "Seljord",
+        "fylkenr": "40"
+      },
+      {
+        "kommunenr": "4024",
+        "kommunenavn": "Hjartdal",
+        "fylkenr": "40"
+      },
+      {
+        "kommunenr": "4026",
+        "kommunenavn": "Tinn",
+        "fylkenr": "40"
+      },
+      {
+        "kommunenr": "4028",
+        "kommunenavn": "Kviteseid",
+        "fylkenr": "40"
+      },
+      {
+        "kommunenr": "4030",
+        "kommunenavn": "Nissedal",
+        "fylkenr": "40"
+      },
+      {
+        "kommunenr": "4032",
+        "kommunenavn": "Fyresdal",
+        "fylkenr": "40"
+      },
+      {
+        "kommunenr": "4034",
+        "kommunenavn": "Tokke",
+        "fylkenr": "40"
+      },
+      {
+        "kommunenr": "4036",
+        "kommunenavn": "Vinje",
+        "fylkenr": "40"
+      }
+    ]
+  },
+  {
+    "fylkenr": "42",
+    "fylkenavn": "Agder",
+    "fylketype": "HOVED",
+    "har_videregaende_skoler": true,
+    "har_bedrifter": true,
+    "region": "S\u00f8rlandet",
+    "kommuner": [
+      {
+        "kommunenr": "4201",
+        "kommunenavn": "Ris\u00f8r",
+        "fylkenr": "42"
+      },
+      {
+        "kommunenr": "4202",
+        "kommunenavn": "Grimstad",
+        "fylkenr": "42"
+      },
+      {
+        "kommunenr": "4203",
+        "kommunenavn": "Arendal",
+        "fylkenr": "42"
+      },
+      {
+        "kommunenr": "4204",
+        "kommunenavn": "Kristiansand",
+        "fylkenr": "42"
+      },
+      {
+        "kommunenr": "4205",
+        "kommunenavn": "Lindesnes",
+        "fylkenr": "42"
+      },
+      {
+        "kommunenr": "4206",
+        "kommunenavn": "Farsund",
+        "fylkenr": "42"
+      },
+      {
+        "kommunenr": "4207",
+        "kommunenavn": "Flekkefjord",
+        "fylkenr": "42"
+      },
+      {
+        "kommunenr": "4211",
+        "kommunenavn": "Gjerstad",
+        "fylkenr": "42"
+      },
+      {
+        "kommunenr": "4212",
+        "kommunenavn": "Veg\u00e5rshei",
+        "fylkenr": "42"
+      },
+      {
+        "kommunenr": "4213",
+        "kommunenavn": "Tvedestrand",
+        "fylkenr": "42"
+      },
+      {
+        "kommunenr": "4214",
+        "kommunenavn": "Froland",
+        "fylkenr": "42"
+      },
+      {
+        "kommunenr": "4215",
+        "kommunenavn": "Lillesand",
+        "fylkenr": "42"
+      },
+      {
+        "kommunenr": "4216",
+        "kommunenavn": "Birkenes",
+        "fylkenr": "42"
+      },
+      {
+        "kommunenr": "4217",
+        "kommunenavn": "\u00c5mli",
+        "fylkenr": "42"
+      },
+      {
+        "kommunenr": "4218",
+        "kommunenavn": "Iveland",
+        "fylkenr": "42"
+      },
+      {
+        "kommunenr": "4219",
+        "kommunenavn": "Evje og Hornnes",
+        "fylkenr": "42"
+      },
+      {
+        "kommunenr": "4220",
+        "kommunenavn": "Bygland",
+        "fylkenr": "42"
+      },
+      {
+        "kommunenr": "4221",
+        "kommunenavn": "Valle",
+        "fylkenr": "42"
+      },
+      {
+        "kommunenr": "4222",
+        "kommunenavn": "Bykle",
+        "fylkenr": "42"
+      },
+      {
+        "kommunenr": "4223",
+        "kommunenavn": "Vennesla",
+        "fylkenr": "42"
+      },
+      {
+        "kommunenr": "4224",
+        "kommunenavn": "\u00c5seral",
+        "fylkenr": "42"
+      },
+      {
+        "kommunenr": "4225",
+        "kommunenavn": "Lyngdal",
+        "fylkenr": "42"
+      },
+      {
+        "kommunenr": "4226",
+        "kommunenavn": "H\u00e6gebostad",
+        "fylkenr": "42"
+      },
+      {
+        "kommunenr": "4227",
+        "kommunenavn": "Kvinesdal",
+        "fylkenr": "42"
+      },
+      {
+        "kommunenr": "4228",
+        "kommunenavn": "Sirdal",
+        "fylkenr": "42"
+      }
+    ]
+  },
+  {
+    "fylkenr": "46",
+    "fylkenavn": "Vestland",
+    "fylketype": "HOVED",
+    "har_videregaende_skoler": true,
+    "har_bedrifter": true,
+    "region": "Vestlandet",
+    "kommuner": [
+      {
+        "kommunenr": "4601",
+        "kommunenavn": "Bergen",
+        "fylkenr": "46"
+      },
+      {
+        "kommunenr": "4602",
+        "kommunenavn": "Kinn",
+        "fylkenr": "46"
+      },
+      {
+        "kommunenr": "4611",
+        "kommunenavn": "Etne",
+        "fylkenr": "46"
+      },
+      {
+        "kommunenr": "4612",
+        "kommunenavn": "Sveio",
+        "fylkenr": "46"
+      },
+      {
+        "kommunenr": "4613",
+        "kommunenavn": "B\u00f8mlo",
+        "fylkenr": "46"
+      },
+      {
+        "kommunenr": "4614",
+        "kommunenavn": "Stord",
+        "fylkenr": "46"
+      },
+      {
+        "kommunenr": "4615",
+        "kommunenavn": "Fitjar",
+        "fylkenr": "46"
+      },
+      {
+        "kommunenr": "4616",
+        "kommunenavn": "Tysnes",
+        "fylkenr": "46"
+      },
+      {
+        "kommunenr": "4617",
+        "kommunenavn": "Kvinnherad",
+        "fylkenr": "46"
+      },
+      {
+        "kommunenr": "4618",
+        "kommunenavn": "Ullensvang",
+        "fylkenr": "46"
+      },
+      {
+        "kommunenr": "4619",
+        "kommunenavn": "Eidfjord",
+        "fylkenr": "46"
+      },
+      {
+        "kommunenr": "4620",
+        "kommunenavn": "Ulvik",
+        "fylkenr": "46"
+      },
+      {
+        "kommunenr": "4621",
+        "kommunenavn": "Voss",
+        "fylkenr": "46"
+      },
+      {
+        "kommunenr": "4622",
+        "kommunenavn": "Kvam",
+        "fylkenr": "46"
+      },
+      {
+        "kommunenr": "4623",
+        "kommunenavn": "Samnanger",
+        "fylkenr": "46"
+      },
+      {
+        "kommunenr": "4624",
+        "kommunenavn": "Bj\u00f8rnafjorden",
+        "fylkenr": "46"
+      },
+      {
+        "kommunenr": "4625",
+        "kommunenavn": "Austevoll",
+        "fylkenr": "46"
+      },
+      {
+        "kommunenr": "4626",
+        "kommunenavn": "\u00d8ygarden",
+        "fylkenr": "46"
+      },
+      {
+        "kommunenr": "4627",
+        "kommunenavn": "Ask\u00f8y",
+        "fylkenr": "46"
+      },
+      {
+        "kommunenr": "4628",
+        "kommunenavn": "Vaksdal",
+        "fylkenr": "46"
+      },
+      {
+        "kommunenr": "4629",
+        "kommunenavn": "Modalen",
+        "fylkenr": "46"
+      },
+      {
+        "kommunenr": "4630",
+        "kommunenavn": "Oster\u00f8y",
+        "fylkenr": "46"
+      },
+      {
+        "kommunenr": "4631",
+        "kommunenavn": "Alver",
+        "fylkenr": "46"
+      },
+      {
+        "kommunenr": "4632",
+        "kommunenavn": "Austrheim",
+        "fylkenr": "46"
+      },
+      {
+        "kommunenr": "4633",
+        "kommunenavn": "Fedje",
+        "fylkenr": "46"
+      },
+      {
+        "kommunenr": "4634",
+        "kommunenavn": "Masfjorden",
+        "fylkenr": "46"
+      },
+      {
+        "kommunenr": "4635",
+        "kommunenavn": "Gulen",
+        "fylkenr": "46"
+      },
+      {
+        "kommunenr": "4636",
+        "kommunenavn": "Solund",
+        "fylkenr": "46"
+      },
+      {
+        "kommunenr": "4637",
+        "kommunenavn": "Hyllestad",
+        "fylkenr": "46"
+      },
+      {
+        "kommunenr": "4638",
+        "kommunenavn": "H\u00f8yanger",
+        "fylkenr": "46"
+      },
+      {
+        "kommunenr": "4639",
+        "kommunenavn": "Vik",
+        "fylkenr": "46"
+      },
+      {
+        "kommunenr": "4640",
+        "kommunenavn": "Sogndal",
+        "fylkenr": "46"
+      },
+      {
+        "kommunenr": "4641",
+        "kommunenavn": "Aurland",
+        "fylkenr": "46"
+      },
+      {
+        "kommunenr": "4642",
+        "kommunenavn": "L\u00e6rdal",
+        "fylkenr": "46"
+      },
+      {
+        "kommunenr": "4643",
+        "kommunenavn": "\u00c5rdal",
+        "fylkenr": "46"
+      },
+      {
+        "kommunenr": "4644",
+        "kommunenavn": "Luster",
+        "fylkenr": "46"
+      },
+      {
+        "kommunenr": "4645",
+        "kommunenavn": "Askvoll",
+        "fylkenr": "46"
+      },
+      {
+        "kommunenr": "4646",
+        "kommunenavn": "Fjaler",
+        "fylkenr": "46"
+      },
+      {
+        "kommunenr": "4647",
+        "kommunenavn": "Sunnfjord",
+        "fylkenr": "46"
+      },
+      {
+        "kommunenr": "4648",
+        "kommunenavn": "Bremanger",
+        "fylkenr": "46"
+      },
+      {
+        "kommunenr": "4649",
+        "kommunenavn": "Stad",
+        "fylkenr": "46"
+      },
+      {
+        "kommunenr": "4650",
+        "kommunenavn": "Gloppen",
+        "fylkenr": "46"
+      },
+      {
+        "kommunenr": "4651",
+        "kommunenavn": "Stryn",
+        "fylkenr": "46"
+      }
+    ]
+  },
+  {
+    "fylkenr": "50",
+    "fylkenavn": "Tr\u00f8ndelag",
+    "fylketype": "HOVED",
+    "har_videregaende_skoler": true,
+    "har_bedrifter": true,
+    "region": "Midt-Norge",
+    "kommuner": [
+      {
+        "kommunenr": "5001",
+        "kommunenavn": "Trondheim",
+        "fylkenr": "50"
+      },
+      {
+        "kommunenr": "5006",
+        "kommunenavn": "Steinkjer",
+        "fylkenr": "50"
+      },
+      {
+        "kommunenr": "5007",
+        "kommunenavn": "Namsos",
+        "fylkenr": "50"
+      },
+      {
+        "kommunenr": "5014",
+        "kommunenavn": "Fr\u00f8ya",
+        "fylkenr": "50"
+      },
+      {
+        "kommunenr": "5020",
+        "kommunenavn": "Osen",
+        "fylkenr": "50"
+      },
+      {
+        "kommunenr": "5021",
+        "kommunenavn": "Oppdal",
+        "fylkenr": "50"
+      },
+      {
+        "kommunenr": "5022",
+        "kommunenavn": "Rennebu",
+        "fylkenr": "50"
+      },
+      {
+        "kommunenr": "5025",
+        "kommunenavn": "R\u00f8ros",
+        "fylkenr": "50"
+      },
+      {
+        "kommunenr": "5026",
+        "kommunenavn": "Holt\u00e5len",
+        "fylkenr": "50"
+      },
+      {
+        "kommunenr": "5027",
+        "kommunenavn": "Midtre Gauldal",
+        "fylkenr": "50"
+      },
+      {
+        "kommunenr": "5028",
+        "kommunenavn": "Melhus",
+        "fylkenr": "50"
+      },
+      {
+        "kommunenr": "5029",
+        "kommunenavn": "Skaun",
+        "fylkenr": "50"
+      },
+      {
+        "kommunenr": "5031",
+        "kommunenavn": "Malvik",
+        "fylkenr": "50"
+      },
+      {
+        "kommunenr": "5032",
+        "kommunenavn": "Selbu",
+        "fylkenr": "50"
+      },
+      {
+        "kommunenr": "5033",
+        "kommunenavn": "Tydal",
+        "fylkenr": "50"
+      },
+      {
+        "kommunenr": "5034",
+        "kommunenavn": "Mer\u00e5ker",
+        "fylkenr": "50"
+      },
+      {
+        "kommunenr": "5035",
+        "kommunenavn": "Stj\u00f8rdal",
+        "fylkenr": "50"
+      },
+      {
+        "kommunenr": "5036",
+        "kommunenavn": "Frosta",
+        "fylkenr": "50"
+      },
+      {
+        "kommunenr": "5037",
+        "kommunenavn": "Levanger",
+        "fylkenr": "50"
+      },
+      {
+        "kommunenr": "5038",
+        "kommunenavn": "Verdal",
+        "fylkenr": "50"
+      },
+      {
+        "kommunenr": "5041",
+        "kommunenavn": "Sn\u00e5sa",
+        "fylkenr": "50"
+      },
+      {
+        "kommunenr": "5042",
+        "kommunenavn": "Lierne",
+        "fylkenr": "50"
+      },
+      {
+        "kommunenr": "5043",
+        "kommunenavn": "R\u00f8yrvik",
+        "fylkenr": "50"
+      },
+      {
+        "kommunenr": "5044",
+        "kommunenavn": "Namsskogan",
+        "fylkenr": "50"
+      },
+      {
+        "kommunenr": "5045",
+        "kommunenavn": "Grong",
+        "fylkenr": "50"
+      },
+      {
+        "kommunenr": "5046",
+        "kommunenavn": "H\u00f8ylandet",
+        "fylkenr": "50"
+      },
+      {
+        "kommunenr": "5047",
+        "kommunenavn": "Overhalla",
+        "fylkenr": "50"
+      },
+      {
+        "kommunenr": "5049",
+        "kommunenavn": "Flatanger",
+        "fylkenr": "50"
+      },
+      {
+        "kommunenr": "5052",
+        "kommunenavn": "Leka",
+        "fylkenr": "50"
+      },
+      {
+        "kommunenr": "5053",
+        "kommunenavn": "Inder\u00f8y",
+        "fylkenr": "50"
+      },
+      {
+        "kommunenr": "5054",
+        "kommunenavn": "Indre Fosen",
+        "fylkenr": "50"
+      },
+      {
+        "kommunenr": "5055",
+        "kommunenavn": "Heim",
+        "fylkenr": "50"
+      },
+      {
+        "kommunenr": "5056",
+        "kommunenavn": "Hitra",
+        "fylkenr": "50"
+      },
+      {
+        "kommunenr": "5057",
+        "kommunenavn": "\u00d8rland",
+        "fylkenr": "50"
+      },
+      {
+        "kommunenr": "5058",
+        "kommunenavn": "\u00c5fjord",
+        "fylkenr": "50"
+      },
+      {
+        "kommunenr": "5059",
+        "kommunenavn": "Orkland",
+        "fylkenr": "50"
+      },
+      {
+        "kommunenr": "5060",
+        "kommunenavn": "N\u00e6r\u00f8ysund",
+        "fylkenr": "50"
+      },
+      {
+        "kommunenr": "5061",
+        "kommunenavn": "Rindal",
+        "fylkenr": "50"
+      }
+    ]
+  },
+  {
+    "fylkenr": "56",
+    "fylkenavn": "Finnmark",
+    "fylketype": "HOVED",
+    "har_videregaende_skoler": true,
+    "har_bedrifter": true,
+    "region": "Nord-Norge",
+    "kommuner": [
+      {
+        "kommunenr": "5601",
+        "kommunenavn": "Alta",
+        "fylkenr": "56"
+      },
+      {
+        "kommunenr": "5603",
+        "kommunenavn": "Hammerfest",
+        "fylkenr": "56"
+      },
+      {
+        "kommunenr": "5605",
+        "kommunenavn": "S\u00f8r-Varanger",
+        "fylkenr": "56"
+      },
+      {
+        "kommunenr": "5607",
+        "kommunenavn": "Vads\u00f8",
+        "fylkenr": "56"
+      },
+      {
+        "kommunenr": "5610",
+        "kommunenavn": "Karasjok",
+        "fylkenr": "56"
+      },
+      {
+        "kommunenr": "5612",
+        "kommunenavn": "Kautokeino",
+        "fylkenr": "56"
+      },
+      {
+        "kommunenr": "5614",
+        "kommunenavn": "Loppa",
+        "fylkenr": "56"
+      },
+      {
+        "kommunenr": "5616",
+        "kommunenavn": "Hasvik",
+        "fylkenr": "56"
+      },
+      {
+        "kommunenr": "5618",
+        "kommunenavn": "M\u00e5s\u00f8y",
+        "fylkenr": "56"
+      },
+      {
+        "kommunenr": "5620",
+        "kommunenavn": "Nordkapp",
+        "fylkenr": "56"
+      },
+      {
+        "kommunenr": "5622",
+        "kommunenavn": "Porsanger",
+        "fylkenr": "56"
+      },
+      {
+        "kommunenr": "5624",
+        "kommunenavn": "Lebesby",
+        "fylkenr": "56"
+      },
+      {
+        "kommunenr": "5626",
+        "kommunenavn": "Gamvik",
+        "fylkenr": "56"
+      },
+      {
+        "kommunenr": "5628",
+        "kommunenavn": "Tana",
+        "fylkenr": "56"
+      },
+      {
+        "kommunenr": "5630",
+        "kommunenavn": "Berlev\u00e5g",
+        "fylkenr": "56"
+      },
+      {
+        "kommunenr": "5632",
+        "kommunenavn": "B\u00e5tsfjord",
+        "fylkenr": "56"
+      },
+      {
+        "kommunenr": "5634",
+        "kommunenavn": "Vard\u00f8",
+        "fylkenr": "56"
+      },
+      {
+        "kommunenr": "5636",
+        "kommunenavn": "Nesseby",
+        "fylkenr": "56"
+      }
+    ]
+  },
+  {
+    "fylkenr": "99",
+    "fylkenavn": "Uoppgitt",
+    "fylketype": "EXTRA",
+    "har_videregaende_skoler": false,
+    "har_bedrifter": true,
+    "region": null,
+    "kommuner": [
+      {
+        "kommunenr": "9999",
+        "kommunenavn": "Uoppgitt",
+        "fylkenr": "99"
+      }
+    ]
+  },
+  {
+    "fylkenr": "03",
+    "fylkenavn": "Oslo",
+    "fylketype": "HOVED",
+    "har_videregaende_skoler": true,
+    "har_bedrifter": true,
+    "region": null,
+    "kommuner": [
+      {
+        "kommunenr": "0301",
+        "kommunenavn": "Oslo",
+        "fylkenr": "03"
+      }
+    ]
+  }
+]

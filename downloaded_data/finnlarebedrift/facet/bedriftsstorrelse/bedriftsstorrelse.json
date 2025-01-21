@@ -1,0 +1,81 @@
+{
+  "@context": "/contexts/Bedriftsstorrelse",
+  "@id": "/finnlarebedrift/facet/bedriftsstorrelse",
+  "@type": "hydra:Collection",
+  "hydra:totalItems": 3,
+  "hydra:member": [
+    {
+      "@id": "/finnlarebedrift/bedriftsstorrelse/liten_bedrift",
+      "@type": "Bedriftsstorrelse",
+      "value": "liten_bedrift",
+      "count": 1862567
+    },
+    {
+      "@id": "/finnlarebedrift/bedriftsstorrelse/mellomstor_bedrift",
+      "@type": "Bedriftsstorrelse",
+      "value": "mellomstor_bedrift",
+      "count": 49542
+    },
+    {
+      "@id": "/finnlarebedrift/bedriftsstorrelse/stor_bedrift",
+      "@type": "Bedriftsstorrelse",
+      "value": "stor_bedrift",
+      "count": 8982
+    }
+  ],
+  "hydra:search": {
+    "@type": "hydra:IriTemplate",
+    "hydra:template": "/finnlarebedrift/facet/bedriftsstorrelse{?q,aarsverk,opplaring,gk,sted,fag,YFF,bedriftsstorrelse}",
+    "hydra:variableRepresentation": "BasicRepresentation",
+    "hydra:mapping": [
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "q",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "aarsverk",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "opplaring",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "gk",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "sted",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "fag",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "YFF",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "bedriftsstorrelse",
+        "property": null,
+        "required": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,489 @@
+{
+  "@context": "/contexts/Opplaring",
+  "@id": "/finnlarebedrift/facet/opplaring",
+  "@type": "hydra:Collection",
+  "hydra:totalItems": 51,
+  "hydra:member": [
+    {
+      "@id": "/opplarings/ingen",
+      "@type": "Opplaring",
+      "unike": 1868874,
+      "opplaring_navn": null,
+      "value": "ingen",
+      "count": 1868874
+    },
+    {
+      "@id": "/opplarings/866689342",
+      "@type": "Opplaring",
+      "unike": null,
+      "opplaring_navn": "OPPL\u00c6RINGSKONTORET FOR T\u00d8MRERFAGET",
+      "value": "866689342",
+      "count": 1174
+    },
+    {
+      "@id": "/opplarings/988597856",
+      "@type": "Opplaring",
+      "unike": null,
+      "opplaring_navn": "OPPL\u00c6RINGSKONTORET FOR ANLEGGS- OG BERGFAGENE (OKAB)",
+      "value": "988597856",
+      "count": 1051
+    },
+    {
+      "@id": "/opplarings/976041720",
+      "@type": "Opplaring",
+      "unike": null,
+      "opplaring_navn": "BYGGOPP, OPPL\u00c6RINGSKONTOR FOR BYGG- OG ANLEGGSTEKNIKK ROGALAND AS",
+      "value": "976041720",
+      "count": 1037
+    },
+    {
+      "@id": "/opplarings/971333650",
+      "@type": "Opplaring",
+      "unike": null,
+      "opplaring_navn": "FAGOPPL\u00c6RING SYD",
+      "value": "971333650",
+      "count": 926
+    },
+    {
+      "@id": "/opplarings/971299495",
+      "@type": "Opplaring",
+      "unike": null,
+      "opplaring_navn": "L\u00c6RLINGSENTERET INNLANDET",
+      "value": "971299495",
+      "count": 772
+    },
+    {
+      "@id": "/opplarings/977496969",
+      "@type": "Opplaring",
+      "unike": null,
+      "opplaring_navn": "OPPL\u00c6RINGSKONTORET FOR SALG, SERVICE OG IT-FAGENE I ROGALAND BA",
+      "value": "977496969",
+      "count": 697
+    },
+    {
+      "@id": "/opplarings/981112970",
+      "@type": "Opplaring",
+      "unike": null,
+      "opplaring_navn": "OPPL\u00c6RINGSKONTORET FOR HESTEFAGET OG HOVSLAGERFAGET",
+      "value": "981112970",
+      "count": 676
+    },
+    {
+      "@id": "/opplarings/988572179",
+      "@type": "Opplaring",
+      "unike": null,
+      "opplaring_navn": "OKAB-BVT",
+      "value": "988572179",
+      "count": 656
+    },
+    {
+      "@id": "/opplarings/971328401",
+      "@type": "Opplaring",
+      "unike": null,
+      "opplaring_navn": "OPPL\u00c6RINGSKONTORET FOR BYGGFAGENE I AGDER (OKAB)",
+      "value": "971328401",
+      "count": 641
+    },
+    {
+      "@id": "/opplarings/976179145",
+      "@type": "Opplaring",
+      "unike": null,
+      "opplaring_navn": "OPPL\u00c6RINGSKONTOR FOR INDUSTRIFAG I ROGALAND",
+      "value": "976179145",
+      "count": 636
+    },
+    {
+      "@id": "/opplarings/971439777",
+      "@type": "Opplaring",
+      "unike": null,
+      "opplaring_navn": "NHO ELEKTRO OSLO OG OMEGN",
+      "value": "971439777",
+      "count": 601
+    },
+    {
+      "@id": "/opplarings/974254638",
+      "@type": "Opplaring",
+      "unike": null,
+      "opplaring_navn": "OPPL\u00c6RINGSKONTORET FOR SERVICE OG SAMFERDSEL SA",
+      "value": "974254638",
+      "count": 579
+    },
+    {
+      "@id": "/opplarings/977064600",
+      "@type": "Opplaring",
+      "unike": null,
+      "opplaring_navn": "OPPL\u00c6RINGSKONTORET LOGISTIKK OG TRANSPORT VESTFOLD - TELEMARK - BUSKERUD SA",
+      "value": "977064600",
+      "count": 557
+    },
+    {
+      "@id": "/opplarings/876775492",
+      "@type": "Opplaring",
+      "unike": null,
+      "opplaring_navn": "YRKESKOMPETANSE",
+      "value": "876775492",
+      "count": 540
+    },
+    {
+      "@id": "/opplarings/976051688",
+      "@type": "Opplaring",
+      "unike": null,
+      "opplaring_navn": "TRANSPORT OG BILFAGENES OPPL\u00c6RINGSKONTOR - TOBO - NORD NORGE",
+      "value": "976051688",
+      "count": 537
+    },
+    {
+      "@id": "/opplarings/960985087",
+      "@type": "Opplaring",
+      "unike": null,
+      "opplaring_navn": "OPPL\u00c6RINGSKONTORET I BILFAG OSLO OG AKERSHUS AS",
+      "value": "960985087",
+      "count": 515
+    },
+    {
+      "@id": "/opplarings/971303964",
+      "@type": "Opplaring",
+      "unike": null,
+      "opplaring_navn": "OPPL\u00c6RINGSKONTORET FOR BIL- OG TRANSPORTFAG I VESTOPPLAND",
+      "value": "971303964",
+      "count": 502
+    },
+    {
+      "@id": "/opplarings/879699592",
+      "@type": "Opplaring",
+      "unike": null,
+      "opplaring_navn": "BYGGFAG OPPL\u00c6RINGSKONTORET TELEMARK",
+      "value": "879699592",
+      "count": 488
+    },
+    {
+      "@id": "/opplarings/971398345",
+      "@type": "Opplaring",
+      "unike": null,
+      "opplaring_navn": "OPPL\u00c6RINGSKONTORET FOR NORDRE NORDLAND",
+      "value": "971398345",
+      "count": 471
+    },
+    {
+      "@id": "/opplarings/990895325",
+      "@type": "Opplaring",
+      "unike": null,
+      "opplaring_navn": "BYGGOPP VESTLAND",
+      "value": "990895325",
+      "count": 464
+    },
+    {
+      "@id": "/opplarings/954769615",
+      "@type": "Opplaring",
+      "unike": null,
+      "opplaring_navn": "BYGGMESTRENES SERVICEKONTOR AS",
+      "value": "954769615",
+      "count": 455
+    },
+    {
+      "@id": "/opplarings/971316985",
+      "@type": "Opplaring",
+      "unike": null,
+      "opplaring_navn": "OPPL\u00c6RINGSKONTORET FOR T\u00d8MRERFAGET I VESTFOLD",
+      "value": "971316985",
+      "count": 441
+    },
+    {
+      "@id": "/opplarings/982413680",
+      "@type": "Opplaring",
+      "unike": null,
+      "opplaring_navn": "OPPL\u00c6RINGSKONTORET FOR SALG OG REISELIV",
+      "value": "982413680",
+      "count": 436
+    },
+    {
+      "@id": "/opplarings/979412827",
+      "@type": "Opplaring",
+      "unike": null,
+      "opplaring_navn": "OPPL\u00c6RINGSKONTORET NORD-HELGELAND",
+      "value": "979412827",
+      "count": 435
+    },
+    {
+      "@id": "/opplarings/987563532",
+      "@type": "Opplaring",
+      "unike": null,
+      "opplaring_navn": "R\u00d8RENTREPREN\u00d8RENES OPPL\u00c6RINGSKONTOR - OSLO & OMEGN",
+      "value": "987563532",
+      "count": 434
+    },
+    {
+      "@id": "/opplarings/920576028",
+      "@type": "Opplaring",
+      "unike": null,
+      "opplaring_navn": "OPPL\u00c6RINGSKONTORET FOR ANLEGGS- OG BERGFAGENE - OKAB TR\u00d8NDELAG",
+      "value": "920576028",
+      "count": 422
+    },
+    {
+      "@id": "/opplarings/971521635",
+      "@type": "Opplaring",
+      "unike": null,
+      "opplaring_navn": "L\u00c6RLINGEKOMPANIET",
+      "value": "971521635",
+      "count": 422
+    },
+    {
+      "@id": "/opplarings/981150376",
+      "@type": "Opplaring",
+      "unike": null,
+      "opplaring_navn": "OPPL\u00c6RINGKONTORET FOR TRANSPORTFAGENE I VEST",
+      "value": "981150376",
+      "count": 420
+    },
+    {
+      "@id": "/opplarings/912061825",
+      "@type": "Opplaring",
+      "unike": null,
+      "opplaring_navn": "SERVICE OG SAMFERDSEL OPPL\u00c6RINGSKONTOR SA",
+      "value": "912061825",
+      "count": 414
+    },
+    {
+      "@id": "/opplarings/977206650",
+      "@type": "Opplaring",
+      "unike": null,
+      "opplaring_navn": "OPPL\u00c6RINGSKONTORET FOR BYGGH\u00c5NDVERKSFAG I VIKEN (OB VIKEN)",
+      "value": "977206650",
+      "count": 407
+    },
+    {
+      "@id": "/opplarings/876505312",
+      "@type": "Opplaring",
+      "unike": null,
+      "opplaring_navn": "OPPL\u00c6RINGSKONTORET FOR SALGS- OG MATBRANSJEN",
+      "value": "876505312",
+      "count": 404
+    },
+    {
+      "@id": "/opplarings/975979768",
+      "@type": "Opplaring",
+      "unike": null,
+      "opplaring_navn": "OPPL\u00c6RINGSSENTERET FOR VISUELL KOMMUNIKASJON",
+      "value": "975979768",
+      "count": 403
+    },
+    {
+      "@id": "/opplarings/971248297",
+      "@type": "Opplaring",
+      "unike": null,
+      "opplaring_navn": "OPPL\u00c6RINGSKONTORET FOR BYGG OG H\u00c5NDVERKSFAG I \u00d8STFOLD",
+      "value": "971248297",
+      "count": 387
+    },
+    {
+      "@id": "/opplarings/978650902",
+      "@type": "Opplaring",
+      "unike": null,
+      "opplaring_navn": "MIDTNORSK OPPL\u00c6RING AS",
+      "value": "978650902",
+      "count": 379
+    },
+    {
+      "@id": "/opplarings/984438478",
+      "@type": "Opplaring",
+      "unike": null,
+      "opplaring_navn": "OPPL\u00c6RINGSKONTORET FOR ANLEGG OG BERGFAGENE I HORDALAND OG N",
+      "value": "984438478",
+      "count": 377
+    },
+    {
+      "@id": "/opplarings/971244992",
+      "@type": "Opplaring",
+      "unike": null,
+      "opplaring_navn": "OPPL\u00c6RINGSKONTORET FOR SALG, SERVICE, RESTAURANT OG MATFAG I TELEMARK",
+      "value": "971244992",
+      "count": 376
+    },
+    {
+      "@id": "/opplarings/976774442",
+      "@type": "Opplaring",
+      "unike": null,
+      "opplaring_navn": "OKAB REGION NORD",
+      "value": "976774442",
+      "count": 374
+    },
+    {
+      "@id": "/opplarings/893379312",
+      "@type": "Opplaring",
+      "unike": null,
+      "opplaring_navn": "OPPL\u00c6RINGSKONTORET FOR BIL- OG TRANSPORTFAG I TR\u00d8NDELAG",
+      "value": "893379312",
+      "count": 357
+    },
+    {
+      "@id": "/opplarings/971332964",
+      "@type": "Opplaring",
+      "unike": null,
+      "opplaring_navn": "ELFO S\u00d8R (EL-FAGENES OPPL\u00c6RINGSKONTOR S\u00d8RLANDET)",
+      "value": "971332964",
+      "count": 352
+    },
+    {
+      "@id": "/opplarings/971497742",
+      "@type": "Opplaring",
+      "unike": null,
+      "opplaring_navn": "L\u00c6RLINGEKOMPANIET I TR\u00d8NDELAG",
+      "value": "971497742",
+      "count": 350
+    },
+    {
+      "@id": "/opplarings/995373068",
+      "@type": "Opplaring",
+      "unike": null,
+      "opplaring_navn": "YVIA",
+      "value": "995373068",
+      "count": 349
+    },
+    {
+      "@id": "/opplarings/987447818",
+      "@type": "Opplaring",
+      "unike": null,
+      "opplaring_navn": "OPPL\u00c6RINGSKONTORET FOR H\u00c5NDVERKSFAG I VESTFOLD",
+      "value": "987447818",
+      "count": 346
+    },
+    {
+      "@id": "/opplarings/976377265",
+      "@type": "Opplaring",
+      "unike": null,
+      "opplaring_navn": "TENK LOFOTEN SA",
+      "value": "976377265",
+      "count": 336
+    },
+    {
+      "@id": "/opplarings/971528664",
+      "@type": "Opplaring",
+      "unike": null,
+      "opplaring_navn": "OPPL\u00c6RINGSKONTORET FOR BYGGFAGENE I TR\u00d8NDELAG SA",
+      "value": "971528664",
+      "count": 334
+    },
+    {
+      "@id": "/opplarings/976308794",
+      "@type": "Opplaring",
+      "unike": null,
+      "opplaring_navn": "OPPL\u00c6RINGSKONTORET BILFAG \u00d8STFOLD AS",
+      "value": "976308794",
+      "count": 326
+    },
+    {
+      "@id": "/opplarings/979168373",
+      "@type": "Opplaring",
+      "unike": null,
+      "opplaring_navn": "BLOMSTERDEKORAT\u00d8RFAGETS OPPL\u00c6RINGSKONTOR (BLOK)",
+      "value": "979168373",
+      "count": 326
+    },
+    {
+      "@id": "/opplarings/971277246",
+      "@type": "Opplaring",
+      "unike": null,
+      "opplaring_navn": "SOA - SENTER FOR OPPL\u00c6RING I ANLEGGSGARTNER- OG GARTNERFAGET",
+      "value": "971277246",
+      "count": 325
+    },
+    {
+      "@id": "/opplarings/971390786",
+      "@type": "Opplaring",
+      "unike": null,
+      "opplaring_navn": "OFOTEN FLERFAGLIGE OPPL\u00c6RINGSKONTOR (OFO)",
+      "value": "971390786",
+      "count": 321
+    },
+    {
+      "@id": "/opplarings/911737922",
+      "@type": "Opplaring",
+      "unike": null,
+      "opplaring_navn": "ON - OPPL\u00c6RINGSSENTER FOR NATURBRUKSFAG",
+      "value": "911737922",
+      "count": 319
+    },
+    {
+      "@id": "/opplarings/871317062",
+      "@type": "Opplaring",
+      "unike": null,
+      "opplaring_navn": "OPPL\u00c6RINGSKONTORET FOR INDUSTRIFAG OKI VESTFOLD STIFTELSE",
+      "value": "871317062",
+      "count": 317
+    }
+  ],
+  "hydra:search": {
+    "@type": "hydra:IriTemplate",
+    "hydra:template": "/finnlarebedrift/facet/opplaring{?q,larling,aarsverk,opplaring,gk,sted,fag,YFF,larlinger,bedriftsstorrelse,opplaringskontor}",
+    "hydra:variableRepresentation": "BasicRepresentation",
+    "hydra:mapping": [
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "q",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "larling",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "aarsverk",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "opplaring",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "gk",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "sted",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "fag",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "YFF",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "larlinger",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "bedriftsstorrelse",
+        "property": null,
+        "required": false
+      },
+      {
+        "@type": "IriTemplateMapping",
+        "variable": "opplaringskontor",
+        "property": null,
+        "required": false
+      }
+    ]
+  }
+}
