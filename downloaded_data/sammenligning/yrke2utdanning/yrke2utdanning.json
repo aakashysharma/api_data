@@ -335,7 +335,7 @@
           }
         },
         {
-          "groupValue": "y_aktivitor",
+          "groupValue": "y_helsefagarbeider",
           "doclist": {
             "numFound": 557,
             "start": 0,
@@ -365,7 +365,7 @@
           }
         },
         {
-          "groupValue": "y_helsefagarbeider",
+          "groupValue": "y_aktivitor",
           "doclist": {
             "numFound": 557,
             "start": 0,
@@ -815,6 +815,36 @@
           }
         },
         {
+          "groupValue": "y_snekker",
+          "doclist": {
+            "numFound": 274,
+            "start": 0,
+            "numFoundExact": true,
+            "docs": [
+              {
+                "antall_personer": 17268,
+                "nus_kortnavn": "T\u00f8mrerfag"
+              },
+              {
+                "antall_personer": 6700,
+                "nus_kortnavn": "Ingen eller ukjent utdanning"
+              },
+              {
+                "antall_personer": 5170,
+                "nus_kortnavn": "Ungdomsskole"
+              },
+              {
+                "antall_personer": 1875,
+                "nus_kortnavn": "Studiespesialisering"
+              },
+              {
+                "antall_personer": 1664,
+                "nus_kortnavn": "Yrkesfag (h\u00e5ndverks- og industrifag)"
+              }
+            ]
+          }
+        },
+        {
           "groupValue": "y_bokker",
           "doclist": {
             "numFound": 274,
@@ -875,7 +905,7 @@
           }
         },
         {
-          "groupValue": "y_snekker",
+          "groupValue": "y_tomrer",
           "doclist": {
             "numFound": 274,
             "start": 0,
@@ -906,36 +936,6 @@
         },
         {
           "groupValue": "y_tredreier",
-          "doclist": {
-            "numFound": 274,
-            "start": 0,
-            "numFoundExact": true,
-            "docs": [
-              {
-                "antall_personer": 17268,
-                "nus_kortnavn": "T\u00f8mrerfag"
-              },
-              {
-                "antall_personer": 6700,
-                "nus_kortnavn": "Ingen eller ukjent utdanning"
-              },
-              {
-                "antall_personer": 5170,
-                "nus_kortnavn": "Ungdomsskole"
-              },
-              {
-                "antall_personer": 1875,
-                "nus_kortnavn": "Studiespesialisering"
-              },
-              {
-                "antall_personer": 1664,
-                "nus_kortnavn": "Yrkesfag (h\u00e5ndverks- og industrifag)"
-              }
-            ]
-          }
-        },
-        {
-          "groupValue": "y_tomrer",
           "doclist": {
             "numFound": 274,
             "start": 0,
@@ -1505,7 +1505,7 @@
           }
         },
         {
-          "groupValue": "y_arbeidsmedisiner",
+          "groupValue": "y_onkolog",
           "doclist": {
             "numFound": 36,
             "start": 0,
@@ -1535,7 +1535,7 @@
           }
         },
         {
-          "groupValue": "y_anestesilege",
+          "groupValue": "y_nyrelege",
           "doclist": {
             "numFound": 36,
             "start": 0,
@@ -1565,7 +1565,7 @@
           }
         },
         {
-          "groupValue": "y_hudlege",
+          "groupValue": "y_patolog",
           "doclist": {
             "numFound": 36,
             "start": 0,
@@ -1595,37 +1595,7 @@
           }
         },
         {
-          "groupValue": "y_indremedisiner",
-          "doclist": {
-            "numFound": 36,
-            "start": 0,
-            "numFoundExact": true,
-            "docs": [
-              {
-                "antall_personer": 11721,
-                "nus_kortnavn": "Medisinsk profesjonsstudium"
-              },
-              {
-                "antall_personer": 1885,
-                "nus_kortnavn": "Forskerutdanning i medisinske fag"
-              },
-              {
-                "antall_personer": 573,
-                "nus_kortnavn": "Utenlandsleger"
-              },
-              {
-                "antall_personer": 502,
-                "nus_kortnavn": "Forskerutdanning i medisin"
-              },
-              {
-                "antall_personer": 402,
-                "nus_kortnavn": "Medisin"
-              }
-            ]
-          }
-        },
-        {
-          "groupValue": "y_barnekirurg",
+          "groupValue": "y_revmatolog",
           "doclist": {
             "numFound": 36,
             "start": 0,
@@ -1715,6 +1685,36 @@
           }
         },
         {
+          "groupValue": "y_barnekirurg",
+          "doclist": {
+            "numFound": 36,
+            "start": 0,
+            "numFoundExact": true,
+            "docs": [
+              {
+                "antall_personer": 11721,
+                "nus_kortnavn": "Medisinsk profesjonsstudium"
+              },
+              {
+                "antall_personer": 1885,
+                "nus_kortnavn": "Forskerutdanning i medisinske fag"
+              },
+              {
+                "antall_personer": 573,
+                "nus_kortnavn": "Utenlandsleger"
+              },
+              {
+                "antall_personer": 502,
+                "nus_kortnavn": "Forskerutdanning i medisin"
+              },
+              {
+                "antall_personer": 402,
+                "nus_kortnavn": "Medisin"
+              }
+            ]
+          }
+        },
+        {
           "groupValue": "y_bryst_endokrinkirurg",
           "doclist": {
             "numFound": 36,
@@ -1745,547 +1745,37 @@
           }
         },
         {
-          "groupValue": "y_kirurg",
-          "doclist": {
-            "numFound": 36,
-            "start": 0,
-            "numFoundExact": true,
-            "docs": [
-              {
-                "antall_personer": 11721,
-                "nus_kortnavn": "Medisinsk profesjonsstudium"
-              },
-              {
-                "antall_personer": 1885,
-                "nus_kortnavn": "Forskerutdanning i medisinske fag"
-              },
-              {
-                "antall_personer": 573,
-                "nus_kortnavn": "Utenlandsleger"
-              },
-              {
-                "antall_personer": 502,
-                "nus_kortnavn": "Forskerutdanning i medisin"
-              },
-              {
-                "antall_personer": 402,
-                "nus_kortnavn": "Medisin"
-              }
-            ]
-          }
-        },
-        {
-          "groupValue": "y_onkolog",
-          "doclist": {
-            "numFound": 36,
-            "start": 0,
-            "numFoundExact": true,
-            "docs": [
-              {
-                "antall_personer": 11721,
-                "nus_kortnavn": "Medisinsk profesjonsstudium"
-              },
-              {
-                "antall_personer": 1885,
-                "nus_kortnavn": "Forskerutdanning i medisinske fag"
-              },
-              {
-                "antall_personer": 573,
-                "nus_kortnavn": "Utenlandsleger"
-              },
-              {
-                "antall_personer": 502,
-                "nus_kortnavn": "Forskerutdanning i medisin"
-              },
-              {
-                "antall_personer": 402,
-                "nus_kortnavn": "Medisin"
-              }
-            ]
-          }
-        },
-        {
-          "groupValue": "y_ortoped",
-          "doclist": {
-            "numFound": 36,
-            "start": 0,
-            "numFoundExact": true,
-            "docs": [
-              {
-                "antall_personer": 11721,
-                "nus_kortnavn": "Medisinsk profesjonsstudium"
-              },
-              {
-                "antall_personer": 1885,
-                "nus_kortnavn": "Forskerutdanning i medisinske fag"
-              },
-              {
-                "antall_personer": 573,
-                "nus_kortnavn": "Utenlandsleger"
-              },
-              {
-                "antall_personer": 502,
-                "nus_kortnavn": "Forskerutdanning i medisin"
-              },
-              {
-                "antall_personer": 402,
-                "nus_kortnavn": "Medisin"
-              }
-            ]
-          }
-        },
-        {
-          "groupValue": "y_plastikkirurg",
-          "doclist": {
-            "numFound": 36,
-            "start": 0,
-            "numFoundExact": true,
-            "docs": [
-              {
-                "antall_personer": 11721,
-                "nus_kortnavn": "Medisinsk profesjonsstudium"
-              },
-              {
-                "antall_personer": 1885,
-                "nus_kortnavn": "Forskerutdanning i medisinske fag"
-              },
-              {
-                "antall_personer": 573,
-                "nus_kortnavn": "Utenlandsleger"
-              },
-              {
-                "antall_personer": 502,
-                "nus_kortnavn": "Forskerutdanning i medisin"
-              },
-              {
-                "antall_personer": 402,
-                "nus_kortnavn": "Medisin"
-              }
-            ]
-          }
-        },
-        {
-          "groupValue": "y_legespesialist_ford",
-          "doclist": {
-            "numFound": 36,
-            "start": 0,
-            "numFoundExact": true,
-            "docs": [
-              {
-                "antall_personer": 11721,
-                "nus_kortnavn": "Medisinsk profesjonsstudium"
-              },
-              {
-                "antall_personer": 1885,
-                "nus_kortnavn": "Forskerutdanning i medisinske fag"
-              },
-              {
-                "antall_personer": 573,
-                "nus_kortnavn": "Utenlandsleger"
-              },
-              {
-                "antall_personer": 502,
-                "nus_kortnavn": "Forskerutdanning i medisin"
-              },
-              {
-                "antall_personer": 402,
-                "nus_kortnavn": "Medisin"
-              }
-            ]
-          }
-        },
-        {
-          "groupValue": "y_medisinforsker",
-          "doclist": {
-            "numFound": 36,
-            "start": 0,
-            "numFoundExact": true,
-            "docs": [
-              {
-                "antall_personer": 11721,
-                "nus_kortnavn": "Medisinsk profesjonsstudium"
-              },
-              {
-                "antall_personer": 1885,
-                "nus_kortnavn": "Forskerutdanning i medisinske fag"
-              },
-              {
-                "antall_personer": 573,
-                "nus_kortnavn": "Utenlandsleger"
-              },
-              {
-                "antall_personer": 502,
-                "nus_kortnavn": "Forskerutdanning i medisin"
-              },
-              {
-                "antall_personer": 402,
-                "nus_kortnavn": "Medisin"
-              }
-            ]
-          }
-        },
-        {
-          "groupValue": "y_nevrolog",
-          "doclist": {
-            "numFound": 36,
-            "start": 0,
-            "numFoundExact": true,
-            "docs": [
-              {
-                "antall_personer": 11721,
-                "nus_kortnavn": "Medisinsk profesjonsstudium"
-              },
-              {
-                "antall_personer": 1885,
-                "nus_kortnavn": "Forskerutdanning i medisinske fag"
-              },
-              {
-                "antall_personer": 573,
-                "nus_kortnavn": "Utenlandsleger"
-              },
-              {
-                "antall_personer": 502,
-                "nus_kortnavn": "Forskerutdanning i medisin"
-              },
-              {
-                "antall_personer": 402,
-                "nus_kortnavn": "Medisin"
-              }
-            ]
-          }
-        },
-        {
-          "groupValue": "y_nevrokirurg",
-          "doclist": {
-            "numFound": 36,
-            "start": 0,
-            "numFoundExact": true,
-            "docs": [
-              {
-                "antall_personer": 11721,
-                "nus_kortnavn": "Medisinsk profesjonsstudium"
-              },
-              {
-                "antall_personer": 1885,
-                "nus_kortnavn": "Forskerutdanning i medisinske fag"
-              },
-              {
-                "antall_personer": 573,
-                "nus_kortnavn": "Utenlandsleger"
-              },
-              {
-                "antall_personer": 502,
-                "nus_kortnavn": "Forskerutdanning i medisin"
-              },
-              {
-                "antall_personer": 402,
-                "nus_kortnavn": "Medisin"
-              }
-            ]
-          }
-        },
-        {
-          "groupValue": "y_nuklearmedisiner",
-          "doclist": {
-            "numFound": 36,
-            "start": 0,
-            "numFoundExact": true,
-            "docs": [
-              {
-                "antall_personer": 11721,
-                "nus_kortnavn": "Medisinsk profesjonsstudium"
-              },
-              {
-                "antall_personer": 1885,
-                "nus_kortnavn": "Forskerutdanning i medisinske fag"
-              },
-              {
-                "antall_personer": 573,
-                "nus_kortnavn": "Utenlandsleger"
-              },
-              {
-                "antall_personer": 502,
-                "nus_kortnavn": "Forskerutdanning i medisin"
-              },
-              {
-                "antall_personer": 402,
-                "nus_kortnavn": "Medisin"
-              }
-            ]
-          }
-        },
-        {
-          "groupValue": "y_nyrelege",
-          "doclist": {
-            "numFound": 36,
-            "start": 0,
-            "numFoundExact": true,
-            "docs": [
-              {
-                "antall_personer": 11721,
-                "nus_kortnavn": "Medisinsk profesjonsstudium"
-              },
-              {
-                "antall_personer": 1885,
-                "nus_kortnavn": "Forskerutdanning i medisinske fag"
-              },
-              {
-                "antall_personer": 573,
-                "nus_kortnavn": "Utenlandsleger"
-              },
-              {
-                "antall_personer": 502,
-                "nus_kortnavn": "Forskerutdanning i medisin"
-              },
-              {
-                "antall_personer": 402,
-                "nus_kortnavn": "Medisin"
-              }
-            ]
-          }
-        },
-        {
-          "groupValue": "y_oyelege",
-          "doclist": {
-            "numFound": 36,
-            "start": 0,
-            "numFoundExact": true,
-            "docs": [
-              {
-                "antall_personer": 11721,
-                "nus_kortnavn": "Medisinsk profesjonsstudium"
-              },
-              {
-                "antall_personer": 1885,
-                "nus_kortnavn": "Forskerutdanning i medisinske fag"
-              },
-              {
-                "antall_personer": 573,
-                "nus_kortnavn": "Utenlandsleger"
-              },
-              {
-                "antall_personer": 502,
-                "nus_kortnavn": "Forskerutdanning i medisin"
-              },
-              {
-                "antall_personer": 402,
-                "nus_kortnavn": "Medisin"
-              }
-            ]
-          }
-        },
-        {
-          "groupValue": "y_patolog",
-          "doclist": {
-            "numFound": 36,
-            "start": 0,
-            "numFoundExact": true,
-            "docs": [
-              {
-                "antall_personer": 11721,
-                "nus_kortnavn": "Medisinsk profesjonsstudium"
-              },
-              {
-                "antall_personer": 1885,
-                "nus_kortnavn": "Forskerutdanning i medisinske fag"
-              },
-              {
-                "antall_personer": 573,
-                "nus_kortnavn": "Utenlandsleger"
-              },
-              {
-                "antall_personer": 502,
-                "nus_kortnavn": "Forskerutdanning i medisin"
-              },
-              {
-                "antall_personer": 402,
-                "nus_kortnavn": "Medisin"
-              }
-            ]
-          }
-        },
-        {
-          "groupValue": "y_legespesialist_lunge",
-          "doclist": {
-            "numFound": 36,
-            "start": 0,
-            "numFoundExact": true,
-            "docs": [
-              {
-                "antall_personer": 11721,
-                "nus_kortnavn": "Medisinsk profesjonsstudium"
-              },
-              {
-                "antall_personer": 1885,
-                "nus_kortnavn": "Forskerutdanning i medisinske fag"
-              },
-              {
-                "antall_personer": 573,
-                "nus_kortnavn": "Utenlandsleger"
-              },
-              {
-                "antall_personer": 502,
-                "nus_kortnavn": "Forskerutdanning i medisin"
-              },
-              {
-                "antall_personer": 402,
-                "nus_kortnavn": "Medisin"
-              }
-            ]
-          }
-        },
-        {
-          "groupValue": "y_fysikalsk_medisiner",
-          "doclist": {
-            "numFound": 36,
-            "start": 0,
-            "numFoundExact": true,
-            "docs": [
-              {
-                "antall_personer": 11721,
-                "nus_kortnavn": "Medisinsk profesjonsstudium"
-              },
-              {
-                "antall_personer": 1885,
-                "nus_kortnavn": "Forskerutdanning i medisinske fag"
-              },
-              {
-                "antall_personer": 573,
-                "nus_kortnavn": "Utenlandsleger"
-              },
-              {
-                "antall_personer": 502,
-                "nus_kortnavn": "Forskerutdanning i medisin"
-              },
-              {
-                "antall_personer": 402,
-                "nus_kortnavn": "Medisin"
-              }
-            ]
-          }
-        },
-        {
-          "groupValue": "y_gynekolog",
-          "doclist": {
-            "numFound": 36,
-            "start": 0,
-            "numFoundExact": true,
-            "docs": [
-              {
-                "antall_personer": 11721,
-                "nus_kortnavn": "Medisinsk profesjonsstudium"
-              },
-              {
-                "antall_personer": 1885,
-                "nus_kortnavn": "Forskerutdanning i medisinske fag"
-              },
-              {
-                "antall_personer": 573,
-                "nus_kortnavn": "Utenlandsleger"
-              },
-              {
-                "antall_personer": 502,
-                "nus_kortnavn": "Forskerutdanning i medisin"
-              },
-              {
-                "antall_personer": 402,
-                "nus_kortnavn": "Medisin"
-              }
-            ]
-          }
-        },
-        {
-          "groupValue": "y_hematolog",
-          "doclist": {
-            "numFound": 36,
-            "start": 0,
-            "numFoundExact": true,
-            "docs": [
-              {
-                "antall_personer": 11721,
-                "nus_kortnavn": "Medisinsk profesjonsstudium"
-              },
-              {
-                "antall_personer": 1885,
-                "nus_kortnavn": "Forskerutdanning i medisinske fag"
-              },
-              {
-                "antall_personer": 573,
-                "nus_kortnavn": "Utenlandsleger"
-              },
-              {
-                "antall_personer": 502,
-                "nus_kortnavn": "Forskerutdanning i medisin"
-              },
-              {
-                "antall_personer": 402,
-                "nus_kortnavn": "Medisin"
-              }
-            ]
-          }
-        },
-        {
-          "groupValue": "y_geriater",
-          "doclist": {
-            "numFound": 36,
-            "start": 0,
-            "numFoundExact": true,
-            "docs": [
-              {
-                "antall_personer": 11721,
-                "nus_kortnavn": "Medisinsk profesjonsstudium"
-              },
-              {
-                "antall_personer": 1885,
-                "nus_kortnavn": "Forskerutdanning i medisinske fag"
-              },
-              {
-                "antall_personer": 573,
-                "nus_kortnavn": "Utenlandsleger"
-              },
-              {
-                "antall_personer": 502,
-                "nus_kortnavn": "Forskerutdanning i medisin"
-              },
-              {
-                "antall_personer": 402,
-                "nus_kortnavn": "Medisin"
-              }
-            ]
-          }
-        },
-        {
-          "groupValue": "y_revmatolog",
-          "doclist": {
-            "numFound": 36,
-            "start": 0,
-            "numFoundExact": true,
-            "docs": [
-              {
-                "antall_personer": 11721,
-                "nus_kortnavn": "Medisinsk profesjonsstudium"
-              },
-              {
-                "antall_personer": 1885,
-                "nus_kortnavn": "Forskerutdanning i medisinske fag"
-              },
-              {
-                "antall_personer": 573,
-                "nus_kortnavn": "Utenlandsleger"
-              },
-              {
-                "antall_personer": 502,
-                "nus_kortnavn": "Forskerutdanning i medisin"
-              },
-              {
-                "antall_personer": 402,
-                "nus_kortnavn": "Medisin"
-              }
-            ]
-          }
-        },
-        {
           "groupValue": "y_radiolog",
+          "doclist": {
+            "numFound": 36,
+            "start": 0,
+            "numFoundExact": true,
+            "docs": [
+              {
+                "antall_personer": 11721,
+                "nus_kortnavn": "Medisinsk profesjonsstudium"
+              },
+              {
+                "antall_personer": 1885,
+                "nus_kortnavn": "Forskerutdanning i medisinske fag"
+              },
+              {
+                "antall_personer": 573,
+                "nus_kortnavn": "Utenlandsleger"
+              },
+              {
+                "antall_personer": 502,
+                "nus_kortnavn": "Forskerutdanning i medisin"
+              },
+              {
+                "antall_personer": 402,
+                "nus_kortnavn": "Medisin"
+              }
+            ]
+          }
+        },
+        {
+          "groupValue": "y_kirurg",
           "doclist": {
             "numFound": 36,
             "start": 0,
@@ -2375,7 +1865,487 @@
           }
         },
         {
+          "groupValue": "y_nevrolog",
+          "doclist": {
+            "numFound": 36,
+            "start": 0,
+            "numFoundExact": true,
+            "docs": [
+              {
+                "antall_personer": 11721,
+                "nus_kortnavn": "Medisinsk profesjonsstudium"
+              },
+              {
+                "antall_personer": 1885,
+                "nus_kortnavn": "Forskerutdanning i medisinske fag"
+              },
+              {
+                "antall_personer": 573,
+                "nus_kortnavn": "Utenlandsleger"
+              },
+              {
+                "antall_personer": 502,
+                "nus_kortnavn": "Forskerutdanning i medisin"
+              },
+              {
+                "antall_personer": 402,
+                "nus_kortnavn": "Medisin"
+              }
+            ]
+          }
+        },
+        {
+          "groupValue": "y_oyelege",
+          "doclist": {
+            "numFound": 36,
+            "start": 0,
+            "numFoundExact": true,
+            "docs": [
+              {
+                "antall_personer": 11721,
+                "nus_kortnavn": "Medisinsk profesjonsstudium"
+              },
+              {
+                "antall_personer": 1885,
+                "nus_kortnavn": "Forskerutdanning i medisinske fag"
+              },
+              {
+                "antall_personer": 573,
+                "nus_kortnavn": "Utenlandsleger"
+              },
+              {
+                "antall_personer": 502,
+                "nus_kortnavn": "Forskerutdanning i medisin"
+              },
+              {
+                "antall_personer": 402,
+                "nus_kortnavn": "Medisin"
+              }
+            ]
+          }
+        },
+        {
+          "groupValue": "y_nevrokirurg",
+          "doclist": {
+            "numFound": 36,
+            "start": 0,
+            "numFoundExact": true,
+            "docs": [
+              {
+                "antall_personer": 11721,
+                "nus_kortnavn": "Medisinsk profesjonsstudium"
+              },
+              {
+                "antall_personer": 1885,
+                "nus_kortnavn": "Forskerutdanning i medisinske fag"
+              },
+              {
+                "antall_personer": 573,
+                "nus_kortnavn": "Utenlandsleger"
+              },
+              {
+                "antall_personer": 502,
+                "nus_kortnavn": "Forskerutdanning i medisin"
+              },
+              {
+                "antall_personer": 402,
+                "nus_kortnavn": "Medisin"
+              }
+            ]
+          }
+        },
+        {
+          "groupValue": "y_ortoped",
+          "doclist": {
+            "numFound": 36,
+            "start": 0,
+            "numFoundExact": true,
+            "docs": [
+              {
+                "antall_personer": 11721,
+                "nus_kortnavn": "Medisinsk profesjonsstudium"
+              },
+              {
+                "antall_personer": 1885,
+                "nus_kortnavn": "Forskerutdanning i medisinske fag"
+              },
+              {
+                "antall_personer": 573,
+                "nus_kortnavn": "Utenlandsleger"
+              },
+              {
+                "antall_personer": 502,
+                "nus_kortnavn": "Forskerutdanning i medisin"
+              },
+              {
+                "antall_personer": 402,
+                "nus_kortnavn": "Medisin"
+              }
+            ]
+          }
+        },
+        {
+          "groupValue": "y_nuklearmedisiner",
+          "doclist": {
+            "numFound": 36,
+            "start": 0,
+            "numFoundExact": true,
+            "docs": [
+              {
+                "antall_personer": 11721,
+                "nus_kortnavn": "Medisinsk profesjonsstudium"
+              },
+              {
+                "antall_personer": 1885,
+                "nus_kortnavn": "Forskerutdanning i medisinske fag"
+              },
+              {
+                "antall_personer": 573,
+                "nus_kortnavn": "Utenlandsleger"
+              },
+              {
+                "antall_personer": 502,
+                "nus_kortnavn": "Forskerutdanning i medisin"
+              },
+              {
+                "antall_personer": 402,
+                "nus_kortnavn": "Medisin"
+              }
+            ]
+          }
+        },
+        {
+          "groupValue": "y_plastikkirurg",
+          "doclist": {
+            "numFound": 36,
+            "start": 0,
+            "numFoundExact": true,
+            "docs": [
+              {
+                "antall_personer": 11721,
+                "nus_kortnavn": "Medisinsk profesjonsstudium"
+              },
+              {
+                "antall_personer": 1885,
+                "nus_kortnavn": "Forskerutdanning i medisinske fag"
+              },
+              {
+                "antall_personer": 573,
+                "nus_kortnavn": "Utenlandsleger"
+              },
+              {
+                "antall_personer": 502,
+                "nus_kortnavn": "Forskerutdanning i medisin"
+              },
+              {
+                "antall_personer": 402,
+                "nus_kortnavn": "Medisin"
+              }
+            ]
+          }
+        },
+        {
+          "groupValue": "y_indremedisiner",
+          "doclist": {
+            "numFound": 36,
+            "start": 0,
+            "numFoundExact": true,
+            "docs": [
+              {
+                "antall_personer": 11721,
+                "nus_kortnavn": "Medisinsk profesjonsstudium"
+              },
+              {
+                "antall_personer": 1885,
+                "nus_kortnavn": "Forskerutdanning i medisinske fag"
+              },
+              {
+                "antall_personer": 573,
+                "nus_kortnavn": "Utenlandsleger"
+              },
+              {
+                "antall_personer": 502,
+                "nus_kortnavn": "Forskerutdanning i medisin"
+              },
+              {
+                "antall_personer": 402,
+                "nus_kortnavn": "Medisin"
+              }
+            ]
+          }
+        },
+        {
+          "groupValue": "y_gynekolog",
+          "doclist": {
+            "numFound": 36,
+            "start": 0,
+            "numFoundExact": true,
+            "docs": [
+              {
+                "antall_personer": 11721,
+                "nus_kortnavn": "Medisinsk profesjonsstudium"
+              },
+              {
+                "antall_personer": 1885,
+                "nus_kortnavn": "Forskerutdanning i medisinske fag"
+              },
+              {
+                "antall_personer": 573,
+                "nus_kortnavn": "Utenlandsleger"
+              },
+              {
+                "antall_personer": 502,
+                "nus_kortnavn": "Forskerutdanning i medisin"
+              },
+              {
+                "antall_personer": 402,
+                "nus_kortnavn": "Medisin"
+              }
+            ]
+          }
+        },
+        {
+          "groupValue": "y_fysikalsk_medisiner",
+          "doclist": {
+            "numFound": 36,
+            "start": 0,
+            "numFoundExact": true,
+            "docs": [
+              {
+                "antall_personer": 11721,
+                "nus_kortnavn": "Medisinsk profesjonsstudium"
+              },
+              {
+                "antall_personer": 1885,
+                "nus_kortnavn": "Forskerutdanning i medisinske fag"
+              },
+              {
+                "antall_personer": 573,
+                "nus_kortnavn": "Utenlandsleger"
+              },
+              {
+                "antall_personer": 502,
+                "nus_kortnavn": "Forskerutdanning i medisin"
+              },
+              {
+                "antall_personer": 402,
+                "nus_kortnavn": "Medisin"
+              }
+            ]
+          }
+        },
+        {
           "groupValue": "y_kardiolog",
+          "doclist": {
+            "numFound": 36,
+            "start": 0,
+            "numFoundExact": true,
+            "docs": [
+              {
+                "antall_personer": 11721,
+                "nus_kortnavn": "Medisinsk profesjonsstudium"
+              },
+              {
+                "antall_personer": 1885,
+                "nus_kortnavn": "Forskerutdanning i medisinske fag"
+              },
+              {
+                "antall_personer": 573,
+                "nus_kortnavn": "Utenlandsleger"
+              },
+              {
+                "antall_personer": 502,
+                "nus_kortnavn": "Forskerutdanning i medisin"
+              },
+              {
+                "antall_personer": 402,
+                "nus_kortnavn": "Medisin"
+              }
+            ]
+          }
+        },
+        {
+          "groupValue": "y_arbeidsmedisiner",
+          "doclist": {
+            "numFound": 36,
+            "start": 0,
+            "numFoundExact": true,
+            "docs": [
+              {
+                "antall_personer": 11721,
+                "nus_kortnavn": "Medisinsk profesjonsstudium"
+              },
+              {
+                "antall_personer": 1885,
+                "nus_kortnavn": "Forskerutdanning i medisinske fag"
+              },
+              {
+                "antall_personer": 573,
+                "nus_kortnavn": "Utenlandsleger"
+              },
+              {
+                "antall_personer": 502,
+                "nus_kortnavn": "Forskerutdanning i medisin"
+              },
+              {
+                "antall_personer": 402,
+                "nus_kortnavn": "Medisin"
+              }
+            ]
+          }
+        },
+        {
+          "groupValue": "y_anestesilege",
+          "doclist": {
+            "numFound": 36,
+            "start": 0,
+            "numFoundExact": true,
+            "docs": [
+              {
+                "antall_personer": 11721,
+                "nus_kortnavn": "Medisinsk profesjonsstudium"
+              },
+              {
+                "antall_personer": 1885,
+                "nus_kortnavn": "Forskerutdanning i medisinske fag"
+              },
+              {
+                "antall_personer": 573,
+                "nus_kortnavn": "Utenlandsleger"
+              },
+              {
+                "antall_personer": 502,
+                "nus_kortnavn": "Forskerutdanning i medisin"
+              },
+              {
+                "antall_personer": 402,
+                "nus_kortnavn": "Medisin"
+              }
+            ]
+          }
+        },
+        {
+          "groupValue": "y_legespesialist_lunge",
+          "doclist": {
+            "numFound": 36,
+            "start": 0,
+            "numFoundExact": true,
+            "docs": [
+              {
+                "antall_personer": 11721,
+                "nus_kortnavn": "Medisinsk profesjonsstudium"
+              },
+              {
+                "antall_personer": 1885,
+                "nus_kortnavn": "Forskerutdanning i medisinske fag"
+              },
+              {
+                "antall_personer": 573,
+                "nus_kortnavn": "Utenlandsleger"
+              },
+              {
+                "antall_personer": 502,
+                "nus_kortnavn": "Forskerutdanning i medisin"
+              },
+              {
+                "antall_personer": 402,
+                "nus_kortnavn": "Medisin"
+              }
+            ]
+          }
+        },
+        {
+          "groupValue": "y_thoraxkirurg",
+          "doclist": {
+            "numFound": 36,
+            "start": 0,
+            "numFoundExact": true,
+            "docs": [
+              {
+                "antall_personer": 11721,
+                "nus_kortnavn": "Medisinsk profesjonsstudium"
+              },
+              {
+                "antall_personer": 1885,
+                "nus_kortnavn": "Forskerutdanning i medisinske fag"
+              },
+              {
+                "antall_personer": 573,
+                "nus_kortnavn": "Utenlandsleger"
+              },
+              {
+                "antall_personer": 502,
+                "nus_kortnavn": "Forskerutdanning i medisin"
+              },
+              {
+                "antall_personer": 402,
+                "nus_kortnavn": "Medisin"
+              }
+            ]
+          }
+        },
+        {
+          "groupValue": "y_geriater",
+          "doclist": {
+            "numFound": 36,
+            "start": 0,
+            "numFoundExact": true,
+            "docs": [
+              {
+                "antall_personer": 11721,
+                "nus_kortnavn": "Medisinsk profesjonsstudium"
+              },
+              {
+                "antall_personer": 1885,
+                "nus_kortnavn": "Forskerutdanning i medisinske fag"
+              },
+              {
+                "antall_personer": 573,
+                "nus_kortnavn": "Utenlandsleger"
+              },
+              {
+                "antall_personer": 502,
+                "nus_kortnavn": "Forskerutdanning i medisin"
+              },
+              {
+                "antall_personer": 402,
+                "nus_kortnavn": "Medisin"
+              }
+            ]
+          }
+        },
+        {
+          "groupValue": "y_hematolog",
+          "doclist": {
+            "numFound": 36,
+            "start": 0,
+            "numFoundExact": true,
+            "docs": [
+              {
+                "antall_personer": 11721,
+                "nus_kortnavn": "Medisinsk profesjonsstudium"
+              },
+              {
+                "antall_personer": 1885,
+                "nus_kortnavn": "Forskerutdanning i medisinske fag"
+              },
+              {
+                "antall_personer": 573,
+                "nus_kortnavn": "Utenlandsleger"
+              },
+              {
+                "antall_personer": 502,
+                "nus_kortnavn": "Forskerutdanning i medisin"
+              },
+              {
+                "antall_personer": 402,
+                "nus_kortnavn": "Medisin"
+              }
+            ]
+          }
+        },
+        {
+          "groupValue": "y_legespesialist_ford",
           "doclist": {
             "numFound": 36,
             "start": 0,
@@ -2435,7 +2405,37 @@
           }
         },
         {
-          "groupValue": "y_thoraxkirurg",
+          "groupValue": "y_medisinforsker",
+          "doclist": {
+            "numFound": 36,
+            "start": 0,
+            "numFoundExact": true,
+            "docs": [
+              {
+                "antall_personer": 11721,
+                "nus_kortnavn": "Medisinsk profesjonsstudium"
+              },
+              {
+                "antall_personer": 1885,
+                "nus_kortnavn": "Forskerutdanning i medisinske fag"
+              },
+              {
+                "antall_personer": 573,
+                "nus_kortnavn": "Utenlandsleger"
+              },
+              {
+                "antall_personer": 502,
+                "nus_kortnavn": "Forskerutdanning i medisin"
+              },
+              {
+                "antall_personer": 402,
+                "nus_kortnavn": "Medisin"
+              }
+            ]
+          }
+        },
+        {
+          "groupValue": "y_hudlege",
           "doclist": {
             "numFound": 36,
             "start": 0,
@@ -2675,7 +2675,7 @@
           }
         },
         {
-          "groupValue": "y_etterforsker",
+          "groupValue": "y_politibetjent",
           "doclist": {
             "numFound": 86,
             "start": 0,
@@ -2705,7 +2705,7 @@
           }
         },
         {
-          "groupValue": "y_politibetjent",
+          "groupValue": "y_etterforsker",
           "doclist": {
             "numFound": 86,
             "start": 0,
@@ -3035,36 +3035,6 @@
           }
         },
         {
-          "groupValue": "y_hjul_reparator",
-          "doclist": {
-            "numFound": 168,
-            "start": 0,
-            "numFoundExact": true,
-            "docs": [
-              {
-                "antall_personer": 7634,
-                "nus_kortnavn": "Bilfag, lette kj\u00f8ret\u00f8y"
-              },
-              {
-                "antall_personer": 3120,
-                "nus_kortnavn": "Ungdomsskole"
-              },
-              {
-                "antall_personer": 1651,
-                "nus_kortnavn": "Bilfag, tunge kj\u00f8ret\u00f8y"
-              },
-              {
-                "antall_personer": 1457,
-                "nus_kortnavn": "Ingen eller ukjent utdanning"
-              },
-              {
-                "antall_personer": 412,
-                "nus_kortnavn": "Studiespesialisering"
-              }
-            ]
-          }
-        },
-        {
           "groupValue": "y_bilmekaniker_tung",
           "doclist": {
             "numFound": 168,
@@ -3155,6 +3125,36 @@
           }
         },
         {
+          "groupValue": "y_hjul_reparator",
+          "doclist": {
+            "numFound": 168,
+            "start": 0,
+            "numFoundExact": true,
+            "docs": [
+              {
+                "antall_personer": 7634,
+                "nus_kortnavn": "Bilfag, lette kj\u00f8ret\u00f8y"
+              },
+              {
+                "antall_personer": 3120,
+                "nus_kortnavn": "Ungdomsskole"
+              },
+              {
+                "antall_personer": 1651,
+                "nus_kortnavn": "Bilfag, tunge kj\u00f8ret\u00f8y"
+              },
+              {
+                "antall_personer": 1457,
+                "nus_kortnavn": "Ingen eller ukjent utdanning"
+              },
+              {
+                "antall_personer": 412,
+                "nus_kortnavn": "Studiespesialisering"
+              }
+            ]
+          }
+        },
+        {
           "groupValue": "y_diplomat",
           "doclist": {
             "numFound": 1049,
@@ -3185,36 +3185,6 @@
           }
         },
         {
-          "groupValue": "y_fylkesskogmester",
-          "doclist": {
-            "numFound": 1051,
-            "start": 0,
-            "numFoundExact": true,
-            "docs": [
-              {
-                "antall_personer": 7379,
-                "nus_kortnavn": "\u00d8konomisk-administrative fag"
-              },
-              {
-                "antall_personer": 4210,
-                "nus_kortnavn": "Rettsvitenskap"
-              },
-              {
-                "antall_personer": 3093,
-                "nus_kortnavn": "Studiespesialisering"
-              },
-              {
-                "antall_personer": 2485,
-                "nus_kortnavn": "Ungdomsskole"
-              },
-              {
-                "antall_personer": 2144,
-                "nus_kortnavn": "Juridisk profesjonsstudium"
-              }
-            ]
-          }
-        },
-        {
           "groupValue": "y_samfunnsgeograf",
           "doclist": {
             "numFound": 1050,
@@ -3239,6 +3209,36 @@
               },
               {
                 "antall_personer": 2152,
+                "nus_kortnavn": "Juridisk profesjonsstudium"
+              }
+            ]
+          }
+        },
+        {
+          "groupValue": "y_fylkesskogmester",
+          "doclist": {
+            "numFound": 1051,
+            "start": 0,
+            "numFoundExact": true,
+            "docs": [
+              {
+                "antall_personer": 7379,
+                "nus_kortnavn": "\u00d8konomisk-administrative fag"
+              },
+              {
+                "antall_personer": 4210,
+                "nus_kortnavn": "Rettsvitenskap"
+              },
+              {
+                "antall_personer": 3093,
+                "nus_kortnavn": "Studiespesialisering"
+              },
+              {
+                "antall_personer": 2485,
+                "nus_kortnavn": "Ungdomsskole"
+              },
+              {
+                "antall_personer": 2144,
                 "nus_kortnavn": "Juridisk profesjonsstudium"
               }
             ]
@@ -3335,187 +3335,7 @@
           }
         },
         {
-          "groupValue": "y_anestesisykepleier",
-          "doclist": {
-            "numFound": 149,
-            "start": 0,
-            "numFoundExact": true,
-            "docs": [
-              {
-                "antall_personer": 6978,
-                "nus_kortnavn": "Sykepleie"
-              },
-              {
-                "antall_personer": 3292,
-                "nus_kortnavn": "Psykisk helsearbeid (videreutdanning)"
-              },
-              {
-                "antall_personer": 2980,
-                "nus_kortnavn": "Helsesykepleierutdanning"
-              },
-              {
-                "antall_personer": 1723,
-                "nus_kortnavn": "Intensivsykepleie (videreutdanning)"
-              },
-              {
-                "antall_personer": 1686,
-                "nus_kortnavn": "Operasjonssykepleie (videreutdanning)"
-              }
-            ]
-          }
-        },
-        {
-          "groupValue": "y_intensivsykepleier",
-          "doclist": {
-            "numFound": 149,
-            "start": 0,
-            "numFoundExact": true,
-            "docs": [
-              {
-                "antall_personer": 6978,
-                "nus_kortnavn": "Sykepleie"
-              },
-              {
-                "antall_personer": 3292,
-                "nus_kortnavn": "Psykisk helsearbeid (videreutdanning)"
-              },
-              {
-                "antall_personer": 2980,
-                "nus_kortnavn": "Helsesykepleierutdanning"
-              },
-              {
-                "antall_personer": 1723,
-                "nus_kortnavn": "Intensivsykepleie (videreutdanning)"
-              },
-              {
-                "antall_personer": 1686,
-                "nus_kortnavn": "Operasjonssykepleie (videreutdanning)"
-              }
-            ]
-          }
-        },
-        {
-          "groupValue": "y_kreftsykepleier",
-          "doclist": {
-            "numFound": 149,
-            "start": 0,
-            "numFoundExact": true,
-            "docs": [
-              {
-                "antall_personer": 6978,
-                "nus_kortnavn": "Sykepleie"
-              },
-              {
-                "antall_personer": 3292,
-                "nus_kortnavn": "Psykisk helsearbeid (videreutdanning)"
-              },
-              {
-                "antall_personer": 2980,
-                "nus_kortnavn": "Helsesykepleierutdanning"
-              },
-              {
-                "antall_personer": 1723,
-                "nus_kortnavn": "Intensivsykepleie (videreutdanning)"
-              },
-              {
-                "antall_personer": 1686,
-                "nus_kortnavn": "Operasjonssykepleie (videreutdanning)"
-              }
-            ]
-          }
-        },
-        {
-          "groupValue": "y_perfusjonist",
-          "doclist": {
-            "numFound": 149,
-            "start": 0,
-            "numFoundExact": true,
-            "docs": [
-              {
-                "antall_personer": 6978,
-                "nus_kortnavn": "Sykepleie"
-              },
-              {
-                "antall_personer": 3292,
-                "nus_kortnavn": "Psykisk helsearbeid (videreutdanning)"
-              },
-              {
-                "antall_personer": 2980,
-                "nus_kortnavn": "Helsesykepleierutdanning"
-              },
-              {
-                "antall_personer": 1723,
-                "nus_kortnavn": "Intensivsykepleie (videreutdanning)"
-              },
-              {
-                "antall_personer": 1686,
-                "nus_kortnavn": "Operasjonssykepleie (videreutdanning)"
-              }
-            ]
-          }
-        },
-        {
-          "groupValue": "y_operasjonssykepleier",
-          "doclist": {
-            "numFound": 149,
-            "start": 0,
-            "numFoundExact": true,
-            "docs": [
-              {
-                "antall_personer": 6978,
-                "nus_kortnavn": "Sykepleie"
-              },
-              {
-                "antall_personer": 3292,
-                "nus_kortnavn": "Psykisk helsearbeid (videreutdanning)"
-              },
-              {
-                "antall_personer": 2980,
-                "nus_kortnavn": "Helsesykepleierutdanning"
-              },
-              {
-                "antall_personer": 1723,
-                "nus_kortnavn": "Intensivsykepleie (videreutdanning)"
-              },
-              {
-                "antall_personer": 1686,
-                "nus_kortnavn": "Operasjonssykepleie (videreutdanning)"
-              }
-            ]
-          }
-        },
-        {
           "groupValue": "y_nevrosykepleier",
-          "doclist": {
-            "numFound": 149,
-            "start": 0,
-            "numFoundExact": true,
-            "docs": [
-              {
-                "antall_personer": 6978,
-                "nus_kortnavn": "Sykepleie"
-              },
-              {
-                "antall_personer": 3292,
-                "nus_kortnavn": "Psykisk helsearbeid (videreutdanning)"
-              },
-              {
-                "antall_personer": 2980,
-                "nus_kortnavn": "Helsesykepleierutdanning"
-              },
-              {
-                "antall_personer": 1723,
-                "nus_kortnavn": "Intensivsykepleie (videreutdanning)"
-              },
-              {
-                "antall_personer": 1686,
-                "nus_kortnavn": "Operasjonssykepleie (videreutdanning)"
-              }
-            ]
-          }
-        },
-        {
-          "groupValue": "y_helsesoster",
           "doclist": {
             "numFound": 149,
             "start": 0,
@@ -3576,6 +3396,186 @@
         },
         {
           "groupValue": "y_sykepleier_barn",
+          "doclist": {
+            "numFound": 149,
+            "start": 0,
+            "numFoundExact": true,
+            "docs": [
+              {
+                "antall_personer": 6978,
+                "nus_kortnavn": "Sykepleie"
+              },
+              {
+                "antall_personer": 3292,
+                "nus_kortnavn": "Psykisk helsearbeid (videreutdanning)"
+              },
+              {
+                "antall_personer": 2980,
+                "nus_kortnavn": "Helsesykepleierutdanning"
+              },
+              {
+                "antall_personer": 1723,
+                "nus_kortnavn": "Intensivsykepleie (videreutdanning)"
+              },
+              {
+                "antall_personer": 1686,
+                "nus_kortnavn": "Operasjonssykepleie (videreutdanning)"
+              }
+            ]
+          }
+        },
+        {
+          "groupValue": "y_operasjonssykepleier",
+          "doclist": {
+            "numFound": 149,
+            "start": 0,
+            "numFoundExact": true,
+            "docs": [
+              {
+                "antall_personer": 6978,
+                "nus_kortnavn": "Sykepleie"
+              },
+              {
+                "antall_personer": 3292,
+                "nus_kortnavn": "Psykisk helsearbeid (videreutdanning)"
+              },
+              {
+                "antall_personer": 2980,
+                "nus_kortnavn": "Helsesykepleierutdanning"
+              },
+              {
+                "antall_personer": 1723,
+                "nus_kortnavn": "Intensivsykepleie (videreutdanning)"
+              },
+              {
+                "antall_personer": 1686,
+                "nus_kortnavn": "Operasjonssykepleie (videreutdanning)"
+              }
+            ]
+          }
+        },
+        {
+          "groupValue": "y_intensivsykepleier",
+          "doclist": {
+            "numFound": 149,
+            "start": 0,
+            "numFoundExact": true,
+            "docs": [
+              {
+                "antall_personer": 6978,
+                "nus_kortnavn": "Sykepleie"
+              },
+              {
+                "antall_personer": 3292,
+                "nus_kortnavn": "Psykisk helsearbeid (videreutdanning)"
+              },
+              {
+                "antall_personer": 2980,
+                "nus_kortnavn": "Helsesykepleierutdanning"
+              },
+              {
+                "antall_personer": 1723,
+                "nus_kortnavn": "Intensivsykepleie (videreutdanning)"
+              },
+              {
+                "antall_personer": 1686,
+                "nus_kortnavn": "Operasjonssykepleie (videreutdanning)"
+              }
+            ]
+          }
+        },
+        {
+          "groupValue": "y_perfusjonist",
+          "doclist": {
+            "numFound": 149,
+            "start": 0,
+            "numFoundExact": true,
+            "docs": [
+              {
+                "antall_personer": 6978,
+                "nus_kortnavn": "Sykepleie"
+              },
+              {
+                "antall_personer": 3292,
+                "nus_kortnavn": "Psykisk helsearbeid (videreutdanning)"
+              },
+              {
+                "antall_personer": 2980,
+                "nus_kortnavn": "Helsesykepleierutdanning"
+              },
+              {
+                "antall_personer": 1723,
+                "nus_kortnavn": "Intensivsykepleie (videreutdanning)"
+              },
+              {
+                "antall_personer": 1686,
+                "nus_kortnavn": "Operasjonssykepleie (videreutdanning)"
+              }
+            ]
+          }
+        },
+        {
+          "groupValue": "y_helsesoster",
+          "doclist": {
+            "numFound": 149,
+            "start": 0,
+            "numFoundExact": true,
+            "docs": [
+              {
+                "antall_personer": 6978,
+                "nus_kortnavn": "Sykepleie"
+              },
+              {
+                "antall_personer": 3292,
+                "nus_kortnavn": "Psykisk helsearbeid (videreutdanning)"
+              },
+              {
+                "antall_personer": 2980,
+                "nus_kortnavn": "Helsesykepleierutdanning"
+              },
+              {
+                "antall_personer": 1723,
+                "nus_kortnavn": "Intensivsykepleie (videreutdanning)"
+              },
+              {
+                "antall_personer": 1686,
+                "nus_kortnavn": "Operasjonssykepleie (videreutdanning)"
+              }
+            ]
+          }
+        },
+        {
+          "groupValue": "y_kreftsykepleier",
+          "doclist": {
+            "numFound": 149,
+            "start": 0,
+            "numFoundExact": true,
+            "docs": [
+              {
+                "antall_personer": 6978,
+                "nus_kortnavn": "Sykepleie"
+              },
+              {
+                "antall_personer": 3292,
+                "nus_kortnavn": "Psykisk helsearbeid (videreutdanning)"
+              },
+              {
+                "antall_personer": 2980,
+                "nus_kortnavn": "Helsesykepleierutdanning"
+              },
+              {
+                "antall_personer": 1723,
+                "nus_kortnavn": "Intensivsykepleie (videreutdanning)"
+              },
+              {
+                "antall_personer": 1686,
+                "nus_kortnavn": "Operasjonssykepleie (videreutdanning)"
+              }
+            ]
+          }
+        },
+        {
+          "groupValue": "y_anestesisykepleier",
           "doclist": {
             "numFound": 149,
             "start": 0,
@@ -3725,7 +3725,7 @@
           }
         },
         {
-          "groupValue": "y_ind_rorlegger",
+          "groupValue": "y_rorlegger",
           "doclist": {
             "numFound": 193,
             "start": 0,
@@ -3785,7 +3785,7 @@
           }
         },
         {
-          "groupValue": "y_rorlegger",
+          "groupValue": "y_ind_rorlegger",
           "doclist": {
             "numFound": 193,
             "start": 0,
@@ -3905,7 +3905,7 @@
           }
         },
         {
-          "groupValue": "y_ind_matprod",
+          "groupValue": "y_sjomatprod",
           "doclist": {
             "numFound": 321,
             "start": 0,
@@ -3935,7 +3935,7 @@
           }
         },
         {
-          "groupValue": "y_sjomatprod",
+          "groupValue": "y_ind_matprod",
           "doclist": {
             "numFound": 321,
             "start": 0,
@@ -4055,7 +4055,7 @@
           }
         },
         {
-          "groupValue": "y_barne_ung_psyk",
+          "groupValue": "y_ppradgiver",
           "doclist": {
             "numFound": 75,
             "start": 0,
@@ -4085,7 +4085,7 @@
           }
         },
         {
-          "groupValue": "y_ppradgiver",
+          "groupValue": "y_barne_ung_psyk",
           "doclist": {
             "numFound": 75,
             "start": 0,
@@ -4265,7 +4265,7 @@
           }
         },
         {
-          "groupValue": "y_anleggsmaskin",
+          "groupValue": "y_banemontor",
           "doclist": {
             "numFound": 213,
             "start": 0,
@@ -4276,7 +4276,7 @@
                 "nus_kortnavn": "Anleggsmaskinf\u00f8rerfag"
               },
               {
-                "antall_personer": 4507,
+                "antall_personer": 4532,
                 "nus_kortnavn": "Ungdomsskole"
               },
               {
@@ -4295,7 +4295,7 @@
           }
         },
         {
-          "groupValue": "y_banemontor",
+          "groupValue": "y_anleggsmaskin",
           "doclist": {
             "numFound": 213,
             "start": 0,
@@ -4306,7 +4306,7 @@
                 "nus_kortnavn": "Anleggsmaskinf\u00f8rerfag"
               },
               {
-                "antall_personer": 4532,
+                "antall_personer": 4507,
                 "nus_kortnavn": "Ungdomsskole"
               },
               {
@@ -4445,36 +4445,6 @@
           }
         },
         {
-          "groupValue": "y_driftsoperator_idrett",
-          "doclist": {
-            "numFound": 392,
-            "start": 0,
-            "numFoundExact": true,
-            "docs": [
-              {
-                "antall_personer": 4638,
-                "nus_kortnavn": "Ungdomsskole"
-              },
-              {
-                "antall_personer": 1521,
-                "nus_kortnavn": "T\u00f8mrerfag"
-              },
-              {
-                "antall_personer": 981,
-                "nus_kortnavn": "Studiespesialisering"
-              },
-              {
-                "antall_personer": 654,
-                "nus_kortnavn": "Byggdrifterfag"
-              },
-              {
-                "antall_personer": 631,
-                "nus_kortnavn": "Ingen eller ukjent utdanning"
-              }
-            ]
-          }
-        },
-        {
           "groupValue": "y_kirketjener",
           "doclist": {
             "numFound": 392,
@@ -4506,6 +4476,36 @@
         },
         {
           "groupValue": "y_vaktmester",
+          "doclist": {
+            "numFound": 392,
+            "start": 0,
+            "numFoundExact": true,
+            "docs": [
+              {
+                "antall_personer": 4638,
+                "nus_kortnavn": "Ungdomsskole"
+              },
+              {
+                "antall_personer": 1521,
+                "nus_kortnavn": "T\u00f8mrerfag"
+              },
+              {
+                "antall_personer": 981,
+                "nus_kortnavn": "Studiespesialisering"
+              },
+              {
+                "antall_personer": 654,
+                "nus_kortnavn": "Byggdrifterfag"
+              },
+              {
+                "antall_personer": 631,
+                "nus_kortnavn": "Ingen eller ukjent utdanning"
+              }
+            ]
+          }
+        },
+        {
+          "groupValue": "y_driftsoperator_idrett",
           "doclist": {
             "numFound": 392,
             "start": 0,
@@ -4805,7 +4805,7 @@
           }
         },
         {
-          "groupValue": "y_manuellterapeut",
+          "groupValue": "y_fysioterapeut",
           "doclist": {
             "numFound": 67,
             "start": 0,
@@ -4835,7 +4835,7 @@
           }
         },
         {
-          "groupValue": "y_fysioterapeut",
+          "groupValue": "y_manuellterapeut",
           "doclist": {
             "numFound": 67,
             "start": 0,
@@ -4895,7 +4895,7 @@
           }
         },
         {
-          "groupValue": "y_hovmester",
+          "groupValue": "y_barista",
           "doclist": {
             "numFound": 269,
             "start": 0,
@@ -4925,7 +4925,7 @@
           }
         },
         {
-          "groupValue": "y_barista",
+          "groupValue": "y_hovmester",
           "doclist": {
             "numFound": 269,
             "start": 0,
@@ -4985,7 +4985,7 @@
           }
         },
         {
-          "groupValue": "y_arkitekt",
+          "groupValue": "y_interiorarkitekt",
           "doclist": {
             "numFound": 81,
             "start": 0,
@@ -5015,7 +5015,7 @@
           }
         },
         {
-          "groupValue": "y_interiorarkitekt",
+          "groupValue": "y_arkitekt",
           "doclist": {
             "numFound": 81,
             "start": 0,
@@ -5165,7 +5165,7 @@
           }
         },
         {
-          "groupValue": "y_landbruk_mek",
+          "groupValue": "y_truck_og_liftmekaniker",
           "doclist": {
             "numFound": 250,
             "start": 0,
@@ -5225,7 +5225,7 @@
           }
         },
         {
-          "groupValue": "y_truck_og_liftmekaniker",
+          "groupValue": "y_landbruk_mek",
           "doclist": {
             "numFound": 250,
             "start": 0,
@@ -5435,36 +5435,6 @@
           }
         },
         {
-          "groupValue": "y_familieradgiver",
-          "doclist": {
-            "numFound": 256,
-            "start": 0,
-            "numFoundExact": true,
-            "docs": [
-              {
-                "antall_personer": 3137,
-                "nus_kortnavn": "Barnevern"
-              },
-              {
-                "antall_personer": 2215,
-                "nus_kortnavn": "Sosialfag"
-              },
-              {
-                "antall_personer": 624,
-                "nus_kortnavn": "Barnevernsutdanning"
-              },
-              {
-                "antall_personer": 445,
-                "nus_kortnavn": "Psykisk helsearbeid (videreutdanning)"
-              },
-              {
-                "antall_personer": 436,
-                "nus_kortnavn": "Familieterapi (videreutdanning)"
-              }
-            ]
-          }
-        },
-        {
           "groupValue": "y_klinisk_sosionom",
           "doclist": {
             "numFound": 256,
@@ -5495,7 +5465,37 @@
           }
         },
         {
-          "groupValue": "y_forsker",
+          "groupValue": "y_familieradgiver",
+          "doclist": {
+            "numFound": 256,
+            "start": 0,
+            "numFoundExact": true,
+            "docs": [
+              {
+                "antall_personer": 3137,
+                "nus_kortnavn": "Barnevern"
+              },
+              {
+                "antall_personer": 2215,
+                "nus_kortnavn": "Sosialfag"
+              },
+              {
+                "antall_personer": 624,
+                "nus_kortnavn": "Barnevernsutdanning"
+              },
+              {
+                "antall_personer": 445,
+                "nus_kortnavn": "Psykisk helsearbeid (videreutdanning)"
+              },
+              {
+                "antall_personer": 436,
+                "nus_kortnavn": "Familieterapi (videreutdanning)"
+              }
+            ]
+          }
+        },
+        {
+          "groupValue": "y_stipendiat",
           "doclist": {
             "numFound": 604,
             "start": 0,
@@ -5555,6 +5555,36 @@
           }
         },
         {
+          "groupValue": "y_forsker",
+          "doclist": {
+            "numFound": 604,
+            "start": 0,
+            "numFoundExact": true,
+            "docs": [
+              {
+                "antall_personer": 3134,
+                "nus_kortnavn": "Ingen eller ukjent utdanning"
+              },
+              {
+                "antall_personer": 1828,
+                "nus_kortnavn": "Forskerutdanning i naturvitenskap / tekniske fag"
+              },
+              {
+                "antall_personer": 1309,
+                "nus_kortnavn": "Forskerutdanning i humaniora"
+              },
+              {
+                "antall_personer": 906,
+                "nus_kortnavn": "Forskerutdanning i realfag"
+              },
+              {
+                "antall_personer": 849,
+                "nus_kortnavn": "Forskerutdanning i samfunnsvitenskap"
+              }
+            ]
+          }
+        },
+        {
           "groupValue": "y_forsteamanuensis",
           "doclist": {
             "numFound": 604,
@@ -5585,39 +5615,9 @@
           }
         },
         {
-          "groupValue": "y_stipendiat",
+          "groupValue": "y_branningenior",
           "doclist": {
-            "numFound": 604,
-            "start": 0,
-            "numFoundExact": true,
-            "docs": [
-              {
-                "antall_personer": 3134,
-                "nus_kortnavn": "Ingen eller ukjent utdanning"
-              },
-              {
-                "antall_personer": 1828,
-                "nus_kortnavn": "Forskerutdanning i naturvitenskap / tekniske fag"
-              },
-              {
-                "antall_personer": 1309,
-                "nus_kortnavn": "Forskerutdanning i humaniora"
-              },
-              {
-                "antall_personer": 906,
-                "nus_kortnavn": "Forskerutdanning i realfag"
-              },
-              {
-                "antall_personer": 849,
-                "nus_kortnavn": "Forskerutdanning i samfunnsvitenskap"
-              }
-            ]
-          }
-        },
-        {
-          "groupValue": "y_ingenior_enok",
-          "doclist": {
-            "numFound": 389,
+            "numFound": 388,
             "start": 0,
             "numFoundExact": true,
             "docs": [
@@ -5645,9 +5645,9 @@
           }
         },
         {
-          "groupValue": "y_branningenior",
+          "groupValue": "y_ingenior_enok",
           "doclist": {
-            "numFound": 388,
+            "numFound": 389,
             "start": 0,
             "numFoundExact": true,
             "docs": [
@@ -6095,7 +6095,7 @@
           }
         },
         {
-          "groupValue": "y_havbrukstekniker",
+          "groupValue": "y_rokter",
           "doclist": {
             "numFound": 143,
             "start": 0,
@@ -6125,7 +6125,7 @@
           }
         },
         {
-          "groupValue": "y_fiskehelsebiolog",
+          "groupValue": "y_havbrukstekniker",
           "doclist": {
             "numFound": 143,
             "start": 0,
@@ -6185,7 +6185,7 @@
           }
         },
         {
-          "groupValue": "y_rokter",
+          "groupValue": "y_fiskehelsebiolog",
           "doclist": {
             "numFound": 143,
             "start": 0,
@@ -6695,7 +6695,7 @@
           }
         },
         {
-          "groupValue": "y_lufthavnbetjent",
+          "groupValue": "y_togekspeditor",
           "doclist": {
             "numFound": 200,
             "start": 0,
@@ -6725,7 +6725,7 @@
           }
         },
         {
-          "groupValue": "y_togekspeditor",
+          "groupValue": "y_lufthavnbetjent",
           "doclist": {
             "numFound": 200,
             "start": 0,
@@ -6815,7 +6815,7 @@
           }
         },
         {
-          "groupValue": "y_byggleder",
+          "groupValue": "y_bygganleggleder",
           "doclist": {
             "numFound": 199,
             "start": 0,
@@ -6845,7 +6845,7 @@
           }
         },
         {
-          "groupValue": "y_bygganleggleder",
+          "groupValue": "y_byggleder",
           "doclist": {
             "numFound": 199,
             "start": 0,
@@ -7025,37 +7025,7 @@
           }
         },
         {
-          "groupValue": "y_automatiker",
-          "doclist": {
-            "numFound": 96,
-            "start": 0,
-            "numFoundExact": true,
-            "docs": [
-              {
-                "antall_personer": 1493,
-                "nus_kortnavn": "Automatiseringsfag"
-              },
-              {
-                "antall_personer": 639,
-                "nus_kortnavn": "Heismont\u00f8rfag"
-              },
-              {
-                "antall_personer": 458,
-                "nus_kortnavn": "Elektrikerfag"
-              },
-              {
-                "antall_personer": 321,
-                "nus_kortnavn": "Tavlemont\u00f8rfag"
-              },
-              {
-                "antall_personer": 262,
-                "nus_kortnavn": "Ungdomsskole"
-              }
-            ]
-          }
-        },
-        {
-          "groupValue": "y_heismontor",
+          "groupValue": "y_signalmontor",
           "doclist": {
             "numFound": 96,
             "start": 0,
@@ -7115,37 +7085,7 @@
           }
         },
         {
-          "groupValue": "y_maritim_el",
-          "doclist": {
-            "numFound": 96,
-            "start": 0,
-            "numFoundExact": true,
-            "docs": [
-              {
-                "antall_personer": 1493,
-                "nus_kortnavn": "Automatiseringsfag"
-              },
-              {
-                "antall_personer": 639,
-                "nus_kortnavn": "Heismont\u00f8rfag"
-              },
-              {
-                "antall_personer": 458,
-                "nus_kortnavn": "Elektrikerfag"
-              },
-              {
-                "antall_personer": 321,
-                "nus_kortnavn": "Tavlemont\u00f8rfag"
-              },
-              {
-                "antall_personer": 262,
-                "nus_kortnavn": "Ungdomsskole"
-              }
-            ]
-          }
-        },
-        {
-          "groupValue": "y_signalmontor",
+          "groupValue": "y_automatiker",
           "doclist": {
             "numFound": 96,
             "start": 0,
@@ -7235,6 +7175,66 @@
           }
         },
         {
+          "groupValue": "y_heismontor",
+          "doclist": {
+            "numFound": 96,
+            "start": 0,
+            "numFoundExact": true,
+            "docs": [
+              {
+                "antall_personer": 1493,
+                "nus_kortnavn": "Automatiseringsfag"
+              },
+              {
+                "antall_personer": 639,
+                "nus_kortnavn": "Heismont\u00f8rfag"
+              },
+              {
+                "antall_personer": 458,
+                "nus_kortnavn": "Elektrikerfag"
+              },
+              {
+                "antall_personer": 321,
+                "nus_kortnavn": "Tavlemont\u00f8rfag"
+              },
+              {
+                "antall_personer": 262,
+                "nus_kortnavn": "Ungdomsskole"
+              }
+            ]
+          }
+        },
+        {
+          "groupValue": "y_maritim_el",
+          "doclist": {
+            "numFound": 96,
+            "start": 0,
+            "numFoundExact": true,
+            "docs": [
+              {
+                "antall_personer": 1493,
+                "nus_kortnavn": "Automatiseringsfag"
+              },
+              {
+                "antall_personer": 639,
+                "nus_kortnavn": "Heismont\u00f8rfag"
+              },
+              {
+                "antall_personer": 458,
+                "nus_kortnavn": "Elektrikerfag"
+              },
+              {
+                "antall_personer": 321,
+                "nus_kortnavn": "Tavlemont\u00f8rfag"
+              },
+              {
+                "antall_personer": 262,
+                "nus_kortnavn": "Ungdomsskole"
+              }
+            ]
+          }
+        },
+        {
           "groupValue": "y_itdrift",
           "doclist": {
             "numFound": 405,
@@ -7295,7 +7295,7 @@
           }
         },
         {
-          "groupValue": "y_kaptein",
+          "groupValue": "y_styrmann",
           "doclist": {
             "numFound": 82,
             "start": 0,
@@ -7355,6 +7355,36 @@
           }
         },
         {
+          "groupValue": "y_kaptein",
+          "doclist": {
+            "numFound": 82,
+            "start": 0,
+            "numFoundExact": true,
+            "docs": [
+              {
+                "antall_personer": 1469,
+                "nus_kortnavn": "Nautikk"
+              },
+              {
+                "antall_personer": 1305,
+                "nus_kortnavn": "Matrosfag"
+              },
+              {
+                "antall_personer": 1013,
+                "nus_kortnavn": "Dekksoffiser"
+              },
+              {
+                "antall_personer": 385,
+                "nus_kortnavn": "Ungdomsskole"
+              },
+              {
+                "antall_personer": 369,
+                "nus_kortnavn": "Teknisk fagskole nautiske fag / fiskerifag"
+              }
+            ]
+          }
+        },
+        {
           "groupValue": "y_los",
           "doclist": {
             "numFound": 82,
@@ -7385,37 +7415,7 @@
           }
         },
         {
-          "groupValue": "y_styrmann",
-          "doclist": {
-            "numFound": 82,
-            "start": 0,
-            "numFoundExact": true,
-            "docs": [
-              {
-                "antall_personer": 1469,
-                "nus_kortnavn": "Nautikk"
-              },
-              {
-                "antall_personer": 1305,
-                "nus_kortnavn": "Matrosfag"
-              },
-              {
-                "antall_personer": 1013,
-                "nus_kortnavn": "Dekksoffiser"
-              },
-              {
-                "antall_personer": 385,
-                "nus_kortnavn": "Ungdomsskole"
-              },
-              {
-                "antall_personer": 369,
-                "nus_kortnavn": "Teknisk fagskole nautiske fag / fiskerifag"
-              }
-            ]
-          }
-        },
-        {
-          "groupValue": "y_matros",
+          "groupValue": "y_skipsmotormekaniker",
           "doclist": {
             "numFound": 102,
             "start": 0,
@@ -7445,7 +7445,7 @@
           }
         },
         {
-          "groupValue": "y_skipsmotormekaniker",
+          "groupValue": "y_matros",
           "doclist": {
             "numFound": 102,
             "start": 0,
@@ -7855,11 +7855,11 @@
               },
               {
                 "antall_personer": 101,
-                "nus_kortnavn": "\u00d8konomisk-administrative fag"
+                "nus_kortnavn": "Barneskole"
               },
               {
                 "antall_personer": 101,
-                "nus_kortnavn": "Barneskole"
+                "nus_kortnavn": "\u00d8konomisk-administrative fag"
               }
             ]
           }
@@ -7895,7 +7895,7 @@
           }
         },
         {
-          "groupValue": "y_avloser",
+          "groupValue": "y_bonde",
           "doclist": {
             "numFound": 134,
             "start": 0,
@@ -7925,7 +7925,7 @@
           }
         },
         {
-          "groupValue": "y_bonde",
+          "groupValue": "y_avloser",
           "doclist": {
             "numFound": 134,
             "start": 0,
@@ -7985,36 +7985,6 @@
           }
         },
         {
-          "groupValue": "y_anleggsgartner",
-          "doclist": {
-            "numFound": 140,
-            "start": 0,
-            "numFoundExact": true,
-            "docs": [
-              {
-                "antall_personer": 1056,
-                "nus_kortnavn": "Ungdomsskole"
-              },
-              {
-                "antall_personer": 992,
-                "nus_kortnavn": "Ingen eller ukjent utdanning"
-              },
-              {
-                "antall_personer": 751,
-                "nus_kortnavn": "Anleggsgartnerfag"
-              },
-              {
-                "antall_personer": 354,
-                "nus_kortnavn": "Studiespesialisering"
-              },
-              {
-                "antall_personer": 217,
-                "nus_kortnavn": "Gartneri og hagebruksfag"
-              }
-            ]
-          }
-        },
-        {
           "groupValue": "y_gartner",
           "doclist": {
             "numFound": 140,
@@ -8045,37 +8015,37 @@
           }
         },
         {
-          "groupValue": "y_fuoperator",
+          "groupValue": "y_anleggsgartner",
           "doclist": {
-            "numFound": 243,
+            "numFound": 140,
             "start": 0,
             "numFoundExact": true,
             "docs": [
               {
-                "antall_personer": 1055,
-                "nus_kortnavn": "Kjemiprosessfag"
-              },
-              {
-                "antall_personer": 1037,
+                "antall_personer": 1056,
                 "nus_kortnavn": "Ungdomsskole"
               },
               {
-                "antall_personer": 744,
-                "nus_kortnavn": "Boring"
+                "antall_personer": 992,
+                "nus_kortnavn": "Ingen eller ukjent utdanning"
               },
               {
-                "antall_personer": 622,
-                "nus_kortnavn": "Industrimekanikerfag"
+                "antall_personer": 751,
+                "nus_kortnavn": "Anleggsgartnerfag"
               },
               {
-                "antall_personer": 556,
-                "nus_kortnavn": "Boreoperat\u00f8rfag"
+                "antall_personer": 354,
+                "nus_kortnavn": "Studiespesialisering"
+              },
+              {
+                "antall_personer": 217,
+                "nus_kortnavn": "Gartneri og hagebruksfag"
               }
             ]
           }
         },
         {
-          "groupValue": "y_havbunnsinstallator",
+          "groupValue": "y_bronn_komp",
           "doclist": {
             "numFound": 243,
             "start": 0,
@@ -8135,7 +8105,7 @@
           }
         },
         {
-          "groupValue": "y_bronn_el",
+          "groupValue": "y_bronn",
           "doclist": {
             "numFound": 243,
             "start": 0,
@@ -8165,7 +8135,7 @@
           }
         },
         {
-          "groupValue": "y_bronn",
+          "groupValue": "y_bronn_sement",
           "doclist": {
             "numFound": 243,
             "start": 0,
@@ -8225,6 +8195,36 @@
           }
         },
         {
+          "groupValue": "y_bronn_el",
+          "doclist": {
+            "numFound": 243,
+            "start": 0,
+            "numFoundExact": true,
+            "docs": [
+              {
+                "antall_personer": 1055,
+                "nus_kortnavn": "Kjemiprosessfag"
+              },
+              {
+                "antall_personer": 1037,
+                "nus_kortnavn": "Ungdomsskole"
+              },
+              {
+                "antall_personer": 744,
+                "nus_kortnavn": "Boring"
+              },
+              {
+                "antall_personer": 622,
+                "nus_kortnavn": "Industrimekanikerfag"
+              },
+              {
+                "antall_personer": 556,
+                "nus_kortnavn": "Boreoperat\u00f8rfag"
+              }
+            ]
+          }
+        },
+        {
           "groupValue": "y_bronn_kveil",
           "doclist": {
             "numFound": 243,
@@ -8255,7 +8255,7 @@
           }
         },
         {
-          "groupValue": "y_bronn_komp",
+          "groupValue": "y_fuoperator",
           "doclist": {
             "numFound": 243,
             "start": 0,
@@ -8285,7 +8285,7 @@
           }
         },
         {
-          "groupValue": "y_bronn_sement",
+          "groupValue": "y_havbunnsinstallator",
           "doclist": {
             "numFound": 243,
             "start": 0,
@@ -8661,11 +8661,11 @@
               },
               {
                 "antall_personer": 14,
-                "nus_kortnavn": "Helsefremmende arbeid"
+                "nus_kortnavn": "Helse- og sosialfag"
               },
               {
                 "antall_personer": 14,
-                "nus_kortnavn": "Helse- og sosialfag"
+                "nus_kortnavn": "Helsefremmende arbeid"
               },
               {
                 "antall_personer": 12,
@@ -8795,7 +8795,7 @@
           }
         },
         {
-          "groupValue": "y_itutvikler",
+          "groupValue": "y_spillprogrammerer",
           "doclist": {
             "numFound": 159,
             "start": 0,
@@ -8855,7 +8855,7 @@
           }
         },
         {
-          "groupValue": "y_spillprogrammerer",
+          "groupValue": "y_itutvikler",
           "doclist": {
             "numFound": 159,
             "start": 0,
@@ -8945,36 +8945,6 @@
           }
         },
         {
-          "groupValue": "y_limtreprod",
-          "doclist": {
-            "numFound": 95,
-            "start": 0,
-            "numFoundExact": true,
-            "docs": [
-              {
-                "antall_personer": 825,
-                "nus_kortnavn": "Ungdomsskole"
-              },
-              {
-                "antall_personer": 177,
-                "nus_kortnavn": "Kjemiprosessfag"
-              },
-              {
-                "antall_personer": 159,
-                "nus_kortnavn": "Treforedlingsfag"
-              },
-              {
-                "antall_personer": 117,
-                "nus_kortnavn": "Studiespesialisering"
-              },
-              {
-                "antall_personer": 113,
-                "nus_kortnavn": "Produksjonsteknikkfag"
-              }
-            ]
-          }
-        },
-        {
           "groupValue": "y_stillasbygger",
           "doclist": {
             "numFound": 63,
@@ -9006,6 +8976,36 @@
         },
         {
           "groupValue": "y_trelast_limtre_operator",
+          "doclist": {
+            "numFound": 95,
+            "start": 0,
+            "numFoundExact": true,
+            "docs": [
+              {
+                "antall_personer": 825,
+                "nus_kortnavn": "Ungdomsskole"
+              },
+              {
+                "antall_personer": 177,
+                "nus_kortnavn": "Kjemiprosessfag"
+              },
+              {
+                "antall_personer": 159,
+                "nus_kortnavn": "Treforedlingsfag"
+              },
+              {
+                "antall_personer": 117,
+                "nus_kortnavn": "Studiespesialisering"
+              },
+              {
+                "antall_personer": 113,
+                "nus_kortnavn": "Produksjonsteknikkfag"
+              }
+            ]
+          }
+        },
+        {
+          "groupValue": "y_limtreprod",
           "doclist": {
             "numFound": 95,
             "start": 0,
@@ -9179,7 +9179,37 @@
               },
               {
                 "antall_personer": 43,
-                "nus_kortnavn": "\u00d8konomisk-administrative fag"
+                "nus_kortnavn": "Elektrikerfag"
+              }
+            ]
+          }
+        },
+        {
+          "groupValue": "y_provisorfarmasoyt",
+          "doclist": {
+            "numFound": 19,
+            "start": 0,
+            "numFoundExact": true,
+            "docs": [
+              {
+                "antall_personer": 766,
+                "nus_kortnavn": "Farmasi"
+              },
+              {
+                "antall_personer": 633,
+                "nus_kortnavn": "Farmasi profesjonsstudium"
+              },
+              {
+                "antall_personer": 69,
+                "nus_kortnavn": "Reseptarutdanning"
+              },
+              {
+                "antall_personer": 49,
+                "nus_kortnavn": "Reseptar- / farmasiutdanning"
+              },
+              {
+                "antall_personer": 33,
+                "nus_kortnavn": "Forskerutdanning i naturvitenskap / tekniske fag"
               }
             ]
           }
@@ -9215,31 +9245,31 @@
           }
         },
         {
-          "groupValue": "y_provisorfarmasoyt",
+          "groupValue": "y_prest",
           "doclist": {
-            "numFound": 19,
+            "numFound": 51,
             "start": 0,
             "numFoundExact": true,
             "docs": [
               {
-                "antall_personer": 766,
-                "nus_kortnavn": "Farmasi"
+                "antall_personer": 753,
+                "nus_kortnavn": "Teologi profesjonsstudium"
               },
               {
-                "antall_personer": 633,
-                "nus_kortnavn": "Farmasi profesjonsstudium"
+                "antall_personer": 353,
+                "nus_kortnavn": "Praktisk teologi"
               },
               {
-                "antall_personer": 69,
-                "nus_kortnavn": "Reseptarutdanning"
+                "antall_personer": 122,
+                "nus_kortnavn": "Humaniora"
               },
               {
-                "antall_personer": 49,
-                "nus_kortnavn": "Reseptar- / farmasiutdanning"
+                "antall_personer": 84,
+                "nus_kortnavn": "Kristendomskunnskap"
               },
               {
-                "antall_personer": 33,
-                "nus_kortnavn": "Forskerutdanning i naturvitenskap / tekniske fag"
+                "antall_personer": 75,
+                "nus_kortnavn": "Teologi og kristendom"
               }
             ]
           }
@@ -9276,36 +9306,6 @@
         },
         {
           "groupValue": "y_kateket",
-          "doclist": {
-            "numFound": 51,
-            "start": 0,
-            "numFoundExact": true,
-            "docs": [
-              {
-                "antall_personer": 753,
-                "nus_kortnavn": "Teologi profesjonsstudium"
-              },
-              {
-                "antall_personer": 353,
-                "nus_kortnavn": "Praktisk teologi"
-              },
-              {
-                "antall_personer": 122,
-                "nus_kortnavn": "Humaniora"
-              },
-              {
-                "antall_personer": 84,
-                "nus_kortnavn": "Kristendomskunnskap"
-              },
-              {
-                "antall_personer": 75,
-                "nus_kortnavn": "Teologi og kristendom"
-              }
-            ]
-          }
-        },
-        {
-          "groupValue": "y_prest",
           "doclist": {
             "numFound": 51,
             "start": 0,
@@ -9395,36 +9395,6 @@
           }
         },
         {
-          "groupValue": "y_fjell_bergverk",
-          "doclist": {
-            "numFound": 49,
-            "start": 0,
-            "numFoundExact": true,
-            "docs": [
-              {
-                "antall_personer": 718,
-                "nus_kortnavn": "Fjell- og bergverksfag"
-              },
-              {
-                "antall_personer": 455,
-                "nus_kortnavn": "Ungdomsskole"
-              },
-              {
-                "antall_personer": 231,
-                "nus_kortnavn": "Anleggsmaskinf\u00f8rerfag"
-              },
-              {
-                "antall_personer": 67,
-                "nus_kortnavn": "Anleggsmaskinmekanikerfag"
-              },
-              {
-                "antall_personer": 52,
-                "nus_kortnavn": "T\u00f8mrerfag"
-              }
-            ]
-          }
-        },
-        {
           "groupValue": "y_flislegger",
           "doclist": {
             "numFound": 42,
@@ -9450,6 +9420,36 @@
               {
                 "antall_personer": 92,
                 "nus_kortnavn": "Murerfag"
+              }
+            ]
+          }
+        },
+        {
+          "groupValue": "y_fjell_bergverk",
+          "doclist": {
+            "numFound": 49,
+            "start": 0,
+            "numFoundExact": true,
+            "docs": [
+              {
+                "antall_personer": 718,
+                "nus_kortnavn": "Fjell- og bergverksfag"
+              },
+              {
+                "antall_personer": 455,
+                "nus_kortnavn": "Ungdomsskole"
+              },
+              {
+                "antall_personer": 231,
+                "nus_kortnavn": "Anleggsmaskinf\u00f8rerfag"
+              },
+              {
+                "antall_personer": 67,
+                "nus_kortnavn": "Anleggsmaskinmekanikerfag"
+              },
+              {
+                "antall_personer": 52,
+                "nus_kortnavn": "T\u00f8mrerfag"
               }
             ]
           }
@@ -9485,7 +9485,7 @@
           }
         },
         {
-          "groupValue": "y_cncoperator",
+          "groupValue": "y_verktoymaker",
           "doclist": {
             "numFound": 97,
             "start": 0,
@@ -9515,7 +9515,7 @@
           }
         },
         {
-          "groupValue": "y_verktoymaker",
+          "groupValue": "y_cncoperator",
           "doclist": {
             "numFound": 97,
             "start": 0,
@@ -9665,6 +9665,36 @@
           }
         },
         {
+          "groupValue": "y_avisbud",
+          "doclist": {
+            "numFound": 60,
+            "start": 0,
+            "numFoundExact": true,
+            "docs": [
+              {
+                "antall_personer": 659,
+                "nus_kortnavn": "Ungdomsskole"
+              },
+              {
+                "antall_personer": 438,
+                "nus_kortnavn": "Ingen eller ukjent utdanning"
+              },
+              {
+                "antall_personer": 178,
+                "nus_kortnavn": "Studiespesialisering"
+              },
+              {
+                "antall_personer": 92,
+                "nus_kortnavn": "\u00d8konomisk-administrative fag"
+              },
+              {
+                "antall_personer": 82,
+                "nus_kortnavn": "Universitets- og h\u00f8gskoleutdanning"
+              }
+            ]
+          }
+        },
+        {
           "groupValue": "y_glassfagarbeider",
           "doclist": {
             "numFound": 69,
@@ -9695,31 +9725,31 @@
           }
         },
         {
-          "groupValue": "y_avisbud",
+          "groupValue": "y_billakkerer",
           "doclist": {
-            "numFound": 60,
+            "numFound": 57,
             "start": 0,
             "numFoundExact": true,
             "docs": [
               {
-                "antall_personer": 659,
+                "antall_personer": 654,
+                "nus_kortnavn": "Billakkererfag"
+              },
+              {
+                "antall_personer": 520,
                 "nus_kortnavn": "Ungdomsskole"
               },
               {
-                "antall_personer": 438,
+                "antall_personer": 260,
                 "nus_kortnavn": "Ingen eller ukjent utdanning"
               },
               {
-                "antall_personer": 178,
+                "antall_personer": 243,
+                "nus_kortnavn": "Industrimalerfag"
+              },
+              {
+                "antall_personer": 121,
                 "nus_kortnavn": "Studiespesialisering"
-              },
-              {
-                "antall_personer": 92,
-                "nus_kortnavn": "\u00d8konomisk-administrative fag"
-              },
-              {
-                "antall_personer": 82,
-                "nus_kortnavn": "Universitets- og h\u00f8gskoleutdanning"
               }
             ]
           }
@@ -9785,31 +9815,31 @@
           }
         },
         {
-          "groupValue": "y_billakkerer",
+          "groupValue": "y_konduktor",
           "doclist": {
-            "numFound": 57,
+            "numFound": 105,
             "start": 0,
             "numFoundExact": true,
             "docs": [
               {
-                "antall_personer": 654,
-                "nus_kortnavn": "Billakkererfag"
+                "antall_personer": 627,
+                "nus_kortnavn": "Studiespesialisering"
               },
               {
-                "antall_personer": 520,
+                "antall_personer": 539,
                 "nus_kortnavn": "Ungdomsskole"
               },
               {
-                "antall_personer": 260,
+                "antall_personer": 238,
+                "nus_kortnavn": "Reiselivsfag"
+              },
+              {
+                "antall_personer": 171,
+                "nus_kortnavn": "\u00d8konomisk-administrative fag"
+              },
+              {
+                "antall_personer": 141,
                 "nus_kortnavn": "Ingen eller ukjent utdanning"
-              },
-              {
-                "antall_personer": 243,
-                "nus_kortnavn": "Industrimalerfag"
-              },
-              {
-                "antall_personer": 121,
-                "nus_kortnavn": "Studiespesialisering"
               }
             ]
           }
@@ -9845,31 +9875,31 @@
           }
         },
         {
-          "groupValue": "y_konduktor",
+          "groupValue": "y_reiseliv",
           "doclist": {
-            "numFound": 105,
+            "numFound": 159,
             "start": 0,
             "numFoundExact": true,
             "docs": [
               {
-                "antall_personer": 627,
-                "nus_kortnavn": "Studiespesialisering"
-              },
-              {
-                "antall_personer": 539,
+                "antall_personer": 623,
                 "nus_kortnavn": "Ungdomsskole"
               },
               {
-                "antall_personer": 238,
+                "antall_personer": 563,
+                "nus_kortnavn": "Studiespesialisering"
+              },
+              {
+                "antall_personer": 351,
                 "nus_kortnavn": "Reiselivsfag"
               },
               {
-                "antall_personer": 171,
+                "antall_personer": 318,
                 "nus_kortnavn": "\u00d8konomisk-administrative fag"
               },
               {
-                "antall_personer": 141,
-                "nus_kortnavn": "Ingen eller ukjent utdanning"
+                "antall_personer": 299,
+                "nus_kortnavn": "Reiseliv"
               }
             ]
           }
@@ -9935,36 +9965,6 @@
           }
         },
         {
-          "groupValue": "y_reiseliv",
-          "doclist": {
-            "numFound": 159,
-            "start": 0,
-            "numFoundExact": true,
-            "docs": [
-              {
-                "antall_personer": 623,
-                "nus_kortnavn": "Ungdomsskole"
-              },
-              {
-                "antall_personer": 563,
-                "nus_kortnavn": "Studiespesialisering"
-              },
-              {
-                "antall_personer": 351,
-                "nus_kortnavn": "Reiselivsfag"
-              },
-              {
-                "antall_personer": 318,
-                "nus_kortnavn": "\u00d8konomisk-administrative fag"
-              },
-              {
-                "antall_personer": 299,
-                "nus_kortnavn": "Reiseliv"
-              }
-            ]
-          }
-        },
-        {
           "groupValue": "y_landskapsarkitekt",
           "doclist": {
             "numFound": 78,
@@ -10025,7 +10025,7 @@
           }
         },
         {
-          "groupValue": "y_badevakt",
+          "groupValue": "y_parkering",
           "doclist": {
             "numFound": 126,
             "start": 0,
@@ -10055,7 +10055,7 @@
           }
         },
         {
-          "groupValue": "y_parkering",
+          "groupValue": "y_badevakt",
           "doclist": {
             "numFound": 126,
             "start": 0,
@@ -10115,36 +10115,6 @@
           }
         },
         {
-          "groupValue": "y_industritekstil",
-          "doclist": {
-            "numFound": 57,
-            "start": 0,
-            "numFoundExact": true,
-            "docs": [
-              {
-                "antall_personer": 557,
-                "nus_kortnavn": "Ungdomsskole"
-              },
-              {
-                "antall_personer": 136,
-                "nus_kortnavn": "Ingen eller ukjent utdanning"
-              },
-              {
-                "antall_personer": 105,
-                "nus_kortnavn": "Studiespesialisering"
-              },
-              {
-                "antall_personer": 64,
-                "nus_kortnavn": "\u00d8konomisk-administrative fag"
-              },
-              {
-                "antall_personer": 44,
-                "nus_kortnavn": "Yrkesfag (h\u00e5ndverks- og industrifag)"
-              }
-            ]
-          }
-        },
-        {
           "groupValue": "y_lonnskonsulent",
           "doclist": {
             "numFound": 71,
@@ -10170,6 +10140,36 @@
               {
                 "antall_personer": 50,
                 "nus_kortnavn": "Kontorfag"
+              }
+            ]
+          }
+        },
+        {
+          "groupValue": "y_industritekstil",
+          "doclist": {
+            "numFound": 57,
+            "start": 0,
+            "numFoundExact": true,
+            "docs": [
+              {
+                "antall_personer": 557,
+                "nus_kortnavn": "Ungdomsskole"
+              },
+              {
+                "antall_personer": 136,
+                "nus_kortnavn": "Ingen eller ukjent utdanning"
+              },
+              {
+                "antall_personer": 105,
+                "nus_kortnavn": "Studiespesialisering"
+              },
+              {
+                "antall_personer": 64,
+                "nus_kortnavn": "\u00d8konomisk-administrative fag"
+              },
+              {
+                "antall_personer": 44,
+                "nus_kortnavn": "Yrkesfag (h\u00e5ndverks- og industrifag)"
               }
             ]
           }
@@ -10475,7 +10475,7 @@
           }
         },
         {
-          "groupValue": "y_helpdeskmedarbeider",
+          "groupValue": "y_ikt_service",
           "doclist": {
             "numFound": 181,
             "start": 0,
@@ -10505,7 +10505,7 @@
           }
         },
         {
-          "groupValue": "y_ikt_service",
+          "groupValue": "y_helpdeskmedarbeider",
           "doclist": {
             "numFound": 181,
             "start": 0,
@@ -10655,31 +10655,61 @@
           }
         },
         {
-          "groupValue": "y_aromaterapeut",
+          "groupValue": "y_sportsdommer",
           "doclist": {
-            "numFound": 74,
+            "numFound": 134,
             "start": 0,
             "numFoundExact": true,
             "docs": [
               {
                 "antall_personer": 444,
-                "nus_kortnavn": "Ungdomsskole"
-              },
-              {
-                "antall_personer": 347,
-                "nus_kortnavn": "Ingen eller ukjent utdanning"
-              },
-              {
-                "antall_personer": 257,
                 "nus_kortnavn": "Studiespesialisering"
               },
               {
-                "antall_personer": 255,
-                "nus_kortnavn": "Hudpleiefag"
+                "antall_personer": 383,
+                "nus_kortnavn": "Ungdomsskole"
               },
               {
-                "antall_personer": 201,
-                "nus_kortnavn": "Fotterapi"
+                "antall_personer": 280,
+                "nus_kortnavn": "Idrettsfag"
+              },
+              {
+                "antall_personer": 229,
+                "nus_kortnavn": "Idrett / kropps\u00f8ving"
+              },
+              {
+                "antall_personer": 227,
+                "nus_kortnavn": "Ingen eller ukjent utdanning"
+              }
+            ]
+          }
+        },
+        {
+          "groupValue": "y_ridelarer",
+          "doclist": {
+            "numFound": 134,
+            "start": 0,
+            "numFoundExact": true,
+            "docs": [
+              {
+                "antall_personer": 444,
+                "nus_kortnavn": "Studiespesialisering"
+              },
+              {
+                "antall_personer": 383,
+                "nus_kortnavn": "Ungdomsskole"
+              },
+              {
+                "antall_personer": 280,
+                "nus_kortnavn": "Idrettsfag"
+              },
+              {
+                "antall_personer": 229,
+                "nus_kortnavn": "Idrett / kropps\u00f8ving"
+              },
+              {
+                "antall_personer": 227,
+                "nus_kortnavn": "Ingen eller ukjent utdanning"
               }
             ]
           }
@@ -10710,6 +10740,36 @@
               {
                 "antall_personer": 227,
                 "nus_kortnavn": "Ingen eller ukjent utdanning"
+              }
+            ]
+          }
+        },
+        {
+          "groupValue": "y_aromaterapeut",
+          "doclist": {
+            "numFound": 74,
+            "start": 0,
+            "numFoundExact": true,
+            "docs": [
+              {
+                "antall_personer": 444,
+                "nus_kortnavn": "Ungdomsskole"
+              },
+              {
+                "antall_personer": 347,
+                "nus_kortnavn": "Ingen eller ukjent utdanning"
+              },
+              {
+                "antall_personer": 257,
+                "nus_kortnavn": "Studiespesialisering"
+              },
+              {
+                "antall_personer": 255,
+                "nus_kortnavn": "Hudpleiefag"
+              },
+              {
+                "antall_personer": 201,
+                "nus_kortnavn": "Fotterapi"
               }
             ]
           }
@@ -10775,61 +10835,31 @@
           }
         },
         {
-          "groupValue": "y_sportsdommer",
+          "groupValue": "y_sminkor",
           "doclist": {
-            "numFound": 134,
+            "numFound": 71,
             "start": 0,
             "numFoundExact": true,
             "docs": [
               {
-                "antall_personer": 444,
-                "nus_kortnavn": "Studiespesialisering"
-              },
-              {
-                "antall_personer": 383,
+                "antall_personer": 441,
                 "nus_kortnavn": "Ungdomsskole"
               },
               {
-                "antall_personer": 280,
-                "nus_kortnavn": "Idrettsfag"
-              },
-              {
-                "antall_personer": 229,
-                "nus_kortnavn": "Idrett / kropps\u00f8ving"
-              },
-              {
-                "antall_personer": 227,
+                "antall_personer": 344,
                 "nus_kortnavn": "Ingen eller ukjent utdanning"
-              }
-            ]
-          }
-        },
-        {
-          "groupValue": "y_ridelarer",
-          "doclist": {
-            "numFound": 134,
-            "start": 0,
-            "numFoundExact": true,
-            "docs": [
+              },
               {
-                "antall_personer": 444,
+                "antall_personer": 255,
+                "nus_kortnavn": "Hudpleiefag"
+              },
+              {
+                "antall_personer": 251,
                 "nus_kortnavn": "Studiespesialisering"
               },
               {
-                "antall_personer": 383,
-                "nus_kortnavn": "Ungdomsskole"
-              },
-              {
-                "antall_personer": 280,
-                "nus_kortnavn": "Idrettsfag"
-              },
-              {
-                "antall_personer": 229,
-                "nus_kortnavn": "Idrett / kropps\u00f8ving"
-              },
-              {
-                "antall_personer": 227,
-                "nus_kortnavn": "Ingen eller ukjent utdanning"
+                "antall_personer": 201,
+                "nus_kortnavn": "Fotterapi"
               }
             ]
           }
@@ -10985,36 +11015,6 @@
           }
         },
         {
-          "groupValue": "y_sminkor",
-          "doclist": {
-            "numFound": 71,
-            "start": 0,
-            "numFoundExact": true,
-            "docs": [
-              {
-                "antall_personer": 441,
-                "nus_kortnavn": "Ungdomsskole"
-              },
-              {
-                "antall_personer": 344,
-                "nus_kortnavn": "Ingen eller ukjent utdanning"
-              },
-              {
-                "antall_personer": 255,
-                "nus_kortnavn": "Hudpleiefag"
-              },
-              {
-                "antall_personer": 251,
-                "nus_kortnavn": "Studiespesialisering"
-              },
-              {
-                "antall_personer": 201,
-                "nus_kortnavn": "Fotterapi"
-              }
-            ]
-          }
-        },
-        {
           "groupValue": "y_pilot",
           "doclist": {
             "numFound": 43,
@@ -11075,67 +11075,67 @@
           }
         },
         {
-          "groupValue": "y_polsemaker",
-          "doclist": {
-            "numFound": 44,
-            "start": 0,
-            "numFoundExact": true,
-            "docs": [
-              {
-                "antall_personer": 431,
-                "nus_kortnavn": "Ingen eller ukjent utdanning"
-              },
-              {
-                "antall_personer": 392,
-                "nus_kortnavn": "Ungdomsskole"
-              },
-              {
-                "antall_personer": 152,
-                "nus_kortnavn": "Kj\u00f8ttskj\u00e6rerfag"
-              },
-              {
-                "antall_personer": 115,
-                "nus_kortnavn": "Slakterfag"
-              },
-              {
-                "antall_personer": 105,
-                "nus_kortnavn": "Studiespesialisering"
-              }
-            ]
-          }
-        },
-        {
-          "groupValue": "y_butikkslakter",
-          "doclist": {
-            "numFound": 44,
-            "start": 0,
-            "numFoundExact": true,
-            "docs": [
-              {
-                "antall_personer": 431,
-                "nus_kortnavn": "Ingen eller ukjent utdanning"
-              },
-              {
-                "antall_personer": 392,
-                "nus_kortnavn": "Ungdomsskole"
-              },
-              {
-                "antall_personer": 152,
-                "nus_kortnavn": "Kj\u00f8ttskj\u00e6rerfag"
-              },
-              {
-                "antall_personer": 115,
-                "nus_kortnavn": "Slakterfag"
-              },
-              {
-                "antall_personer": 105,
-                "nus_kortnavn": "Studiespesialisering"
-              }
-            ]
-          }
-        },
-        {
           "groupValue": "y_sjomathandler",
+          "doclist": {
+            "numFound": 44,
+            "start": 0,
+            "numFoundExact": true,
+            "docs": [
+              {
+                "antall_personer": 431,
+                "nus_kortnavn": "Ingen eller ukjent utdanning"
+              },
+              {
+                "antall_personer": 392,
+                "nus_kortnavn": "Ungdomsskole"
+              },
+              {
+                "antall_personer": 152,
+                "nus_kortnavn": "Kj\u00f8ttskj\u00e6rerfag"
+              },
+              {
+                "antall_personer": 115,
+                "nus_kortnavn": "Slakterfag"
+              },
+              {
+                "antall_personer": 105,
+                "nus_kortnavn": "Studiespesialisering"
+              }
+            ]
+          }
+        },
+        {
+          "groupValue": "y_slakter",
+          "doclist": {
+            "numFound": 44,
+            "start": 0,
+            "numFoundExact": true,
+            "docs": [
+              {
+                "antall_personer": 431,
+                "nus_kortnavn": "Ingen eller ukjent utdanning"
+              },
+              {
+                "antall_personer": 392,
+                "nus_kortnavn": "Ungdomsskole"
+              },
+              {
+                "antall_personer": 152,
+                "nus_kortnavn": "Kj\u00f8ttskj\u00e6rerfag"
+              },
+              {
+                "antall_personer": 115,
+                "nus_kortnavn": "Slakterfag"
+              },
+              {
+                "antall_personer": 105,
+                "nus_kortnavn": "Studiespesialisering"
+              }
+            ]
+          }
+        },
+        {
+          "groupValue": "y_polsemaker",
           "doclist": {
             "numFound": 44,
             "start": 0,
@@ -11195,7 +11195,7 @@
           }
         },
         {
-          "groupValue": "y_slakter",
+          "groupValue": "y_butikkslakter",
           "doclist": {
             "numFound": 44,
             "start": 0,
@@ -11345,7 +11345,7 @@
           }
         },
         {
-          "groupValue": "y_kjemiker",
+          "groupValue": "y_kjemiingenior",
           "doclist": {
             "numFound": 134,
             "start": 0,
@@ -11375,7 +11375,7 @@
           }
         },
         {
-          "groupValue": "y_kjemiingenior",
+          "groupValue": "y_kjemiker",
           "doclist": {
             "numFound": 134,
             "start": 0,
@@ -11615,6 +11615,36 @@
           }
         },
         {
+          "groupValue": "y_skogsoperator",
+          "doclist": {
+            "numFound": 32,
+            "start": 0,
+            "numFoundExact": true,
+            "docs": [
+              {
+                "antall_personer": 371,
+                "nus_kortnavn": "Ungdomsskole"
+              },
+              {
+                "antall_personer": 228,
+                "nus_kortnavn": "Skogfag"
+              },
+              {
+                "antall_personer": 121,
+                "nus_kortnavn": "Skogsmaskinf\u00f8rerfag"
+              },
+              {
+                "antall_personer": 110,
+                "nus_kortnavn": "Ingen eller ukjent utdanning"
+              },
+              {
+                "antall_personer": 38,
+                "nus_kortnavn": "T\u00f8mrerfag"
+              }
+            ]
+          }
+        },
+        {
           "groupValue": "y_dataelektroniker",
           "doclist": {
             "numFound": 52,
@@ -11645,31 +11675,31 @@
           }
         },
         {
-          "groupValue": "y_skogsoperator",
+          "groupValue": "y_sangpedagog",
           "doclist": {
-            "numFound": 32,
+            "numFound": 89,
             "start": 0,
             "numFoundExact": true,
             "docs": [
               {
-                "antall_personer": 371,
-                "nus_kortnavn": "Ungdomsskole"
+                "antall_personer": 370,
+                "nus_kortnavn": "Ut\u00f8vende musikk"
               },
               {
-                "antall_personer": 228,
-                "nus_kortnavn": "Skogfag"
+                "antall_personer": 239,
+                "nus_kortnavn": "Humaniora"
               },
               {
-                "antall_personer": 121,
-                "nus_kortnavn": "Skogsmaskinf\u00f8rerfag"
+                "antall_personer": 223,
+                "nus_kortnavn": "Musikk"
               },
               {
-                "antall_personer": 110,
-                "nus_kortnavn": "Ingen eller ukjent utdanning"
+                "antall_personer": 185,
+                "nus_kortnavn": "Musikk (videreutdanning)"
               },
               {
-                "antall_personer": 38,
-                "nus_kortnavn": "T\u00f8mrerfag"
+                "antall_personer": 167,
+                "nus_kortnavn": "Praktisk-pedagogisk utdanning"
               }
             ]
           }
@@ -11766,36 +11796,6 @@
         },
         {
           "groupValue": "y_musikkterapeut",
-          "doclist": {
-            "numFound": 89,
-            "start": 0,
-            "numFoundExact": true,
-            "docs": [
-              {
-                "antall_personer": 370,
-                "nus_kortnavn": "Ut\u00f8vende musikk"
-              },
-              {
-                "antall_personer": 239,
-                "nus_kortnavn": "Humaniora"
-              },
-              {
-                "antall_personer": 223,
-                "nus_kortnavn": "Musikk"
-              },
-              {
-                "antall_personer": 185,
-                "nus_kortnavn": "Musikk (videreutdanning)"
-              },
-              {
-                "antall_personer": 167,
-                "nus_kortnavn": "Praktisk-pedagogisk utdanning"
-              }
-            ]
-          }
-        },
-        {
-          "groupValue": "y_sangpedagog",
           "doclist": {
             "numFound": 89,
             "start": 0,
@@ -11945,97 +11945,37 @@
           }
         },
         {
-          "groupValue": "y_organistkantor",
-          "doclist": {
-            "numFound": 45,
-            "start": 0,
-            "numFoundExact": true,
-            "docs": [
-              {
-                "antall_personer": 342,
-                "nus_kortnavn": "Ut\u00f8vende musikk"
-              },
-              {
-                "antall_personer": 261,
-                "nus_kortnavn": "Humaniora"
-              },
-              {
-                "antall_personer": 219,
-                "nus_kortnavn": "Musikk"
-              },
-              {
-                "antall_personer": 155,
-                "nus_kortnavn": "Musikk (videreutdanning)"
-              },
-              {
-                "antall_personer": 113,
-                "nus_kortnavn": "Ingen eller ukjent utdanning"
-              }
-            ]
-          }
-        },
-        {
-          "groupValue": "y_musikkprodusent",
-          "doclist": {
-            "numFound": 45,
-            "start": 0,
-            "numFoundExact": true,
-            "docs": [
-              {
-                "antall_personer": 342,
-                "nus_kortnavn": "Ut\u00f8vende musikk"
-              },
-              {
-                "antall_personer": 261,
-                "nus_kortnavn": "Humaniora"
-              },
-              {
-                "antall_personer": 219,
-                "nus_kortnavn": "Musikk"
-              },
-              {
-                "antall_personer": 155,
-                "nus_kortnavn": "Musikk (videreutdanning)"
-              },
-              {
-                "antall_personer": 113,
-                "nus_kortnavn": "Ingen eller ukjent utdanning"
-              }
-            ]
-          }
-        },
-        {
-          "groupValue": "y_dirigent",
-          "doclist": {
-            "numFound": 45,
-            "start": 0,
-            "numFoundExact": true,
-            "docs": [
-              {
-                "antall_personer": 342,
-                "nus_kortnavn": "Ut\u00f8vende musikk"
-              },
-              {
-                "antall_personer": 261,
-                "nus_kortnavn": "Humaniora"
-              },
-              {
-                "antall_personer": 219,
-                "nus_kortnavn": "Musikk"
-              },
-              {
-                "antall_personer": 155,
-                "nus_kortnavn": "Musikk (videreutdanning)"
-              },
-              {
-                "antall_personer": 113,
-                "nus_kortnavn": "Ingen eller ukjent utdanning"
-              }
-            ]
-          }
-        },
-        {
           "groupValue": "y_sanger",
+          "doclist": {
+            "numFound": 45,
+            "start": 0,
+            "numFoundExact": true,
+            "docs": [
+              {
+                "antall_personer": 342,
+                "nus_kortnavn": "Ut\u00f8vende musikk"
+              },
+              {
+                "antall_personer": 261,
+                "nus_kortnavn": "Humaniora"
+              },
+              {
+                "antall_personer": 219,
+                "nus_kortnavn": "Musikk"
+              },
+              {
+                "antall_personer": 155,
+                "nus_kortnavn": "Musikk (videreutdanning)"
+              },
+              {
+                "antall_personer": 113,
+                "nus_kortnavn": "Ingen eller ukjent utdanning"
+              }
+            ]
+          }
+        },
+        {
+          "groupValue": "y_organistkantor",
           "doclist": {
             "numFound": 45,
             "start": 0,
@@ -12125,9 +12065,69 @@
           }
         },
         {
-          "groupValue": "y_hydrolog",
+          "groupValue": "y_musikkprodusent",
           "doclist": {
-            "numFound": 67,
+            "numFound": 45,
+            "start": 0,
+            "numFoundExact": true,
+            "docs": [
+              {
+                "antall_personer": 342,
+                "nus_kortnavn": "Ut\u00f8vende musikk"
+              },
+              {
+                "antall_personer": 261,
+                "nus_kortnavn": "Humaniora"
+              },
+              {
+                "antall_personer": 219,
+                "nus_kortnavn": "Musikk"
+              },
+              {
+                "antall_personer": 155,
+                "nus_kortnavn": "Musikk (videreutdanning)"
+              },
+              {
+                "antall_personer": 113,
+                "nus_kortnavn": "Ingen eller ukjent utdanning"
+              }
+            ]
+          }
+        },
+        {
+          "groupValue": "y_dirigent",
+          "doclist": {
+            "numFound": 45,
+            "start": 0,
+            "numFoundExact": true,
+            "docs": [
+              {
+                "antall_personer": 342,
+                "nus_kortnavn": "Ut\u00f8vende musikk"
+              },
+              {
+                "antall_personer": 261,
+                "nus_kortnavn": "Humaniora"
+              },
+              {
+                "antall_personer": 219,
+                "nus_kortnavn": "Musikk"
+              },
+              {
+                "antall_personer": 155,
+                "nus_kortnavn": "Musikk (videreutdanning)"
+              },
+              {
+                "antall_personer": 113,
+                "nus_kortnavn": "Ingen eller ukjent utdanning"
+              }
+            ]
+          }
+        },
+        {
+          "groupValue": "y_geograf",
+          "doclist": {
+            "numFound": 123,
             "start": 0,
             "numFoundExact": true,
             "docs": [
@@ -12140,16 +12140,16 @@
                 "nus_kortnavn": "Geofag"
               },
               {
+                "antall_personer": 254,
+                "nus_kortnavn": "Ingen eller ukjent utdanning"
+              },
+              {
                 "antall_personer": 252,
                 "nus_kortnavn": "Realfag"
               },
               {
-                "antall_personer": 214,
-                "nus_kortnavn": "Ingen eller ukjent utdanning"
-              },
-              {
-                "antall_personer": 185,
-                "nus_kortnavn": "Forskerutdanning i realfag"
+                "antall_personer": 188,
+                "nus_kortnavn": "Forskerutdanning i naturvitenskap / tekniske fag"
               }
             ]
           }
@@ -12185,31 +12185,31 @@
           }
         },
         {
-          "groupValue": "y_designer",
+          "groupValue": "y_hydrolog",
           "doclist": {
-            "numFound": 153,
+            "numFound": 67,
             "start": 0,
             "numFoundExact": true,
             "docs": [
               {
                 "antall_personer": 341,
-                "nus_kortnavn": "Humaniora"
+                "nus_kortnavn": "Geologi"
               },
               {
-                "antall_personer": 267,
-                "nus_kortnavn": "Industridesign"
+                "antall_personer": 297,
+                "nus_kortnavn": "Geofag"
               },
               {
-                "antall_personer": 267,
+                "antall_personer": 252,
+                "nus_kortnavn": "Realfag"
+              },
+              {
+                "antall_personer": 214,
                 "nus_kortnavn": "Ingen eller ukjent utdanning"
               },
               {
-                "antall_personer": 255,
-                "nus_kortnavn": "Ungdomsskole"
-              },
-              {
-                "antall_personer": 255,
-                "nus_kortnavn": "Studiespesialisering"
+                "antall_personer": 185,
+                "nus_kortnavn": "Forskerutdanning i realfag"
               }
             ]
           }
@@ -12275,36 +12275,6 @@
           }
         },
         {
-          "groupValue": "y_geograf",
-          "doclist": {
-            "numFound": 123,
-            "start": 0,
-            "numFoundExact": true,
-            "docs": [
-              {
-                "antall_personer": 341,
-                "nus_kortnavn": "Geologi"
-              },
-              {
-                "antall_personer": 297,
-                "nus_kortnavn": "Geofag"
-              },
-              {
-                "antall_personer": 254,
-                "nus_kortnavn": "Ingen eller ukjent utdanning"
-              },
-              {
-                "antall_personer": 252,
-                "nus_kortnavn": "Realfag"
-              },
-              {
-                "antall_personer": 188,
-                "nus_kortnavn": "Forskerutdanning i naturvitenskap / tekniske fag"
-              }
-            ]
-          }
-        },
-        {
           "groupValue": "y_geolog",
           "doclist": {
             "numFound": 67,
@@ -12330,6 +12300,36 @@
               {
                 "antall_personer": 185,
                 "nus_kortnavn": "Forskerutdanning i realfag"
+              }
+            ]
+          }
+        },
+        {
+          "groupValue": "y_designer",
+          "doclist": {
+            "numFound": 153,
+            "start": 0,
+            "numFoundExact": true,
+            "docs": [
+              {
+                "antall_personer": 341,
+                "nus_kortnavn": "Humaniora"
+              },
+              {
+                "antall_personer": 267,
+                "nus_kortnavn": "Ingen eller ukjent utdanning"
+              },
+              {
+                "antall_personer": 267,
+                "nus_kortnavn": "Industridesign"
+              },
+              {
+                "antall_personer": 255,
+                "nus_kortnavn": "Studiespesialisering"
+              },
+              {
+                "antall_personer": 255,
+                "nus_kortnavn": "Ungdomsskole"
               }
             ]
           }
@@ -12605,36 +12605,6 @@
           }
         },
         {
-          "groupValue": "y_logoped",
-          "doclist": {
-            "numFound": 11,
-            "start": 0,
-            "numFoundExact": true,
-            "docs": [
-              {
-                "antall_personer": 318,
-                "nus_kortnavn": "Audiografi / audiologi"
-              },
-              {
-                "antall_personer": 107,
-                "nus_kortnavn": "Logopedi"
-              },
-              {
-                "antall_personer": 83,
-                "nus_kortnavn": "Spesialpedagogikk"
-              },
-              {
-                "antall_personer": 21,
-                "nus_kortnavn": "Helse- og sosialfag"
-              },
-              {
-                "antall_personer": 15,
-                "nus_kortnavn": "Pedagogikk"
-              }
-            ]
-          }
-        },
-        {
           "groupValue": "y_naringsmiddeltek",
           "doclist": {
             "numFound": 269,
@@ -12660,6 +12630,36 @@
               {
                 "antall_personer": 164,
                 "nus_kortnavn": "Sykepleie"
+              }
+            ]
+          }
+        },
+        {
+          "groupValue": "y_logoped",
+          "doclist": {
+            "numFound": 11,
+            "start": 0,
+            "numFoundExact": true,
+            "docs": [
+              {
+                "antall_personer": 318,
+                "nus_kortnavn": "Audiografi / audiologi"
+              },
+              {
+                "antall_personer": 107,
+                "nus_kortnavn": "Logopedi"
+              },
+              {
+                "antall_personer": 83,
+                "nus_kortnavn": "Spesialpedagogikk"
+              },
+              {
+                "antall_personer": 21,
+                "nus_kortnavn": "Helse- og sosialfag"
+              },
+              {
+                "antall_personer": 15,
+                "nus_kortnavn": "Pedagogikk"
               }
             ]
           }
@@ -12725,67 +12725,7 @@
           }
         },
         {
-          "groupValue": "y_havforsker",
-          "doclist": {
-            "numFound": 62,
-            "start": 0,
-            "numFoundExact": true,
-            "docs": [
-              {
-                "antall_personer": 304,
-                "nus_kortnavn": "Forskerutdanning i naturvitenskap / tekniske fag"
-              },
-              {
-                "antall_personer": 157,
-                "nus_kortnavn": "Biologi"
-              },
-              {
-                "antall_personer": 108,
-                "nus_kortnavn": "Forskerutdanning i realfag"
-              },
-              {
-                "antall_personer": 100,
-                "nus_kortnavn": "Fiskehelse / akvamedisin"
-              },
-              {
-                "antall_personer": 97,
-                "nus_kortnavn": "Ingen eller ukjent utdanning"
-              }
-            ]
-          }
-        },
-        {
           "groupValue": "y_biolog",
-          "doclist": {
-            "numFound": 62,
-            "start": 0,
-            "numFoundExact": true,
-            "docs": [
-              {
-                "antall_personer": 304,
-                "nus_kortnavn": "Forskerutdanning i naturvitenskap / tekniske fag"
-              },
-              {
-                "antall_personer": 157,
-                "nus_kortnavn": "Biologi"
-              },
-              {
-                "antall_personer": 108,
-                "nus_kortnavn": "Forskerutdanning i realfag"
-              },
-              {
-                "antall_personer": 100,
-                "nus_kortnavn": "Fiskehelse / akvamedisin"
-              },
-              {
-                "antall_personer": 97,
-                "nus_kortnavn": "Ingen eller ukjent utdanning"
-              }
-            ]
-          }
-        },
-        {
-          "groupValue": "y_mikrobiolog",
           "doclist": {
             "numFound": 62,
             "start": 0,
@@ -12845,37 +12785,7 @@
           }
         },
         {
-          "groupValue": "y_fiskered",
-          "doclist": {
-            "numFound": 43,
-            "start": 0,
-            "numFoundExact": true,
-            "docs": [
-              {
-                "antall_personer": 304,
-                "nus_kortnavn": "Ungdomsskole"
-              },
-              {
-                "antall_personer": 81,
-                "nus_kortnavn": "Ingen eller ukjent utdanning"
-              },
-              {
-                "antall_personer": 45,
-                "nus_kortnavn": "Studiespesialisering"
-              },
-              {
-                "antall_personer": 26,
-                "nus_kortnavn": "\u00d8konomisk-administrative fag"
-              },
-              {
-                "antall_personer": 14,
-                "nus_kortnavn": "Yrkesfag (h\u00e5ndverks- og industrifag)"
-              }
-            ]
-          }
-        },
-        {
-          "groupValue": "y_marin_bioteknolog",
+          "groupValue": "y_havforsker",
           "doclist": {
             "numFound": 62,
             "start": 0,
@@ -12935,7 +12845,97 @@
           }
         },
         {
+          "groupValue": "y_mikrobiolog",
+          "doclist": {
+            "numFound": 62,
+            "start": 0,
+            "numFoundExact": true,
+            "docs": [
+              {
+                "antall_personer": 304,
+                "nus_kortnavn": "Forskerutdanning i naturvitenskap / tekniske fag"
+              },
+              {
+                "antall_personer": 157,
+                "nus_kortnavn": "Biologi"
+              },
+              {
+                "antall_personer": 108,
+                "nus_kortnavn": "Forskerutdanning i realfag"
+              },
+              {
+                "antall_personer": 100,
+                "nus_kortnavn": "Fiskehelse / akvamedisin"
+              },
+              {
+                "antall_personer": 97,
+                "nus_kortnavn": "Ingen eller ukjent utdanning"
+              }
+            ]
+          }
+        },
+        {
           "groupValue": "y_trikotasjefaget",
+          "doclist": {
+            "numFound": 43,
+            "start": 0,
+            "numFoundExact": true,
+            "docs": [
+              {
+                "antall_personer": 304,
+                "nus_kortnavn": "Ungdomsskole"
+              },
+              {
+                "antall_personer": 81,
+                "nus_kortnavn": "Ingen eller ukjent utdanning"
+              },
+              {
+                "antall_personer": 45,
+                "nus_kortnavn": "Studiespesialisering"
+              },
+              {
+                "antall_personer": 26,
+                "nus_kortnavn": "\u00d8konomisk-administrative fag"
+              },
+              {
+                "antall_personer": 14,
+                "nus_kortnavn": "Barneskole"
+              }
+            ]
+          }
+        },
+        {
+          "groupValue": "y_marin_bioteknolog",
+          "doclist": {
+            "numFound": 62,
+            "start": 0,
+            "numFoundExact": true,
+            "docs": [
+              {
+                "antall_personer": 304,
+                "nus_kortnavn": "Forskerutdanning i naturvitenskap / tekniske fag"
+              },
+              {
+                "antall_personer": 157,
+                "nus_kortnavn": "Biologi"
+              },
+              {
+                "antall_personer": 108,
+                "nus_kortnavn": "Forskerutdanning i realfag"
+              },
+              {
+                "antall_personer": 100,
+                "nus_kortnavn": "Fiskehelse / akvamedisin"
+              },
+              {
+                "antall_personer": 97,
+                "nus_kortnavn": "Ingen eller ukjent utdanning"
+              }
+            ]
+          }
+        },
+        {
+          "groupValue": "y_fiskered",
           "doclist": {
             "numFound": 43,
             "start": 0,
@@ -13025,36 +13025,6 @@
           }
         },
         {
-          "groupValue": "y_grafisk_designer",
-          "doclist": {
-            "numFound": 142,
-            "start": 0,
-            "numFoundExact": true,
-            "docs": [
-              {
-                "antall_personer": 284,
-                "nus_kortnavn": "Humaniora"
-              },
-              {
-                "antall_personer": 233,
-                "nus_kortnavn": "Mediedesign"
-              },
-              {
-                "antall_personer": 232,
-                "nus_kortnavn": "Studiespesialisering"
-              },
-              {
-                "antall_personer": 231,
-                "nus_kortnavn": "Tegne-, grafikk-, maler- og skulpt\u00f8rutdanning"
-              },
-              {
-                "antall_personer": 231,
-                "nus_kortnavn": "Ungdomsskole"
-              }
-            ]
-          }
-        },
-        {
           "groupValue": "y_interaksjonsdesigner",
           "doclist": {
             "numFound": 142,
@@ -13105,11 +13075,41 @@
               },
               {
                 "antall_personer": 231,
+                "nus_kortnavn": "Tegne-, grafikk-, maler- og skulpt\u00f8rutdanning"
+              },
+              {
+                "antall_personer": 231,
                 "nus_kortnavn": "Ungdomsskole"
+              }
+            ]
+          }
+        },
+        {
+          "groupValue": "y_grafisk_designer",
+          "doclist": {
+            "numFound": 142,
+            "start": 0,
+            "numFoundExact": true,
+            "docs": [
+              {
+                "antall_personer": 284,
+                "nus_kortnavn": "Humaniora"
+              },
+              {
+                "antall_personer": 233,
+                "nus_kortnavn": "Mediedesign"
+              },
+              {
+                "antall_personer": 232,
+                "nus_kortnavn": "Studiespesialisering"
               },
               {
                 "antall_personer": 231,
                 "nus_kortnavn": "Tegne-, grafikk-, maler- og skulpt\u00f8rutdanning"
+              },
+              {
+                "antall_personer": 231,
+                "nus_kortnavn": "Ungdomsskole"
               }
             ]
           }
@@ -13175,7 +13175,7 @@
           }
         },
         {
-          "groupValue": "y_inspisient",
+          "groupValue": "y_scenograf",
           "doclist": {
             "numFound": 91,
             "start": 0,
@@ -13205,7 +13205,7 @@
           }
         },
         {
-          "groupValue": "y_scenograf",
+          "groupValue": "y_inspisient",
           "doclist": {
             "numFound": 91,
             "start": 0,
@@ -13265,7 +13265,7 @@
           }
         },
         {
-          "groupValue": "y_flystrukturmekaniker",
+          "groupValue": "y_flysystemmek",
           "doclist": {
             "numFound": 37,
             "start": 0,
@@ -13355,7 +13355,7 @@
           }
         },
         {
-          "groupValue": "y_flytekniker",
+          "groupValue": "y_flystrukturmekaniker",
           "doclist": {
             "numFound": 37,
             "start": 0,
@@ -13385,7 +13385,7 @@
           }
         },
         {
-          "groupValue": "y_flysystemmek",
+          "groupValue": "y_flytekniker",
           "doclist": {
             "numFound": 37,
             "start": 0,
@@ -13445,7 +13445,7 @@
           }
         },
         {
-          "groupValue": "y_interiorkonsulent",
+          "groupValue": "y_rekvisitor",
           "doclist": {
             "numFound": 72,
             "start": 0,
@@ -13475,7 +13475,7 @@
           }
         },
         {
-          "groupValue": "y_rekvisitor",
+          "groupValue": "y_interiorkonsulent",
           "doclist": {
             "numFound": 72,
             "start": 0,
@@ -13625,36 +13625,6 @@
           }
         },
         {
-          "groupValue": "y_grafiskemb",
-          "doclist": {
-            "numFound": 24,
-            "start": 0,
-            "numFoundExact": true,
-            "docs": [
-              {
-                "antall_personer": 226,
-                "nus_kortnavn": "Ungdomsskole"
-              },
-              {
-                "antall_personer": 28,
-                "nus_kortnavn": "Studiespesialisering"
-              },
-              {
-                "antall_personer": 28,
-                "nus_kortnavn": "Kartonasjefag"
-              },
-              {
-                "antall_personer": 24,
-                "nus_kortnavn": "Grafisk emballasjefag"
-              },
-              {
-                "antall_personer": 15,
-                "nus_kortnavn": "P\u00e5bygging til generell studiekompetanse"
-              }
-            ]
-          }
-        },
-        {
           "groupValue": "y_nettverksadm",
           "doclist": {
             "numFound": 85,
@@ -13680,6 +13650,36 @@
               {
                 "antall_personer": 96,
                 "nus_kortnavn": "Informatikk"
+              }
+            ]
+          }
+        },
+        {
+          "groupValue": "y_grafiskemb",
+          "doclist": {
+            "numFound": 24,
+            "start": 0,
+            "numFoundExact": true,
+            "docs": [
+              {
+                "antall_personer": 226,
+                "nus_kortnavn": "Ungdomsskole"
+              },
+              {
+                "antall_personer": 28,
+                "nus_kortnavn": "Studiespesialisering"
+              },
+              {
+                "antall_personer": 28,
+                "nus_kortnavn": "Kartonasjefag"
+              },
+              {
+                "antall_personer": 24,
+                "nus_kortnavn": "Grafisk emballasjefag"
+              },
+              {
+                "antall_personer": 15,
+                "nus_kortnavn": "P\u00e5bygging til generell studiekompetanse"
               }
             ]
           }
@@ -13745,7 +13745,7 @@
           }
         },
         {
-          "groupValue": "y_filolog",
+          "groupValue": "y_tegnspraktolk",
           "doclist": {
             "numFound": 86,
             "start": 0,
@@ -13805,7 +13805,7 @@
           }
         },
         {
-          "groupValue": "y_tegnspraktolk",
+          "groupValue": "y_tolk",
           "doclist": {
             "numFound": 86,
             "start": 0,
@@ -13835,7 +13835,7 @@
           }
         },
         {
-          "groupValue": "y_tolk",
+          "groupValue": "y_filolog",
           "doclist": {
             "numFound": 86,
             "start": 0,
@@ -14225,36 +14225,6 @@
           }
         },
         {
-          "groupValue": "y_dyrefag",
-          "doclist": {
-            "numFound": 40,
-            "start": 0,
-            "numFoundExact": true,
-            "docs": [
-              {
-                "antall_personer": 179,
-                "nus_kortnavn": "Ungdomsskole"
-              },
-              {
-                "antall_personer": 56,
-                "nus_kortnavn": "Studiespesialisering"
-              },
-              {
-                "antall_personer": 52,
-                "nus_kortnavn": "Veterin\u00e6rfag"
-              },
-              {
-                "antall_personer": 46,
-                "nus_kortnavn": "Ingen eller ukjent utdanning"
-              },
-              {
-                "antall_personer": 40,
-                "nus_kortnavn": "P\u00e5bygging til generell studiekompetanse"
-              }
-            ]
-          }
-        },
-        {
           "groupValue": "y_dyrepasser",
           "doclist": {
             "numFound": 40,
@@ -14285,7 +14255,37 @@
           }
         },
         {
-          "groupValue": "y_medietekniker",
+          "groupValue": "y_dyrefag",
+          "doclist": {
+            "numFound": 40,
+            "start": 0,
+            "numFoundExact": true,
+            "docs": [
+              {
+                "antall_personer": 179,
+                "nus_kortnavn": "Ungdomsskole"
+              },
+              {
+                "antall_personer": 56,
+                "nus_kortnavn": "Studiespesialisering"
+              },
+              {
+                "antall_personer": 52,
+                "nus_kortnavn": "Veterin\u00e6rfag"
+              },
+              {
+                "antall_personer": 46,
+                "nus_kortnavn": "Ingen eller ukjent utdanning"
+              },
+              {
+                "antall_personer": 40,
+                "nus_kortnavn": "P\u00e5bygging til generell studiekompetanse"
+              }
+            ]
+          }
+        },
+        {
+          "groupValue": "y_lydtekniker",
           "doclist": {
             "numFound": 72,
             "start": 0,
@@ -14315,7 +14315,7 @@
           }
         },
         {
-          "groupValue": "y_lydtekniker",
+          "groupValue": "y_medietekniker",
           "doclist": {
             "numFound": 72,
             "start": 0,
@@ -14375,36 +14375,6 @@
           }
         },
         {
-          "groupValue": "y_geokjemiker",
-          "doclist": {
-            "numFound": 35,
-            "start": 0,
-            "numFoundExact": true,
-            "docs": [
-              {
-                "antall_personer": 164,
-                "nus_kortnavn": "Forskerutdanning i naturvitenskap / tekniske fag"
-              },
-              {
-                "antall_personer": 122,
-                "nus_kortnavn": "Kjemi"
-              },
-              {
-                "antall_personer": 91,
-                "nus_kortnavn": "Kjemi og bioteknologi"
-              },
-              {
-                "antall_personer": 65,
-                "nus_kortnavn": "Ingen eller ukjent utdanning"
-              },
-              {
-                "antall_personer": 59,
-                "nus_kortnavn": "Forskerutdanning i realfag"
-              }
-            ]
-          }
-        },
-        {
           "groupValue": "y_steinfagarbeider",
           "doclist": {
             "numFound": 33,
@@ -14435,6 +14405,36 @@
           }
         },
         {
+          "groupValue": "y_geokjemiker",
+          "doclist": {
+            "numFound": 35,
+            "start": 0,
+            "numFoundExact": true,
+            "docs": [
+              {
+                "antall_personer": 164,
+                "nus_kortnavn": "Forskerutdanning i naturvitenskap / tekniske fag"
+              },
+              {
+                "antall_personer": 122,
+                "nus_kortnavn": "Kjemi"
+              },
+              {
+                "antall_personer": 91,
+                "nus_kortnavn": "Kjemi og bioteknologi"
+              },
+              {
+                "antall_personer": 65,
+                "nus_kortnavn": "Ingen eller ukjent utdanning"
+              },
+              {
+                "antall_personer": 59,
+                "nus_kortnavn": "Forskerutdanning i realfag"
+              }
+            ]
+          }
+        },
+        {
           "groupValue": "y_sikkerhetsradgiver_it",
           "doclist": {
             "numFound": 93,
@@ -14459,7 +14459,7 @@
               },
               {
                 "antall_personer": 84,
-                "nus_kortnavn": "Ingeni\u00f8r, data"
+                "nus_kortnavn": "Informatikk"
               }
             ]
           }
@@ -14495,7 +14495,7 @@
           }
         },
         {
-          "groupValue": "y_menighetspedagog",
+          "groupValue": "y_misjonar",
           "doclist": {
             "numFound": 134,
             "start": 0,
@@ -14525,7 +14525,7 @@
           }
         },
         {
-          "groupValue": "y_diakonimedarbeider",
+          "groupValue": "y_menighetspedagog",
           "doclist": {
             "numFound": 134,
             "start": 0,
@@ -14585,7 +14585,7 @@
           }
         },
         {
-          "groupValue": "y_misjonar",
+          "groupValue": "y_diakonimedarbeider",
           "doclist": {
             "numFound": 134,
             "start": 0,
@@ -14645,36 +14645,6 @@
           }
         },
         {
-          "groupValue": "y_fiskeskipper",
-          "doclist": {
-            "numFound": 19,
-            "start": 0,
-            "numFoundExact": true,
-            "docs": [
-              {
-                "antall_personer": 153,
-                "nus_kortnavn": "Ungdomsskole"
-              },
-              {
-                "antall_personer": 49,
-                "nus_kortnavn": "Ingen eller ukjent utdanning"
-              },
-              {
-                "antall_personer": 32,
-                "nus_kortnavn": "Matrosfag"
-              },
-              {
-                "antall_personer": 28,
-                "nus_kortnavn": "Fiske og fangst"
-              },
-              {
-                "antall_personer": 20,
-                "nus_kortnavn": "Studiespesialisering"
-              }
-            ]
-          }
-        },
-        {
           "groupValue": "y_fisker",
           "doclist": {
             "numFound": 19,
@@ -14705,31 +14675,31 @@
           }
         },
         {
-          "groupValue": "y_historiker",
+          "groupValue": "y_fiskeskipper",
           "doclist": {
-            "numFound": 8,
+            "numFound": 19,
             "start": 0,
             "numFoundExact": true,
             "docs": [
               {
-                "antall_personer": 151,
-                "nus_kortnavn": "Arkeologi"
+                "antall_personer": 153,
+                "nus_kortnavn": "Ungdomsskole"
               },
               {
-                "antall_personer": 18,
-                "nus_kortnavn": "Humaniora"
+                "antall_personer": 49,
+                "nus_kortnavn": "Ingen eller ukjent utdanning"
               },
               {
-                "antall_personer": 14,
-                "nus_kortnavn": "Historie"
+                "antall_personer": 32,
+                "nus_kortnavn": "Matrosfag"
               },
               {
-                "antall_personer": 12,
-                "nus_kortnavn": "Arkeologi, kunsthistorie og konservering"
+                "antall_personer": 28,
+                "nus_kortnavn": "Fiske og fangst"
               },
               {
-                "antall_personer": 12,
-                "nus_kortnavn": "Forskerutdanning i humaniora"
+                "antall_personer": 20,
+                "nus_kortnavn": "Studiespesialisering"
               }
             ]
           }
@@ -14765,7 +14735,67 @@
           }
         },
         {
+          "groupValue": "y_kulturviter",
+          "doclist": {
+            "numFound": 8,
+            "start": 0,
+            "numFoundExact": true,
+            "docs": [
+              {
+                "antall_personer": 151,
+                "nus_kortnavn": "Arkeologi"
+              },
+              {
+                "antall_personer": 18,
+                "nus_kortnavn": "Humaniora"
+              },
+              {
+                "antall_personer": 14,
+                "nus_kortnavn": "Historie"
+              },
+              {
+                "antall_personer": 12,
+                "nus_kortnavn": "Arkeologi, kunsthistorie og konservering"
+              },
+              {
+                "antall_personer": 12,
+                "nus_kortnavn": "Forskerutdanning i humaniora"
+              }
+            ]
+          }
+        },
+        {
           "groupValue": "y_kunsthistoriker",
+          "doclist": {
+            "numFound": 8,
+            "start": 0,
+            "numFoundExact": true,
+            "docs": [
+              {
+                "antall_personer": 151,
+                "nus_kortnavn": "Arkeologi"
+              },
+              {
+                "antall_personer": 18,
+                "nus_kortnavn": "Humaniora"
+              },
+              {
+                "antall_personer": 14,
+                "nus_kortnavn": "Historie"
+              },
+              {
+                "antall_personer": 12,
+                "nus_kortnavn": "Arkeologi, kunsthistorie og konservering"
+              },
+              {
+                "antall_personer": 12,
+                "nus_kortnavn": "Forskerutdanning i humaniora"
+              }
+            ]
+          }
+        },
+        {
+          "groupValue": "y_historiker",
           "doclist": {
             "numFound": 8,
             "start": 0,
@@ -14825,61 +14855,31 @@
           }
         },
         {
-          "groupValue": "y_kulturviter",
+          "groupValue": "y_skadedyrbekjemper",
           "doclist": {
-            "numFound": 8,
-            "start": 0,
-            "numFoundExact": true,
-            "docs": [
-              {
-                "antall_personer": 151,
-                "nus_kortnavn": "Arkeologi"
-              },
-              {
-                "antall_personer": 18,
-                "nus_kortnavn": "Humaniora"
-              },
-              {
-                "antall_personer": 14,
-                "nus_kortnavn": "Historie"
-              },
-              {
-                "antall_personer": 12,
-                "nus_kortnavn": "Arkeologi, kunsthistorie og konservering"
-              },
-              {
-                "antall_personer": 12,
-                "nus_kortnavn": "Forskerutdanning i humaniora"
-              }
-            ]
-          }
-        },
-        {
-          "groupValue": "y_aktuar",
-          "doclist": {
-            "numFound": 85,
+            "numFound": 20,
             "start": 0,
             "numFoundExact": true,
             "docs": [
               {
                 "antall_personer": 149,
-                "nus_kortnavn": "\u00d8konomisk-administrative fag"
+                "nus_kortnavn": "Ungdomsskole"
               },
               {
-                "antall_personer": 122,
-                "nus_kortnavn": "Samfunns\u00f8konomi"
+                "antall_personer": 23,
+                "nus_kortnavn": "T\u00f8mrerfag"
               },
               {
-                "antall_personer": 71,
-                "nus_kortnavn": "Ingen eller ukjent utdanning"
+                "antall_personer": 19,
+                "nus_kortnavn": "Studiespesialisering"
               },
               {
-                "antall_personer": 58,
-                "nus_kortnavn": "Forskerutdanning i naturvitenskap / tekniske fag"
+                "antall_personer": 17,
+                "nus_kortnavn": "P\u00e5bygging til generell studiekompetanse"
               },
               {
-                "antall_personer": 51,
-                "nus_kortnavn": "Statistikk"
+                "antall_personer": 7,
+                "nus_kortnavn": "Yrkessj\u00e5f\u00f8rfag"
               }
             ]
           }
@@ -14915,31 +14915,31 @@
           }
         },
         {
-          "groupValue": "y_skadedyrbekjemper",
+          "groupValue": "y_aktuar",
           "doclist": {
-            "numFound": 20,
+            "numFound": 85,
             "start": 0,
             "numFoundExact": true,
             "docs": [
               {
                 "antall_personer": 149,
-                "nus_kortnavn": "Ungdomsskole"
+                "nus_kortnavn": "\u00d8konomisk-administrative fag"
               },
               {
-                "antall_personer": 23,
-                "nus_kortnavn": "T\u00f8mrerfag"
+                "antall_personer": 122,
+                "nus_kortnavn": "Samfunns\u00f8konomi"
               },
               {
-                "antall_personer": 19,
-                "nus_kortnavn": "Studiespesialisering"
+                "antall_personer": 71,
+                "nus_kortnavn": "Ingen eller ukjent utdanning"
               },
               {
-                "antall_personer": 17,
-                "nus_kortnavn": "P\u00e5bygging til generell studiekompetanse"
+                "antall_personer": 58,
+                "nus_kortnavn": "Forskerutdanning i naturvitenskap / tekniske fag"
               },
               {
-                "antall_personer": 7,
-                "nus_kortnavn": "Yrkessj\u00e5f\u00f8rfag"
+                "antall_personer": 51,
+                "nus_kortnavn": "Statistikk"
               }
             ]
           }
@@ -14975,7 +14975,7 @@
           }
         },
         {
-          "groupValue": "y_guide",
+          "groupValue": "y_reiseleder",
           "doclist": {
             "numFound": 66,
             "start": 0,
@@ -15005,7 +15005,7 @@
           }
         },
         {
-          "groupValue": "y_reiseleder",
+          "groupValue": "y_guide",
           "doclist": {
             "numFound": 66,
             "start": 0,
@@ -15245,7 +15245,7 @@
           }
         },
         {
-          "groupValue": "y_antikvar",
+          "groupValue": "y_konservator",
           "doclist": {
             "numFound": 62,
             "start": 0,
@@ -15305,7 +15305,7 @@
           }
         },
         {
-          "groupValue": "y_konservator",
+          "groupValue": "y_antikvar",
           "doclist": {
             "numFound": 62,
             "start": 0,
@@ -15445,11 +15445,11 @@
               },
               {
                 "antall_personer": 9,
-                "nus_kortnavn": "Filigranss\u00f8lvsmedfag"
+                "nus_kortnavn": "Humaniora"
               },
               {
                 "antall_personer": 9,
-                "nus_kortnavn": "Forberedende pr\u00f8ver"
+                "nus_kortnavn": "Filigranss\u00f8lvsmedfag"
               }
             ]
           }
@@ -15475,11 +15475,41 @@
               },
               {
                 "antall_personer": 9,
-                "nus_kortnavn": "Filigranss\u00f8lvsmedfag"
+                "nus_kortnavn": "Forberedende pr\u00f8ver"
+              },
+              {
+                "antall_personer": 9,
+                "nus_kortnavn": "Humaniora"
+              }
+            ]
+          }
+        },
+        {
+          "groupValue": "y_solvsmed",
+          "doclist": {
+            "numFound": 17,
+            "start": 0,
+            "numFoundExact": true,
+            "docs": [
+              {
+                "antall_personer": 103,
+                "nus_kortnavn": "Gullsmedfag"
+              },
+              {
+                "antall_personer": 43,
+                "nus_kortnavn": "Ungdomsskole"
+              },
+              {
+                "antall_personer": 16,
+                "nus_kortnavn": "Studiespesialisering"
               },
               {
                 "antall_personer": 9,
                 "nus_kortnavn": "Forberedende pr\u00f8ver"
+              },
+              {
+                "antall_personer": 9,
+                "nus_kortnavn": "Filigranss\u00f8lvsmedfag"
               }
             ]
           }
@@ -15535,41 +15565,11 @@
               },
               {
                 "antall_personer": 9,
-                "nus_kortnavn": "Filigranss\u00f8lvsmedfag"
-              },
-              {
-                "antall_personer": 9,
                 "nus_kortnavn": "Forberedende pr\u00f8ver"
-              }
-            ]
-          }
-        },
-        {
-          "groupValue": "y_solvsmed",
-          "doclist": {
-            "numFound": 17,
-            "start": 0,
-            "numFoundExact": true,
-            "docs": [
-              {
-                "antall_personer": 103,
-                "nus_kortnavn": "Gullsmedfag"
-              },
-              {
-                "antall_personer": 43,
-                "nus_kortnavn": "Ungdomsskole"
-              },
-              {
-                "antall_personer": 16,
-                "nus_kortnavn": "Studiespesialisering"
               },
               {
                 "antall_personer": 9,
-                "nus_kortnavn": "Filigranss\u00f8lvsmedfag"
-              },
-              {
-                "antall_personer": 9,
-                "nus_kortnavn": "Forberedende pr\u00f8ver"
+                "nus_kortnavn": "Humaniora"
               }
             ]
           }
@@ -15600,6 +15600,36 @@
               {
                 "antall_personer": 36,
                 "nus_kortnavn": "\u00d8konomisk-administrative fag"
+              }
+            ]
+          }
+        },
+        {
+          "groupValue": "y_samfunnsplanlegger",
+          "doclist": {
+            "numFound": 105,
+            "start": 0,
+            "numFoundExact": true,
+            "docs": [
+              {
+                "antall_personer": 98,
+                "nus_kortnavn": "Arealplanlegging og eiendomsfag"
+              },
+              {
+                "antall_personer": 89,
+                "nus_kortnavn": "Byggingeni\u00f8r"
+              },
+              {
+                "antall_personer": 82,
+                "nus_kortnavn": "Bygg- og milj\u00f8teknikk"
+              },
+              {
+                "antall_personer": 81,
+                "nus_kortnavn": "Teknologi, bygg- og milj\u00f8teknikk"
+              },
+              {
+                "antall_personer": 64,
+                "nus_kortnavn": "By- og regionplanlegging"
               }
             ]
           }
@@ -15660,66 +15690,6 @@
               {
                 "antall_personer": 61,
                 "nus_kortnavn": "Teknologi, bygg- og milj\u00f8teknikk"
-              }
-            ]
-          }
-        },
-        {
-          "groupValue": "y_samfunnsplanlegger",
-          "doclist": {
-            "numFound": 105,
-            "start": 0,
-            "numFoundExact": true,
-            "docs": [
-              {
-                "antall_personer": 98,
-                "nus_kortnavn": "Arealplanlegging og eiendomsfag"
-              },
-              {
-                "antall_personer": 89,
-                "nus_kortnavn": "Byggingeni\u00f8r"
-              },
-              {
-                "antall_personer": 82,
-                "nus_kortnavn": "Bygg- og milj\u00f8teknikk"
-              },
-              {
-                "antall_personer": 81,
-                "nus_kortnavn": "Teknologi, bygg- og milj\u00f8teknikk"
-              },
-              {
-                "antall_personer": 64,
-                "nus_kortnavn": "By- og regionplanlegging"
-              }
-            ]
-          }
-        },
-        {
-          "groupValue": "y_ind_tapet",
-          "doclist": {
-            "numFound": 18,
-            "start": 0,
-            "numFoundExact": true,
-            "docs": [
-              {
-                "antall_personer": 96,
-                "nus_kortnavn": "Ungdomsskole"
-              },
-              {
-                "antall_personer": 34,
-                "nus_kortnavn": "Industritapetsererfag"
-              },
-              {
-                "antall_personer": 14,
-                "nus_kortnavn": "M\u00f8beltapetsererfag"
-              },
-              {
-                "antall_personer": 13,
-                "nus_kortnavn": "Ingen eller ukjent utdanning"
-              },
-              {
-                "antall_personer": 12,
-                "nus_kortnavn": "Yrkesfag (h\u00e5ndverks- og industrifag)"
               }
             ]
           }
@@ -15815,6 +15785,36 @@
           }
         },
         {
+          "groupValue": "y_ind_tapet",
+          "doclist": {
+            "numFound": 18,
+            "start": 0,
+            "numFoundExact": true,
+            "docs": [
+              {
+                "antall_personer": 96,
+                "nus_kortnavn": "Ungdomsskole"
+              },
+              {
+                "antall_personer": 34,
+                "nus_kortnavn": "Industritapetsererfag"
+              },
+              {
+                "antall_personer": 14,
+                "nus_kortnavn": "M\u00f8beltapetsererfag"
+              },
+              {
+                "antall_personer": 13,
+                "nus_kortnavn": "Ingen eller ukjent utdanning"
+              },
+              {
+                "antall_personer": 12,
+                "nus_kortnavn": "Yrkesfag (h\u00e5ndverks- og industrifag)"
+              }
+            ]
+          }
+        },
+        {
           "groupValue": "y_klesdesigner",
           "doclist": {
             "numFound": 40,
@@ -15875,36 +15875,6 @@
           }
         },
         {
-          "groupValue": "y_dramaturg",
-          "doclist": {
-            "numFound": 77,
-            "start": 0,
-            "numFoundExact": true,
-            "docs": [
-              {
-                "antall_personer": 91,
-                "nus_kortnavn": "Studiespesialisering"
-              },
-              {
-                "antall_personer": 86,
-                "nus_kortnavn": "Humaniora"
-              },
-              {
-                "antall_personer": 78,
-                "nus_kortnavn": "Film- og TV-produksjon"
-              },
-              {
-                "antall_personer": 72,
-                "nus_kortnavn": "Ungdomsskole"
-              },
-              {
-                "antall_personer": 65,
-                "nus_kortnavn": "\u00d8konomisk-administrative fag"
-              }
-            ]
-          }
-        },
-        {
           "groupValue": "y_regissor",
           "doclist": {
             "numFound": 77,
@@ -15935,31 +15905,31 @@
           }
         },
         {
-          "groupValue": "y_forlagsmedarbeider",
+          "groupValue": "y_dramaturg",
           "doclist": {
-            "numFound": 81,
+            "numFound": 77,
             "start": 0,
             "numFoundExact": true,
             "docs": [
               {
+                "antall_personer": 91,
+                "nus_kortnavn": "Studiespesialisering"
+              },
+              {
                 "antall_personer": 86,
-                "nus_kortnavn": "Litteratur"
-              },
-              {
-                "antall_personer": 75,
-                "nus_kortnavn": "Journalistikk"
-              },
-              {
-                "antall_personer": 64,
-                "nus_kortnavn": "Norsk / nordisk"
-              },
-              {
-                "antall_personer": 55,
                 "nus_kortnavn": "Humaniora"
               },
               {
-                "antall_personer": 51,
-                "nus_kortnavn": "Studiespesialisering"
+                "antall_personer": 78,
+                "nus_kortnavn": "Film- og TV-produksjon"
+              },
+              {
+                "antall_personer": 72,
+                "nus_kortnavn": "Ungdomsskole"
+              },
+              {
+                "antall_personer": 65,
+                "nus_kortnavn": "\u00d8konomisk-administrative fag"
               }
             ]
           }
@@ -15996,6 +15966,36 @@
         },
         {
           "groupValue": "y_teknisk_forfatter",
+          "doclist": {
+            "numFound": 81,
+            "start": 0,
+            "numFoundExact": true,
+            "docs": [
+              {
+                "antall_personer": 86,
+                "nus_kortnavn": "Litteratur"
+              },
+              {
+                "antall_personer": 75,
+                "nus_kortnavn": "Journalistikk"
+              },
+              {
+                "antall_personer": 64,
+                "nus_kortnavn": "Norsk / nordisk"
+              },
+              {
+                "antall_personer": 55,
+                "nus_kortnavn": "Humaniora"
+              },
+              {
+                "antall_personer": 51,
+                "nus_kortnavn": "Studiespesialisering"
+              }
+            ]
+          }
+        },
+        {
+          "groupValue": "y_forlagsmedarbeider",
           "doclist": {
             "numFound": 81,
             "start": 0,
@@ -16115,7 +16115,7 @@
           }
         },
         {
-          "groupValue": "y_kriminolog",
+          "groupValue": "y_sosiolog",
           "doclist": {
             "numFound": 66,
             "start": 0,
@@ -16175,7 +16175,7 @@
           }
         },
         {
-          "groupValue": "y_sosiolog",
+          "groupValue": "y_kriminolog",
           "doclist": {
             "numFound": 66,
             "start": 0,
@@ -16206,36 +16206,6 @@
         },
         {
           "groupValue": "y_bunadtilvirker",
-          "doclist": {
-            "numFound": 27,
-            "start": 0,
-            "numFoundExact": true,
-            "docs": [
-              {
-                "antall_personer": 79,
-                "nus_kortnavn": "Ungdomsskole"
-              },
-              {
-                "antall_personer": 25,
-                "nus_kortnavn": "Kjole- og draktsyerfag"
-              },
-              {
-                "antall_personer": 22,
-                "nus_kortnavn": "Bunadtilvirkerfag"
-              },
-              {
-                "antall_personer": 15,
-                "nus_kortnavn": "Ingen eller ukjent utdanning"
-              },
-              {
-                "antall_personer": 15,
-                "nus_kortnavn": "Studiespesialisering"
-              }
-            ]
-          }
-        },
-        {
-          "groupValue": "y_duojar",
           "doclist": {
             "numFound": 27,
             "start": 0,
@@ -16325,6 +16295,36 @@
           }
         },
         {
+          "groupValue": "y_duojar",
+          "doclist": {
+            "numFound": 27,
+            "start": 0,
+            "numFoundExact": true,
+            "docs": [
+              {
+                "antall_personer": 79,
+                "nus_kortnavn": "Ungdomsskole"
+              },
+              {
+                "antall_personer": 25,
+                "nus_kortnavn": "Kjole- og draktsyerfag"
+              },
+              {
+                "antall_personer": 22,
+                "nus_kortnavn": "Bunadtilvirkerfag"
+              },
+              {
+                "antall_personer": 15,
+                "nus_kortnavn": "Studiespesialisering"
+              },
+              {
+                "antall_personer": 15,
+                "nus_kortnavn": "Ingen eller ukjent utdanning"
+              }
+            ]
+          }
+        },
+        {
           "groupValue": "y_politiker",
           "doclist": {
             "numFound": 61,
@@ -16385,7 +16385,7 @@
           }
         },
         {
-          "groupValue": "y_hovslager",
+          "groupValue": "y_smed",
           "doclist": {
             "numFound": 12,
             "start": 0,
@@ -16415,7 +16415,7 @@
           }
         },
         {
-          "groupValue": "y_smed",
+          "groupValue": "y_hovslager",
           "doclist": {
             "numFound": 12,
             "start": 0,
@@ -16475,36 +16475,6 @@
           }
         },
         {
-          "groupValue": "y_it_utvikler",
-          "doclist": {
-            "numFound": 39,
-            "start": 0,
-            "numFoundExact": true,
-            "docs": [
-              {
-                "antall_personer": 70,
-                "nus_kortnavn": "Informatikk"
-              },
-              {
-                "antall_personer": 50,
-                "nus_kortnavn": "Ingen eller ukjent utdanning"
-              },
-              {
-                "antall_personer": 46,
-                "nus_kortnavn": "Informasjons- og datateknologi"
-              },
-              {
-                "antall_personer": 38,
-                "nus_kortnavn": "Informasjons- og kommunikasjonsteknologi"
-              },
-              {
-                "antall_personer": 38,
-                "nus_kortnavn": "Ungdomsskole"
-              }
-            ]
-          }
-        },
-        {
           "groupValue": "y_romteknolog",
           "doclist": {
             "numFound": 22,
@@ -16535,7 +16505,97 @@
           }
         },
         {
-          "groupValue": "y_akupunktor",
+          "groupValue": "y_it_utvikler",
+          "doclist": {
+            "numFound": 39,
+            "start": 0,
+            "numFoundExact": true,
+            "docs": [
+              {
+                "antall_personer": 70,
+                "nus_kortnavn": "Informatikk"
+              },
+              {
+                "antall_personer": 50,
+                "nus_kortnavn": "Ingen eller ukjent utdanning"
+              },
+              {
+                "antall_personer": 46,
+                "nus_kortnavn": "Informasjons- og datateknologi"
+              },
+              {
+                "antall_personer": 38,
+                "nus_kortnavn": "Informasjons- og kommunikasjonsteknologi"
+              },
+              {
+                "antall_personer": 38,
+                "nus_kortnavn": "Ungdomsskole"
+              }
+            ]
+          }
+        },
+        {
+          "groupValue": "y_soneterapeut",
+          "doclist": {
+            "numFound": 14,
+            "start": 0,
+            "numFoundExact": true,
+            "docs": [
+              {
+                "antall_personer": 68,
+                "nus_kortnavn": "Terapeutiske fag"
+              },
+              {
+                "antall_personer": 34,
+                "nus_kortnavn": "Helse- og sosialfag"
+              },
+              {
+                "antall_personer": 7,
+                "nus_kortnavn": "Akupunktur"
+              },
+              {
+                "antall_personer": 6,
+                "nus_kortnavn": "Studiespesialisering"
+              },
+              {
+                "antall_personer": 6,
+                "nus_kortnavn": "Universitets- og h\u00f8gskoleutdanning"
+              }
+            ]
+          }
+        },
+        {
+          "groupValue": "y_biopat",
+          "doclist": {
+            "numFound": 14,
+            "start": 0,
+            "numFoundExact": true,
+            "docs": [
+              {
+                "antall_personer": 68,
+                "nus_kortnavn": "Terapeutiske fag"
+              },
+              {
+                "antall_personer": 34,
+                "nus_kortnavn": "Helse- og sosialfag"
+              },
+              {
+                "antall_personer": 7,
+                "nus_kortnavn": "Akupunktur"
+              },
+              {
+                "antall_personer": 6,
+                "nus_kortnavn": "Universitets- og h\u00f8gskoleutdanning"
+              },
+              {
+                "antall_personer": 6,
+                "nus_kortnavn": "Studiespesialisering"
+              }
+            ]
+          }
+        },
+        {
+          "groupValue": "y_psykoterapeut",
           "doclist": {
             "numFound": 14,
             "start": 0,
@@ -16595,67 +16655,7 @@
           }
         },
         {
-          "groupValue": "y_biopat",
-          "doclist": {
-            "numFound": 14,
-            "start": 0,
-            "numFoundExact": true,
-            "docs": [
-              {
-                "antall_personer": 68,
-                "nus_kortnavn": "Terapeutiske fag"
-              },
-              {
-                "antall_personer": 34,
-                "nus_kortnavn": "Helse- og sosialfag"
-              },
-              {
-                "antall_personer": 7,
-                "nus_kortnavn": "Akupunktur"
-              },
-              {
-                "antall_personer": 6,
-                "nus_kortnavn": "Studiespesialisering"
-              },
-              {
-                "antall_personer": 6,
-                "nus_kortnavn": "Universitets- og h\u00f8gskoleutdanning"
-              }
-            ]
-          }
-        },
-        {
-          "groupValue": "y_psykoterapeut",
-          "doclist": {
-            "numFound": 14,
-            "start": 0,
-            "numFoundExact": true,
-            "docs": [
-              {
-                "antall_personer": 68,
-                "nus_kortnavn": "Terapeutiske fag"
-              },
-              {
-                "antall_personer": 34,
-                "nus_kortnavn": "Helse- og sosialfag"
-              },
-              {
-                "antall_personer": 7,
-                "nus_kortnavn": "Akupunktur"
-              },
-              {
-                "antall_personer": 6,
-                "nus_kortnavn": "Universitets- og h\u00f8gskoleutdanning"
-              },
-              {
-                "antall_personer": 6,
-                "nus_kortnavn": "Studiespesialisering"
-              }
-            ]
-          }
-        },
-        {
-          "groupValue": "y_soneterapeut",
+          "groupValue": "y_akupunktor",
           "doclist": {
             "numFound": 14,
             "start": 0,
@@ -17045,6 +17045,36 @@
           }
         },
         {
+          "groupValue": "y_storurmaker",
+          "doclist": {
+            "numFound": 39,
+            "start": 0,
+            "numFoundExact": true,
+            "docs": [
+              {
+                "antall_personer": 57,
+                "nus_kortnavn": "Automatiseringsfag"
+              },
+              {
+                "antall_personer": 54,
+                "nus_kortnavn": "Urmakerfag"
+              },
+              {
+                "antall_personer": 50,
+                "nus_kortnavn": "Ungdomsskole"
+              },
+              {
+                "antall_personer": 22,
+                "nus_kortnavn": "Industrimekanikerfag"
+              },
+              {
+                "antall_personer": 21,
+                "nus_kortnavn": "Produksjonsteknikkfag"
+              }
+            ]
+          }
+        },
+        {
           "groupValue": "y_nautisk_instrument",
           "doclist": {
             "numFound": 39,
@@ -17105,7 +17135,7 @@
           }
         },
         {
-          "groupValue": "y_danser",
+          "groupValue": "y_koreograf",
           "doclist": {
             "numFound": 10,
             "start": 0,
@@ -17165,7 +17195,7 @@
           }
         },
         {
-          "groupValue": "y_finmekaniker",
+          "groupValue": "y_urmaker",
           "doclist": {
             "numFound": 39,
             "start": 0,
@@ -17195,7 +17225,7 @@
           }
         },
         {
-          "groupValue": "y_koreograf",
+          "groupValue": "y_danser",
           "doclist": {
             "numFound": 10,
             "start": 0,
@@ -17225,37 +17255,7 @@
           }
         },
         {
-          "groupValue": "y_storurmaker",
-          "doclist": {
-            "numFound": 39,
-            "start": 0,
-            "numFoundExact": true,
-            "docs": [
-              {
-                "antall_personer": 57,
-                "nus_kortnavn": "Automatiseringsfag"
-              },
-              {
-                "antall_personer": 54,
-                "nus_kortnavn": "Urmakerfag"
-              },
-              {
-                "antall_personer": 50,
-                "nus_kortnavn": "Ungdomsskole"
-              },
-              {
-                "antall_personer": 22,
-                "nus_kortnavn": "Industrimekanikerfag"
-              },
-              {
-                "antall_personer": 21,
-                "nus_kortnavn": "Produksjonsteknikkfag"
-              }
-            ]
-          }
-        },
-        {
-          "groupValue": "y_urmaker",
+          "groupValue": "y_finmekaniker",
           "doclist": {
             "numFound": 39,
             "start": 0,
@@ -17315,7 +17315,7 @@
           }
         },
         {
-          "groupValue": "y_landbrukssjef",
+          "groupValue": "y_skogbrukssjef",
           "doclist": {
             "numFound": 49,
             "start": 0,
@@ -17345,7 +17345,7 @@
           }
         },
         {
-          "groupValue": "y_skogbrukssjef",
+          "groupValue": "y_landbrukssjef",
           "doclist": {
             "numFound": 49,
             "start": 0,
@@ -17447,18 +17447,19 @@
               },
               {
                 "antall_personer": 5,
-                "nus_kortnavn": "Glassfag"
-              },
-              {
-                "antall_personer": 5,
                 "nus_kortnavn": "Ingen eller ukjent utdanning"
               },
               {
-                "antall_personer": 3
+                "antall_personer": 5,
+                "nus_kortnavn": "Glassfag"
               },
               {
                 "antall_personer": 3,
                 "nus_kortnavn": "Tegne-, grafikk-, maler- og skulpt\u00f8rutdanning"
+              },
+              {
+                "antall_personer": 3,
+                "nus_kortnavn": "Ungdomsskole"
               }
             ]
           }

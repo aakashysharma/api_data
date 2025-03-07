@@ -6770,16 +6770,6 @@
     "elements": []
   },
   {
-    "id": "onet_y_paleontolog",
-    "uno_id": "y_paleontolog",
-    "yrke_tittel": "Paleontolog",
-    "yrke_nus": null,
-    "yrke_summary": "En paleontolog forsker p\u00e5 bergarter, dyre- og plantefossiler.\r\n",
-    "yrke_beskrivelse_url": "/yrker/beskrivelse/paleontolog",
-    "sum_importance": 0,
-    "elements": []
-  },
-  {
     "id": "onet_y_kurator",
     "uno_id": "y_kurator",
     "yrke_tittel": "Kurator",
@@ -8202,6 +8192,16 @@
     ],
     "yrke_summary": "Som arbeidsleder innen industri og produksjon har du en sentral rolle i \u00e5 planlegge, lede og fordele produksjonen p\u00e5 arbeidsplassen. ",
     "yrke_beskrivelse_url": "/yrker/beskrivelse/arbeidsleder_innen_industri_og_produksjon",
+    "sum_importance": 0,
+    "elements": []
+  },
+  {
+    "id": "onet_y_paleontolog",
+    "uno_id": "y_paleontolog",
+    "yrke_tittel": "Paleontolog",
+    "yrke_nus": null,
+    "yrke_summary": "En paleontolog forsker p\u00e5 bergarter, dyre- og plantefossiler.\r\n",
+    "yrke_beskrivelse_url": "/yrker/beskrivelse/paleontolog",
     "sum_importance": 0,
     "elements": []
   },

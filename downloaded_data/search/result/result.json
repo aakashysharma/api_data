@@ -2,7 +2,7 @@
   "@context": "/contexts/SearchResult",
   "@id": "/search/result",
   "@type": "hydra:Collection",
-  "hydra:totalItems": 10800,
+  "hydra:totalItems": 10798,
   "hydra:member": [
     {
       "@id": "/search_results/0",
@@ -24,7 +24,7 @@
       "stedsnavn": "",
       "organisasjon": "",
       "utdanningsniva": "Universitet og h\u00f8gskole",
-      "score": 28.1227,
+      "score": 28.150105,
       "forste_semester": "",
       "siste_semester": "",
       "program_status": ""
@@ -49,7 +49,7 @@
       "stedsnavn": "",
       "organisasjon": "",
       "utdanningsniva": "Universitet og h\u00f8gskole",
-      "score": 28.1227,
+      "score": 28.150105,
       "forste_semester": "",
       "siste_semester": "",
       "program_status": ""
@@ -74,7 +74,7 @@
       "stedsnavn": "",
       "organisasjon": "",
       "utdanningsniva": "Universitet og h\u00f8gskole",
-      "score": 28.1227,
+      "score": 28.150105,
       "forste_semester": "",
       "siste_semester": "",
       "program_status": ""
@@ -99,7 +99,7 @@
       "stedsnavn": "",
       "organisasjon": "",
       "utdanningsniva": "Universitet og h\u00f8gskole",
-      "score": 28.1227,
+      "score": 28.150105,
       "forste_semester": "",
       "siste_semester": "",
       "program_status": ""
@@ -124,7 +124,7 @@
       "stedsnavn": "",
       "organisasjon": "",
       "utdanningsniva": "Universitet og h\u00f8gskole",
-      "score": 28.1227,
+      "score": 28.150105,
       "forste_semester": "",
       "siste_semester": "",
       "program_status": ""
@@ -149,7 +149,7 @@
       "stedsnavn": "",
       "organisasjon": "",
       "utdanningsniva": "Universitet og h\u00f8gskole",
-      "score": 28.1227,
+      "score": 28.150105,
       "forste_semester": "",
       "siste_semester": "",
       "program_status": ""
@@ -174,7 +174,7 @@
       "stedsnavn": "",
       "organisasjon": "",
       "utdanningsniva": "Universitet og h\u00f8gskole",
-      "score": 28.1227,
+      "score": 28.150105,
       "forste_semester": "",
       "siste_semester": "",
       "program_status": ""
@@ -199,7 +199,7 @@
       "stedsnavn": "",
       "organisasjon": "",
       "utdanningsniva": "Universitet og h\u00f8gskole",
-      "score": 28.1227,
+      "score": 28.150105,
       "forste_semester": "",
       "siste_semester": "",
       "program_status": ""
@@ -224,7 +224,7 @@
       "stedsnavn": "",
       "organisasjon": "",
       "utdanningsniva": "Universitet og h\u00f8gskole",
-      "score": 28.1227,
+      "score": 28.150105,
       "forste_semester": "",
       "siste_semester": "",
       "program_status": ""
@@ -249,7 +249,7 @@
       "stedsnavn": "",
       "organisasjon": "",
       "utdanningsniva": "Universitet og h\u00f8gskole",
-      "score": 28.1227,
+      "score": 28.150105,
       "forste_semester": "",
       "siste_semester": "",
       "program_status": ""
@@ -274,7 +274,7 @@
       "stedsnavn": "",
       "organisasjon": "",
       "utdanningsniva": "Universitet og h\u00f8gskole",
-      "score": 28.1227,
+      "score": 28.150105,
       "forste_semester": "",
       "siste_semester": "",
       "program_status": ""
@@ -299,7 +299,7 @@
       "stedsnavn": "",
       "organisasjon": "",
       "utdanningsniva": "Universitet og h\u00f8gskole",
-      "score": 28.1227,
+      "score": 28.150105,
       "forste_semester": "",
       "siste_semester": "",
       "program_status": ""
@@ -324,7 +324,7 @@
       "stedsnavn": "",
       "organisasjon": "",
       "utdanningsniva": "Universitet og h\u00f8gskole",
-      "score": 28.1227,
+      "score": 28.150105,
       "forste_semester": "",
       "siste_semester": "",
       "program_status": ""
@@ -349,7 +349,7 @@
       "stedsnavn": "",
       "organisasjon": "",
       "utdanningsniva": "Universitet og h\u00f8gskole",
-      "score": 28.1227,
+      "score": 28.150105,
       "forste_semester": "",
       "siste_semester": "",
       "program_status": ""
@@ -374,7 +374,7 @@
       "stedsnavn": "",
       "organisasjon": "",
       "utdanningsniva": "Universitet og h\u00f8gskole",
-      "score": 28.1227,
+      "score": 28.150105,
       "forste_semester": "",
       "siste_semester": "",
       "program_status": ""
@@ -399,7 +399,7 @@
       "stedsnavn": "",
       "organisasjon": "",
       "utdanningsniva": "Universitet og h\u00f8gskole",
-      "score": 28.1227,
+      "score": 28.150105,
       "forste_semester": "",
       "siste_semester": "",
       "program_status": ""
@@ -424,7 +424,7 @@
       "stedsnavn": "",
       "organisasjon": "",
       "utdanningsniva": "Fagskole",
-      "score": 28.1227,
+      "score": 28.150105,
       "forste_semester": "",
       "siste_semester": "",
       "program_status": ""
@@ -449,7 +449,7 @@
       "stedsnavn": "",
       "organisasjon": "",
       "utdanningsniva": "Fagskole",
-      "score": 28.1227,
+      "score": 28.150105,
       "forste_semester": "",
       "siste_semester": "",
       "program_status": ""
@@ -474,7 +474,7 @@
       "stedsnavn": "",
       "organisasjon": "",
       "utdanningsniva": "Fagskole",
-      "score": 28.1227,
+      "score": 28.150105,
       "forste_semester": "",
       "siste_semester": "",
       "program_status": ""
@@ -499,7 +499,7 @@
       "stedsnavn": "",
       "organisasjon": "",
       "utdanningsniva": "Videreg\u00e5ende",
-      "score": 28.1227,
+      "score": 28.150105,
       "forste_semester": "",
       "siste_semester": "",
       "program_status": ""
@@ -524,7 +524,7 @@
       "stedsnavn": "",
       "organisasjon": "",
       "utdanningsniva": "Videreg\u00e5ende",
-      "score": 28.1227,
+      "score": 28.150105,
       "forste_semester": "",
       "siste_semester": "",
       "program_status": ""
@@ -549,7 +549,7 @@
       "stedsnavn": "",
       "organisasjon": "",
       "utdanningsniva": "Videreg\u00e5ende",
-      "score": 28.1227,
+      "score": 28.150105,
       "forste_semester": "",
       "siste_semester": "",
       "program_status": ""
@@ -574,7 +574,7 @@
       "stedsnavn": "",
       "organisasjon": "",
       "utdanningsniva": "Videreg\u00e5ende",
-      "score": 28.1227,
+      "score": 28.150105,
       "forste_semester": "",
       "siste_semester": "",
       "program_status": ""
@@ -599,7 +599,7 @@
       "stedsnavn": "",
       "organisasjon": "",
       "utdanningsniva": "Videreg\u00e5ende",
-      "score": 28.1227,
+      "score": 28.150105,
       "forste_semester": "",
       "siste_semester": "",
       "program_status": ""
@@ -624,7 +624,7 @@
       "stedsnavn": "",
       "organisasjon": "",
       "utdanningsniva": "Videreg\u00e5ende",
-      "score": 28.1227,
+      "score": 28.150105,
       "forste_semester": "",
       "siste_semester": "",
       "program_status": ""
@@ -649,7 +649,7 @@
       "stedsnavn": "",
       "organisasjon": "",
       "utdanningsniva": "Videreg\u00e5ende",
-      "score": 28.1227,
+      "score": 28.150105,
       "forste_semester": "",
       "siste_semester": "",
       "program_status": ""
@@ -674,7 +674,7 @@
       "stedsnavn": "",
       "organisasjon": "",
       "utdanningsniva": "Videreg\u00e5ende",
-      "score": 28.1227,
+      "score": 28.150105,
       "forste_semester": "",
       "siste_semester": "",
       "program_status": ""
@@ -699,7 +699,7 @@
       "stedsnavn": "",
       "organisasjon": "",
       "utdanningsniva": "Videreg\u00e5ende",
-      "score": 28.1227,
+      "score": 28.150105,
       "forste_semester": "",
       "siste_semester": "",
       "program_status": ""
@@ -724,7 +724,7 @@
       "stedsnavn": "",
       "organisasjon": "",
       "utdanningsniva": "Videreg\u00e5ende",
-      "score": 28.1227,
+      "score": 28.150105,
       "forste_semester": "",
       "siste_semester": "",
       "program_status": ""
@@ -749,7 +749,7 @@
       "stedsnavn": "",
       "organisasjon": "",
       "utdanningsniva": "Videreg\u00e5ende",
-      "score": 28.1227,
+      "score": 28.150105,
       "forste_semester": "",
       "siste_semester": "",
       "program_status": ""

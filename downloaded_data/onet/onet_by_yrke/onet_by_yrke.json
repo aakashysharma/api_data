@@ -7247,23 +7247,6 @@
       "barn": null
     },
     {
-      "@id": "/onet_by_yrkes/onet_y_paleontolog",
-      "@type": "Onet_by_yrke",
-      "id": "onet_y_paleontolog",
-      "uno_id": "y_paleontolog",
-      "yrke_nid": "396212",
-      "yrke_tittel": "Paleontolog",
-      "soc_kode": "19-2042.00",
-      "lonn": 0,
-      "utdniva_nus0": null,
-      "utdniva_nus4": null,
-      "utdniva_nus5": null,
-      "utdniva_nus6": null,
-      "utdniva_nus7": null,
-      "utdniva_nus8": null,
-      "barn": null
-    },
-    {
       "@id": "/onet_by_yrkes/onet_y_kurator",
       "@type": "Onet_by_yrke",
       "id": "onet_y_kurator",
@@ -9046,6 +9029,23 @@
       "utdniva_nus6": 5,
       "utdniva_nus7": 1,
       "utdniva_nus8": 0,
+      "barn": null
+    },
+    {
+      "@id": "/onet_by_yrkes/onet_y_paleontolog",
+      "@type": "Onet_by_yrke",
+      "id": "onet_y_paleontolog",
+      "uno_id": "y_paleontolog",
+      "yrke_nid": "396212",
+      "yrke_tittel": "Paleontolog",
+      "soc_kode": "19-2042.00",
+      "lonn": 0,
+      "utdniva_nus0": null,
+      "utdniva_nus4": null,
+      "utdniva_nus5": null,
+      "utdniva_nus6": null,
+      "utdniva_nus7": null,
+      "utdniva_nus8": null,
       "barn": null
     },
     {

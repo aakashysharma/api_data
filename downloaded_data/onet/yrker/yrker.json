@@ -807,8 +807,8 @@
       ],
       "programomradekode6": [
         "HSHSF1",
-        "HSHEA2",
         "HSAMB2",
+        "HSHEA2",
         "HSHEA3"
       ],
       "yrke_illustrasjon": {
@@ -1006,8 +1006,8 @@
         "TPTIP1-ELFLY2-ELAVI3-ELAVI4"
       ],
       "programomradekode6": [
-        "ELELE1",
         "TPTIP1",
+        "ELELE1",
         "ELFLY2",
         "ELAVI3",
         "ELAVI4"
@@ -1444,8 +1444,8 @@
         "ELELE1-TPKJT2-TPBMK3"
       ],
       "programomradekode6": [
-        "ELELE1",
         "TPTIP1",
+        "ELELE1",
         "TPKJT2",
         "TPBMK3"
       ],
@@ -2014,9 +2014,9 @@
       ],
       "programomradekode6": [
         "RMRMF1",
+        "RMBAK2",
         "RMKOS2",
         "RMMPR2",
-        "RMBAK2",
         "RMFVF3"
       ],
       "yrke_illustrasjon": {
@@ -2942,8 +2942,8 @@
         "TPTIP1-ELFLY2-ELFLY3-ELFMO4"
       ],
       "programomradekode6": [
-        "ELELE1",
         "TPTIP1",
+        "ELELE1",
         "ELFLY2",
         "ELFLY3",
         "ELFMO4"
@@ -4040,8 +4040,8 @@
       ],
       "programomradekode6": [
         "HSHSF1",
-        "HSHEA2",
         "HSAMB2",
+        "HSHEA2",
         "HSHEA3"
       ],
       "yrke_illustrasjon": {
@@ -4543,8 +4543,8 @@
         "ELELE1-TPPIN2-TPIME3"
       ],
       "programomradekode6": [
-        "ELELE1",
         "TPTIP1",
+        "ELELE1",
         "TPPIN2",
         "TPIME3"
       ],
@@ -4587,8 +4587,8 @@
         "ELELE1-TPPIN2-TPIRL3"
       ],
       "programomradekode6": [
-        "ELELE1",
         "TPTIP1",
+        "ELELE1",
         "TPPIN2",
         "TPIRL3"
       ],
@@ -5897,8 +5897,8 @@
         "ELELE1-TPKPL2-TPLAB3"
       ],
       "programomradekode6": [
-        "ELELE1",
         "TPTIP1",
+        "ELELE1",
         "TPKPL2",
         "TPLAB3"
       ],
@@ -6706,8 +6706,8 @@
         "ELELE1-TPMAR2-TPMTS3"
       ],
       "programomradekode6": [
-        "ELELE1",
         "TPTIP1",
+        "ELELE1",
         "TPMAR2",
         "TPMTS3"
       ],
@@ -6940,8 +6940,8 @@
         "ELELE1-TPMAR2-TPSMK3"
       ],
       "programomradekode6": [
-        "ELELE1",
         "TPTIP1",
+        "ELELE1",
         "TPMAR2",
         "TPSMK3"
       ],
@@ -6988,8 +6988,8 @@
       "programomradekode6": [
         "TPTIP1",
         "ELELE1",
-        "TPPIN2",
         "TPKJT2",
+        "TPPIN2",
         "TPMME3"
       ],
       "yrke_illustrasjon": {
@@ -7884,8 +7884,8 @@
         "ELELE1-TPPIN2-TPPLA3"
       ],
       "programomradekode6": [
-        "ELELE1",
         "TPTIP1",
+        "ELELE1",
         "TPPIN2",
         "TPPLA3"
       ],
@@ -8042,9 +8042,9 @@
       ],
       "programomradekode6": [
         "HSHSF1",
+        "HSAMB2",
         "HSHES2",
         "HSHEA2",
-        "HSAMB2",
         "HSPOR3"
       ],
       "yrke_illustrasjon": {
@@ -8244,8 +8244,8 @@
         "ELELE1-TPKPL2-TPKJP3"
       ],
       "programomradekode6": [
-        "ELELE1",
         "TPTIP1",
+        "ELELE1",
         "TPKPL2",
         "TPKJP3"
       ],
@@ -9207,8 +9207,8 @@
         "ELELE1-TPMAR2-TPMTS3"
       ],
       "programomradekode6": [
-        "ELELE1",
         "TPTIP1",
+        "ELELE1",
         "TPMAR2",
         "TPMTS3"
       ],
@@ -9869,8 +9869,8 @@
         "ELELE1-TPMAR2-TPMTS3"
       ],
       "programomradekode6": [
-        "ELELE1",
         "TPTIP1",
+        "ELELE1",
         "TPMAR2",
         "TPMTS3"
       ],
@@ -9914,8 +9914,8 @@
         "ELELE1-TPPIN2-TPSVE3"
       ],
       "programomradekode6": [
-        "ELELE1",
         "TPTIP1",
+        "ELELE1",
         "TPPIN2",
         "TPSVE3"
       ],
@@ -10427,8 +10427,8 @@
       ],
       "programomradekode6": [
         "ELELE1",
-        "ELDEL2",
         "ELELE2",
+        "ELDEL2",
         "ELTEL3"
       ],
       "yrke_illustrasjon": {
@@ -10822,8 +10822,8 @@
         "ELELE1-TPPIN2-TPVER3"
       ],
       "programomradekode6": [
-        "ELELE1",
         "TPTIP1",
+        "ELELE1",
         "TPPIN2",
         "TPVER3"
       ],
@@ -11172,8 +11172,8 @@
         "ELELE1-TPPIN2-TPFMK3"
       ],
       "programomradekode6": [
-        "ELELE1",
         "TPTIP1",
+        "ELELE1",
         "TPPIN2",
         "TPFMK3"
       ],
@@ -11472,8 +11472,8 @@
         "TPTIP1-BAANL2-BAASF3"
       ],
       "programomradekode6": [
-        "BABAT1",
         "TPTIP1",
+        "BABAT1",
         "BAANL2",
         "BAASF3"
       ],
@@ -11516,8 +11516,8 @@
         "TPTIP1-BAANL2-BABAN3"
       ],
       "programomradekode6": [
-        "BABAT1",
         "TPTIP1",
+        "BABAT1",
         "BAANL2",
         "BABAN3"
       ],
@@ -11686,8 +11686,8 @@
       "programomradekode6": [
         "TPTIP1",
         "ELELE1",
-        "TPBLK2",
         "TPKJT2",
+        "TPBLK2",
         "TPRSD3"
       ],
       "yrke_illustrasjon": {
@@ -11808,8 +11808,8 @@
         "ELELE1-TPBRT2-TPBRE3"
       ],
       "programomradekode6": [
-        "ELELE1",
         "TPTIP1",
+        "ELELE1",
         "TPBRT2",
         "TPBRE3"
       ],
@@ -12012,8 +12012,8 @@
         "ELELE1-TPKJT2-TPMSY3"
       ],
       "programomradekode6": [
-        "ELELE1",
         "TPTIP1",
+        "ELELE1",
         "TPKJT2",
         "TPMSY3"
       ],
@@ -12058,8 +12058,8 @@
         "ELELE1-TPBRT2-TPBRS3"
       ],
       "programomradekode6": [
-        "ELELE1",
         "TPTIP1",
+        "ELELE1",
         "TPBRT2",
         "TPBRS3"
       ],
@@ -12434,8 +12434,8 @@
         "TPTIP1-ELFLY2-ELFLY3-ELFSY4"
       ],
       "programomradekode6": [
-        "ELELE1",
         "TPTIP1",
+        "ELELE1",
         "ELFLY2",
         "ELFLY3",
         "ELFSY4"
@@ -12560,8 +12560,8 @@
         "ELELE1-TPBRT2-TPBOR3"
       ],
       "programomradekode6": [
-        "ELELE1",
         "TPTIP1",
+        "ELELE1",
         "TPBRT2",
         "TPBOR3"
       ],
@@ -12679,8 +12679,8 @@
         "ELELE1-TPAMK2-TPLMM3"
       ],
       "programomradekode6": [
-        "ELELE1",
         "TPTIP1",
+        "ELELE1",
         "TPAMK2",
         "TPLMM3"
       ],
@@ -12890,8 +12890,8 @@
         "ELELE1-TPKJT2-TPHJU3"
       ],
       "programomradekode6": [
-        "ELELE1",
         "TPTIP1",
+        "ELELE1",
         "TPKJT2",
         "TPHJU3"
       ],
@@ -12975,8 +12975,8 @@
         "ELELE1-TPPIN2-TPSGR3"
       ],
       "programomradekode6": [
-        "ELELE1",
         "TPTIP1",
+        "ELELE1",
         "TPPIN2",
         "TPSGR3"
       ],
@@ -13098,8 +13098,8 @@
         "ELELE1-TPPIN2-TPTSR3"
       ],
       "programomradekode6": [
-        "ELELE1",
         "TPTIP1",
+        "ELELE1",
         "TPPIN2",
         "TPTSR3"
       ],
@@ -13220,8 +13220,8 @@
         "ELELE1-TPPIN2-TPALU3"
       ],
       "programomradekode6": [
-        "ELELE1",
         "TPTIP1",
+        "ELELE1",
         "TPPIN2",
         "TPALU3"
       ],
@@ -13342,8 +13342,8 @@
         "TPTIP1-BAANL2-BAVOA3"
       ],
       "programomradekode6": [
-        "BABAT1",
         "TPTIP1",
+        "BABAT1",
         "BAANL2",
         "BAVOA3"
       ],
@@ -13734,8 +13734,8 @@
         "ELELE1-TPBRT2-TPBRH3"
       ],
       "programomradekode6": [
-        "ELELE1",
         "TPTIP1",
+        "ELELE1",
         "TPBRT2",
         "TPBRH3"
       ],
@@ -13780,8 +13780,8 @@
         "ELELE1-TPBRT2-TPBKV3"
       ],
       "programomradekode6": [
-        "ELELE1",
         "TPTIP1",
+        "ELELE1",
         "TPBRT2",
         "TPBKV3"
       ],
@@ -13826,8 +13826,8 @@
         "ELELE1-TPBRT2-TPBKO3"
       ],
       "programomradekode6": [
-        "ELELE1",
         "TPTIP1",
+        "ELELE1",
         "TPBRT2",
         "TPBKO3"
       ],
@@ -14238,8 +14238,8 @@
         "ELELE1-TPPIN2-TPCNC3"
       ],
       "programomradekode6": [
-        "ELELE1",
         "TPTIP1",
+        "ELELE1",
         "TPPIN2",
         "TPCNC3"
       ],
@@ -14359,8 +14359,8 @@
       "programomradekode6": [
         "TPTIP1",
         "ELELE1",
-        "ELELE2",
         "ELAUT2",
+        "ELELE2",
         "ELVIK3"
       ],
       "yrke_illustrasjon": {
@@ -16060,8 +16060,8 @@
         "ELELE1-TPMAR2-TPSMK3"
       ],
       "programomradekode6": [
-        "ELELE1",
         "TPTIP1",
+        "ELELE1",
         "TPMAR2",
         "TPSMK3"
       ],
@@ -16179,8 +16179,8 @@
         "ELELE1-TPPIN2-TPDKO3"
       ],
       "programomradekode6": [
-        "ELELE1",
         "TPTIP1",
+        "ELELE1",
         "TPPIN2",
         "TPDKO3"
       ],
@@ -16261,11 +16261,11 @@
         "TPTIP1-TPPIN2-RMIMP3"
       ],
       "programomradekode6": [
-        "TPTIP1",
         "RMRMF1",
+        "TPTIP1",
         "ELELE1",
-        "TPPIN2",
         "RMMPR2",
+        "TPPIN2",
         "RMIMP3"
       ],
       "yrke_illustrasjon": {
@@ -16352,8 +16352,8 @@
       "programomradekode6": [
         "TPTIP1",
         "ELELE1",
-        "TPAMK2",
         "TPKJT2",
+        "TPAMK2",
         "TPBTK3"
       ],
       "yrke_illustrasjon": {
@@ -16437,8 +16437,8 @@
         "ELELE1-TPPIN2-TPITA3"
       ],
       "programomradekode6": [
-        "ELELE1",
         "TPTIP1",
+        "ELELE1",
         "TPPIN2",
         "TPITA3"
       ],
@@ -16483,10 +16483,10 @@
       ],
       "programomradekode6": [
         "BABAT1",
-        "ELELE1",
         "TPTIP1",
-        "TPPIN2",
+        "ELELE1",
         "BATRT2",
+        "TPPIN2",
         "TPISN3"
       ],
       "yrke_illustrasjon": {
@@ -16610,8 +16610,8 @@
         "TPTIP1-ELFLY2-ELFLY3-ELFST4"
       ],
       "programomradekode6": [
-        "ELELE1",
         "TPTIP1",
+        "ELELE1",
         "ELFLY2",
         "ELFLY3",
         "ELFST4"
@@ -16654,8 +16654,8 @@
         "ELELE1-TPPIN2-TPVAF3"
       ],
       "programomradekode6": [
-        "ELELE1",
         "TPTIP1",
+        "ELELE1",
         "TPPIN2",
         "TPVAF3"
       ],
@@ -16700,8 +16700,8 @@
         "ELELE1-TPMAR2-TPSMK3"
       ],
       "programomradekode6": [
-        "ELELE1",
         "TPTIP1",
+        "ELELE1",
         "TPMAR2",
         "TPSMK3"
       ],
@@ -16747,8 +16747,8 @@
         "ELELE1-TPKPL2-TPKJP3"
       ],
       "programomradekode6": [
-        "ELELE1",
         "TPTIP1",
+        "ELELE1",
         "TPKPL2",
         "TPKJP3"
       ],
@@ -16803,44 +16803,6 @@
           "image_blur": "iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAABQUlEQVR4nAE2Acn+Adfd0vz8+7eyuT5ARSQmKf8A/wD9++nbzOXs6AkKDAIUDhELAgfr2Mzn39gBAAICAgP++fj57+j17+v++/kCl7Hd3OHpTT4wLigh9fTszcjB/P7//vj2Av4ACQoPBMjV8Qz14SwOBbTM6vjw09vJtFhhZxcOGAXixQP7KAJDM/klKCDU7gXKzNDc6AA6IxPn4+wIGS4LGjAHDx4COCEC8vvn7vPoCgT6KBT16/P6AQcO/P7/EiY2/wMFAtjP1gL+AisrKA8A7CQcAgwaGygmIgECAgIC//n2+QTj7vvs1MQwIxgqFwz50d0AERAGBgn9/PwGBQQGDw0CSUU7DxQVj5yz5Obu9/nwBgAB/fz++fb5/fv/AAAAAuDd1+Dk7O4ONO8CCeP38OHe3gwRDRMWEvv4/Pv7/J1sm3yihe+gAAAAAElFTkSuQmCC",
           "image_height": 387,
           "image_path": "https://s3.utdanning.no/hkdir-data-utdanning-no-prod/s3fs-public/styles/artikkelbilde_medium/public/yrker/flyktningkonsulent.jpg?VersionId=1&itok=Z8XiqcUi",
-          "image_width": 600
-        }
-      }
-    },
-    {
-      "@id": "/onet_by_yrkers/onet_y_paleontolog",
-      "@type": "Onet_by_yrker",
-      "id": "onet_y_paleontolog",
-      "uno_id": "y_paleontolog",
-      "yrke_nid": "396212",
-      "yrke_tittel": "Paleontolog",
-      "soc_kode": "19-2042.00",
-      "lonn": 0,
-      "yrke_summary": "En paleontolog forsker p\u00e5 bergarter, dyre- og plantefossiler.\r\n",
-      "yrke_beskrivelse_url": "/yrker/beskrivelse/paleontolog",
-      "utdanning_beskrivelse_url": null,
-      "interesser": [
-        "Forskning og innovasjon",
-        "Dyr",
-        "Natur"
-      ],
-      "programomrade_lop": null,
-      "programomrade_krysslop": null,
-      "programomradekode6": null,
-      "yrke_illustrasjon": {
-        "id": "onet_y_paleontolog_illustrasjon",
-        "image_style_original": {
-          "id": "onet_y_paleontolog_image_style_original",
-          "image_blur": "iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAABQUlEQVR4nAE2Acn+AUQ9Hz83Lh4N9ScyMvX08bi90qe02W1jPSEgG97g5wIqPVMwO03f8BjQ2fcBCBwGDh729/j89/bk5eq1u9MCWkk29ezu4NrU397h6+/8EREWBwgI8vsF+fL5Sz4iAs/X6hkfKDMlFgn+9/Ls5xIJ/ZKEZyYgKgbvCO/t+ALZ3+jf5uofM0Q6Sl8BBRMICgs5Mi/47evw8uX//v0C7unmysvNJDRJAQYHBAYH4ebw7vwK0OXdx/kS5v0RAujm5Pz68N7c1wgHCPr59TAwMvX2+svQ57zY6+f0+QL18/D29vXV08wfIigdICoeICby9AD18wQI/fQJ/vMC/v8A7fH519nZ7O3vMDlFxMnLZWlw5OjmLRH2CQEAAScyOAoKDAD68zowGwcD99jY197h8BUTDjcxHgcIDEH2pRmaq71bAAAAAElFTkSuQmCC",
-          "image_height": 3840,
-          "image_path": "https://s3.utdanning.no/hkdir-data-utdanning-no-prod/s3fs-public/styles/original/public/yrker/paleontolog_.jpg?VersionId=1&itok=Eb5to1pm",
-          "image_width": 5760
-        },
-        "image_style_artikkelbilde_medium": {
-          "id": "onet_y_paleontolog_image_style_artikkelbilde_medium",
-          "image_blur": "iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAABQUlEQVR4nAE2Acn+AT8+JlNIPBYF7h4nJvbz7ri+1aOx1HBkPRwdGdbZ4wJCTFogKDjM2wLK0u8BCyEIER/6+vr9+vnp6u3GydwERDYm49vi8OjdAgL3FhcUEhEUDQ4M8foFAvD7TD8jAs7W6hkgKTEkFwwB/PTt6g8G+5aIaiwkLAbxB+rp9gLc4und4+ceMkU5S2ACBxUJCwwvKCnx6Ofw8uUA//0C7+rmy8zOIzNF/wMDAwYF4OXv7/wJ0+feyPoS5/4SAujn5f788uDe2gcICPv69zAwMvT1+czS6LzY7Ob0+QL08u/19fTU08weHyUVFx4cHiL6/Qj08AQG/PQJ/fMC////8PP53Nzb9vj8PkhX1tvgaW115erpKA72BwAAASkzOAgJCwL780M7KQgE+8jIxNTX6hYTDD03IggKDZbyn/32iP2sAAAAAElFTkSuQmCC",
-          "image_height": 387,
-          "image_path": "https://s3.utdanning.no/hkdir-data-utdanning-no-prod/s3fs-public/styles/artikkelbilde_medium/public/yrker/paleontolog_.jpg?VersionId=1&itok=CG6hWrLj",
           "image_width": 600
         }
       }
@@ -17017,8 +16979,8 @@
         "ELELE1-TPBRT2-TPBRM3"
       ],
       "programomradekode6": [
-        "ELELE1",
         "TPTIP1",
+        "ELELE1",
         "TPBRT2",
         "TPBRM3"
       ],
@@ -17135,8 +17097,8 @@
         "ELELE1-TPMAR2-TPMTS3"
       ],
       "programomradekode6": [
-        "ELELE1",
         "TPTIP1",
+        "ELELE1",
         "TPMAR2",
         "TPMTS3"
       ],
@@ -17180,8 +17142,8 @@
       ],
       "programomradekode6": [
         "HSHSF1",
-        "HSHEA2",
         "HSAMB2",
+        "HSHEA2",
         "HSHEA3"
       ],
       "yrke_illustrasjon": {
@@ -17262,8 +17224,8 @@
         "ELELE1-TPMAR2-TPSMK3"
       ],
       "programomradekode6": [
-        "ELELE1",
         "TPTIP1",
+        "ELELE1",
         "TPMAR2",
         "TPSMK3"
       ],
@@ -17614,8 +17576,8 @@
         "ELELE1-TPPIN2-TPPOM3"
       ],
       "programomradekode6": [
-        "ELELE1",
         "TPTIP1",
+        "ELELE1",
         "TPPIN2",
         "TPPOM3"
       ],
@@ -17918,8 +17880,8 @@
         "ELELE1-TPPIN2-TPPRT3"
       ],
       "programomradekode6": [
-        "ELELE1",
         "TPTIP1",
+        "ELELE1",
         "TPPIN2",
         "TPPRT3"
       ],
@@ -17962,8 +17924,8 @@
         "ELELE1-TPPIN2-TPMOB3"
       ],
       "programomradekode6": [
-        "ELELE1",
         "TPTIP1",
+        "ELELE1",
         "TPPIN2",
         "TPMOB3"
       ],
@@ -18123,8 +18085,8 @@
         "ELELE1-TPPIN2-TPGVF3"
       ],
       "programomradekode6": [
-        "ELELE1",
         "TPTIP1",
+        "ELELE1",
         "TPPIN2",
         "TPGVF3"
       ],
@@ -18167,8 +18129,8 @@
         "ELELE1-TPPIN2-TPIOV3"
       ],
       "programomradekode6": [
-        "ELELE1",
         "TPTIP1",
+        "ELELE1",
         "TPPIN2",
         "TPIOV3"
       ],
@@ -18288,8 +18250,8 @@
         "ELELE1-TPPIN2-TPNDT3"
       ],
       "programomradekode6": [
-        "ELELE1",
         "TPTIP1",
+        "ELELE1",
         "TPPIN2",
         "TPNDT3"
       ],
@@ -18448,8 +18410,8 @@
         "ELELE1-TPPIN2-TPPLF3"
       ],
       "programomradekode6": [
-        "ELELE1",
         "TPTIP1",
+        "ELELE1",
         "TPPIN2",
         "TPPLF3"
       ],
@@ -18607,8 +18569,8 @@
         "ELELE1-TPPIN2-TPIMO3"
       ],
       "programomradekode6": [
-        "ELELE1",
         "TPTIP1",
+        "ELELE1",
         "TPPIN2",
         "TPIMO3"
       ],
@@ -18735,8 +18697,8 @@
       ],
       "programomradekode6": [
         "HSHSF1",
-        "HSHEA2",
         "HSAMB2",
+        "HSHEA2",
         "HSHEA3"
       ],
       "yrke_illustrasjon": {
@@ -18928,8 +18890,8 @@
         "ELELE1-TPPIN2-TPGPT3"
       ],
       "programomradekode6": [
-        "ELELE1",
         "TPTIP1",
+        "ELELE1",
         "TPPIN2",
         "TPGPT3"
       ],
@@ -18972,8 +18934,8 @@
       ],
       "programomradekode6": [
         "HSHSF1",
-        "HSHEA2",
         "HSAMB2",
+        "HSHEA2",
         "HSHEA3"
       ],
       "yrke_illustrasjon": {
@@ -19950,8 +19912,8 @@
         "ELELE1-TPPIN2-TPIOM3"
       ],
       "programomradekode6": [
-        "ELELE1",
         "TPTIP1",
+        "ELELE1",
         "TPPIN2",
         "TPIOM3"
       ],
@@ -20030,8 +19992,8 @@
         "TPTIP1-ELFLY2-ELAVI3-ELAVI4"
       ],
       "programomradekode6": [
-        "ELELE1",
         "TPTIP1",
+        "ELELE1",
         "ELFLY2",
         "ELAVI3",
         "ELAVI4"
@@ -20159,8 +20121,8 @@
         "TPTIP1-BAANL2-BABRO3"
       ],
       "programomradekode6": [
-        "BABAT1",
         "TPTIP1",
+        "BABAT1",
         "BAANL2",
         "BABRO3"
       ],
@@ -20243,8 +20205,8 @@
         "TPTIP1-BAANL2-BAARL3"
       ],
       "programomradekode6": [
-        "BABAT1",
         "TPTIP1",
+        "BABAT1",
         "BAANL2",
         "BAARL3"
       ],
@@ -20553,8 +20515,8 @@
         "TPTIP1-BAANL2-BAVOV3"
       ],
       "programomradekode6": [
-        "BABAT1",
         "TPTIP1",
+        "BABAT1",
         "BAANL2",
         "BAVOV3"
       ],
@@ -20640,8 +20602,8 @@
         "ELELE1-TPAMK2-TPTLM3"
       ],
       "programomradekode6": [
-        "ELELE1",
         "TPTIP1",
+        "ELELE1",
         "TPAMK2",
         "TPTLM3"
       ],
@@ -20763,15 +20725,15 @@
       ],
       "programomrade_lop": "TPTIP1-TPPIN2-TPITF3",
       "programomrade_krysslop": [
-        "ELELE1-TPPIN2-TPITF3",
-        "DTDTH1-DTSTH2-TPITF3"
+        "DTDTH1-DTSTH2-TPITF3",
+        "ELELE1-TPPIN2-TPITF3"
       ],
       "programomradekode6": [
-        "TPTIP1",
         "DTDTH1",
+        "TPTIP1",
         "ELELE1",
-        "TPPIN2",
         "DTSTH2",
+        "TPPIN2",
         "TPITF3"
       ],
       "yrke_illustrasjon": {
@@ -21019,6 +20981,44 @@
           "image_blur": "iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAABZ0lEQVR4nAXB3UrbYACA4TfJF9t1S0z/tEptpdJ2MEHGRBEvYme7jt3Fzne2+9jGTnYyCgNhMBFKV9C6TVub2R/Nl6RJmn57Hu3Du7cqTBSVjTInp6eYmSy+9DD0FAwbpZsEsUIcHx8SxxHbtSZrOYubPwOMxMNUI3LNNxRLmyxThcg9c1g9TolXChnC9/6MuhiTKpPajkEBDelLRKJnsJ0SdqXN4PKSYHjF01f7aBmLu/EYPfFZ+BLhhwsm01v+eSmd82ukkQezwNCdslnfYqdaZZUuEe7tX4qOxXqhQuB2uOj2EfGU2TykGWkcHbRIlIZYoRFGMb9+dvn4+Qsq67C94fLtx4D7wGDL1tlrttDVQrIMPbLRiHa7wYvWLo1GCy9OKRfzPMwlZ52viPef+uQsm6wBkZSUI5fwIU8aBVz9vsFaf8LZeQ/NfP5apcU99MWclzUd7a7H9QyCyT1OqUyhWmcSrfEfvR6faNrN+isAAAAASUVORK5CYII=",
           "image_height": 387,
           "image_path": "https://s3.utdanning.no/hkdir-data-utdanning-no-prod/s3fs-public/styles/artikkelbilde_medium/public/arbeidsleder%20industri.png?VersionId=1&h=00dc60bf&itok=-G5DfLir",
+          "image_width": 600
+        }
+      }
+    },
+    {
+      "@id": "/onet_by_yrkers/onet_y_paleontolog",
+      "@type": "Onet_by_yrker",
+      "id": "onet_y_paleontolog",
+      "uno_id": "y_paleontolog",
+      "yrke_nid": "396212",
+      "yrke_tittel": "Paleontolog",
+      "soc_kode": "19-2042.00",
+      "lonn": 0,
+      "yrke_summary": "En paleontolog forsker p\u00e5 bergarter, dyre- og plantefossiler.\r\n",
+      "yrke_beskrivelse_url": "/yrker/beskrivelse/paleontolog",
+      "utdanning_beskrivelse_url": null,
+      "interesser": [
+        "Forskning og innovasjon",
+        "Dyr",
+        "Natur"
+      ],
+      "programomrade_lop": null,
+      "programomrade_krysslop": null,
+      "programomradekode6": null,
+      "yrke_illustrasjon": {
+        "id": "onet_y_paleontolog_illustrasjon",
+        "image_style_original": {
+          "id": "onet_y_paleontolog_image_style_original",
+          "image_blur": "iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAABQUlEQVR4nAE2Acn+AUQ9Hz83Lh4N9ScyMvX08bi90qe02W1jPSEgG97g5wIqPVMwO03f8BjQ2fcBCBwGDh729/j89/bk5eq1u9MCWkk29ezu4NrU397h6+/8EREWBwgI8vsF+fL5Sz4iAs/X6hkfKDMlFgn+9/Ls5xIJ/ZKEZyYgKgbvCO/t+ALZ3+jf5uofM0Q6Sl8BBRMICgs5Mi/47evw8uX//v0C7unmysvNJDRJAQYHBAYH4ebw7vwK0OXdx/kS5v0RAujm5Pz68N7c1wgHCPr59TAwMvX2+svQ57zY6+f0+QL18/D29vXV08wfIigdICoeICby9AD18wQI/fQJ/vMC/v8A7fH519nZ7O3vMDlFxMnLZWlw5OjmLRH2CQEAAScyOAoKDAD68zowGwcD99jY197h8BUTDjcxHgcIDEH2pRmaq71bAAAAAElFTkSuQmCC",
+          "image_height": 3840,
+          "image_path": "https://s3.utdanning.no/hkdir-data-utdanning-no-prod/s3fs-public/styles/original/public/yrker/paleontolog_.jpg?VersionId=1&itok=Eb5to1pm",
+          "image_width": 5760
+        },
+        "image_style_artikkelbilde_medium": {
+          "id": "onet_y_paleontolog_image_style_artikkelbilde_medium",
+          "image_blur": "iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAABQUlEQVR4nAE2Acn+AT8+JlNIPBYF7h4nJvbz7ri+1aOx1HBkPRwdGdbZ4wJCTFogKDjM2wLK0u8BCyEIER/6+vr9+vnp6u3GydwERDYm49vi8OjdAgL3FhcUEhEUDQ4M8foFAvD7TD8jAs7W6hkgKTEkFwwB/PTt6g8G+5aIaiwkLAbxB+rp9gLc4und4+ceMkU5S2ACBxUJCwwvKCnx6Ofw8uUA//0C7+rmy8zOIzNF/wMDAwYF4OXv7/wJ0+feyPoS5/4SAujn5f788uDe2gcICPv69zAwMvT1+czS6LzY7Ob0+QL08u/19fTU08weHyUVFx4cHiL6/Qj08AQG/PQJ/fMC////8PP53Nzb9vj8PkhX1tvgaW115erpKA72BwAAASkzOAgJCwL780M7KQgE+8jIxNTX6hYTDD03IggKDZbyn/32iP2sAAAAAElFTkSuQmCC",
+          "image_height": 387,
+          "image_path": "https://s3.utdanning.no/hkdir-data-utdanning-no-prod/s3fs-public/styles/artikkelbilde_medium/public/yrker/paleontolog_.jpg?VersionId=1&itok=CG6hWrLj",
           "image_width": 600
         }
       }

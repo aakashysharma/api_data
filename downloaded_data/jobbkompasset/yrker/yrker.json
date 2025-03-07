@@ -112,28 +112,6 @@
       "sammenligning_id": "y_isolator"
     },
     {
-      "@id": "/yrkers/Jordmor",
-      "@type": "Yrker",
-      "id": "Jordmor",
-      "temaer": [
-        "Mennesker, helse, mat og natur"
-      ],
-      "kategorier": [
-        "Helse og velv\u00e6re",
-        "Mennesker"
-      ],
-      "interesser": [
-        "Helse",
-        "Pleie"
-      ],
-      "entity_id": 395851,
-      "tittel": "Jordmor",
-      "url": "/yrker/beskrivelse/jordmor",
-      "ingress": "En jordmor f\u00f8lger den gravide kvinnen under svangerskap, f\u00f8dsel og barseltid. Jordmoren tar ogs\u00e5 livmorhalspr\u00f8ver, utf\u00f8rer veiledning i forbindelse med familieplanlegging og har samtaler i forkant av- og oppf\u00f8lgning etter abort.\r\n",
-      "bilde": "https://s3.utdanning.no/hkdir-data-utdanning-no-prod/s3fs-public/styles/magasin/public/yrker/sza73e28.jpg?VersionId=1&h=c7e29c4e&itok=BbhsNjkB",
-      "sammenligning_id": "y_jordmor"
-    },
-    {
       "@id": "/yrkers/Jurist",
       "@type": "Yrker",
       "id": "Jurist",
@@ -1724,28 +1702,6 @@
       "sammenligning_id": "y_heismontor"
     },
     {
-      "@id": "/yrkers/Helsesykepleier",
-      "@type": "Yrker",
-      "id": "Helsesykepleier",
-      "temaer": [
-        "Mennesker, helse, mat og natur"
-      ],
-      "kategorier": [
-        "Helse og velv\u00e6re",
-        "Mennesker"
-      ],
-      "interesser": [
-        "Helse",
-        "Pleie"
-      ],
-      "entity_id": 395824,
-      "tittel": "Helsesykepleier",
-      "url": "/yrker/beskrivelse/helsesykepleier",
-      "ingress": "Som helsesykepleier gj\u00f8r du et viktig arbeid med \u00e5 ta vare p\u00e5 barn og unges helhetlige helse. ",
-      "bilde": "https://s3.utdanning.no/hkdir-data-utdanning-no-prod/s3fs-public/styles/magasin/public/yrker/helsesoster.jpg?VersionId=1&h=91a7e5b4&itok=1A85F3eF",
-      "sammenligning_id": "y_helsesoster"
-    },
-    {
       "@id": "/yrkers/HMS-ingeni%C3%B8r",
       "@type": "Yrker",
       "id": "HMS-ingeni\u00f8r",
@@ -2180,32 +2136,6 @@
       "ingress": "Advokater gir juridiske r\u00e5d, forhandler p\u00e5 vegne av klienter, og f\u00f8rer saker for retten.\r\n",
       "bilde": "https://s3.utdanning.no/hkdir-data-utdanning-no-prod/s3fs-public/styles/magasin/public/yrker/advokat_1.jpg?VersionId=1&itok=SYRiSxsp",
       "sammenligning_id": "y_advokat"
-    },
-    {
-      "@id": "/yrkers/Sosialantropolog",
-      "@type": "Yrker",
-      "id": "Sosialantropolog",
-      "temaer": [
-        "Design, kultur, sport og reiseliv",
-        "Mennesker, helse, mat og natur",
-        "Teknologi, samfunn, handel og \u00f8konomi"
-      ],
-      "kategorier": [
-        "Forskning og teknologi",
-        "Mennesker",
-        "Reiseliv og utland",
-        "Samfunn og forvaltning"
-      ],
-      "interesser": [
-        "Samfunn",
-        "Undervisning"
-      ],
-      "entity_id": 395987,
-      "tittel": "Sosialantropolog",
-      "url": "/yrker/beskrivelse/sosialantropolog",
-      "ingress": "En sosialantropolog studerer hvordan mennesker lever, organiserer seg og uttrykker sin kultur i ulike samfunn.",
-      "bilde": "https://s3.utdanning.no/hkdir-data-utdanning-no-prod/s3fs-public/styles/magasin/public/COLOURBOX1661622.jpg?VersionId=1&itok=tRBX2dH5",
-      "sammenligning_id": "y_sosialantropolog"
     },
     {
       "@id": "/yrkers/Spesialpedagog",
@@ -4710,27 +4640,6 @@
       "sammenligning_id": "y_nevrosykepleier"
     },
     {
-      "@id": "/yrkers/Samfunnsgeograf",
-      "@type": "Yrker",
-      "id": "Samfunnsgeograf",
-      "temaer": [
-        "Teknologi, samfunn, handel og \u00f8konomi"
-      ],
-      "kategorier": [
-        "Forskning og teknologi",
-        "Samfunn og forvaltning"
-      ],
-      "interesser": [
-        "Samfunn"
-      ],
-      "entity_id": 396158,
-      "tittel": "Samfunnsgeograf",
-      "url": "/yrker/beskrivelse/samfunnsgeograf",
-      "ingress": "Som samfunnsgeograf har du kunnskap om hvordan og hvorfor byer, steder og regioner formes og endres.  ",
-      "bilde": "https://s3.utdanning.no/hkdir-data-utdanning-no-prod/s3fs-public/styles/magasin/public/yrker/samfunnsgeograf_1.jpg?VersionId=1&h=84e1feae&itok=q0MbC7Mj",
-      "sammenligning_id": "y_samfunnsgeograf"
-    },
-    {
       "@id": "/yrkers/Kreftsykepleier",
       "@type": "Yrker",
       "id": "Kreftsykepleier",
@@ -5202,31 +5111,6 @@
       "sammenligning_id": "y_oseanograf"
     },
     {
-      "@id": "/yrkers/Litteraturviter",
-      "@type": "Yrker",
-      "id": "Litteraturviter",
-      "temaer": [
-        "Design, kultur, sport og reiseliv",
-        "Teknologi, samfunn, handel og \u00f8konomi"
-      ],
-      "kategorier": [
-        "Film, teater og musikk",
-        "Forskning og teknologi",
-        "Kultur og idrett",
-        "Medier, spr\u00e5k og kommunikasjon"
-      ],
-      "interesser": [
-        "Forskning",
-        "Kultur"
-      ],
-      "entity_id": 396095,
-      "tittel": "Litteraturviter",
-      "url": "/yrker/beskrivelse/litteraturviter",
-      "ingress": "En litteraturviter har studert litteraturvitenskap, som er studiet av litter\u00e6re tekster. Litteraturvitenskap har spesiell vekt p\u00e5 skj\u00f8nnlitteratur.",
-      "bilde": "https://s3.utdanning.no/hkdir-data-utdanning-no-prod/s3fs-public/styles/magasin/public/yrker/litteraturviter.jpg?VersionId=1&h=e366ea71&itok=yYEduw03",
-      "sammenligning_id": "y_litteraturviter"
-    },
-    {
       "@id": "/yrkers/Gravferdskonsulent",
       "@type": "Yrker",
       "id": "Gravferdskonsulent",
@@ -5356,26 +5240,6 @@
       "ingress": "Som fotballdommer s\u00f8rger du for at fotballkamper gjennomf\u00f8res i henhold til regelverket. \r\n",
       "bilde": "https://s3.utdanning.no/hkdir-data-utdanning-no-prod/s3fs-public/styles/magasin/public/Fotballdommer_2_v2.jpg?VersionId=1&itok=Ldr-y-f4",
       "sammenligning_id": "y_fotballdommer"
-    },
-    {
-      "@id": "/yrkers/Sportsdommer",
-      "@type": "Yrker",
-      "id": "Sportsdommer",
-      "temaer": [
-        "Design, kultur, sport og reiseliv"
-      ],
-      "kategorier": [
-        "Kultur og idrett"
-      ],
-      "interesser": [
-        "Idrett"
-      ],
-      "entity_id": 396110,
-      "tittel": "Sportsdommer",
-      "url": "/yrker/beskrivelse/sportsdommer",
-      "ingress": "Som sportsdommer ser du til at idrettskamper og konkurranser gjennomf\u00f8res etter regelverket. \r\n",
-      "bilde": "https://s3.utdanning.no/hkdir-data-utdanning-no-prod/s3fs-public/styles/magasin/public/yrker/sportsdommer_0.jpg?VersionId=1&itok=tvo2ZFDV",
-      "sammenligning_id": "y_sportsdommer"
     },
     {
       "@id": "/yrkers/Teknisk_forfatter",
@@ -7240,31 +7104,6 @@
       "sammenligning_id": "y_geograf"
     },
     {
-      "@id": "/yrkers/Statsviter",
-      "@type": "Yrker",
-      "id": "Statsviter",
-      "temaer": [
-        "Industri, elektronikk, transport og sikkerhet",
-        "Teknologi, samfunn, handel og \u00f8konomi"
-      ],
-      "kategorier": [
-        "Forskning og teknologi",
-        "Olje, gass og energi",
-        "Samfunn og forvaltning",
-        "\u00d8konomi, kontor og administrasjon"
-      ],
-      "interesser": [
-        "Samfunn",
-        "Service"
-      ],
-      "entity_id": 395993,
-      "tittel": "Statsviter",
-      "url": "/yrker/beskrivelse/statsviter",
-      "ingress": "En statsviter forst\u00e5r hvordan samfunnet styres politisk, og hvordan folk deltar i politikken.",
-      "bilde": "https://s3.utdanning.no/hkdir-data-utdanning-no-prod/s3fs-public/styles/magasin/public/yrker/statsviter_web.png?VersionId=1&itok=wXQWXfhL",
-      "sammenligning_id": "y_statsviter"
-    },
-    {
       "@id": "/yrkers/Arkeolog",
       "@type": "Yrker",
       "id": "Arkeolog",
@@ -7288,28 +7127,6 @@
       "ingress": "Arkeologer unders\u00f8ker gjenstander og spor fra gamle og nye samfunn.",
       "bilde": "https://s3.utdanning.no/hkdir-data-utdanning-no-prod/s3fs-public/styles/magasin/public/yrker/arkeolog_0.jpg?VersionId=1&h=d9d941b8&itok=pkTTdW0M",
       "sammenligning_id": "y_arkeolog"
-    },
-    {
-      "@id": "/yrkers/Kriminolog",
-      "@type": "Yrker",
-      "id": "Kriminolog",
-      "temaer": [
-        "Teknologi, samfunn, handel og \u00f8konomi"
-      ],
-      "kategorier": [
-        "Forskning og teknologi",
-        "Samfunn og forvaltning"
-      ],
-      "interesser": [
-        "Lov og orden",
-        "Samfunn"
-      ],
-      "entity_id": 395876,
-      "tittel": "Kriminolog",
-      "url": "/yrker/beskrivelse/kriminolog",
-      "ingress": "Kriminologer jobber med \u00e5 forst\u00e5 forholdet mellom kriminalitet og samfunn. ",
-      "bilde": "https://s3.utdanning.no/hkdir-data-utdanning-no-prod/s3fs-public/styles/magasin/public/yrker/kriminolog.jpg?VersionId=1&h=f9f61c62&itok=Ip6ZBXd_",
-      "sammenligning_id": "y_kriminolog"
     },
     {
       "@id": "/yrkers/Politibetjent",
@@ -7393,53 +7210,6 @@
       "ingress": "En automatiker monterer og vedlikeholder robot-, styre- og reguleringssystemer i industrielle og automatiserte anlegg.",
       "bilde": "https://s3.utdanning.no/hkdir-data-utdanning-no-prod/s3fs-public/styles/magasin/public/yrker/automatiker_0.jpg?VersionId=1&h=d7fffc64&itok=mnRmajsS",
       "sammenligning_id": "y_automatiker"
-    },
-    {
-      "@id": "/yrkers/Filolog",
-      "@type": "Yrker",
-      "id": "Filolog",
-      "temaer": [
-        "Design, kultur, sport og reiseliv",
-        "Teknologi, samfunn, handel og \u00f8konomi"
-      ],
-      "kategorier": [
-        "Forskning og teknologi",
-        "Medier, spr\u00e5k og kommunikasjon"
-      ],
-      "interesser": [
-        "Forskning",
-        "Spr\u00e5k"
-      ],
-      "entity_id": 396094,
-      "tittel": "Filolog",
-      "url": "/yrker/beskrivelse/filolog",
-      "ingress": "En filolog studerer spr\u00e5k, litteratur og kultur med fokus p\u00e5 historie, spesielt eldre tekster i originalspr\u00e5ket.",
-      "bilde": "https://s3.utdanning.no/hkdir-data-utdanning-no-prod/s3fs-public/styles/magasin/public/yrker/filiolog_02_edit.jpg?VersionId=1&itok=eStT8Y7b",
-      "sammenligning_id": "y_filolog"
-    },
-    {
-      "@id": "/yrkers/Sosiolog",
-      "@type": "Yrker",
-      "id": "Sosiolog",
-      "temaer": [
-        "Mennesker, helse, mat og natur",
-        "Teknologi, samfunn, handel og \u00f8konomi"
-      ],
-      "kategorier": [
-        "Forskning og teknologi",
-        "Mennesker",
-        "Samfunn og forvaltning"
-      ],
-      "interesser": [
-        "Samfunn",
-        "Undervisning"
-      ],
-      "entity_id": 395988,
-      "tittel": "Sosiolog",
-      "url": "/yrker/beskrivelse/sosiolog",
-      "ingress": "Sosiologen har kunnskap om mennesket som individ og mennesket som en del av en gruppe, og bruker dette til \u00e5 forst\u00e5 hvordan mennesker fungerer sammen.",
-      "bilde": "https://s3.utdanning.no/hkdir-data-utdanning-no-prod/s3fs-public/styles/magasin/public/yrker/sosiolog.jpg?VersionId=1&h=4a49df8a&itok=WJ02prJv",
-      "sammenligning_id": "y_sosiolog"
     },
     {
       "@id": "/yrkers/Kondukt%C3%B8r",
@@ -8043,26 +7813,6 @@
       "ingress": "Som anleggsr\u00f8rlegger jobber du med \u00e5 lage og vedlikeholde infrastruktur for vann, avl\u00f8p og overvann p\u00e5 anleggsprosjekt. ",
       "bilde": "https://s3.utdanning.no/hkdir-data-utdanning-no-prod/s3fs-public/styles/magasin/public/anleggsrorlegger.png?VersionId=1&itok=jKKfEGnw",
       "sammenligning_id": "y_anleggsrorlegger"
-    },
-    {
-      "@id": "/yrkers/Fagoperat%C3%B8r_i_grafisk_produksjonsteknikk",
-      "@type": "Yrker",
-      "id": "Fagoperat\u00f8r_i_grafisk_produksjonsteknikk",
-      "temaer": [
-        "Design, kultur, sport og reiseliv"
-      ],
-      "kategorier": [
-        "Design, kunst og h\u00e5ndverk"
-      ],
-      "interesser": [
-        "H\u00e5ndverk"
-      ],
-      "entity_id": 3962519,
-      "tittel": "Fagoperat\u00f8r i grafisk produksjonsteknikk",
-      "url": "/yrker/beskrivelse/fagoperator_i_grafisk_produksjonsteknikk",
-      "ingress": "Som fagoperat\u00f8r i grafisk produksjonsteknikk produserer du ulike grafiske produkter. \r\n",
-      "bilde": "https://s3.utdanning.no/hkdir-data-utdanning-no-prod/s3fs-public/styles/magasin/public/MAG_-6.jpg?VersionId=1&itok=v0skdzhD",
-      "sammenligning_id": "y_grafisk"
     },
     {
       "@id": "/yrkers/Br%C3%B8nnborer_fastland",
@@ -12020,29 +11770,6 @@
       "sammenligning_id": "y_aktivitor"
     },
     {
-      "@id": "/yrkers/Helsesekret%C3%A6r",
-      "@type": "Yrker",
-      "id": "Helsesekret\u00e6r",
-      "temaer": [
-        "Mennesker, helse, mat og natur",
-        "Teknologi, samfunn, handel og \u00f8konomi"
-      ],
-      "kategorier": [
-        "Mennesker",
-        "\u00d8konomi, kontor og administrasjon"
-      ],
-      "interesser": [
-        "Helse",
-        "Service"
-      ],
-      "entity_id": 395823,
-      "tittel": "Helsesekret\u00e6r",
-      "url": "/yrker/beskrivelse/helsesekretaer",
-      "ingress": "Som helsesekret\u00e6r har du en kontorfaglig og medisinskteknisk utdanning tilpasset helsetjenesten.\r\n",
-      "bilde": "https://s3.utdanning.no/hkdir-data-utdanning-no-prod/s3fs-public/styles/magasin/public/yrker/helsesekretaer_2.jpg?VersionId=1&h=01937350&itok=6K7ZZcYX",
-      "sammenligning_id": "y_helsesekretar"
-    },
-    {
       "@id": "/yrkers/Petroleumsingeni%C3%B8r",
       "@type": "Yrker",
       "id": "Petroleumsingeni\u00f8r",
@@ -12104,25 +11831,69 @@
       "sammenligning_id": "y_arbeidsleder_industr"
     },
     {
-      "@id": "/yrkers/Trikkef%C3%B8rer_",
+      "@id": "/yrkers/Systemutvikler",
       "@type": "Yrker",
-      "id": "Trikkef\u00f8rer_",
+      "id": "Systemutvikler",
       "temaer": [
-        "Industri, elektronikk, transport og sikkerhet"
+        "Teknologi, samfunn, handel og \u00f8konomi"
       ],
       "kategorier": [
-        "Forsvar og sikkerhet",
-        "Transport og sj\u00f8fart"
+        "Data og it"
       ],
       "interesser": [
-        "Transport"
+        "Data"
       ],
-      "entity_id": 396172,
-      "tittel": "Trikkef\u00f8rer ",
-      "url": "/yrker/beskrivelse/trikkeforer",
-      "ingress": "En trikkef\u00f8rer kj\u00f8rer trikk og frakter passasjerer langs oppsatte ruter og spor.\r\n",
-      "bilde": "https://s3.utdanning.no/hkdir-data-utdanning-no-prod/s3fs-public/styles/magasin/public/yrker/142027138_2_trikkeforer_.jpg?VersionId=1&h=ac663eb0&itok=oyqi1aXx",
-      "sammenligning_id": "y_trikkeforer"
+      "entity_id": 3962570,
+      "tittel": "Systemutvikler",
+      "url": "/yrker/beskrivelse/systemutvikler",
+      "ingress": "En systemutvikler arbeider med \u00e5 designe, utvikle og vedlikeholde programvare og IT-l\u00f8sninger som m\u00f8ter behovene til bedrifter, offentlig sektor eller privatpersoner.",
+      "bilde": "https://s3.utdanning.no/hkdir-data-utdanning-no-prod/s3fs-public/styles/magasin/public/yrker/systemutvikler.png?VersionId=1&itok=QwsslrTM",
+      "sammenligning_id": "y_systemutvikler"
+    },
+    {
+      "@id": "/yrkers/Helsesekret%C3%A6r",
+      "@type": "Yrker",
+      "id": "Helsesekret\u00e6r",
+      "temaer": [
+        "Mennesker, helse, mat og natur",
+        "Teknologi, samfunn, handel og \u00f8konomi"
+      ],
+      "kategorier": [
+        "Mennesker",
+        "\u00d8konomi, kontor og administrasjon"
+      ],
+      "interesser": [
+        "Helse",
+        "Service"
+      ],
+      "entity_id": 395823,
+      "tittel": "Helsesekret\u00e6r",
+      "url": "/yrker/beskrivelse/helsesekretaer",
+      "ingress": "Som helsesekret\u00e6r har du en kontorfaglig og medisinskteknisk utdanning tilpasset helsetjenesten.\r\n",
+      "bilde": "https://s3.utdanning.no/hkdir-data-utdanning-no-prod/s3fs-public/styles/magasin/public/yrker/helsesekretaer_2.jpg?VersionId=1&h=01937350&itok=6K7ZZcYX",
+      "sammenligning_id": "y_helsesekretar"
+    },
+    {
+      "@id": "/yrkers/Helsesykepleier",
+      "@type": "Yrker",
+      "id": "Helsesykepleier",
+      "temaer": [
+        "Mennesker, helse, mat og natur"
+      ],
+      "kategorier": [
+        "Helse og velv\u00e6re",
+        "Mennesker"
+      ],
+      "interesser": [
+        "Helse",
+        "Pleie"
+      ],
+      "entity_id": 395824,
+      "tittel": "Helsesykepleier",
+      "url": "/yrker/beskrivelse/helsesykepleier",
+      "ingress": "Som helsesykepleier gj\u00f8r du et viktig arbeid med \u00e5 ta vare p\u00e5 barn og unges helhetlige helse. ",
+      "bilde": "https://s3.utdanning.no/hkdir-data-utdanning-no-prod/s3fs-public/styles/magasin/public/yrker/helsesoster.jpg?VersionId=1&h=91a7e5b4&itok=1A85F3eF",
+      "sammenligning_id": "y_helsesoster"
     },
     {
       "@id": "/yrkers/Strikkeh%C3%A5ndverker",
@@ -12145,24 +11916,253 @@
       "sammenligning_id": "y_strikkehandverker"
     },
     {
-      "@id": "/yrkers/Systemutvikler",
+      "@id": "/yrkers/Trikkef%C3%B8rer_",
       "@type": "Yrker",
-      "id": "Systemutvikler",
+      "id": "Trikkef\u00f8rer_",
+      "temaer": [
+        "Industri, elektronikk, transport og sikkerhet"
+      ],
+      "kategorier": [
+        "Forsvar og sikkerhet",
+        "Transport og sj\u00f8fart"
+      ],
+      "interesser": [
+        "Transport"
+      ],
+      "entity_id": 396172,
+      "tittel": "Trikkef\u00f8rer ",
+      "url": "/yrker/beskrivelse/trikkeforer",
+      "ingress": "En trikkef\u00f8rer kj\u00f8rer trikk og frakter passasjerer langs oppsatte ruter og spor.\r\n",
+      "bilde": "https://s3.utdanning.no/hkdir-data-utdanning-no-prod/s3fs-public/styles/magasin/public/yrker/142027138_2_trikkeforer_.jpg?VersionId=1&h=ac663eb0&itok=oyqi1aXx",
+      "sammenligning_id": "y_trikkeforer"
+    },
+    {
+      "@id": "/yrkers/Fagoperat%C3%B8r_i_grafisk_produksjonsteknikk",
+      "@type": "Yrker",
+      "id": "Fagoperat\u00f8r_i_grafisk_produksjonsteknikk",
+      "temaer": [
+        "Design, kultur, sport og reiseliv"
+      ],
+      "kategorier": [
+        "Design, kunst og h\u00e5ndverk"
+      ],
+      "interesser": [
+        "H\u00e5ndverk"
+      ],
+      "entity_id": 3962519,
+      "tittel": "Fagoperat\u00f8r i grafisk produksjonsteknikk",
+      "url": "/yrker/beskrivelse/fagoperator_i_grafisk_produksjonsteknikk",
+      "ingress": "Som fagoperat\u00f8r i grafisk produksjonsteknikk produserer du ulike grafiske produkter. \r\n",
+      "bilde": "https://s3.utdanning.no/hkdir-data-utdanning-no-prod/s3fs-public/styles/magasin/public/MAG_-6.jpg?VersionId=1&itok=v0skdzhD",
+      "sammenligning_id": "y_grafisk"
+    },
+    {
+      "@id": "/yrkers/Jordmor",
+      "@type": "Yrker",
+      "id": "Jordmor",
+      "temaer": [
+        "Mennesker, helse, mat og natur"
+      ],
+      "kategorier": [
+        "Helse og velv\u00e6re",
+        "Mennesker"
+      ],
+      "interesser": [
+        "Helse",
+        "Pleie"
+      ],
+      "entity_id": 395851,
+      "tittel": "Jordmor",
+      "url": "/yrker/beskrivelse/jordmor",
+      "ingress": "En jordmor f\u00f8lger den gravide kvinnen under svangerskap, f\u00f8dsel og barseltid. Jordmoren tar ogs\u00e5 livmorhalspr\u00f8ver, utf\u00f8rer veiledning i forbindelse med familieplanlegging og har samtaler i forkant av- og oppf\u00f8lgning etter abort.\r\n",
+      "bilde": "https://s3.utdanning.no/hkdir-data-utdanning-no-prod/s3fs-public/styles/magasin/public/yrker/sza73e28.jpg?VersionId=1&h=c7e29c4e&itok=BbhsNjkB",
+      "sammenligning_id": "y_jordmor"
+    },
+    {
+      "@id": "/yrkers/Samfunnsgeograf",
+      "@type": "Yrker",
+      "id": "Samfunnsgeograf",
       "temaer": [
         "Teknologi, samfunn, handel og \u00f8konomi"
       ],
       "kategorier": [
-        "Data og it"
+        "Forskning og teknologi",
+        "Samfunn og forvaltning"
       ],
       "interesser": [
-        "Data"
+        "Samfunn"
       ],
-      "entity_id": 3962570,
-      "tittel": "Systemutvikler",
-      "url": "/yrker/beskrivelse/systemutvikler",
-      "ingress": "En systemutvikler arbeider med \u00e5 designe, utvikle og vedlikeholde programvare og IT-l\u00f8sninger som m\u00f8ter behovene til bedrifter, offentlig sektor eller privatpersoner.",
-      "bilde": "https://s3.utdanning.no/hkdir-data-utdanning-no-prod/s3fs-public/styles/magasin/public/yrker/systemutvikler.png?VersionId=1&itok=QwsslrTM",
-      "sammenligning_id": "y_systemutvikler"
+      "entity_id": 396158,
+      "tittel": "Samfunnsgeograf",
+      "url": "/yrker/beskrivelse/samfunnsgeograf",
+      "ingress": "Som samfunnsgeograf har du kunnskap om hvordan og hvorfor byer, steder og regioner formes og endres.  ",
+      "bilde": "https://s3.utdanning.no/hkdir-data-utdanning-no-prod/s3fs-public/styles/magasin/public/yrker/samfunnsgeograf_1.jpg?VersionId=1&h=84e1feae&itok=q0MbC7Mj",
+      "sammenligning_id": "y_samfunnsgeograf"
+    },
+    {
+      "@id": "/yrkers/Statsviter",
+      "@type": "Yrker",
+      "id": "Statsviter",
+      "temaer": [
+        "Industri, elektronikk, transport og sikkerhet",
+        "Teknologi, samfunn, handel og \u00f8konomi"
+      ],
+      "kategorier": [
+        "Forskning og teknologi",
+        "Olje, gass og energi",
+        "Samfunn og forvaltning",
+        "\u00d8konomi, kontor og administrasjon"
+      ],
+      "interesser": [
+        "Samfunn",
+        "Service"
+      ],
+      "entity_id": 395993,
+      "tittel": "Statsviter",
+      "url": "/yrker/beskrivelse/statsviter",
+      "ingress": "En statsviter forst\u00e5r hvordan samfunnet styres politisk, og hvordan folk deltar i politikken.",
+      "bilde": "https://s3.utdanning.no/hkdir-data-utdanning-no-prod/s3fs-public/styles/magasin/public/yrker/statsviter_web.png?VersionId=1&itok=wXQWXfhL",
+      "sammenligning_id": "y_statsviter"
+    },
+    {
+      "@id": "/yrkers/Sosiolog",
+      "@type": "Yrker",
+      "id": "Sosiolog",
+      "temaer": [
+        "Mennesker, helse, mat og natur",
+        "Teknologi, samfunn, handel og \u00f8konomi"
+      ],
+      "kategorier": [
+        "Forskning og teknologi",
+        "Mennesker",
+        "Samfunn og forvaltning"
+      ],
+      "interesser": [
+        "Samfunn",
+        "Undervisning"
+      ],
+      "entity_id": 395988,
+      "tittel": "Sosiolog",
+      "url": "/yrker/beskrivelse/sosiolog",
+      "ingress": "Sosiologen har kunnskap om mennesket som individ og mennesket som en del av en gruppe, og bruker dette til \u00e5 forst\u00e5 hvordan mennesker fungerer sammen.",
+      "bilde": "https://s3.utdanning.no/hkdir-data-utdanning-no-prod/s3fs-public/styles/magasin/public/yrker/sosiolog.jpg?VersionId=1&h=4a49df8a&itok=WJ02prJv",
+      "sammenligning_id": "y_sosiolog"
+    },
+    {
+      "@id": "/yrkers/Sosialantropolog",
+      "@type": "Yrker",
+      "id": "Sosialantropolog",
+      "temaer": [
+        "Design, kultur, sport og reiseliv",
+        "Mennesker, helse, mat og natur",
+        "Teknologi, samfunn, handel og \u00f8konomi"
+      ],
+      "kategorier": [
+        "Forskning og teknologi",
+        "Mennesker",
+        "Reiseliv og utland",
+        "Samfunn og forvaltning"
+      ],
+      "interesser": [
+        "Samfunn",
+        "Undervisning"
+      ],
+      "entity_id": 395987,
+      "tittel": "Sosialantropolog",
+      "url": "/yrker/beskrivelse/sosialantropolog",
+      "ingress": "En sosialantropolog studerer hvordan mennesker lever, organiserer seg og uttrykker sin kultur i ulike samfunn.",
+      "bilde": "https://s3.utdanning.no/hkdir-data-utdanning-no-prod/s3fs-public/styles/magasin/public/COLOURBOX1661622.jpg?VersionId=1&itok=tRBX2dH5",
+      "sammenligning_id": "y_sosialantropolog"
+    },
+    {
+      "@id": "/yrkers/Filolog",
+      "@type": "Yrker",
+      "id": "Filolog",
+      "temaer": [
+        "Design, kultur, sport og reiseliv",
+        "Teknologi, samfunn, handel og \u00f8konomi"
+      ],
+      "kategorier": [
+        "Forskning og teknologi",
+        "Medier, spr\u00e5k og kommunikasjon"
+      ],
+      "interesser": [
+        "Forskning",
+        "Spr\u00e5k"
+      ],
+      "entity_id": 396094,
+      "tittel": "Filolog",
+      "url": "/yrker/beskrivelse/filolog",
+      "ingress": "En filolog studerer spr\u00e5k, litteratur og kultur med fokus p\u00e5 historie, spesielt eldre tekster i originalspr\u00e5ket.",
+      "bilde": "https://s3.utdanning.no/hkdir-data-utdanning-no-prod/s3fs-public/styles/magasin/public/yrker/filiolog_02_edit.jpg?VersionId=1&itok=eStT8Y7b",
+      "sammenligning_id": "y_filolog"
+    },
+    {
+      "@id": "/yrkers/Sportsdommer",
+      "@type": "Yrker",
+      "id": "Sportsdommer",
+      "temaer": [
+        "Design, kultur, sport og reiseliv"
+      ],
+      "kategorier": [
+        "Kultur og idrett"
+      ],
+      "interesser": [
+        "Idrett"
+      ],
+      "entity_id": 396110,
+      "tittel": "Sportsdommer",
+      "url": "/yrker/beskrivelse/sportsdommer",
+      "ingress": "Som sportsdommer ser du til at idrettskamper og konkurranser gjennomf\u00f8res etter regelverket. \r\n",
+      "bilde": "https://s3.utdanning.no/hkdir-data-utdanning-no-prod/s3fs-public/styles/magasin/public/yrker/sportsdommer_0.jpg?VersionId=1&itok=tvo2ZFDV",
+      "sammenligning_id": "y_sportsdommer"
+    },
+    {
+      "@id": "/yrkers/Litteraturviter",
+      "@type": "Yrker",
+      "id": "Litteraturviter",
+      "temaer": [
+        "Design, kultur, sport og reiseliv",
+        "Teknologi, samfunn, handel og \u00f8konomi"
+      ],
+      "kategorier": [
+        "Film, teater og musikk",
+        "Forskning og teknologi",
+        "Kultur og idrett",
+        "Medier, spr\u00e5k og kommunikasjon"
+      ],
+      "interesser": [
+        "Forskning",
+        "Kultur"
+      ],
+      "entity_id": 396095,
+      "tittel": "Litteraturviter",
+      "url": "/yrker/beskrivelse/litteraturviter",
+      "ingress": "En litteraturviter har studert litteraturvitenskap, som er studiet av litter\u00e6re tekster. Litteraturvitenskap har spesiell vekt p\u00e5 skj\u00f8nnlitteratur.",
+      "bilde": "https://s3.utdanning.no/hkdir-data-utdanning-no-prod/s3fs-public/styles/magasin/public/yrker/litteraturviter.jpg?VersionId=1&h=e366ea71&itok=yYEduw03",
+      "sammenligning_id": "y_litteraturviter"
+    },
+    {
+      "@id": "/yrkers/Kriminolog",
+      "@type": "Yrker",
+      "id": "Kriminolog",
+      "temaer": [
+        "Teknologi, samfunn, handel og \u00f8konomi"
+      ],
+      "kategorier": [
+        "Forskning og teknologi",
+        "Samfunn og forvaltning"
+      ],
+      "interesser": [
+        "Lov og orden",
+        "Samfunn"
+      ],
+      "entity_id": 395876,
+      "tittel": "Kriminolog",
+      "url": "/yrker/beskrivelse/kriminolog",
+      "ingress": "Kriminologer jobber med \u00e5 forst\u00e5 forholdet mellom kriminalitet og samfunn. ",
+      "bilde": "https://s3.utdanning.no/hkdir-data-utdanning-no-prod/s3fs-public/styles/magasin/public/yrker/kriminolog.jpg?VersionId=1&h=f9f61c62&itok=Ip6ZBXd_",
+      "sammenligning_id": "y_kriminolog"
     }
   ],
   "hydra:search": {
